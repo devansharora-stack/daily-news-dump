@@ -1,0 +1,21 @@
+{
+  "name": "daily-updates",
+  "version": "1.0.0",
+  "description": "AI Content Intelligence Pipeline — automated daily digest of AI + business stories",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "fetch": "node src/index.js --step=fetch",
+    "curate": "node src/index.js --step=curate",
+    "publish": "node src/index.js --step=publish",
+    "dry-run": "node src/index.js --dry-run"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "rss-parser": "^3.13.0",
+    "cheerio": "^1.0.0",
+    "p-limit": "^6.2.0",
+    "winston": "^3.17.0",
+    "puppeteer": "^24.0.0"
+  }
+}

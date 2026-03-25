@@ -1,0 +1,33 @@
+{
+  "rss": [
+    { "name": "Hacker News (Top)", "url": "https://hnrss.org/newest?points=50&q=AI+OR+artificial+intelligence+OR+LLM+OR+GPT+OR+machine+learning" },
+    { "name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/" },
+    { "name": "VentureBeat AI", "url": "https://venturebeat.com/category/ai/feed/" },
+    { "name": "MIT Technology Review", "url": "https://www.technologyreview.com/feed/" },
+    { "name": "The Verge AI", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml" },
+    { "name": "Wired AI", "url": "https://www.wired.com/feed/tag/ai/latest/rss" },
+    { "name": "Reuters Technology", "url": "https://www.reutersagency.com/feed/?taxonomy=best-topics&post_type=best" },
+    { "name": "Anthropic Blog", "url": "https://www.anthropic.com/feed.xml" },
+    { "name": "OpenAI Blog", "url": "https://openai.com/blog/rss.xml" },
+    { "name": "Google DeepMind Blog", "url": "https://deepmind.google/blog/rss.xml" },
+    { "name": "Stanford HAI", "url": "https://hai.stanford.edu/news/rss.xml" },
+    { "name": "arXiv AI (cs.AI)", "url": "https://rss.arxiv.org/rss/cs.AI" },
+    { "name": "CNBC Technology", "url": "https://www.cnbc.com/id/19854910/device/rss/rss.html" },
+    { "name": "Fortune AI", "url": "https://fortune.com/feed/fortune-feeds/ai/" },
+    { "name": "Ars Technica AI", "url": "https://feeds.arstechnica.com/arstechnica/technology-lab" }
+  ],
+  "web": [
+    { "name": "McKinsey AI Insights", "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights" },
+    { "name": "BCG AI", "url": "https://www.bcg.com/capabilities/artificial-intelligence" },
+    { "name": "Deloitte AI Insights", "url": "https://www2.deloitte.com/us/en/insights/focus/tech-trends.html" },
+    { "name": "Harvard Business Review AI", "url": "https://hbr.org/topic/subject/ai-and-machine-learning" },
+    { "name": "Gartner AI Research", "url": "https://www.gartner.com/en/topics/artificial-intelligence" },
+    { "name": "Bloomberg AI", "url": "https://www.bloomberg.com/technology" },
+    { "name": "Financial Times AI", "url": "https://www.ft.com/artificial-intelligence" },
+    { "name": "The Information AI", "url": "https://www.theinformation.com/ai" }
+  ],
+  "search": [
+    { "name": "X/Twitter AI Search", "query": "enterprise AI OR AI layoffs OR AI regulation OR agentic AI OR AI ROI lang:en -is:retweet", "type": "twitter" },
+    { "name": "Google News AI Business", "query": "artificial intelligence business enterprise", "type": "google_news" }
+  ]
+}
