@@ -49,7 +49,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           DATE=$(date +%Y-%m-%d)
-          git add digests/ data/
+          git add -f digests/ data/
           git diff --staged --quiet && echo "No new digest to commit" && exit 0
           git commit -m "Daily digest: ${DATE}"
           git push
