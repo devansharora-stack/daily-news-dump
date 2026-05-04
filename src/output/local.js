@@ -73,7 +73,10 @@ export async function saveDigestLocally(stories, dateStr) {
   writeFileSync(jsonPath, JSON.stringify(stories, null, 2));
 
   // Generate PDF
-  const browser = await puppeteer.launch({ headless: true });
+  const browser = await puppeteer.launch({
+    headless: true,
+    args: ["--no-sandbox", "--disable-setuid-sandbox"],
+  });
   const page = await browser.newPage();
   await page.setContent(html, { waitUntil: "networkidle0" });
   await page.pdf({

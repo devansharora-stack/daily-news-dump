@@ -76,7 +76,10 @@ export async function fetchPlaywrightSources(sources) {
 
   let browser;
   try {
-    browser = await chromium.launch({ headless: true });
+    browser = await chromium.launch({
+      headless: true,
+      args: ["--no-sandbox", "--disable-setuid-sandbox"],
+    });
 
     const results = await Promise.allSettled(
       sources.map((source) =>
