@@ -1,0 +1,53 @@
+name: Daily AI Digest
+
+on:
+  schedule:
+    # Run at 2 PM ET (6 PM UTC) every day
+    - cron: "0 18 * * *"
+  workflow_dispatch: # Allow manual trigger from GitHub UI
+
+jobs:
+  generate-digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Playwright Chromium
+        run: npx playwright install chromium --with-deps
+
+      - name: Run pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_FOUNDRY_API_KEY: ${{ secrets.ANTHROPIC_FOUNDRY_API_KEY }}
+          ANTHROPIC_FOUNDRY_RESOURCE: ${{ secrets.ANTHROPIC_FOUNDRY_RESOURCE }}
+        run: npm start
+
+      - name: Upload digest artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: digest-${{ github.run_id }}
+          path: |
+            digests/*.pdf
+            digests/*.html
+            digests/*.json
+          retention-days: 30
+
+      - name: Commit digest to repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          DATE=$(date +%Y-%m-%d)
+          git add digests/ data/
+          git diff --staged --quiet && echo "No new digest to commit" && exit 0
+          git commit -m "Daily digest: ${DATE}"
+          git push

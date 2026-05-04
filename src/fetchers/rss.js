@@ -7,6 +7,9 @@ const parser = new Parser({
   headers: {
     "User-Agent": "DailyUpdates/1.0 (AI Content Intelligence Pipeline)",
   },
+  requestOptions: {
+    redirect: "follow",
+  },
 });
 
 const limit = pLimit(5);
