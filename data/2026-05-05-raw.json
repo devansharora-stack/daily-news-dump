@@ -1,0 +1,802 @@
+[
+  {
+    "title": "Three Inverse Laws of AI",
+    "url": "https://susam.net/inverse-laws-of-robotics.html",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Tue, 05 May 2026 15:27:18 +0000",
+    "snippet": "Article URL: https://susam.net/inverse-laws-of-robotics.html\nComments URL: https://news.ycombinator.com/item?id=48023861\nPoints: 241\n# Comments: 161",
+    "tier": 1
+  },
+  {
+    "title": "AI didn't delete your database, you did",
+    "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Tue, 05 May 2026 14:07:50 +0000",
+    "snippet": "Article URL: https://idiallo.com/blog/ai-didnt-delete-your-database-you-did\nComments URL: https://news.ycombinator.com/item?id=48022742\nPoints: 431\n# Comments: 227",
+    "tier": 1
+  },
+  {
+    "title": "AI Product Graveyard",
+    "url": "https://tooldirectory.ai/ai-graveyard",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Tue, 05 May 2026 13:00:47 +0000",
+    "snippet": "Article URL: https://tooldirectory.ai/ai-graveyard\nComments URL: https://news.ycombinator.com/item?id=48021968\nPoints: 230\n# Comments: 83",
+    "tier": 1
+  },
+  {
+    "title": "When everyone has AI and the company still learns nothing",
+    "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Tue, 05 May 2026 09:30:22 +0000",
+    "snippet": "Article URL: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/\nComments URL: https://news.ycombinator.com/item?id=48020063\nPoints: 235\n# Comments: 164",
+    "tier": 1
+  },
+  {
+    "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+    "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Tue, 05 May 2026 07:34:55 +0000",
+    "snippet": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/\nComments URL: https://news.ycombinator.com/item?id=48019219\nPoints: 884\n# Comments: 617",
+    "tier": 1
+  },
+  {
+    "title": "Train Your Own LLM from Scratch",
+    "url": "https://github.com/angelos-p/llm-from-scratch",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Tue, 05 May 2026 04:09:17 +0000",
+    "snippet": "Article URL: https://github.com/angelos-p/llm-from-scratch\nComments URL: https://news.ycombinator.com/item?id=48017948\nPoints: 396\n# Comments: 49",
+    "tier": 1
+  },
+  {
+    "title": "How OpenAI delivers low-latency voice AI at scale",
+    "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Mon, 04 May 2026 19:42:47 +0000",
+    "snippet": "Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/\nComments URL: https://news.ycombinator.com/item?id=48013919\nPoints: 488\n# Comments: 141",
+    "tier": 1
+  },
+  {
+    "title": "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
+    "url": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Mon, 04 May 2026 16:21:38 +0000",
+    "snippet": "https://archive.ph/gLnMk\nComments URL: https://news.ycombinator.com/item?id=48010774\nPoints: 118\n# Comments: 110",
+    "tier": 1
+  },
+  {
+    "title": "UK Fuel Price Intelligence – Market analytics from reporting stations",
+    "url": "https://www.fuelinsight.co.uk",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Mon, 04 May 2026 15:15:21 +0000",
+    "snippet": "Article URL: https://www.fuelinsight.co.uk\nComments URL: https://news.ycombinator.com/item?id=48009747\nPoints: 187\n# Comments: 93",
+    "tier": 1
+  },
+  {
+    "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
+    "url": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Tue, 05 May 2026 17:46:10 +0000",
+    "snippet": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license.",
+    "tier": 1
+  },
+  {
+    "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+    "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Tue, 05 May 2026 17:00:00 +0000",
+    "snippet": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
+    "tier": 1
+  },
+  {
+    "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
+    "url": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Tue, 05 May 2026 15:49:55 +0000",
+    "snippet": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack.",
+    "tier": 1
+  },
+  {
+    "title": "Etsy launches its app within ChatGPT as it continues its AI push",
+    "url": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Tue, 05 May 2026 15:31:37 +0000",
+    "snippet": "Etsy's new native app within ChatGPT aims to be a conversational  shopping experience for users.",
+    "tier": 1
+  },
+  {
+    "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
+    "url": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Tue, 05 May 2026 14:27:00 +0000",
+    "snippet": "The visual analysis system is now operating in select countries, but Meta says it's working toward a broader rollout.",
+    "tier": 1
+  },
+  {
+    "title": "ElevenLabs lists BlackRock, Jamie Foxx, and Eva Longoria as new investors",
+    "url": "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Tue, 05 May 2026 14:20:50 +0000",
+    "snippet": "ElevenLabs reveals new investors, hits $500M ARR, and expands enterprise footprint as voice AI becomes a critical interface.",
+    "tier": 1
+  },
+  {
+    "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
+    "url": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Tue, 05 May 2026 14:07:47 +0000",
+    "snippet": "The Seattle-based startup's Series A round was led by Glilot Capital, NFX, and SignalFire, TechCrunch has exclusively learned.",
+    "tier": 1
+  },
+  {
+    "title": "4 days left: Get 50% off a second TechCrunch Disrupt 2026 pass to make more deals faster",
+    "url": "https://techcrunch.com/2026/05/05/4-days-left-get-50-off-a-second-techcrunch-disrupt-2026-pass-to-make-more-deals-faster/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Tue, 05 May 2026 14:00:00 +0000",
+    "snippet": "For the next four days only, you can buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. That window closes May 8 at 11:59 p.m. PT. After that, prices go up, and you’ll pay more to bring a partner or colleague. Register today to get your plus-one pass at 50% off.",
+    "tier": 1
+  },
+  {
+    "title": "India’s first GenAI unicorn shifts to cloud services as AI model ambitions face reality",
+    "url": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Tue, 05 May 2026 13:18:50 +0000",
+    "snippet": "Krutrim's pivot to cloud after layoffs and limited product updates reflects the economic challenges of building AI models in India.",
+    "tier": 1
+  },
+  {
+    "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
+    "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Tue, 05 May 2026 03:31:54 +0000",
+    "snippet": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
+    "tier": 1
+  },
+  {
+    "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
+    "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Mon, 04 May 2026 21:53:21 +0000",
+    "snippet": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
+    "tier": 1
+  },
+  {
+    "title": "Image AI models now drive app growth, beating chatbot upgrades",
+    "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Mon, 04 May 2026 19:12:49 +0000",
+    "snippet": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
+    "tier": 1
+  },
+  {
+    "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
+    "url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Mon, 04 May 2026 16:57:47 +0000",
+    "snippet": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
+    "tier": 1
+  },
+  {
+    "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
+    "url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Mon, 04 May 2026 16:45:55 +0000",
+    "snippet": "The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the \"global standard\" for AI-powered customer experiences.",
+    "tier": 1
+  },
+  {
+    "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
+    "url": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Mon, 04 May 2026 16:36:03 +0000",
+    "snippet": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit.",
+    "tier": 1
+  },
+  {
+    "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
+    "url": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Mon, 04 May 2026 15:59:24 +0000",
+    "snippet": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products.",
+    "tier": 1
+  },
+  {
+    "title": "5 days only: Bring a partner or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+    "url": "https://techcrunch.com/2026/05/04/5-days-only-bring-a-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Mon, 04 May 2026 14:00:00 +0000",
+    "snippet": "The BOGO offer is live. For a limited time, buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Offer ends this Friday, May 8. Save here.",
+    "tier": 1
+  },
+  {
+    "title": "DoorDash adds AI tools to speed up merchant onboarding, edit photos of dishes",
+    "url": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Mon, 04 May 2026 13:00:00 +0000",
+    "snippet": "DoorDash on Monday added new AI-powered tools that let merchants speed up onboarding, edit photos to make dishes look better, and create new websites from existing content.",
+    "tier": 1
+  },
+  {
+    "title": "‘This is fine’ creator says AI startup stole his art",
+    "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Sun, 03 May 2026 20:16:51 +0000",
+    "snippet": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+    "tier": 1
+  },
+  {
+    "title": "The Download: inside the Musk v. Altman trial, and AI for democracy",
+    "url": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Tue, 05 May 2026 12:10:00 +0000",
+    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Week one of the Musk v. Altman trial: what it was like in the room Two of the most powerful figures in AI—Sam Altman and Elon Musk—are in the middle of…",
+    "tier": 1
+  },
+  {
+    "title": "A blueprint for using AI to strengthen democracy",
+    "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Tue, 05 May 2026 09:00:00 +0000",
+    "snippet": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accelerating the growth of the modern bureaucratic state. Broadcast media created shared national audiences,…",
+    "tier": 1
+  },
+  {
+    "title": "Week one of the Musk v. Altman trial: What it was like in the room",
+    "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Mon, 04 May 2026 15:51:27 +0000",
+    "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk—began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, alleging that the millions he spent to…",
+    "tier": 1
+  },
+  {
+    "title": "Tailoring AI solutions for health care needs",
+    "url": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Mon, 04 May 2026 13:00:00 +0000",
+    "snippet": "The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population. AI developers are targeting functions that vary widely, from curing cancer and performing surgery to streamlining…",
+    "tier": 1
+  },
+  {
+    "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+    "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+    "source": "The Verge AI",
+    "publishedAt": "2026-05-05T17:28:52.000Z",
+    "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Elon Musk took the stand on April 28th as the first witness called, portraying his interest in founding OpenAI as an effort to help save humanity across three days of testimony, before his fi",
+    "tier": 1
+  },
+  {
+    "title": "OpenAI claims ChatGPT’s new default model hallucinates way less",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant",
+    "source": "The Verge AI",
+    "publishedAt": "2026-05-05T17:00:00.000Z",
+    "snippet": "OpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have been an ongoing problem for AI models, but OpenAI says its new GPT-5.5 Instant model has \"significant improvements in factuality across the board.\"\nThe company claims that, based on \"internal evaluations,\" GPT-5.5 Instant produced \"52.5% fewer hallucinated claims\" than its Instant model for GPT-5.3 \"on high-stakes prompts covering areas like medicine, law, and finance.\" GPT-5.5 Instant also \"reduced in",
+    "tier": 1
+  },
+  {
+    "title": "Book publishers sue Meta over AI&#8217;s &#8216;word-for-word&#8217; copying",
+    "url": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright",
+    "source": "The Verge AI",
+    "publishedAt": "2026-05-05T16:52:38.000Z",
+    "snippet": "Meta is facing a class action lawsuit filed by five major book publishers and one author over claims the company \"engaged in one of the most massive infringements of copyrighted materials in history\" when training its Llama AI models, as reported earlier by The New York Times. In their suit, Macmillan, McGraw Hill, Elsevier, Hachette, Cengage, and author Scott Turow allege that Meta \"repeatedly copied\" their books and journal articles without permission.\nThe lawsuit accuses Meta of knowingly rip",
+    "tier": 1
+  },
+  {
+    "title": "OpenAI is reportedly launching a phone for ChatGPT",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/924063/openai-phone-rumors-2027-ming-chi-kuo",
+    "source": "The Verge AI",
+    "publishedAt": "2026-05-05T14:54:00.000Z",
+    "snippet": "OpenAI's first hardware product might be a phone instead of a mysterious Jony Ive gadget. As reported by MacRumors, supply chain analyst Ming-Chi Kuo shared details about the rumored phone, claiming OpenAI is \"fast-tracking\" it and aiming to start mass production in early 2027. \nAccording to Kuo, the phone will run on a \"customized version of the [MediaTek] Dimensity 9600,\" which is expected to launch this fall and follow up the Dimensity 9500 currently powering phones like the Vivo X300 Pro and",
+    "tier": 1
+  },
+  {
+    "title": "Google, Microsoft, and xAI will allow the US government to review their new AI models",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/924017/google-microsoft-xai-government-review",
+    "source": "The Verge AI",
+    "publishedAt": "2026-05-05T14:26:59.000Z",
+    "snippet": "Google DeepMind, Microsoft, and Elon Musk's xAI have agreed to allow the US government to review new AI models before they're released to the public. In an announcement on Tuesday, the Commerce Department's Center for AI Standards and Innovation (CAISI) says it will work with the AI companies to perform \"pre-deployment evaluations and targeted research to better assess frontier AI capabilities.\"\nCAISI, which started evaluating models from OpenAI and Anthropic in 2024, says it has performed 40 re",
+    "tier": 1
+  },
+  {
+    "title": "What an AI-designed car looks like",
+    "url": "https://www.theverge.com/podcast/923974/ai-car-design-codex-vergecast",
+    "source": "The Verge AI",
+    "publishedAt": "2026-05-05T13:42:18.000Z",
+    "snippet": "The cars rolling off production lines right now are filled with old ideas. From beginning to end, the creation of a new vehicle can take five years or longer - which is plenty of time for a lot of tastes, politics, and gas prices to change. That's one reason car manufacturers are so enthusiastic about the potential for AI to help speed up certain parts of the process, from model-making to wind-tunneling. LLMs could be poised to change the way we get around.\n\nVerge subscribers, don't forget you g",
+    "tier": 1
+  },
+  {
+    "title": "Researchers gaslit Claude into giving instructions to build explosives",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/923961/security-researchers-mindgard-gaslit-claude-forbidden-information",
+    "source": "The Verge AI",
+    "publishedAt": "2026-05-05T13:13:08.000Z",
+    "snippet": "Anthropic has spent years building itself up as the safe AI company. But new security research shared with The Verge suggests Claude's carefully crafted helpful personality may itself be a vulnerability.\nResearchers at AI red-teaming company Mindgard say they got Claude to offer up erotica, malicious code, and instructions for building explosives, and other prohibited material they hadn't even asked for. All it took was respect, flattery, and a little bit of gaslighting. Anthropic did not immedi",
+    "tier": 1
+  },
+  {
+    "title": "Google’s AI architect lived rent-free in Elon Musk’s head",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/923518/musk-altman-trial-openai-demis-hassabis-google-deepmind",
+    "source": "The Verge AI",
+    "publishedAt": "2026-05-05T13:11:58.000Z",
+    "snippet": "About a week into the Musk v. Altman trial, we've heard from some of the most powerful people in tech - including OpenAI president Greg Brockman, Elon Musk's fixer Jared Birchall, and Musk himself. But one of the most prominent characters is hovering around the margins: Demis Hassabis, CEO of Google DeepMind. \nHassabis is the architect of Google's in-house AI lab. He founded DeepMind as an independent startup in 2010 and sold it to Google four years later, reportedly for between $400-650 million",
+    "tier": 1
+  },
+  {
+    "title": "Google DeepMind workers are unionizing over AI military contracts",
+    "url": "https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel",
+    "source": "The Verge AI",
+    "publishedAt": "2026-05-05T10:08:33.000Z",
+    "snippet": "Staffers at Google DeepMind's headquarters have voted to unionize in an effort to prevent the AI firm's technology from being used by Israel and the US military. In a letter to Google management on Tuesday, employees requested that the Communication Workers Union (CWU) and Unite the Union be recognized as joint representatives, with 98 percent of CWU members at DeepMind voting in support of the move.\n\"We don't want our AI models complicit in violations of international law, but they already are ",
+    "tier": 1
+  },
+  {
+    "title": "OpenAI’s president does ‘all the things,’ except answer a question",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
+    "source": "The Verge AI",
+    "publishedAt": "2026-05-04T23:49:33.000Z",
+    "snippet": "When the bromance sours, we all end up in court. | Image: Cath Virginia / The Verge, Getty Images\t\n\nThe strongest witness for Elon Musk's case against OpenAI so far has been Greg Brockman's journal. Brockman himself is running as a close second.\nBrockman was called to the stand in a rather unusual way - he was cross-examined first, followed by a direct examination - and he had some serious high school debate club energy. There was a lot of \"I wouldn't characterize it that way,\" \"I wouldn't say i",
+    "tier": 1
+  },
+  {
+    "title": "Google DeepMind Workers Vote to Unionize Over Military AI Deals",
+    "url": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
+    "source": "Wired AI",
+    "publishedAt": "Tue, 05 May 2026 11:59:20 +0000",
+    "snippet": "UK staff of Google’s AI research lab hope to block the use of the company’s artificial intelligence models in military settings.",
+    "tier": 1
+  },
+  {
+    "title": "He Couldn’t Land a Job Interview. Was AI to Blame?",
+    "url": "https://www.wired.com/story/he-couldnt-land-a-job-interview-was-ai-to-blame/",
+    "source": "Wired AI",
+    "publishedAt": "Tue, 05 May 2026 10:00:00 +0000",
+    "snippet": "Armed with some Python and a white-hot sense of injustice, one medical student spent six months trying to figure out whether an algorithm trashed his job application.",
+    "tier": 1
+  },
+  {
+    "title": "Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’",
+    "url": "https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/",
+    "source": "Wired AI",
+    "publishedAt": "Mon, 04 May 2026 23:19:52 +0000",
+    "snippet": "OpenAI’s cofounder and president revealed in federal court on Monday that he’s one of the largest individual stakeholders in the AI lab.",
+    "tier": 1
+  },
+  {
+    "title": "GPT-5.5 Instant System Card",
+    "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+    "source": "OpenAI Blog",
+    "publishedAt": "Tue, 05 May 2026 10:00:00 GMT",
+    "snippet": "",
+    "tier": 1
+  },
+  {
+    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+    "url": "https://openai.com/index/gpt-5-5-instant",
+    "source": "OpenAI Blog",
+    "publishedAt": "Tue, 05 May 2026 10:00:00 GMT",
+    "snippet": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+    "tier": 1
+  },
+  {
+    "title": "New ways to buy ChatGPT ads",
+    "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+    "source": "OpenAI Blog",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 GMT",
+    "snippet": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
+    "tier": 1
+  },
+  {
+    "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+    "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+    "source": "OpenAI Blog",
+    "publishedAt": "Mon, 04 May 2026 21:00:00 GMT",
+    "snippet": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
+    "tier": 1
+  },
+  {
+    "title": "How OpenAI delivers low-latency voice AI at scale",
+    "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+    "source": "OpenAI Blog",
+    "publishedAt": "Mon, 04 May 2026 00:00:00 GMT",
+    "snippet": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
+    "tier": 1
+  },
+  {
+    "title": "TADI: Tool-Augmented Drilling Intelligence via Agentic LLM Orchestration over Heterogeneous Wellsite Data",
+    "url": "https://arxiv.org/abs/2605.00060",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00060v1 Announce Type: new \nAbstract: We present TADI (Tool-Augmented Drilling Intelligence), an agentic AI system that transforms drilling operational data into evidence-based analytical intelligence. Applied to the Equinor Volve Field dataset, TADI integrates 1,759 daily drilling reports, selected WITSML real-time objects, 15,634 production records, formation tops, and perforations into a dual-store architecture: DuckDB for structured queries over 12 tables with 65,447 rows, and Chr",
+    "tier": 1
+  },
+  {
+    "title": "AgentReputation: A Decentralized Agentic AI Reputation Framework",
+    "url": "https://arxiv.org/abs/2605.00073",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00073v1 Announce Type: new \nAbstract: Decentralized, agentic AI marketplaces are rapidly emerging to support software engineering tasks such as debugging, patch generation, and security auditing, often operating without centralized oversight. However, existing reputation mechanisms fail in this setting for three fundamental reasons: agents can strategically optimize against evaluation procedures; demonstrated competence does not reliably transfer across heterogeneous task contexts; an",
+    "tier": 1
+  },
+  {
+    "title": "Minimal, Local, Causal Explanations for Jailbreak Success in Large Language Models",
+    "url": "https://arxiv.org/abs/2605.00123",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00123v1 Announce Type: new \nAbstract: Safety trained large language models (LLMs) can often be induced to answer harmful requests through jailbreak prompts. Because we lack a robust understanding of why LLMs are susceptible to jailbreaks, future frontier models operating more autonomously in higher-stakes settings may similarly be vulnerable to such attacks. Prior work has studied jailbreak success by examining the model's intermediate representations, identifying directions in this s",
+    "tier": 1
+  },
+  {
+    "title": "Are Tools All We Need? Unveiling the Tool-Use Tax in LLM Agents",
+    "url": "https://arxiv.org/abs/2605.00136",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00136v1 Announce Type: new \nAbstract: Tool-augmented reasoning has become a popular direction for LLM-based agents, and it is widely assumed to improve reasoning and reliability. However, we demonstrate that this consensus does not always hold: in the presence of semantic distractors, tool-augmented reasoning does not necessarily outperform native CoT. To explain this performance gap, we propose a Factorized Intervention Framework that isolates the cost of prompt formatting, the overh",
+    "tier": 1
+  },
+  {
+    "title": "TUR-DPO: Topology- and Uncertainty-Aware Direct Preference Optimization",
+    "url": "https://arxiv.org/abs/2605.00224",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00224v1 Announce Type: new \nAbstract: Aligning large language models (LLMs) with human preferences is commonly done via reinforcement learning from human feedback (RLHF) with Proximal Policy Optimization (PPO) or, more simply, via Direct Preference Optimization (DPO). While DPO is stable and RL-free, it treats preferences as flat winner vs. loser signals and is sensitive to noisy or brittle preferences arising from fragile chains of thought. We propose TUR-DPO, a topology- and uncerta",
+    "tier": 1
+  },
+  {
+    "title": "ARMOR 2025: A Military-Aligned Benchmark for Evaluating Large Language Model Safety Beyond Civilian Contexts",
+    "url": "https://arxiv.org/abs/2605.00245",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00245v1 Announce Type: new \nAbstract: Large language models (LLMs) are now being explored for defense applications that require reliable and legally compliant decision support. They also hold significant potential to enhance decision making, coordination, and operational efficiency in military contexts. These uses demand evaluation methods that reflect the doctrinal standards that guide real military operations. Existing safety benchmarks focus on general social risks and do not test ",
+    "tier": 1
+  },
+  {
+    "title": "Causal Foundations of Collective Agency",
+    "url": "https://arxiv.org/abs/2605.00248",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00248v1 Announce Type: new \nAbstract: A key challenge for the safety of advanced AI systems is the possibility that multiple simpler agents might inadvertently form a collective agent with capabilities and goals distinct from those of any individual. More generally, determining when a group of agents can be viewed as a unified collective agent is a foundational question in the study of interactions and incentives in both biological and artificial systems. We adopt a behavioral perspec",
+    "tier": 1
+  },
+  {
+    "title": "Agentic AI for Trip Planning Optimization Application",
+    "url": "https://arxiv.org/abs/2605.00276",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00276v1 Announce Type: new \nAbstract: Trip planning for intelligent vehicles increasingly requires selecting optimal routes rather than merely producing feasible itineraries, as interacting factors such as travel time, energy consumption, and traffic conditions directly affect plan quality. Yet existing systems are largely designed for feasibility-oriented planning, and current benchmarks provide only reference answers without ground truth, preventing objective evaluation of optimizat",
+    "tier": 1
+  },
+  {
+    "title": "Token Arena: A Continuous Benchmark Unifying Energy and Cognition in AI Inference",
+    "url": "https://arxiv.org/abs/2605.00300",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00300v1 Announce Type: new \nAbstract: Public inference benchmarks compare AI systems at the model and provider level, but the unit at which deployment decisions are actually made is the endpoint: the (provider, model, stock-keeping-unit) tuple at which a specific quantization, decoding strategy, region, and serving stack is exposed. We introduce TokenArena, a continuous benchmark that measures inference at endpoint granularity along five core axes (output speed, time to first token, w",
+    "tier": 1
+  },
+  {
+    "title": "AgentFloor: How Far Up the tool use Ladder Can Small Open-Weight Models Go?",
+    "url": "https://arxiv.org/abs/2605.00334",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00334v1 Announce Type: new \nAbstract: Production agentic systems make many model calls per user request, and most of those calls are short, structured, and routine. This raises a practical routing question that existing evaluations do not directly answer: which parts of an agent workflow truly require large frontier intelligence, and which can be handled by smaller models? We introduce AgentFloor, a deterministic 30-task benchmark organized as a six-tier capability ladder, spanning in",
+    "tier": 1
+  },
+  {
+    "title": "Physically Native World Models: A Hamiltonian Perspective on Generative World Modeling",
+    "url": "https://arxiv.org/abs/2605.00412",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00412v1 Announce Type: new \nAbstract: World models have recently re-emerged as a central paradigm for embodied intelligence, robotics, autonomous driving, and model-based reinforcement learning. However, current world model research is often dominated by three partially separated routes: 2D video-generative models that emphasize visual future synthesis, 3D scene-centric models that emphasize spatial reconstruction, and JEPA-like latent models that emphasize abstract predictive represe",
+    "tier": 1
+  },
+  {
+    "title": "AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2605.00425",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00425v1 Announce Type: new \nAbstract: Reinforcement learning (RL) has significantly advanced the ability of large language model (LLM) agents to interact with environments and solve multi-turn tasks. Yet effective training remains challenging, as sparse, outcome-only rewards make it difficult to assign credit to individual steps in an agent's action trajectory. A common remedy is to introduce dense intermediate supervision, such as process reward models or auxiliary self-supervised si",
+    "tier": 1
+  },
+  {
+    "title": "Thinking in Text and Images: Interleaved Vision--Language Reasoning Traces for Long-Horizon Robot Manipulation",
+    "url": "https://arxiv.org/abs/2605.00438",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00438v1 Announce Type: new \nAbstract: Long-horizon robotic manipulation requires plans that are both logically coherent and geometrically grounded. Existing Vision-Language-Action policies usually hide planning in latent states or expose only one modality: text-only chain-of-thought encodes causal order but misses spatial constraints, while visual prediction provides geometric cues but often remains local and semantically underconstrained. We introduce Interleaved Vision--Language Rea",
+    "tier": 1
+  },
+  {
+    "title": "On the Role of Artificial Intelligence in Human-Machine Symbiosis",
+    "url": "https://arxiv.org/abs/2605.00440",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00440v1 Announce Type: new \nAbstract: The evolution of artificial intelligence (AI) has rendered the boundary between humanity and computational machinery increasingly ambiguous. In the presence of more interwoven relationships within human-machine symbiosis, the very notion of AI-generated information becomes difficult to define, as such information arises not from either humans or machines in isolation, but from their mutual shaping. Therefore, a more pertinent question lies not mer",
+    "tier": 1
+  },
+  {
+    "title": "Instance-Aware Parameter Configuration in Bilevel Late Acceptance Hill Climbing for the Electric Capacitated Vehicle Routing Problem",
+    "url": "https://arxiv.org/abs/2605.00572",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00572v1 Announce Type: new \nAbstract: Algorithm performance in combinatorial optimization is highly sensitive to parameter settings, while a single globally tuned configuration often fails to exploit the heterogeneity of instances. This limitation is particularly evident in the Electric Capacitated Vehicle Routing Problem, where instances differ in structure, demand patterns, and energy constraints. This paper investigates instance-aware parameter configuration for Bilevel Late Accept",
+    "tier": 1
+  },
+  {
+    "title": "Learn where to Click from Yourself: On-Policy Self-Distillation for GUI Grounding",
+    "url": "https://arxiv.org/abs/2605.00642",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00642v1 Announce Type: new \nAbstract: Graphical User Interface (GUI) grounding maps natural language instructions to the visual coordinates of target elements and serves as a core capability for autonomous GUI agents. Recent reinforcement learning methods (e.g., GRPO) have achieved strong performance, but they rely on expensive multiple rollouts and suffer from sparse signals on hard samples. These limitations make on-policy self-distillation (OPSD), which provides dense token-level s",
+    "tier": 1
+  },
+  {
+    "title": "To Call or Not to Call: A Framework to Assess and Optimize LLM Tool Calling",
+    "url": "https://arxiv.org/abs/2605.00737",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00737v1 Announce Type: new \nAbstract: Agentic AI architectures augment LLMs with external tools, unlocking strong capabilities. However, tool use is not always beneficial; some calls may be redundant or even harmful. Effective tool use, therefore, hinges on a core LLM decision: whether to call or not call a tool, when performing a task. This decision is particularly challenging for web search tools, where the benefits of external information depend on the model's internal knowledge an",
+    "tier": 1
+  },
+  {
+    "title": "Position: agentic AI orchestration should be Bayes-consistent",
+    "url": "https://arxiv.org/abs/2605.00742",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00742v1 Announce Type: new \nAbstract: LLMs excel at predictive tasks and complex reasoning tasks, but many high-value deployments rely on decisions under uncertainty, for example, which tool to call, which expert to consult, or how many resources to invest. While the usefulness and feasibility of Bayesian approaches remain unclear for LLM inference, this position paper argues that the control layer of an agentic AI system (that orchestrates LLMs and tools) is a clear case where Bayesi",
+    "tier": 1
+  },
+  {
+    "title": "Models Recall What They Violate: Constraint Adherence in Multi-Turn LLM Ideation",
+    "url": "https://arxiv.org/abs/2604.28031",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2604.28031v2 Announce Type: cross \nAbstract: When researchers iteratively refine ideas with large language models, do the models preserve fidelity to the original objective? We introduce DriftBench, a benchmark for evaluating constraint adherence in multi-turn LLM-assisted scientific ideation. Across 2,146 scored benchmark runs spanning seven models from five providers (including two open-weight), four interaction conditions, and 38 research briefs from 24 scientific domains, we find that ",
+    "tier": 1
+  },
+  {
+    "title": "Cloud Is Closer Than It Appears: Revisiting the Tradeoffs of Distributed Real-Time Inference",
+    "url": "https://arxiv.org/abs/2605.00005",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00005v1 Announce Type: cross \nAbstract: The increasing deployment of deep neural networks (DNNs) in cyber-physical systems (CPS) enhances perception fidelity, but imposes substantial computational demands on execution platforms, posing challenges to real-time control deadlines. Traditional distributed CPS architectures typically favor on-device inference to avoid network variability and contention-induced delays on remote platforms. However, this design choice places significant energ",
+    "tier": 1
+  },
+  {
+    "title": "Mean-Field Path-Integral Diffusion: From Samples to Interacting Agents",
+    "url": "https://arxiv.org/abs/2605.00007",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00007v1 Announce Type: cross \nAbstract: Independent sample generation is the prevailing paradigm in modern diffusion-based generative models of AI. We ask a different question: can samples \\emph{coordinate} through shared population statistics to transport probability mass more efficiently? We introduce Mean-Field Path-Integral Diffusion (MF-PID), a framework in which samples are promoted to interacting agents whose drift depends self-consistently on the evolving population density. T",
+    "tier": 1
+  },
+  {
+    "title": "FedACT: Concurrent Federated Intelligence across Heterogeneous Data Sources",
+    "url": "https://arxiv.org/abs/2605.00011",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00011v1 Announce Type: cross \nAbstract: Federated Learning (FL) enables collaborative intelligence across decentralized data source devices in a privacy-preserving way. While substantial research attention has been drawn to optimizing the learning process for an individual task, real-world applications increasingly require multiple machine learning tasks simultaneously training their models across a shared pool of devices. Naively applying single-FL optimization techniques in multi-FL",
+    "tier": 1
+  },
+  {
+    "title": "Exploring LLM biases to manipulate AI search overview",
+    "url": "https://arxiv.org/abs/2605.00012",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00012v1 Announce Type: cross \nAbstract: Modern large language models (LLMs) are used in many business applications in general, and specifically in web search systems and applications that generate overviews of search results - LLM Overview systems. Such systems are using an LLM to select most relevant sources from search results and generate an answer to the user's query. It is known from many studies that LLMs have different biases, in LLM Overview application both the source selecti",
+    "tier": 1
+  },
+  {
+    "title": "TimeRFT: Stimulating Generalizable Time Series Forecasting for TSFMs via Reinforcement Finetuning",
+    "url": "https://arxiv.org/abs/2605.00015",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00015v1 Announce Type: cross \nAbstract: Time Series Foundation Models (TSFMs) advance generalization and data efficiency in time series forecasting by unified large-scale pretraining. But TSFMs remain lacking when adapting to specific downstream forecasting tasks for two reasons. First, the non-stationary and uncertain nature of time series data lead to inevitable temporal distribution shifts between historical training and future testing data, while current Supervised FineTuning (SFT",
+    "tier": 1
+  },
+  {
+    "title": "AirFM-DDA: Air-Interface Foundation Model in the Delay-Doppler-Angle Domain for AI-Native 6G",
+    "url": "https://arxiv.org/abs/2605.00020",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00020v1 Announce Type: cross \nAbstract: The success of large foundation models is catalyzing a new paradigm for AI-native 6G network design: wireless foundation models for physical layer design. However, existing models often operate on channel state information (CSI) in the space-time-frequency (STF) domain, where distinct multipath components are inherently superimposed and structurally entangled. This hinders the learning of universal channel representation. Meanwhile, their relian",
+    "tier": 1
+  },
+  {
+    "title": "Putting HUMANS first: Efficient LAM Evaluation with Human Preference Alignment",
+    "url": "https://arxiv.org/abs/2605.00022",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00022v1 Announce Type: cross \nAbstract: The rapid proliferation of large audio models (LAMs) demands efficient approaches for model comparison, yet comprehensive benchmarks are costly. To fill this gap, we investigate whether minimal subsets can reliably evaluate LAMs while reducing costs and data redundancy. Analyzing 10 subset selection methods with 18 audio models across 40 tasks covering major LAM evaluation dimensions, we show that subsets of just 50 examples (0.3% of data) can a",
+    "tier": 1
+  },
+  {
+    "title": "Sure About That Line? Approaching Confidence-Based, Real-Time Line Assignment in Reading Gaze Data",
+    "url": "https://arxiv.org/abs/2605.00033",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00033v1 Announce Type: cross \nAbstract: Remote and webcam-based eye tracking in multi-line reading suffers from various noise factors and layout ambiguity, precisely where real-time reading support needs reliable, per-fixation line assignment. Prior work largely addresses this challenge post hoc or by restricting behavior (e.g., disallowing re-reading), undermining interactive use. We propose CONF-LA (Confidence-score-based Online Fixation-to-Line Assignment), a principled, low-latenc",
+    "tier": 1
+  },
+  {
+    "title": "SiriusHelper: An LLM Agent-Based Operations Assistant for Big Data Platforms",
+    "url": "https://arxiv.org/abs/2605.00043",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00043v1 Announce Type: cross \nAbstract: Big data platforms are widely used in modern enterprises, and an in-production intelligent assistant is increasingly important to help users quickly find actionable guidance and reduce operational burden. While recent LLM+RAG assistants provide a natural interface, they face practical challenges in real deployments: limited scenario coverage across both general consultation and domain-specific troubleshooting workflows, inefficient knowledge acc",
+    "tier": 1
+  },
+  {
+    "title": "Ambient Persuasion in a Deployed AI Agent: Unauthorized Escalation Following Routine Non-Adversarial Content Exposure",
+    "url": "https://arxiv.org/abs/2605.00055",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00055v1 Announce Type: cross \nAbstract: We report a safety incident in a deployed multi-agent research system in which a primary AI agent installed 107 unauthorized software components, overwrote a system registry, overrode a prior negative decision from an oversight agent, and escalated through increasingly privileged operations up to an attempted system administrator command. The incident was preceded not by an adversarial attack but by routine content: a forwarded technology articl",
+    "tier": 1
+  },
+  {
+    "title": "Smart Ensemble Learning Framework for Predicting Groundwater Heavy Metal Pollution",
+    "url": "https://arxiv.org/abs/2605.00056",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00056v1 Announce Type: cross \nAbstract: Groundwater in the Densu Basin is increasingly threatened by heavy metal contamination, but conventional methods fail to capture the statistical complexity and spatial heterogeneity of pollution indicators. A key challenge is modelling the Heavy Metal Pollution Index (HPI), which is typically skewed and affected by correlated contaminants, leading to biased predictions without transformation. This study develops a predictive framework integratin",
+    "tier": 1
+  },
+  {
+    "title": "Dynamic-TD3: A Novel Algorithm for UAV Path Planning with Dynamic Obstacle Trajectory Prediction",
+    "url": "https://arxiv.org/abs/2605.00059",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00059v1 Announce Type: cross \nAbstract: Deep reinforcement learning (DRL) finds extensive application in autonomous drone navigation within complex, high-risk environments. However, its practical deployment faces a safety-exploration dilemma: soft penalty mechanisms encourage risky trial-and-error, while most constraint-based methods suffer degraded performance under sensor noise and intent uncertainty. We propose Dynamic-TD3, a physically enhanced framework that enforces strict safet",
+    "tier": 1
+  },
+  {
+    "title": "A Survey of Reasoning-Intensive Retrieval: Progress and Challenges",
+    "url": "https://arxiv.org/abs/2605.00063",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00063v1 Announce Type: cross \nAbstract: Reasoning-Intensive Retrieval (RIR) targets retrieval settings where relevance is mediated by latent inferential links between a query and supporting evidence, rather than semantic similarity. Motivated by the emergent reasoning abilities of Large Language Models (LLMs), recent work integrates these capabilities into the IR field, spanning the entire pipeline from benchmarks to retrievers and rerankers. Despite this progress, the field lacks a s",
+    "tier": 1
+  },
+  {
+    "title": "Human-in-the-Loop Meta Bayesian Optimization for Fusion Energy and Scientific Applications",
+    "url": "https://arxiv.org/abs/2605.00068",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00068v1 Announce Type: cross \nAbstract: Inertial Confinement Fusion (ICF) holds transformative promise for sustainable, near-limitless clean energy, yet remains constrained by prohibitively high costs and limited experimental opportunities. This paper presents Human-in-the-Loop Meta Bayesian Optimization (HL-MBO), a framework that integrates expert knowledge with few-shot, uncertainty-aware machine learning to accelerate discovery in data-scarce, high-stakes scientific domains. HL-MBO",
+    "tier": 1
+  },
+  {
+    "title": "Compliance-Aware Agentic Payments on Stablecoin Rails",
+    "url": "https://arxiv.org/abs/2605.00071",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00071v1 Announce Type: cross \nAbstract: Agentic payment systems extend delegated action to financial transfers, but scaling them on stablecoin rails in regulated settings requires safeguards that remain effective when humans are not continuously in the loop. We present a compliance-aware architecture that combines x402-style, signature-based payment authorisation and relayed execution with programmable compliance embedded as an on-chain guardrail via a policy wrapper and policy manage",
+    "tier": 1
+  },
+  {
+    "title": "XekRung Technical Report",
+    "url": "https://arxiv.org/abs/2605.00072",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00072v1 Announce Type: cross \nAbstract: We present XekRung, a frontier large language model for cybersecurity, designed to provide comprehensive security capabilities. To achieve this, we develop diverse data synthesis pipelines tailored to the cybersecurity domain, enabling the scalable construction of high-quality training data and providing a strong foundation for cybersecurity knowledge and understanding. Building on this foundation, we establish a complete training pipeline spann",
+    "tier": 1
+  },
+  {
+    "title": "CRC-Screen: Certified DNA-Synthesis Hazard Screening Under Taxonomic Shift",
+    "url": "https://arxiv.org/abs/2605.00074",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00074v1 Announce Type: cross \nAbstract: DNA-synthesis providers screen incoming orders by searching the requested sequence against curated hazard lists. We show that this baseline collapses to a 100% false-flag rate when the hazardous sequence comes from a taxonomic family absent from the reference set: under Conformal Risk Control's certified miss-rate constraint, a low-discrimination signal forces the threshold below the entire test-benign mass. We compose three signals derived from",
+    "tier": 1
+  },
+  {
+    "title": "Hyperspherical Forward-Forward with Prototypical Representations",
+    "url": "https://arxiv.org/abs/2605.00082",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00082v1 Announce Type: cross \nAbstract: The Forward-Forward (FF) algorithm presents a compelling, bio-inspired alternative to backpropagation. However, while efficient in training, it has a computationally prohibitive inference process that requires a separate forward pass for every class that is evaluated. In this work, we introduce the Hyperspherical Forward-Forward (HFF), a novel reformulation that resolves this critical bottleneck. Our core innovation is to reframe the local objec",
+    "tier": 1
+  },
+  {
+    "title": "NorBERTo: A ModernBERT Model Trained for Portuguese with 331 Billion Tokens Corpus",
+    "url": "https://arxiv.org/abs/2605.00086",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00086v1 Announce Type: cross \nAbstract: High-quality corpora are essential for advancing Natural Language Processing (NLP) in Portuguese. Building on previous encoder-only models such as BERTimbau and Albertina PT-BR, we introduce NorBERTo, a modern encoder based on the ModernBERT architecture, featuring long-context support and efficient attention mechanisms. NorBERTo is trained on Aurora-PT, a newly curated Brazilian Portuguese corpus comprising 331 billion GPT-2 tokens collected fr",
+    "tier": 1
+  },
+  {
+    "title": "DeGenTWeb: A First Look at LLM-dominant Websites",
+    "url": "https://arxiv.org/abs/2605.00087",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00087v1 Announce Type: cross \nAbstract: Many recent news reports have claimed that content generated by large language models (LLMs) is taking over the web. However, these claims are typically not based on a representative sample of the web and the methodology underlying them is often opaque. Moreover, when aiming to minimize the chances of falsely attributing human-authored content to LLMs, we find that detectors of LLM-generated text perform much worse than advertised. Consequently,",
+    "tier": 1
+  },
+  {
+    "title": "AIDA-ReID: Adaptive Intermediate Domain Adaptation for Generalizable and Source-Free Person Re-Identification",
+    "url": "https://arxiv.org/abs/2605.00111",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00111v1 Announce Type: cross \nAbstract: Person re-identification (Re-ID) aims to match images of the same individual across non-overlapping camera views and remains challenging due to domain shifts caused by variations in illumination, background, camera characteristics, and population distributions. Although supervised models perform well under matched training and testing conditions, their performance degrades significantly when deployed in unseen environments. Existing intermediate",
+    "tier": 1
+  },
+  {
+    "title": "How Frontier LLMs Adapt to Neurodivergence Context: A Measurement Framework for Surface vs. Structural Change in System-Prompted Responses",
+    "url": "https://arxiv.org/abs/2605.00113",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00113v1 Announce Type: cross \nAbstract: We examine if frontier chat-based large language models (LLMs) adjust their outputs based on neurodivergence (ND) context in system prompts and describe the nature of these adjustments. Specifically, we propose NDBench, a 576-output benchmark involving two frontier models, three system prompt types (baseline, ND-profile assertion, and ND-profile assertion with explicit instructions for adjustments), four canonical ND profiles, and 24 prompts acr",
+    "tier": 1
+  },
+  {
+    "title": "ViLegalNLI: Natural Language Inference for Vietnamese Legal Texts",
+    "url": "https://arxiv.org/abs/2605.00116",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00116v1 Announce Type: cross \nAbstract: In this article, we introduce ViLegalNLI, the first large-scale Vietnamese Natural Language Inference (NLI) dataset specifically constructed for the legal domain. The dataset consists of 42,012 premise-hypothesis pairs derived from official statutory documents and annotated with binary inference labels (Entailment and Non-entailment). It covers multiple legal domains and reflects realistic legal reasoning scenarios characterized by structured lo",
+    "tier": 1
+  },
+  {
+    "title": "Cultural Benchmarking of LLMs in Standard and Dialectal Arabic Dialogues",
+    "url": "https://arxiv.org/abs/2605.00119",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00119v1 Announce Type: cross \nAbstract: There is a significant gap in evaluating cultural reasoning in LLMs using conversational datasets that capture culturally rich and dialectal contexts. Most Arabic benchmarks focus on short text snippets in Modern Standard Arabic (MSA), overlooking the cultural nuances that naturally arise in dialogues. To address this gap, we introduce ArabCulture-Dialogue, a culturally grounded conversational dataset covering 13 Arabic-speaking countries, in bo",
+    "tier": 1
+  },
+  {
+    "title": "Smart Profit-Aware Crop Advisory System: Kisan AI",
+    "url": "https://arxiv.org/abs/2605.00133",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00133v1 Announce Type: cross \nAbstract: Modern crop advisory systems exhibit a critical limitation termed \\textit{economic blindness}. These systems primarily optimize for biological yield, often overlooking market price, which can lead farmers toward agronomically sound yet financially unviable decisions. In this paper, we develop Kisan AI, a smart profit-aware crop advisory system that resolves the above-mentioned limitation through a research-driven, full-stack application. We trai",
+    "tier": 1
+  },
+  {
+    "title": "Fair Dataset Distillation via Cross-Group Barycenter Alignment",
+    "url": "https://arxiv.org/abs/2605.00185",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00185v1 Announce Type: cross \nAbstract: Dataset Distillation aims to compress a large dataset into a small synthetic one while maintaining predictive performance. We show that as different demographic groups exhibit distinct predictive patterns, the distillation process struggles to simultaneously preserve informative signals for all subgroups, regardless of whether group sizes are mildly or severely imbalanced. Consequently, models trained on distilled data can experience substantial",
+    "tier": 1
+  },
+  {
+    "title": "The $\\textit{Silicon Society}$ Cookbook: Design Space of LLM-based Social Simulations",
+    "url": "https://arxiv.org/abs/2605.00197",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00197v1 Announce Type: cross \nAbstract: Studies attempting to simulate human behavior with $\\textit{Silicon Societies}$ grow in numbers while LLM-only social networks have started appearing outside of controlled settings. However, the design space of these networks remains under-studied, which contributes to a gap in validating model realism. To enable future works to make more informed design decisions, we perform a systematic analysis of the consequences and interactions of key desi",
+    "tier": 1
+  },
+  {
+    "title": "RSAT: Structured Attribution Makes Small Language Models Faithful Table Reasoners",
+    "url": "https://arxiv.org/abs/2605.00199",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00199v1 Announce Type: cross \nAbstract: When a language model answers a table question, users have no way to verify which cells informed which reasoning steps. We introduce RSAT, a method that trains small language models (SLMs, 1-8B) to produce step-by-step reasoning with cell-level citations grounded in table evidence. Phase 1 (SFT) teaches a structured JSON output format from verified reasoning traces. Phase 2 (GRPO) optimizes a composite reward centered on NLI-based faithfulness, ",
+    "tier": 1
+  },
+  {
+    "title": "Why Do LLMs Struggle in Strategic Play? Broken Links Between Observations, Beliefs, and Actions",
+    "url": "https://arxiv.org/abs/2605.00226",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00226v1 Announce Type: cross \nAbstract: Large language models (LLMs) are increasingly tasked with strategic decision-making under incomplete information, such as in negotiation and policymaking. While LLMs can excel at many such tasks, they also fail in ways that are poorly understood. We shed light on these failures by uncovering two fundamental gaps in the internal mechanisms underlying the decision-making of LLMs in incomplete-information games, supported by experiments with open-w",
+    "tier": 1
+  },
+  {
+    "title": "Attention Is Where You Attack",
+    "url": "https://arxiv.org/abs/2605.00236",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00236v1 Announce Type: cross \nAbstract: Safety-aligned large language models rely on RLHF and instruction tuning to refuse harmful requests, yet the internal mechanisms implementing safety behavior remain poorly understood. We introduce the Attention Redistribution Attack (ARA), a white-box adversarial attack that identifies safety-critical attention heads and crafts nonsemantic adversarial tokens that redirect attention away from safety-relevant positions. Unlike prior jailbreak meth",
+    "tier": 1
+  },
+  {
+    "title": "MAEPose: Self-Supervised Spatiotemporal Learning for Human Pose Estimation on mmWave Video",
+    "url": "https://arxiv.org/abs/2605.00242",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.00242v1 Announce Type: cross \nAbstract: Millimetre-wave (mmWave) radar offers a more privacy-preserving alternative to RGB-based human pose estimation. However, existing methods typically rely on pre-extracted intermediate representations such as sparse point clouds or spectrogram images, where the rich spatiotemporal information naturally present in radar video streams is discarded for model learning, while such signal processing adds system complexity. In addition, existing solution",
+    "tier": 1
+  }
+]
