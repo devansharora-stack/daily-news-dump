@@ -1,0 +1,191 @@
+[
+  {
+    "headline": "China's Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
+    "theme": "Funding & M&A",
+    "summary": "Chinese AI startup Moonshot AI closed a $2B round at a $20B valuation, with annualized recurring revenue topping $200M in April driven by paid subscriptions and API usage. This signals continued massive capital flows into Chinese AI companies and growing commercial traction for open-source AI models competing with Western incumbents."
+  },
+  {
+    "headline": "DeepSeek could hit $45B valuation from its first investment round",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+    "theme": "Funding & M&A",
+    "summary": "DeepSeek, the Chinese AI lab that trained competitive large language models at a fraction of the cost of US rivals, is targeting a $45B valuation in its first external funding round. This validates the efficiency-first approach to AI development and intensifies the US-China AI competition dynamic that boards need to track."
+  },
+  {
+    "headline": "SpaceX has a $55 billion plan to build AI chips in Texas",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips",
+    "theme": "Funding & M&A",
+    "summary": "SpaceX is planning to invest at least $55B into a 'Terafab' chip plant in Austin, Texas, with potential total investment reaching $119B across multiple phases. This vertically integrated semiconductor manufacturing play by Musk could reshape the AI compute supply chain and reduce dependence on existing chip foundries."
+  },
+  {
+    "headline": "Snap says its $400M deal with Perplexity 'amicably ended'",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+    "theme": "Funding & M&A",
+    "summary": "Snap's $400M deal to integrate Perplexity's AI search engine into Snapchat has collapsed, announced last November. This high-profile partnership failure raises questions about the durability of AI integration deals and whether consumer platforms can successfully embed third-party AI search into their products."
+  },
+  {
+    "headline": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird",
+    "source": "Wired AI",
+    "url": "https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/",
+    "theme": "AI Strategy",
+    "summary": "Anthropic signed a deal to use computing resources from Elon Musk's xAI, despite the companies being competitors. This unusual arrangement highlights the extreme scarcity of AI compute capacity and how it's forcing strange bedfellows — a dynamic C-suites should watch as compute access becomes the key strategic bottleneck."
+  },
+  {
+    "headline": "Is xAI a neocloud now?",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+    "theme": "AI Strategy",
+    "summary": "xAI's business may be pivoting from AI model training to data center infrastructure and cloud services, effectively becoming a compute provider. This signals a potential new competitive layer in the AI stack where model companies leverage their infrastructure investments to become cloud providers, challenging hyperscalers."
+  },
+  {
+    "headline": "How frontier firms are pulling ahead",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/introducing-b2b-signals",
+    "theme": "AI Strategy",
+    "summary": "OpenAI's B2B Signals research shows how 'frontier enterprises' are deepening AI adoption, scaling Codex-powered agentic workflows, and building durable competitive advantage over peers. This is a direct data point on the AI Value Gap — the widening chasm between organizations that scale AI effectively and those stuck in pilot mode."
+  },
+  {
+    "headline": "Five architects of the AI economy explain where the wheels are coming off",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
+    "theme": "AI Strategy",
+    "summary": "At the Milken Institute conference, five leaders across the AI supply chain discussed structural risks including chip shortages, data center constraints, and the possibility that AI's underlying architecture may be fundamentally flawed. The conversation spanned orbital data centers to infrastructure bottlenecks — essential context for investment and strategy decisions."
+  },
+  {
+    "headline": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/singular-bank",
+    "theme": "Enterprise ROI",
+    "summary": "Singular Bank built an internal AI assistant using ChatGPT and Codex that saves bankers 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up. This is a concrete enterprise ROI case study in financial services showing measurable time savings from AI deployment at the workflow level."
+  },
+  {
+    "headline": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
+    "theme": "AI Workforce Impact",
+    "summary": "Match Group is explicitly slowing hiring because AI tools 'cost a lot of money,' directly trading headcount budget for AI spending. This is a clear signal of how AI adoption is restructuring corporate cost structures — not just replacing jobs, but redirecting hiring budgets to fund AI infrastructure."
+  },
+  {
+    "headline": "Aurora's Chris Urmson on why self-driving trucks are finally ready to scale",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/podcast/auroras-chris-urmson-on-why-self-driving-trucks-are-finally-ready-to-scale/",
+    "theme": "AI Strategy",
+    "summary": "Aurora started commercial driverless truck operations last April on the Dallas-Houston corridor and is scaling from a handful to hundreds of trucks this year. After a decade of 'almost here' promises, this represents a concrete scaling milestone in autonomous logistics that could reshape freight economics."
+  },
+  {
+    "headline": "OpenAI begins testing ads in ChatGPT",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "theme": "AI Strategy",
+    "summary": "OpenAI is testing advertisements in ChatGPT to support free access, with labeled ads, privacy protections, and user controls. This represents a major business model shift for the AI leader, opening a new revenue stream that could affect the digital advertising market and how enterprises think about their AI provider's incentives."
+  },
+  {
+    "headline": "Elon Musk's lawsuit is putting OpenAI's safety record under the microscope",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+    "theme": "AI Risk",
+    "summary": "The Musk v. Altman trial is exposing OpenAI's internal safety practices to public scrutiny, raising the question of whether any CEO can be trusted to responsibly develop superintelligence. The trial's revelations could influence both regulation and enterprise trust in AI providers."
+  },
+  {
+    "headline": "Mira Murati tells the court that she couldn't trust Sam Altman's words",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati",
+    "theme": "AI Risk",
+    "summary": "OpenAI's former CTO Mira Murati testified under oath that Sam Altman lied to her about whether a new AI model needed safety board review before deployment. This sworn testimony about safety process shortcuts at the world's leading AI company has significant implications for enterprise customers evaluating AI vendor governance."
+  },
+  {
+    "headline": "Google shuts down Project Mariner",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/tech/925559/google-project-mariner-shut-down",
+    "theme": "Agentic AI",
+    "summary": "Google has shut down Project Mariner, its experimental web-browsing AI agent launched in December 2024 that could perform tasks across the web. The technology has been folded into other Google products, but the shutdown highlights the difficulty of scaling autonomous web agents and may signal that agentic AI for consumers remains premature."
+  },
+  {
+    "headline": "Thousands of Vibe-Coded Apps Expose Corporate and Personal Data on the Open Web",
+    "source": "Wired AI",
+    "url": "https://www.wired.com/story/thousands-of-vibe-coded-apps-expose-corporate-and-personal-data-on-the-open-web/",
+    "theme": "AI Risk",
+    "summary": "Platforms like Lovable, Replit, and Netlify that let anyone build web apps with AI in seconds have resulted in thousands of cases where highly sensitive corporate and personal data is publicly exposed. This is a textbook Shadow AI risk — employees 'vibe coding' apps without security review, creating massive data exposure liabilities."
+  },
+  {
+    "headline": "Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows",
+    "source": "Wired AI",
+    "url": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/",
+    "theme": "Research to Business",
+    "summary": "New research suggests that even brief reliance on AI assistants can measurably reduce people's independent thinking and problem-solving abilities. For organizations deploying AI broadly, this raises concerns about cognitive skill atrophy in the workforce — a hidden cost of AI adoption that could affect long-term human capital."
+  },
+  {
+    "headline": "How Anthropic's Mythos has rewritten Firefox's approach to cybersecurity",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
+    "theme": "Enterprise ROI",
+    "summary": "Mozilla reports that Anthropic's Mythos model has uncovered a wealth of high-severity security bugs in Firefox's codebase. This demonstrates a concrete, high-value enterprise use case for AI in cybersecurity — automated vulnerability discovery at scale that could reshape how organizations approach software security."
+  },
+  {
+    "headline": "How David Sacks crashed and burned in the White House",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review",
+    "theme": "Regulatory",
+    "summary": "AI and Crypto Czar David Sacks appears to have lost influence within the Trump administration, with implications for the direction of federal AI policy including model review processes. Business leaders tracking US AI regulation should note the apparent power vacuum in White House AI policy coordination."
+  },
+  {
+    "headline": "Apple Will Pay $250 Million to Settle Lawsuit Over Siri's AI Features",
+    "source": "Wired AI",
+    "url": "https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features/",
+    "theme": "Regulatory",
+    "summary": "Apple is paying $250M to settle a lawsuit over Siri's AI features, with iPhone 15 and 16 owners in the US eligible for up to $95 per device. This sets a costly precedent for AI feature liability and signals growing legal risk for companies deploying AI capabilities in consumer products."
+  },
+  {
+    "headline": "ChatGPT's 'Trusted Contact' will alert loved ones of safety concerns",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification",
+    "theme": "AI Ethics & Trust",
+    "summary": "OpenAI is launching a 'Trusted Contact' feature that notifies a designated emergency contact if ChatGPT detects discussions of self-harm or suicide. This reflects growing pressure on AI companies to address mental health risks, particularly after high-profile incidents linking chatbot interactions to user harm."
+  },
+  {
+    "headline": "Barry Diller trusts Sam Altman. But 'trust is irrelevant' as AGI nears, he says.",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+    "theme": "AI Ethics & Trust",
+    "summary": "Media mogul Barry Diller defended Altman personally while warning that individual trust in any CEO is irrelevant when it comes to AGI — structural guardrails are what matter. This framing from a prominent business leader captures the emerging consensus that AI governance cannot depend on personal trust."
+  },
+  {
+    "headline": "Apple's AirPods with cameras for AI are apparently close to production",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production",
+    "theme": "Model & Platform",
+    "summary": "Apple's rumored AirPods with low-resolution cameras for visual AI processing are nearing production validation testing, per Bloomberg. This signals Apple's strategy to embed ambient AI sensing into wearables, potentially creating a new platform for AI-powered contextual awareness that could reshape the wearables and AI assistant markets."
+  },
+  {
+    "headline": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/alphaevolve-impact/",
+    "theme": "Agentic AI",
+    "summary": "Google DeepMind reports that AlphaEvolve, its Gemini-powered coding agent, is driving measurable impact across business, infrastructure, and science domains. This is a significant proof point for agentic AI moving from demos to production value, relevant to any enterprise evaluating coding agent adoption."
+  },
+  {
+    "headline": "Curated AI beats frontier LLMs at pharma asset discovery",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2605.04908",
+    "theme": "Research to Business",
+    "summary": "A benchmarking study shows that a curated AI platform with structured drug-asset annotations outperforms Claude Opus 4.7, GPT 5.5, Gemini 3.1 Pro, and Perplexity on pharmaceutical pipeline scouting for niche oncology/immunology targets. For pharma executives, this suggests that domain-specific curated AI may deliver superior results to general-purpose frontier models for competitive intelligence."
+  },
+  {
+    "headline": "Spotify wants to become the home for AI-generated personal audio",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
+    "theme": "AI Strategy",
+    "summary": "Spotify is positioning itself as the distribution platform for AI-generated podcasts and audio summaries, letting users import content created by tools like Codex and Claude Code. This platform play could redefine content creation economics and raise new questions about AI-generated content's impact on creator businesses."
+  },
+  {
+    "headline": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
+    "theme": "Funding & M&A",
+    "summary": "Genesis AI, which raised a $105M seed round for foundational AI robotics, unveiled its GENE-26.5 model and demonstrated robotic hands performing complex tasks. This full-stack approach — combining foundation models with hardware — represents the emerging investment thesis that AI robotics is ready for commercial deployment."
+  }
+]
