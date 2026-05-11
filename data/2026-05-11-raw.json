@@ -1,0 +1,802 @@
+[
+  {
+    "title": "Digg tries again, this time as an AI news aggregator",
+    "url": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Mon, 11 May 2026 17:02:35 +0000",
+    "snippet": "Digg returns (again) as another place to read AI news.",
+    "tier": 1
+  },
+  {
+    "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
+    "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Mon, 11 May 2026 13:00:00 +0000",
+    "snippet": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and they're too expensive.",
+    "tier": 1
+  },
+  {
+    "title": "Get ready for the whisper-filled office of the future",
+    "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Sun, 10 May 2026 21:15:30 +0000",
+    "snippet": "How will work setups change if we spend more and more time talking to our computers?",
+    "tier": 1
+  },
+  {
+    "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+    "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Sun, 10 May 2026 20:40:41 +0000",
+    "snippet": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+    "tier": 1
+  },
+  {
+    "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
+    "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Sun, 10 May 2026 15:34:25 +0000",
+    "snippet": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
+    "tier": 1
+  },
+  {
+    "title": "Voice AI in India is hard — Wispr Flow is betting on it anyway",
+    "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Sun, 10 May 2026 02:00:00 +0000",
+    "snippet": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
+    "tier": 1
+  },
+  {
+    "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+    "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Sat, 09 May 2026 21:45:00 +0000",
+    "snippet": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "tier": 1
+  },
+  {
+    "title": "Three things in AI to watch, according to a Nobel-winning economist",
+    "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Mon, 11 May 2026 17:35:12 +0000",
+    "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon Valley. Contrary to what Big Tech…",
+    "tier": 1
+  },
+  {
+    "title": "Fostering breakthrough AI innovation through customer-back engineering",
+    "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Mon, 11 May 2026 13:33:06 +0000",
+    "snippet": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs and working backward to technology solutions. Not prioritizing the customer can create fragmented solutions; disjointed…",
+    "tier": 1
+  },
+  {
+    "title": "Innovation abounds in device charging",
+    "url": "https://www.technologyreview.com/2026/05/11/1136406/innovation-abounds-in-device-charging/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Mon, 11 May 2026 13:00:00 +0000",
+    "snippet": "The changes may be less perceptible than in smartphones, tablets, or wearables, but chargers have also been quietly reinvented over the last decade. At one time a bulky mix of tangled cables and connectors, slow to perform and prone to overheating, they’re now smaller, safer, and faster, thanks to a slew of technological advances. These…",
+    "tier": 1
+  },
+  {
+    "title": "Implementing advanced AI technologies in finance",
+    "url": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Mon, 11 May 2026 13:00:00 +0000",
+    "snippet": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact. The result is a paradox: one of the most tightly regulated functions…",
+    "tier": 1
+  },
+  {
+    "title": "The Download: the hantavirus outbreak and Musk v. Altman week 2",
+    "url": "https://www.technologyreview.com/2026/05/11/1137031/the-download-hantavirus-outbreak-musk-altman-trial/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Mon, 11 May 2026 12:10:00 +0000",
+    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s what you need to know about the cruise ship hantavirus outbreak Last week, eight passengers aboard a Dutch-flagged cruise ship contracted a type of hantavirus transmitted by rats. Three have…",
+    "tier": 1
+  },
+  {
+    "title": "Google stopped a zero-day hack that it says was developed with AI",
+    "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+    "source": "The Verge AI",
+    "publishedAt": "2026-05-11T16:09:42.000Z",
+    "snippet": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent cyber crime threat actors\" were planning to use the vulnerability for a \"mass exploitation event\" that would have allowed them to bypass two-factor authentication on an unnamed \"open-source, web-based system administration tool.\" \nGoogle's researchers found hints in the Python script used for the exploit that indicated hel",
+    "tier": 1
+  },
+  {
+    "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+    "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+    "source": "The Verge AI",
+    "publishedAt": "2026-05-11T15:27:12.000Z",
+    "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. \nElon Musk, his financial manager and Neuralink CEO, Jared Birchall, and OpenAI cofounder Greg Brockman have already testified before the jury. Shivon Zilis, a former OpenAI board member who ",
+    "tier": 1
+  },
+  {
+    "title": "Joanna Stern is not a robot, but she lived with them",
+    "url": "https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation",
+    "source": "The Verge AI",
+    "publishedAt": "2026-05-11T14:00:00.000Z",
+    "snippet": "My guest today is longtime friend of the show Joanna Stern. You all know Joanna: she is the former senior personal technology columnist for The Wall Street Journal, a former Decoder guest host, one of my cofounders here at The Verge, and also just one of my very closest friends.\nI mention that because Joanna just left that lofty perch at The Journal to start her own media company called New Things. She’s starting with her new book about AI, called I Am Not a Robot, which is out this week on May ",
+    "tier": 1
+  },
+  {
+    "title": "CUDA Proves Nvidia Is a Software Company",
+    "url": "https://www.wired.com/story/cuda-proves-nvidia-is-a-software-company/",
+    "source": "Wired AI",
+    "publishedAt": "Mon, 11 May 2026 10:00:00 +0000",
+    "snippet": "There’s a deep, forbidding moat that surrounds Nvidia—and it has nothing to do with hardware.",
+    "tier": 1
+  },
+  {
+    "title": "I Work in Hollywood. Everyone Who Used to Make TV Is Now Secretly Training AI",
+    "url": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
+    "source": "Wired AI",
+    "publishedAt": "Mon, 11 May 2026 10:00:00 +0000",
+    "snippet": "For screenwriters like me—and job seekers all over—AI gig work is the new waiting tables. In eight months, I’ve done 20 of these soul-crushing contracts for five different platforms. It’s bad.",
+    "tier": 1
+  },
+  {
+    "title": "How enterprises are scaling AI",
+    "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+    "source": "OpenAI Blog",
+    "publishedAt": "Mon, 11 May 2026 10:00:00 GMT",
+    "snippet": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+    "tier": 1
+  },
+  {
+    "title": "OpenAI Campus Network: Student club interest form",
+    "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+    "source": "OpenAI Blog",
+    "publishedAt": "Mon, 11 May 2026 10:00:00 GMT",
+    "snippet": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+    "tier": 1
+  },
+  {
+    "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+    "url": "https://openai.com/index/openai-launches-the-deployment-company",
+    "source": "OpenAI Blog",
+    "publishedAt": "Mon, 11 May 2026 06:00:00 GMT",
+    "snippet": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
+    "tier": 1
+  },
+  {
+    "title": "GraphDC: A Divide-and-Conquer Multi-Agent System for Scalable Graph Algorithm Reasoning",
+    "url": "https://arxiv.org/abs/2605.06671",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.06671v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have demonstrated strong potential for many mathematical problems. However, their performance on graph algorithmic tasks is still unsatisfying, since graphs are naturally more complex in topology and often require systematic multi-step reasoning, especially on larger graphs. Motivated by this gap, we propose GraphDC, a Divide-and-Conquer multi-agent framework for scalable graph algorithm reasoning. Specifically, inspir",
+    "tier": 1
+  },
+  {
+    "title": "More Thinking, More Bias: Length-Driven Position Bias in Reasoning Models",
+    "url": "https://arxiv.org/abs/2605.06672",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.06672v1 Announce Type: new \nAbstract: Chain-of-thought (CoT) reasoning and reasoning-tuned models such as DeepSeek-R1 are commonly assumed to reduce shallow heuristic biases by thinking carefully. We test this on position bias in multiple-choice QA and find a different story: within any reasoning-capable model, per-question position bias scales with the length of the reasoning trajectory.\n  Across thirteen reasoning-mode configurations (two R1-distilled 7-8B models, two base models pr",
+    "tier": 1
+  },
+  {
+    "title": "Fast and Effective Redistricting Optimization via Composite-Move Tabu Search",
+    "url": "https://arxiv.org/abs/2605.06682",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.06682v1 Announce Type: new \nAbstract: Spatial redistricting is a practical combinatorial optimization problem that demands high-quality solutions, rapid turnaround, and flexibility to accommodate multi-criteria objectives and interactive refinement. A central challenge is the contiguity constraint: enforcing contiguity in integer-programming or heuristic search can severely shrink the feasible neighborhood, weaken exploration, and trap the search in poor local optima. We introduce a c",
+    "tier": 1
+  },
+  {
+    "title": "State Representation and Termination for Recursive Reasoning Systems",
+    "url": "https://arxiv.org/abs/2605.06690",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.06690v1 Announce Type: new \nAbstract: Recursive reasoning systems alternate between acquiring new evidence and refining an accumulated understanding. Two design choices are typically left implicit: how to represent the evolving reasoning state, and when to stop iterating. This paper addresses both. We represent the reasoning state as an epistemic state graph encoding extracted claims, evidential relations, open questions, and confidence weights. We define the order-gap as the distance",
+    "tier": 1
+  },
+  {
+    "title": "Hidden Coalitions in Multi-Agent AI: A Spectral Diagnostic from Internal Representations",
+    "url": "https://arxiv.org/abs/2605.06696",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.06696v1 Announce Type: new \nAbstract: Collections of interacting AI agents can form coalitions, creating emergent group-level organization that is critical for AI safety and alignment. However, observing agent behavior alone is often insufficient to distinguish genuine informational coupling from spurious similarity, as consequential coalitions may form at the level of internal representations before any overt behavioral change is apparent. Here, we introduce a practical method for de",
+    "tier": 1
+  },
+  {
+    "title": "CASCADE: Case-Based Continual Adaptation for Large Language Models During Deployment",
+    "url": "https://arxiv.org/abs/2605.06702",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.06702v1 Announce Type: new \nAbstract: Large language models (LLMs) have become a central foundation of modern artificial intelligence, yet their lifecycle remains constrained by a rigid separation between training and deployment, after which learning effectively ceases. This limitation contrasts with natural intelligence, which continually adapts through interaction with its environment. In this paper, we formalise deployment-time learning (DTL) as the third stage in the LLM lifecycle",
+    "tier": 1
+  },
+  {
+    "title": "From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms",
+    "url": "https://arxiv.org/abs/2605.06716",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.06716v1 Announce Type: new \nAbstract: Large Language Model (LLM)-based agents have fundamentally reshaped artificial intelligence by integrating external tools and planning capabilities. While memory mechanisms have emerged as the architectural cornerstone of these systems, current research remains fragmented, oscillating between operating system engineering and cognitive science. This theoretical divide prevents a unified view of technological synthesis and a coherent evolutionary pe",
+    "tier": 1
+  },
+  {
+    "title": "When Does a Language Model Commit? A Finite-Answer Theory of Pre-Verbalization Commitment",
+    "url": "https://arxiv.org/abs/2605.06723",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.06723v1 Announce Type: new \nAbstract: Language models often generate reasoning before giving a final answer, but the visible answer does not reveal when the model's answer preference became stable. We study this question through a narrow computable object: \\emph{finite-answer preference stabilization}. For a model state and specified answer verbalizers, we project the model's own continuation probabilities onto a finite answer set; in binary tasks this yields an exact log-odds code, $",
+    "tier": 1
+  },
+  {
+    "title": "Weblica: Scalable and Reproducible Training Environments for Visual Web Agents",
+    "url": "https://arxiv.org/abs/2605.06761",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.06761v1 Announce Type: new \nAbstract: The web is complex, open-ended, and constantly changing, making it challenging to scale training data for visual web agents. Existing data collection attempts remain limited to offline trajectories for supervised fine-tuning or a handful of simulated environments for RL training, thus failing to capture web diversity. We propose Weblica (Web Replica), a framework for constructing reproducible and scalable web environments. Our framework leverages ",
+    "tier": 1
+  },
+  {
+    "title": "When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning",
+    "url": "https://arxiv.org/abs/2605.06772",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.06772v1 Announce Type: new \nAbstract: As large language models (LLMs) show increasing promise on research-level physics reasoning tasks and agentic AI becomes more common, a practical question emerges: How does the interaction between researchers and agents affect the results? We study this using SCALAR (Structured Critic--Actor Loop for AI Reasoning), an Actor--Critic--Judge pipeline applied to quantum field theory and string theory problems. The Actor proposes solutions, the Critic ",
+    "tier": 1
+  },
+  {
+    "title": "Towards Security-Auditable LLM Agents: A Unified Graph Representation",
+    "url": "https://arxiv.org/abs/2605.06812",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.06812v1 Announce Type: new \nAbstract: LLM-based agentic systems are rapidly evolving to perform complex autonomous tasks through dynamic tool invocation, stateful memory management, and multi-agent collaboration. However, this semantics-driven execution paradigm creates a severe semantic gap between low-level physical events and high-level execution intent, making post-hoc security auditing fundamentally difficult. Existing representation mechanisms, including static SBOMs and runtime",
+    "tier": 1
+  },
+  {
+    "title": "Uneven Evolution of Cognition Across Generations of Generative AI Models",
+    "url": "https://arxiv.org/abs/2605.06815",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.06815v1 Announce Type: new \nAbstract: The pursuit of artificial general intelligence necessitates robust methods for evaluating the cognitive capabilities of models beyond narrow task performance. Here, we introduce a psychometric framework to assess the cognitive profiles of generative AI, comparing them to human norms and tracking their evolution across generations. Initial evaluation of leading multimodal models using tasks adapted from the Wechsler Adult Intelligence Scale reveale",
+    "tier": 1
+  },
+  {
+    "title": "Randomness is sometimes necessary for coordination",
+    "url": "https://arxiv.org/abs/2605.06825",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.06825v1 Announce Type: new \nAbstract: Full parameter sharing is standard in cooperative multi-agent reinforcement learning (MARL) for homogeneous agents. Under permutation-symmetric observations, however, a shared deterministic policy outputs identical action distributions for every agent, making role differentiation impossible. This failure can theoretically be resolved using symmetry breaking among anonymous identical processors, which requires randomness. We propose Diamond Attenti",
+    "tier": 1
+  },
+  {
+    "title": "Extracting Search Trees from LLM Reasoning Traces Reveals Myopic Planning",
+    "url": "https://arxiv.org/abs/2605.06840",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.06840v1 Announce Type: new \nAbstract: Large language models (LLMs), especially reasoning models, generate extended chain-of-thought (CoT) reasoning that often contains explicit deliberation over future outcomes. Yet whether this deliberation constitutes genuine planning, how it is structured, and what aspects of it drive performance remain poorly understood. In this work, we introduce a new method to characterize LLM planning by extracting and quantifying search trees from reasoning t",
+    "tier": 1
+  },
+  {
+    "title": "AGWM: Affordance-Grounded World Models for Environments with Compositional Prerequisites",
+    "url": "https://arxiv.org/abs/2605.06841",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.06841v1 Announce Type: new \nAbstract: In model-based learning, the agent learns behaviors by simulating trajectories based on world model predictions. Standard world models typically learn a stationary transition function that maps states and actions to next states, when an action and an outcome frequently co-occur in training data, the model tends to internalize this correlation as a general causal rule while ignoring action preconditions. In interactive environments, however, agent ",
+    "tier": 1
+  },
+  {
+    "title": "Agentick: A Unified Benchmark for General Sequential Decision-Making Agents",
+    "url": "https://arxiv.org/abs/2605.06869",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.06869v1 Announce Type: new \nAbstract: AI agent research spans a wide spectrum: from RL agents that learn from scratch to foundation model agents that leverage pre-trained knowledge, yet no unified benchmark enables fair comparison across these approaches. We present Agentick, a benchmark for sequential decision-making agents designed to evaluate RL, LLM, VLM, hybrid, and human agents on common ground and to power research on the fundamental challenges of sequential decision-making. Ag",
+    "tier": 1
+  },
+  {
+    "title": "How Well Do LLMs Perform on the Simplest Long-Chain Reasoning Tasks: An Empirical Study on the Equivalence Class Problem",
+    "url": "https://arxiv.org/abs/2605.06882",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.06882v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have achieved great improvements in recent years. Nevertheless, it still remains unclear how good LLMs are for reasoning tasks, especially for long-chain ones. In this paper, we evaluate LLMs' performance on the simplest yet long-chain reasoning task, namely the Equivalence Class Problem (ECP), i.e., determining whether two variables are equal given a set of randomly generated equivalence relations. We consider both re",
+    "tier": 1
+  },
+  {
+    "title": "Beyond the Black Box: Interpretability of Agentic AI Tool Use",
+    "url": "https://arxiv.org/abs/2605.06890",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.06890v1 Announce Type: new \nAbstract: AI agents are promising for high-stakes enterprise workflows, but dependable deployment remains limited because tool-use failures are difficult to diagnose and control. Agents may skip required tool calls, invoke tools unnecessarily, or take actions whose consequence becomes visible only after execution. Existing observability methods are mostly external: prompts reveal correlations, evaluations score outputs, and logs arrive only after the model ",
+    "tier": 1
+  },
+  {
+    "title": "Mitigating Cognitive Bias in RLHF by Altering Rationality",
+    "url": "https://arxiv.org/abs/2605.06895",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.06895v1 Announce Type: new \nAbstract: How can we make models robust to even imperfect human feedback? In reinforcement learning from human feedback (RLHF), human preferences over model outputs are used to train a reward model that assigns scalar values to responses. Because these rewards are inferred from pairwise comparisons, this learning depends on an assumed relationship between latent reward differences and observed preferences, typically modeled using a Boltzmann formulation in ",
+    "tier": 1
+  },
+  {
+    "title": "Self-Programmed Execution for Language-Model Agents",
+    "url": "https://arxiv.org/abs/2605.06898",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.06898v1 Announce Type: new \nAbstract: At the heart of existing language model agents is a fixed orchestrator program responsible for the state transition between consecutive turns. This paper introduces self-programmed execution (SPE), an agent architecture in which the model completion is itself the orchestrator program, and the harness evaluates this program but does not impose its own orchestration policy. I formalize this idea using agentic machines: an SPE state is one from which",
+    "tier": 1
+  },
+  {
+    "title": "Multi-Objective Constraint Inference using Inverse reinforcement learning",
+    "url": "https://arxiv.org/abs/2605.06951",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.06951v1 Announce Type: new \nAbstract: Constraint inference is widely considered essential to align reinforcement learning agents with safety boundaries and operational guidelines by observing expert demonstrations. However, existing approaches typically assume homogeneous demonstrations (i.e., generated by a single expert or multiple experts with identical objectives). They also have limited ability to capture individual preferences and often suffer from computational inefficiencies. ",
+    "tier": 1
+  },
+  {
+    "title": "Learning and Reusing Policy Decompositions for Hierarchical Generalized Planning with LLM Agents",
+    "url": "https://arxiv.org/abs/2605.06957",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.06957v1 Announce Type: new \nAbstract: We present a dynamic policy-learning approach that combines generalized planning and hierarchical task decomposition for LLM-based agents. Our method, Hierarchical Component Learning for Generalized Policies (HCL-GP ), learns parameterized policies that generalize across task instances and automatically extracts reusable components from successful executions, organizing them into a component library for compositional policy generation. We address ",
+    "tier": 1
+  },
+  {
+    "title": "Optimal Experiments for Partial Causal Effect Identification",
+    "url": "https://arxiv.org/abs/2605.06993",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.06993v1 Announce Type: new \nAbstract: Causal queries are often only partially identifiable from observational data, and experiments that could tighten the resulting bounds are typically costly. We study the problem of selecting, prior to observing experimental outcomes, a cost-constrained subset of experiments that maximally tightens bounds on a target query. We formalize this as the max-potency problem, where epistemic potency measures the worst-case reduction in bound width guarante",
+    "tier": 1
+  },
+  {
+    "title": "Adaptive auditing of AI systems with anytime-valid guarantees",
+    "url": "https://arxiv.org/abs/2605.07002",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07002v1 Announce Type: new \nAbstract: A major bottleneck in characterizing the failure modes of generative AI systems is the cost and time of annotation and evaluation. Consequently, adaptive testing paradigms have gained popularity, where one opportunistically decides which cases and how many to annotate based on past results. While this framework is highly practical, its extreme flexibility makes it difficult to draw statistically rigorous conclusions, as it violates classical assum",
+    "tier": 1
+  },
+  {
+    "title": "Behavior Cue Reasoning: Monitorable Reasoning Improves Efficiency and Safety through Oversight",
+    "url": "https://arxiv.org/abs/2605.07021",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07021v1 Announce Type: new \nAbstract: Reasoning in Large Language Models (LLMs) poses a challenge for oversight as many misaligned behaviors do not surface until reasoning concludes. To address this, we introduce Behavior Cue Reasoning for making LLM reasoning more controllable and monitorable. Behavior Cues are special token sequences that a model is trained to emit immediately before specific implicit and explicit behaviors, acting as dual purpose signal and control levers. When fin",
+    "tier": 1
+  },
+  {
+    "title": "The Context Gathering Decision Process: A POMDP Framework for Agentic Search",
+    "url": "https://arxiv.org/abs/2605.07042",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07042v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents are deployed in complex environments -- such as massive codebases, enterprise databases, and conversational histories -- where the relevant state far exceeds their context windows. To navigate these spaces, an agent must iteratively explore the environment to find relevant information. However, without explicit infrastructure, an agent's working memory can degrade into lossy representations of the search state, re",
+    "tier": 1
+  },
+  {
+    "title": "2.5-D Decomposition for LLM-Based Spatial Construction",
+    "url": "https://arxiv.org/abs/2605.07066",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07066v1 Announce Type: new \nAbstract: Autonomous systems that build structures from natural-language instructions need reliable spatial reasoning, yet large language models (LLMs) make systematic coordinate errors when generating three-dimensional block placements. We present a neuro-symbolic pipeline based on \\emph{2.5-D decomposition}: the LLM plans in the two-dimensional horizontal plane while a deterministic executor computes all vertical placement from column occupancy, eliminati",
+    "tier": 1
+  },
+  {
+    "title": "TeamBench: Evaluating Agent Coordination under Enforced Role Separation",
+    "url": "https://arxiv.org/abs/2605.07073",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07073v1 Announce Type: new \nAbstract: Agent systems often decompose a task across multiple roles, but these roles are typically specified by prompts rather than enforced by access controls. Without enforcement, a team pass rate can mask whether agents actually coordinated or whether one role effectively did another role's work. We present TeamBench, a benchmark with 851 task templates and 931 seeded instances for evaluating agent coordination under operating system-enforced role separ",
+    "tier": 1
+  },
+  {
+    "title": "Online Allocation with Unknown Shared Supply",
+    "url": "https://arxiv.org/abs/2605.07080",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07080v1 Announce Type: new \nAbstract: Many real-world resource allocation systems, such as humanitarian logistics and vaccine distribution, must preposition limited supply across multiple locations before demand is realized while stockouts incur irreversible service losses. To study this, we introduce the Online Shared Supply Allocation (OSSA) problem, a stateful online model in which a central hub allocates a finite, unknown supply to multiple sites facing sequential demand under fix",
+    "tier": 1
+  },
+  {
+    "title": "ARMOR: An Agentic Framework for Reaction Feasibility Prediction via Adaptive Utility-aware Multi-tool Reasoning",
+    "url": "https://arxiv.org/abs/2605.07103",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07103v1 Announce Type: new \nAbstract: Reaction feasibility prediction, as a fundamental problem in computational chemistry, has benefited from diverse tools enabled by recent advances in artificial intelligence, particularly large language models. However, the performance of individual tools varies substantially across reactions, making it difficult for any single tool to consistently perform well across all cases. This raises a critical challenge: how to effectively leverage multiple",
+    "tier": 1
+  },
+  {
+    "title": "Switchcraft: AI Model Router for Agentic Tool Calling",
+    "url": "https://arxiv.org/abs/2605.07112",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07112v1 Announce Type: new \nAbstract: Agentic AI systems that invoke external tools are powerful but costly, leading developers to default to large models and overspend inference budgets. Model routing can mitigate this, but existing routers are designed for chat completion rather than tool use. We present Switchcraft, the first (to the best of our knowledge) model router optimized for agentic tool calling. Switchcraft operates inline, selecting the lowest-cost model subject to correc",
+    "tier": 1
+  },
+  {
+    "title": "AdaTKG: Adaptive Memory for Temporal Knowledge Graph Reasoning",
+    "url": "https://arxiv.org/abs/2605.07121",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07121v1 Announce Type: new \nAbstract: Temporal knowledge graphs (TKGs) represent time-stamped relational facts and support a wide range of reasoning tasks over evolving events. However, existing methods produce entity representations that are static at the entity level, in that each representation is a function of learned parameters only and retains no trace of the interactions in which the entity has participated. In this paper, we depart from this static view and propose that each e",
+    "tier": 1
+  },
+  {
+    "title": "Can You Break RLVER? Probing Adversarial Robustness of RL-Trained Empathetic Agents",
+    "url": "https://arxiv.org/abs/2605.07138",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07138v1 Announce Type: new \nAbstract: Reinforcement learning from verifiable emotion rewards RLVER has produced language models with strong empathetic performance, evaluated on benchmarks that assume cooperative, honest users. Yet real emotional interactions systematically violate this assumption: users gaslight, escalate, and pressure AI systems for unconditional validation, dynamics that cooperative benchmarks cannot surface. We construct the Adversarial Empathy Benchmark AEB and in",
+    "tier": 1
+  },
+  {
+    "title": "SREGym: A Live Benchmark for AI SRE Agents with High-Fidelity Failure Scenarios",
+    "url": "https://arxiv.org/abs/2605.07161",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07161v1 Announce Type: new \nAbstract: AI agents are increasingly used to diagnose and mitigate failures in production systems, known as agentic Site Reliability Engineering (SRE). Current SRE benchmarks are limited to oversimplistic SRE tasks and are unfortunately hard to extend due to bespoke designs. We present SREGym, a high-fidelity benchmark for SRE agents. SREGym exposes a live system environment built atop real-world cloud-native system stacks, where high-fidelity failure scena",
+    "tier": 1
+  },
+  {
+    "title": "Repeated Deceptive Path Planning against Learnable Observer",
+    "url": "https://arxiv.org/abs/2605.07174",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07174v1 Announce Type: new \nAbstract: We study the problem of deceptive path planning (DPP), where an agent aims to conceal its true destination from external observers. While existing work assumes static, non-learning observers, real-world adversaries-such as in critical goods transportation or military operations-can adapt by learning from historical trajectories. To address this gap, we introduce Repeated Deceptive Path Planning (RDPP), a new formulation that explicitly models lear",
+    "tier": 1
+  },
+  {
+    "title": "Three-in-One World Model: Energy-Based Consistency, Prediction, and Counterfactual Inference for Marketing Intervention",
+    "url": "https://arxiv.org/abs/2605.07199",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07199v1 Announce Type: new \nAbstract: Marketing decisions reflect the interaction of latent consumer heterogeneity, time-varying internal states, and explicit interventions, a structure that current prediction- and language-oriented models do not capture in a unified manner. We propose a Three-in-One world-model architecture in which a Deep Boltzmann Machine (DBM) learns a frozen belief representation from demographics, time, and lagged actions and outcomes, with lightweight task-spec",
+    "tier": 1
+  },
+  {
+    "title": "Towards Autonomous Business Intelligence via Data-to-Insight Discovery Agent",
+    "url": "https://arxiv.org/abs/2605.07202",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07202v1 Announce Type: new \nAbstract: Transforming fragmented enterprise data into actionable insights remains a significant challenge for LLMs, constrained by complex database schemas, limitations in dynamic SQL generation, and the need for deep multi-dimensional analysis.In this paper, we propose AIDA(Autonomous Insight Discovery Agent), the first end-to-end framework designed for autonomous exploration in complex business environments. We establish a highly flexible instant retail ",
+    "tier": 1
+  },
+  {
+    "title": "HMACE: Heterogeneous Multi-Agent Collaborative Evolution for Combinatorial Optimization",
+    "url": "https://arxiv.org/abs/2605.07214",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07214v1 Announce Type: new \nAbstract: Large Language Models have recently emerged as a promising paradigm for automated heuristic design for NP-hard combinatorial optimization problems. Despite this progress, existing LLM-based methods typically rely on monolithic workflows constrained by rigid templates, thereby restricting memory-guided exploration and triggering premature convergence to local optima. To design an autonomous and collaborative architecture, we introduce HMACE, a Hete",
+    "tier": 1
+  },
+  {
+    "title": "MEMOREPAIR: Barrier-First Cascade Repair in Agentic Memory",
+    "url": "https://arxiv.org/abs/2605.07242",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07242v1 Announce Type: new \nAbstract: Agentic memory evolves across tasks into durable derived artifacts: summaries, cached outputs, embeddings, learned skills, and executable tool procedures. When a source artifact is deleted, corrected, or invalidated by tool or API migration, descendants derived from that source can remain visible and steer future actions with stale support. We formalize this failure mode as the cascade update problem, where repair targets the visible derived state",
+    "tier": 1
+  },
+  {
+    "title": "EnvSimBench: A Benchmark for Evaluating and Improving LLM-Based Environment Simulation",
+    "url": "https://arxiv.org/abs/2605.07247",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07247v1 Announce Type: new \nAbstract: Scalable AI agents training relies on interactive environments that faithfully simulate the consequences of agent actions. Manually crafted environments are expensive to build, brittle to extend, and fundamentally limited in diversity. A promising direction is to replace manually crafted environments with LLM-simulated counterparts. However, this paradigm hinges on an unexamined core assumption: LLMs can accurately simulate environmental feedback.",
+    "tier": 1
+  },
+  {
+    "title": "Can Agents Price a Reaction? Evaluating LLMs on Chemical Cost Reasoning",
+    "url": "https://arxiv.org/abs/2605.07251",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07251v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have become increasingly capable as tool-using agents, with benchmarks spanning diverse general agentic tasks. Yet rigorous evaluation of scientific tool use remains limited. In chemistry, recent agents can plan syntheses and invoke domain-specific tools, but evaluations often rely on curated demonstrations, expert assessment, or LLM-as-judge scoring rather than exact, judge-free ground truth. We address this gap with ",
+    "tier": 1
+  },
+  {
+    "title": "Structured Role-Aware Policy Optimization for Multimodal Reasoning",
+    "url": "https://arxiv.org/abs/2605.07274",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07274v1 Announce Type: new \nAbstract: Reinforcement learning from verifiable rewards (RLVR), especially with Group Relative Policy Optimization (GRPO), has shown strong potential for improving the reasoning capabilities of large vision-language models (LVLMs). However, in multimodal reasoning, final-answer rewards are typically assigned at the sequence level and do not distinguish the functional roles of different tokens, making it difficult to determine whether a correct answer is su",
+    "tier": 1
+  },
+  {
+    "title": "Signal Reshaping for GRPO in Weak-Feedback Agentic Code Repair",
+    "url": "https://arxiv.org/abs/2605.07276",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07276v1 Announce Type: new \nAbstract: Code-agent RL often receives weak feedback: rollout-time signals are reliable and executable, but capture only necessary or surface conditions for task success rather than the target semantic predicate. Using agentic compile-fix as the setting, we study signal reshaping for standard GRPO under such feedback. Our central claim is that GRPO's within-group comparison is meaningful only after three kinds of signals are reshaped: outcome rewards recove",
+    "tier": 1
+  },
+  {
+    "title": "SOM: Structured Opponent Modeling for LLM-based Agents via Structural Causal Model",
+    "url": "https://arxiv.org/abs/2605.07301",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07301v1 Announce Type: new \nAbstract: Accurately predicting opponents' behavior from interactions is a fundamental capability for large language model (LLM)-based agents in multi-agent and game-theoretic environments. Existing approaches often entangle opponent modeling with prediction, relying on implicit contextual reasoning and limiting adaptability in dynamic interactions. To this end, we propose Structured Opponent Modeling (SOM), a two-stage opponent modeling framework that dist",
+    "tier": 1
+  },
+  {
+    "title": "When Stored Evidence Stops Being Usable: Scale-Conditioned Evaluation of Agent Memory",
+    "url": "https://arxiv.org/abs/2605.07313",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07313v1 Announce Type: new \nAbstract: Memory-agent evaluations report fixed-snapshot accuracy or retrieval quality, but these scores do not show whether evidence remains usable as irrelevant sessions (sessions not annotated as task-relevant evidence for the query) accumulate. We present a scale-conditioned evaluation protocol for agent memory under evidence-preserving growth: for each query, task evidence is held fixed while irrelevant sessions are added. The protocol logs agent--memo",
+    "tier": 1
+  },
+  {
+    "title": "Implicit Compression Regularization: Concise Reasoning via Internal Shorter Distributions in RL Post-Training",
+    "url": "https://arxiv.org/abs/2605.07316",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07316v1 Announce Type: new \nAbstract: Reinforcement learning with verifiable rewards improves LLM reasoning but often induces overthinking, where models generate unnecessarily long reasoning traces. Existing methods mainly rely on length penalties or early-exit strategies; however, the former may degrade accuracy and induce underthinking, whereas the latter assumes that substantial portions of reasoning traces can be safely truncated. To obtain a compression signal without these limit",
+    "tier": 1
+  },
+  {
+    "title": "Discovering Ordinary Differential Equations with LLM-Based Qualitative and Quantitative Evaluation",
+    "url": "https://arxiv.org/abs/2605.07323",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07323v1 Announce Type: new \nAbstract: Discovering governing differential equations from observational data is a fundamental challenge in scientific machine learning. Existing symbolic regression approaches rely primarily on quantitative metrics; however, real-world differential equation modeling also requires incorporating domain knowledge to ensure physical plausibility. To address this gap, we propose DoLQ, a method for discovering ordinary differential equations with LLM-based qual",
+    "tier": 1
+  },
+  {
+    "title": "Tools as Continuous Flow for Evolving Agentic Reasoning",
+    "url": "https://arxiv.org/abs/2605.07339",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07339v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have demonstrated remarkable capabilities in orchestrating tools for reasoning tasks. However, existing methods rely on a step-wise paradigm that lacks a global perspective, which causes error accumulation over long horizons and restricts generalization to unseen tools. To overcome these limitations, we propose Tools as Continuous Flow for Evolving Agentic Reasoning (FlowAgent), which reconceptualizes tool chaining as ",
+    "tier": 1
+  },
+  {
+    "title": "Confidence-Aware Alignment Makes Reasoning LLMs More Reliable",
+    "url": "https://arxiv.org/abs/2605.07353",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07353v1 Announce Type: new \nAbstract: Large reasoning models often reach correct answers through flawed intermediate steps, creating a gap between final accuracy and reasoning reliability. Existing alignment strategies address this with external verifiers or massive sampling, limiting scalability. In this work, we introduce CASPO (Confidence-Aware Step-wise Preference Optimization), a framework that aligns token-level confidence with step-wise logical correctness through iterative Dir",
+    "tier": 1
+  },
+  {
+    "title": "GraphReAct: Reasoning and Acting for Multi-step Graph Inference",
+    "url": "https://arxiv.org/abs/2605.07357",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07357v1 Announce Type: new \nAbstract: Reasoning-acting frameworks enhance large language models (LLMs) by interleaving reasoning with actions for dynamic information acquisition. However, extending this paradigm to graph learning remains underexplored. Graph data is inherently structured, with information distributed across nodes and edges and encoded through both topology and latent representations. As a result, effective reasoning over graphs requires not only retrieving informative",
+    "tier": 1
+  },
+  {
+    "title": "Offline Policy Optimization with Posterior Sampling",
+    "url": "https://arxiv.org/abs/2605.07393",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07393v1 Announce Type: new \nAbstract: A fundamental challenge in model-based offline reinforcement learning (RL) lies in the trade-off between generalization and robustness against exploitation errors in out-of-distribution (OOD) regions. While OOD samples may capture valid underlying physical dynamics, they also introduce the risk of model exploitation. Existing methods typically address this risk through excessive pessimistic regularization, which ensures robustness but often sacrif",
+    "tier": 1
+  },
+  {
+    "title": "Bounded Fitting for Expressive Description Logics",
+    "url": "https://arxiv.org/abs/2605.07452",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07452v1 Announce Type: new \nAbstract: Bounded fitting is an attractive paradigm for learning logical formulas from labeled data examples that offers PAC-style generalization guarantees and can often be implemented leveraging SAT solvers. It has been successfully applied to learning concepts of the description logic ALC. We study bounded fitting for learning concepts in expressive description logics that extend ALC with inverse roles, qualified number restrictions, and feature comparis",
+    "tier": 1
+  },
+  {
+    "title": "Efficient Data Selection for Multimodal Models via Incremental Optimization Utility",
+    "url": "https://arxiv.org/abs/2605.07488",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07488v1 Announce Type: new \nAbstract: The scaling of Large Multimodal Models (LMMs) is constrained by the quality-quantity trade-off inherent in synthetic data. Previous approaches, such as LLM-as-a-Judge, have proven their effectiveness in addressing this but suffer from prohibitive computational costs and lack of interpretability. To bridge this gap, we propose One-Step-Train (OST), a framework that reformulates data selection as an incremental optimization utility ranking problem. ",
+    "tier": 1
+  },
+  {
+    "title": "LiteGUI: Distilling Compact GUI Agents with Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2605.07505",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07505v1 Announce Type: new \nAbstract: Developing lightweight, on-device vision-language GUI agents is essential for efficient cross-platform automated interaction. However, current on-device agents are constrained by limited model capacity, and further performance improvements remain urgently needed. Traditional Supervised Fine-Tuning (SFT) for small-scale models often leads to overfitting, catastrophic forgetting and policy rigidity, and thus fails to fully address these challenges. ",
+    "tier": 1
+  },
+  {
+    "title": "Model-Driven Policy Optimization in Differentiable Simulators via Stochastic Exploration",
+    "url": "https://arxiv.org/abs/2605.07520",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07520v1 Announce Type: new \nAbstract: Differentiable planning enables gradient-based optimization of decision-making problems by leveraging differentiable models of system dynamics. However, in highly nonlinear and hybrid discrete-continuous domains, the resulting optimization landscapes are often ill-conditioned, with flat regions and sharp transitions that hinder effective optimization.\n  We propose Model-Driven Policy Optimization (MDPO), a framework that introduces stochastic expl",
+    "tier": 1
+  },
+  {
+    "title": "From Feasible to Practical: Pareto-Optimal Synthesis Planning",
+    "url": "https://arxiv.org/abs/2605.07521",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07521v1 Announce Type: new \nAbstract: Current computer-aided synthesis planning (CASP) methods often treat retrosynthesis as solved once a single feasible route is identified, focusing primarily on convergence or shortest-path metrics. This view is misaligned with real-world practice, where chemists must balance competing objectives such as cost, sustainability, toxicity, and overall yield. To address this, we formulate synthesis planning as a multi-objective search problem and introd",
+    "tier": 1
+  },
+  {
+    "title": "Multi-Environment POMDPs with Finite-Horizon Objectives",
+    "url": "https://arxiv.org/abs/2605.07537",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07537v1 Announce Type: new \nAbstract: Partially Observable Markov Decision Processes (POMDPs) are systems in which one agent interacts with a stochastic environment, and receives only partial information about the current state. In a multi-environment POMDP (MEPOMDP), the initial state is unknown, and assumed to be adversarially chosen. In this work we focus on computing the optimal value and policy in MEPOMDPs with finite-horizon objectives. That problem is known to be PSPACE-complet",
+    "tier": 1
+  },
+  {
+    "title": "From Pixels to Prompts: Vision-Language Models",
+    "url": "https://arxiv.org/abs/2605.07544",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07544v1 Announce Type: new \nAbstract: When you read a paper about a new Vision-Language Model today, it can be easy to forget how strange this idea would have sounded not so long ago. Teaching machines to see was already hard. Teaching them to read and generate language was already hard. Asking them to do both at once - and then to reason, answer questions, follow instructions, and sometimes even surprise us - still carries a quiet trace of science fiction, even as it becomes routine.",
+    "tier": 1
+  },
+  {
+    "title": "Open-Ended Task Discovery via Bayesian Optimization",
+    "url": "https://arxiv.org/abs/2605.07572",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07572v1 Announce Type: new \nAbstract: When applying Bayesian optimization (BO) to scientific workflow, a major yet often overlooked source of uncertainty is the task itself -- namely, what to optimize and how to evaluate it -- which can evolve as evidence accumulates. We introduce Generate-Select-Refine (GSR), a open-ended BO framework that alternates between task generation and task optimization. Starting from a user-provided seed task, GSR generates new tasks in a coarse-to-fine man",
+    "tier": 1
+  },
+  {
+    "title": "Parallel Lifted Planning via Semi-Naive Datalog Evaluation",
+    "url": "https://arxiv.org/abs/2605.07584",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07584v1 Announce Type: new \nAbstract: Lifted classical planners operate directly on first-order planning tasks to avoid the computationally demanding grounding step. However, lifted planning is typically slower, as planners must repeatedly instantiate ground structures during search. Many core components of lifted classical planning, such as successor generation, axiom evaluation, task grounding, and delete-relaxed heuristics, have previously been studied through the lens of Datalog e",
+    "tier": 1
+  },
+  {
+    "title": "Inference Time Causal Probing in LLMs",
+    "url": "https://arxiv.org/abs/2605.07631",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07631v1 Announce Type: new \nAbstract: Causal probing methods aim to test and control how internal representations influence the behavior of generative models. In causal probing, an intervention modifies hidden states so that a property takes on a different value. Most existing approaches define such interventions by training an auxiliary probe classifier, which ties the method to a specific task or model and risks misalignment with the model's predictive geometry. We propose Hidden-st",
+    "tier": 1
+  },
+  {
+    "title": "Learning to Communicate Locally for Large-Scale Multi-Agent Pathfinding",
+    "url": "https://arxiv.org/abs/2605.07637",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07637v1 Announce Type: new \nAbstract: Multi-agent pathfinding (MAPF) is a widely used abstraction for multi-robot trajectory planning problems, where multiple homogeneous agents move simultaneously within a shared environment. Although solving MAPF optimally is NP-hard, scalable and efficient solvers are critical for real-world applications such as logistics and search-and-rescue. To this end, the research community has proposed various decentralized suboptimal MAPF solvers that lever",
+    "tier": 1
+  },
+  {
+    "title": "Tacit Knowledge Extraction via Logic Augmented Generation and Active Inference",
+    "url": "https://arxiv.org/abs/2605.07639",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07639v1 Announce Type: new \nAbstract: Tacit knowledge plays a central role in human expertise, yet it remains difficult to capture, formalize, and reuse in machine-interpretable form. This challenge is especially relevant in procedural domains, where successful execution depends not only on explicit instructions, but also on implicit assumptions, contextual constraints, embodied skills, and experience-based judgments rarely documented. As a result, current knowledge engineering pipeli",
+    "tier": 1
+  },
+  {
+    "title": "FactoryBench: Evaluating Industrial Machine Understanding",
+    "url": "https://arxiv.org/abs/2605.07675",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07675v1 Announce Type: new \nAbstract: We introduce FactoryBench, a benchmark for evaluating time-series models and LLMs on machine understanding over industrial robotic telemetry. Q&A pairs are organized along four causal levels (state, intervention, counterfactual, decision) instantiating Pearl's ladder of causation, and span five answer formats: four structured formats are scored deterministically and free-form answers are scored by an LLM-as-judge voting protocol. We propose a scal",
+    "tier": 1
+  },
+  {
+    "title": "GASim: A Graph-Accelerated Hybrid Framework for Social Simulation",
+    "url": "https://arxiv.org/abs/2605.07692",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07692v1 Announce Type: new \nAbstract: Large-scale social simulators are essential for studying complex social patterns. Prior work explores hybrid methods to scale up simulations, combining large language models (LLM)-based agents with numerical agent-based models (ABM). However, this incurs high latency due to expensive memory retrieval and sequential ABM execution. To address this challenge, we propose GASim, a graph-accelerated hybrid multi-agent framework for large-scale social si",
+    "tier": 1
+  },
+  {
+    "title": "Finite-Time Analysis of MCTS in Continuous POMDP Planning",
+    "url": "https://arxiv.org/abs/2605.07703",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07703v1 Announce Type: new \nAbstract: This paper presents a finite-time analysis for Monte Carlo Tree Search (MCTS) in Partially Observable Markov Decision Processes (POMDPs), with probabilistic concentration bounds in both discrete and continuous observation spaces. While MCTS-style solvers such as POMCP achieve empirical success in many applications, rigorous finite-time guarantees remain an open problem due to the nonstationarity and the interdependencies induced by heuristic actio",
+    "tier": 1
+  },
+  {
+    "title": "Hierarchical Task Network Planning with LLM-Generated Heuristics",
+    "url": "https://arxiv.org/abs/2605.07707",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07707v1 Announce Type: new \nAbstract: HTN planning is a variation of classical planning where, instead of searching for a linear sequence of actions, an algorithm decomposes higher-level tasks using a method library until only executable actions remain. On one hand, this allows one to introduce domain knowledge that can speed up the search for a solution through the method library. On the other hand, it creates challenges that go beyond those of classical state-space search. While rec",
+    "tier": 1
+  },
+  {
+    "title": "Online Goal Recognition using Path Signature and Dynamic Time Warping",
+    "url": "https://arxiv.org/abs/2605.07736",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07736v1 Announce Type: new \nAbstract: Online goal recognition in continuous domains poses two central challenges: efficiently encoding large trajectories and effectively comparing them. Recent work addresses these challenges by using custom state-space representations and metrics to compare observations against hypotheses. However, these approaches often overlook well-established encoding techniques used in other domains that offer substantial advantages. This paper introduces a novel",
+    "tier": 1
+  },
+  {
+    "title": "Alternating Target-Path Planning for Scalable Multi-Agent Coordination",
+    "url": "https://arxiv.org/abs/2605.07744",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07744v1 Announce Type: new \nAbstract: The concurrent target assignment and pathfinding (TAPF) problem extends multi-agent pathfinding (MAPF) by asking planners to allocate distinct targets and collision-free paths to agents. Prior work on TAPF has relied exclusively on Conflict-Based Search (CBS), which tightly couples target assignment and pathfinding, resulting in compute-intensive, non-scalable solutions. In contrast, we propose an iterative refinement framework that decouples targ",
+    "tier": 1
+  },
+  {
+    "title": "RuleSafe-VL: Evaluating Rule-Conditioned Decision Reasoning in Vision-Language Content Moderation",
+    "url": "https://arxiv.org/abs/2605.07760",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07760v1 Announce Type: new \nAbstract: Platform content moderation applies explicit policy rules and context-dependent conditions to decide whether user content is allowed, restricted, or removed. A correct moderation outcome must therefore depend on which rules a case activates, how those rules interact, and whether the available evidence is sufficient. Current multimodal safety benchmarks largely reduce moderation to matching predefined final labels, leaving this underlying rule stru",
+    "tier": 1
+  },
+  {
+    "title": "Exact Regular-Constrained Variable-Order Markov Generation via Sparse Context-State Belief Propagation",
+    "url": "https://arxiv.org/abs/2605.07839",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07839v1 Announce Type: new \nAbstract: Variable-order Markov models generate sequences over a finite alphabet by conditioning each symbol on the longest available suffix of the generated history. Regular constraints, by contrast, describe finite-horizon control requirements by an automaton: fixed positions, forced endings, metrical patterns, and forbidden copied fragments are all special cases. Existing exact methods already handle regular constraints with belief propagation for first-",
+    "tier": 1
+  },
+  {
+    "title": "AgentEscapeBench: Evaluating Out-of-Domain Tool-Grounded Reasoning in LLM Agents",
+    "url": "https://arxiv.org/abs/2605.07926",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07926v1 Announce Type: new \nAbstract: As LLM-based agents increasingly rely on external tools, it is important to evaluate their ability to sustain tool-grounded reasoning beyond familiar workflows and short-range interactions. We introduce AgentEscapeBench, an escape-room-style benchmark that tests whether agents can infer, execute, and revise novel tool-use procedures under explicit long-range dependency constraints. Each task defines a directed acyclic dependency graph over tools a",
+    "tier": 1
+  },
+  {
+    "title": "TraceFix: Repairing Agent Coordination Protocols with TLA+ Counterexamples",
+    "url": "https://arxiv.org/abs/2605.07935",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07935v1 Announce Type: new \nAbstract: We present TraceFix, a verification-first pipeline for Large Language Model (LLM) multi-agent coordination. An agent synthesizes a protocol topology as a structured intermediate representation (IR) from a task description, generates PlusCal coordination logic, and iteratively repairs the protocol using counterexamples from the TLA+ model checker (TLC) until verification succeeds. Verified process bodies are compiled into per-agent system prompts a",
+    "tier": 1
+  },
+  {
+    "title": "The Limits of AI-Driven Allocation: Optimal Screening under Aleatoric Uncertainty",
+    "url": "https://arxiv.org/abs/2605.07979",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.07979v1 Announce Type: new \nAbstract: The rise of machine learning has shifted targeted resource allocation in policy and humanitarian settings toward algorithmic targeting based on predicted risk scores. This approach is typically cheaper and faster than traditional screening procedures that directly observe the latent vulnerability status through physical verification. Yet, even access to the true conditional vulnerability probability cannot eliminate misallocation: aleatoric uncert",
+    "tier": 1
+  },
+  {
+    "title": "Abductive Reasoning with Probabilistic Commonsense",
+    "url": "https://arxiv.org/abs/2605.08011",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.08011v1 Announce Type: new \nAbstract: Recent efforts to improve the reasoning abilities of Large Language Models (LLMs) have focused on integrating formal logic solvers within neurosymbolic frameworks. A key challenge is that formal solvers lack commonsense world knowledge, preventing them from making reasoning steps that humans find obvious. Prior methods address this by using LLMs to supply missing commonsense assumptions, but these approaches implicitly assume universal agreement o",
+    "tier": 1
+  },
+  {
+    "title": "Learning CLI Agents with Structured Action Credit under Selective Observation",
+    "url": "https://arxiv.org/abs/2605.08013",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.08013v1 Announce Type: new \nAbstract: Command line interface (CLI) agents are emerging as a practical paradigm for agent-computer interaction over evolving filesystems, executable command line programs, and online execution feedback. Recent work has used reinforcement learning (RL) to learn these interaction abilities from verifiable task feedback, yet few methods exploit the native structured attributes of CLI actions as learning signals. Beyond this underused action structure, CLI l",
+    "tier": 1
+  },
+  {
+    "title": "Reason to Play: Behavioral and Brain Alignment Between Frontier LRMs and Human Game Learners",
+    "url": "https://arxiv.org/abs/2605.08019",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.08019v1 Announce Type: new \nAbstract: Humans rapidly learn abstract knowledge when encountering novel environments and flexibly deploy this knowledge to guide efficient and intelligent action. Can modern AI systems learn and plan in a similar way? We study this question using a dataset of complex human gameplay with concurrent fMRI recordings, in which participants learn novel video games that require rule discovery, hypothesis revision, and multi-step planning. We jointly evaluate mo",
+    "tier": 1
+  },
+  {
+    "title": "MPD$^2$-Router: Mask-aware Multi-expert Prior-regularized Dual-head Deferral Router in Glaucoma Screening and Diagnosis",
+    "url": "https://arxiv.org/abs/2605.08024",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.08024v1 Announce Type: new \nAbstract: Learning-to-defer (L2D) can make glaucoma screening safer by routing difficult/uncertain cases to humans, yet standard formulations overlook expert availability, heterogeneous readers behavior, workload imbalance, asymmetric diagnostic harm, case difficulty from morphology and deployment shift. We introduce MPD$^2$-Router, a mask-aware multi-expert deferral framework that recasts ophthalmic triage as constrained human--AI routing: whether to defer",
+    "tier": 1
+  },
+  {
+    "title": "Rubric-Grounded RL: Structured Judge Rewards for Generalizable Reasoning",
+    "url": "https://arxiv.org/abs/2605.08061",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.08061v1 Announce Type: new \nAbstract: We argue that decomposing reward into weighted, verifiable criteria and using an LLM judge to score them provides a partial-credit optimization signal: instead of a binary outcome or a single holistic score, each response is graded along multiple task-specific criteria. We formalize \\emph{rubric-grounded reinforcement learning (RL)}: a framework in which the policy is optimized against a structured, multi-criterion reward produced by a frozen LLM ",
+    "tier": 1
+  },
+  {
+    "title": "VecCISC: Improving Confidence-Informed Self-Consistency with Reasoning Trace Clustering and Candidate Answer Selection",
+    "url": "https://arxiv.org/abs/2605.08070",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.08070v1 Announce Type: new \nAbstract: A standard technique for scaling inference-time reasoning is Self-Consistency, whereby multiple candidate answers are sampled from an LLM and the most common answer is selected. More recently, it has been shown that weighted majority voting (e.g. Confidence-Informed Self Consistency (CISC)), which assigns a confidence value to each candidate answer and chooses the answer with the largest accumulated score, tends to be more accurate on a wide range",
+    "tier": 1
+  }
+]
