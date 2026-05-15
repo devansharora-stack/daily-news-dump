@@ -1,0 +1,191 @@
+[
+  {
+    "headline": "Amazon workers under pressure to up their AI usage are making up tasks",
+    "source": "Fast Company / Hacker News",
+    "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
+    "theme": "AI Strategy",
+    "summary": "Amazon employees pressured to increase AI tool usage are reportedly inventing unnecessary tasks to meet internal adoption metrics. This is a textbook example of the GenAI Paradox — broad mandated adoption generating activity without measurable business value. It raises serious questions about how enterprises should measure meaningful AI adoption vs. performative usage."
+  },
+  {
+    "headline": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+    "source": "The Register / Hacker News",
+    "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+    "theme": "AI Risk",
+    "summary": "An Ontario audit found that AI-powered clinical note-taking tools used by doctors routinely introduce factual errors into patient records. This is a high-stakes example of the Hallucination Tax — AI errors embedded in healthcare documentation where mistakes can directly affect patient safety and create liability exposure for health systems."
+  },
+  {
+    "headline": "Cerebras raises $5.5B, then stock pops 108%, in the first huge tech IPO of 2026",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+    "theme": "Funding & M&A",
+    "summary": "AI chip maker Cerebras went public raising $5.5B with a 108% first-day stock pop, marking the biggest tech IPO of 2026. After a year of regulatory delays, the successful listing signals renewed investor appetite for AI infrastructure plays and could open the IPO window for other AI companies waiting in the wings."
+  },
+  {
+    "headline": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports 'record quarterly revenue'",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
+    "theme": "AI Workforce Impact",
+    "summary": "Cisco is cutting approximately 4,000 employees while simultaneously reporting record quarterly revenue, explicitly redirecting savings toward AI investments. This exemplifies the structural workforce shift where large enterprises are replacing headcount with AI spending — record profits coexisting with significant layoffs."
+  },
+  {
+    "headline": "Meta's New Reality: Record High Profits, Record Low Morale",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/",
+    "theme": "AI Workforce Impact",
+    "summary": "Meta is cutting roughly 10% of staff next week while posting record profits. WIRED spoke with over a dozen current and former employees describing pervasive unhappiness. The disconnect between financial performance and workforce morale highlights the human cost of AI-driven restructuring at scale."
+  },
+  {
+    "headline": "An engineer's post protesting laptop surveillance is going viral inside Meta",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/",
+    "theme": "AI Ethics & Trust",
+    "summary": "Meta employees in the US and UK are organizing against corporate software that tracks keystrokes and mouse activity. The internal protest is going viral within the company, raising questions about the boundaries of workplace surveillance — particularly when data may be used for AI training purposes."
+  },
+  {
+    "headline": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
+    "theme": "AI Strategy",
+    "summary": "OpenAI announced another major reorganization with Greg Brockman taking control of all products, merging ChatGPT and Codex into a single agentic platform. The company is shutting down projects like Sora to concentrate resources. The consolidation signals that OpenAI views the AI agent race — not chatbots or media generation — as the decisive competitive battleground."
+  },
+  {
+    "headline": "OpenAI is reportedly preparing legal action against Apple over failed ChatGPT integration",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+    "theme": "AI Strategy",
+    "summary": "OpenAI is exploring legal action against Apple, claiming the ChatGPT-Siri integration failed to deliver the subscriber growth and platform prominence it expected. This fracture in one of AI's highest-profile partnerships could reshape how AI companies negotiate distribution deals with platform owners."
+  },
+  {
+    "headline": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+    "source": "TechCrunch / The Verge",
+    "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+    "theme": "AI Strategy",
+    "summary": "OpenAI is launching a personal finance feature allowing ChatGPT Pro users to connect bank accounts via Plaid, covering 12,000 financial institutions including Chase, Fidelity, and Schwab. This is a major strategic expansion beyond chat into financial services — and a significant trust test for consumers and a competitive threat to fintech incumbents like Mint and Copilot."
+  },
+  {
+    "headline": "Clio's $500M ARR milestone arrives just as Anthropic ups the ante",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+    "theme": "Enterprise ROI",
+    "summary": "Legal tech company Clio has hit $500M in annual recurring revenue, driven by massive AI-powered customer adoption. This is a concrete data point showing that AI-native vertical SaaS companies are achieving real scale — while also facing new competitive pressure as foundation model providers like Anthropic move into adjacent verticals."
+  },
+  {
+    "headline": "Richard Socher's new $650M startup wants to build AI that can research and improve itself",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+    "theme": "Funding & M&A",
+    "summary": "Former Salesforce AI chief Richard Socher raised $650M for a startup building AI systems capable of self-directed research and improvement. The scale of funding for recursive self-improving AI reflects how much capital is chasing the frontier of autonomous AI systems, with significant implications for the pace of AI capability advancement."
+  },
+  {
+    "headline": "Elon Musk's SpaceXAI has been bleeding staff since its merger",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+    "theme": "AI Strategy",
+    "summary": "More than 50 employees have reportedly left Musk's merged SpaceXAI entity since February, raising questions about burnout, leadership churn, and whether post-liquidity departures are gutting AI talent. The exodus signals that even well-funded AI ventures struggle with retention when organizational chaos and mission drift take hold."
+  },
+  {
+    "headline": "German intelligence offices snub Palantir software",
+    "source": "DW / Hacker News",
+    "url": "https://www.dw.com/en/german-intelligence-offices-snub-us-based-palantir-software/a-77160897",
+    "theme": "Regulatory",
+    "summary": "Germany's intelligence agencies are rejecting Palantir's software, signaling growing European reluctance to depend on US-based AI and data platforms for sensitive government functions. This is part of a broader AI sovereignty trend that could fragment the global market for enterprise AI vendors."
+  },
+  {
+    "headline": "Medicare's new payment model is built for AI — most of the tech world has no idea",
+    "source": "TechCrunch / Hacker News",
+    "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+    "theme": "Regulatory",
+    "summary": "A new Medicare payment model is structurally designed to reward AI-enabled care delivery, creating a massive new incentive structure for health tech companies. This regulatory shift could unlock billions in AI healthcare spending and reshape competitive dynamics for companies positioned to serve the Medicare market."
+  },
+  {
+    "headline": "Access to frontier AI will soon be limited by economic and security constraints",
+    "source": "Hacker News",
+    "url": "https://writing.antonleicht.me/p/cut-off",
+    "theme": "AI Strategy",
+    "summary": "A widely-discussed analysis argues that access to frontier AI models will increasingly be restricted by cost and national security considerations, not just technical capability. With 203 HN points and 204 comments, this piece captures growing anxiety about an AI access divide — where only the wealthiest companies and allied nations can use the most capable systems."
+  },
+  {
+    "headline": "Musk's xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+    "theme": "Regulatory",
+    "summary": "xAI's Colossus 2 data center is using nearly 50 'mobile' gas turbines as de facto power plants, drawing a lawsuit over environmental compliance. The case highlights the growing tension between AI infrastructure buildout speed and environmental regulation — a flashpoint that could affect data center expansion nationwide."
+  },
+  {
+    "headline": "Google updates its spam rules to include attempts to 'manipulate' AI",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
+    "theme": "Regulatory",
+    "summary": "Google has updated its spam policy to explicitly classify attempts to manipulate AI-generated search results — including AI Overviews and AI Mode — as spam violations. This creates a new compliance surface for publishers and SEO practitioners and signals that AI search manipulation is becoming a formal policy enforcement area."
+  },
+  {
+    "headline": "Meta won't let you block its AI account on Threads",
+    "source": "The Verge / Hacker News",
+    "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+    "theme": "AI Ethics & Trust",
+    "summary": "Meta is preventing users from blocking its AI account on Threads, sparking backlash about consumer autonomy and forced AI interactions. The move raises questions about platform power dynamics and user consent in an era where AI agents operate alongside human accounts on social platforms."
+  },
+  {
+    "headline": "Notion just turned its workspace into a hub for AI agents",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+    "theme": "Agentic AI",
+    "summary": "Notion launched a developer platform enabling teams to connect AI agents, external data sources, and custom code directly into workspaces. This positions Notion as an orchestration layer for enterprise agentic AI, potentially shifting how companies think about productivity software from tools-of-record to agent-hosting platforms."
+  },
+  {
+    "headline": "Sea Limited deploys OpenAI's Codex across engineering teams in Asia",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/sea-david-chen",
+    "theme": "Enterprise ROI",
+    "summary": "Sea Limited's CPO explained why the company is deploying OpenAI's Codex across its engineering organization to accelerate AI-native software development across Southeast Asia. This is a notable signal of enterprise-scale agentic coding tool adoption outside the US, with implications for developer productivity metrics and global AI competitiveness."
+  },
+  {
+    "headline": "Mira Murati wants her AI to 'keep humans in the loop'",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
+    "theme": "AI Strategy",
+    "summary": "Former OpenAI CTO Mira Murati, now leading Thinking Machines Lab, tells WIRED she's building AI focused on human collaboration rather than workforce replacement. Her positioning represents an emerging competitive differentiation in AI — 'augmentation-first' vs. 'automation-first' — that will influence enterprise purchasing decisions."
+  },
+  {
+    "headline": "Khosla Ventures bets $10M on AI-powered autonomous bookkeeping startup Synthetic",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
+    "theme": "Funding & M&A",
+    "summary": "Khosla Ventures is investing $10M in Synthetic, a fully autonomous AI bookkeeping service founded by Ian Crosby, whose previous company Bench collapsed. The bet exemplifies the Hyper Automation thesis — replacing entire back-office functions with AI agents — and signals VC confidence that AI can succeed where traditional startups failed."
+  },
+  {
+    "headline": "Wirestock raises $23M to supply creative multimodal data to AI labs",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
+    "theme": "Funding & M&A",
+    "summary": "Wirestock raised $23M after pivoting from a creator marketplace to an AI training data supplier, providing images, videos, 3D content, and design assets to AI labs. The raise highlights the growing commercial value of curated multimodal training data as a distinct business category in the AI supply chain."
+  },
+  {
+    "headline": "AI research papers are getting better, and it's a big problem for scientists",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem",
+    "theme": "AI Risk",
+    "summary": "AI-generated research papers are becoming sophisticated enough to pass peer review, with one researcher finding his 2017 paper suddenly being cited hundreds of times by AI-generated studies. This contamination of the scientific record threatens R&D decision-making across industries that rely on academic literature for evidence-based strategies."
+  },
+  {
+    "headline": "Silicon Valley's vacationland needs a new energy provider just as AI drives prices up",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
+    "theme": "AI Strategy",
+    "summary": "Lake Tahoe is facing energy price increases driven by AI data center demand, illustrating how AI infrastructure buildout is creating ripple effects on regional energy markets. This is a real-world example of AI's hidden costs extending beyond the tech sector into communities and utility pricing."
+  },
+  {
+    "headline": "Runway wants to beat Google at AI, betting video generation leads to world models",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+    "theme": "AI Strategy",
+    "summary": "AI video startup Runway is positioning itself not just as a filmmaking tool but as a competitor to Google in building world models through video generation. The strategic pivot from creative tool to foundational AI research company signals the expanding ambitions of well-funded generative AI startups."
+  },
+  {
+    "headline": "Data readiness for agentic AI in financial services",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+    "theme": "Agentic AI",
+    "summary": "MIT Technology Review reports that the success of agentic AI in financial services depends more on data infrastructure quality than model sophistication. For a heavily regulated sector processing real-time data, this analysis underscores that enterprises without clean, well-governed data pipelines will struggle to deploy AI agents effectively — a key insight for financial services CIOs."
+  }
+]

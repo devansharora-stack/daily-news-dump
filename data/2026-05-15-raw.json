@@ -1,0 +1,802 @@
+[
+  {
+    "title": "Amazon workers under pressure to up their AI usage are making up tasks",
+    "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Fri, 15 May 2026 13:28:55 +0000",
+    "snippet": "Article URL: https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks\nComments URL: https://news.ycombinator.com/item?id=48148337\nPoints: 249\n# Comments: 243",
+    "tier": 1
+  },
+  {
+    "title": "UK sovereign LLM inference",
+    "url": "https://relax.ai/docs",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Fri, 15 May 2026 09:27:26 +0000",
+    "snippet": "Article URL: https://relax.ai/docs\nComments URL: https://news.ycombinator.com/item?id=48146424\nPoints: 103\n# Comments: 108",
+    "tier": 1
+  },
+  {
+    "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+    "url": "https://github.com/Andyyyy64/whichllm",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Fri, 15 May 2026 09:19:24 +0000",
+    "snippet": "Article URL: https://github.com/Andyyyy64/whichllm\nComments URL: https://news.ycombinator.com/item?id=48146369\nPoints: 273\n# Comments: 63",
+    "tier": 1
+  },
+  {
+    "title": "Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
+    "url": "https://github.com/GlycemicGPT/GlycemicGPT",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Fri, 15 May 2026 04:48:23 +0000",
+    "snippet": "I'm a Type 1 diabetic and software engineer. Last year I went months between endocrinologists with no clinician reviewing my data. I'm an engineer, so I built the tool I needed — and now I'm open sourcing it.\nGlycemicGPT is a self-hosted platform that connects continuous glucose monitors, insulin pumps, and existing Nightscout instances to an AI analysis layer running on your own infrastructure.\nData sources:\nDexcom G7 (cloud API)\nTandem t:slim X2 and Mobi pumps (direct BLE)\nNightscout (point it",
+    "tier": 1
+  },
+  {
+    "title": "Access to frontier AI will soon be limited by economic and security constraints",
+    "url": "https://writing.antonleicht.me/p/cut-off",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Fri, 15 May 2026 01:08:04 +0000",
+    "snippet": "Article URL: https://writing.antonleicht.me/p/cut-off\nComments URL: https://news.ycombinator.com/item?id=48143284\nPoints: 203\n# Comments: 204",
+    "tier": 1
+  },
+  {
+    "title": "LLM Policy for Rust Compiler",
+    "url": "https://github.com/rust-lang/rust-forge/pull/1040",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Thu, 14 May 2026 23:37:21 +0000",
+    "snippet": "Article URL: https://github.com/rust-lang/rust-forge/pull/1040\nComments URL: https://news.ycombinator.com/item?id=48142650\nPoints: 95\n# Comments: 79",
+    "tier": 1
+  },
+  {
+    "title": "Have a Coherent AI Policy",
+    "url": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Thu, 14 May 2026 23:24:45 +0000",
+    "snippet": "Article URL: https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/\nComments URL: https://news.ycombinator.com/item?id=48142553\nPoints: 68\n# Comments: 61",
+    "tier": 1
+  },
+  {
+    "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+    "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Thu, 14 May 2026 22:37:40 +0000",
+    "snippet": "Article URL: https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771\nComments URL: https://news.ycombinator.com/item?id=48142188\nPoints: 284\n# Comments: 132",
+    "tier": 1
+  },
+  {
+    "title": "German intelligence offices snub Palantir software",
+    "url": "https://www.dw.com/en/german-intelligence-offices-snub-us-based-palantir-software/a-77160897",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Thu, 14 May 2026 18:50:02 +0000",
+    "snippet": "Article URL: https://www.dw.com/en/german-intelligence-offices-snub-us-based-palantir-software/a-77160897\nComments URL: https://news.ycombinator.com/item?id=48139547\nPoints: 75\n# Comments: 29",
+    "tier": 1
+  },
+  {
+    "title": "The AI zombification of universities",
+    "url": "https://www.thenewcritic.com/p/the-great-zombification",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Thu, 14 May 2026 18:37:08 +0000",
+    "snippet": "Article URL: https://www.thenewcritic.com/p/the-great-zombification\nComments URL: https://news.ycombinator.com/item?id=48139355\nPoints: 189\n# Comments: 205",
+    "tier": 1
+  },
+  {
+    "title": "AI is making me dumb",
+    "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Thu, 14 May 2026 18:19:28 +0000",
+    "snippet": "Article URL: https://jpain.io/god-damn-ai-is-making-me-dumb/\nComments URL: https://news.ycombinator.com/item?id=48139148\nPoints: 524\n# Comments: 298",
+    "tier": 1
+  },
+  {
+    "title": "The people writing AI alignment policy are not whose work is being replaced",
+    "url": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Thu, 14 May 2026 18:19:13 +0000",
+    "snippet": "Article URL: https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it\nComments URL: https://news.ycombinator.com/item?id=48139144\nPoints: 91\n# Comments: 62",
+    "tier": 1
+  },
+  {
+    "title": "What happens when you post a real Monet and say it's AI?",
+    "url": "https://twitter.com/jediwolf/status/2054776716770320631",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Thu, 14 May 2026 12:23:27 +0000",
+    "snippet": "Article URL: https://twitter.com/jediwolf/status/2054776716770320631\nComments URL: https://news.ycombinator.com/item?id=48134400\nPoints: 83\n# Comments: 74",
+    "tier": 1
+  },
+  {
+    "title": "Arena AI Model ELO History",
+    "url": "https://mayerwin.github.io/AI-Arena-History/",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Thu, 14 May 2026 03:19:05 +0000",
+    "snippet": "Hi HN,\nI built a live tracker to visualize the lifecycle and performance changes of flagship AI models.\nWe've all experienced the phenomenon where a flagship model feels amazing at launch, but weeks later, it suddenly feels a bit off. I wanted to see if this was just a feeling or a measurable reality, so I built a dashboard to track historical ELO ratings from Arena AI.\nInstead of a massive spaghetti chart of every single model variant, the logic plots exactly ONE continuous curve per major AI l",
+    "tier": 1
+  },
+  {
+    "title": "The other half of AI safety",
+    "url": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Thu, 14 May 2026 00:27:20 +0000",
+    "snippet": "Article URL: https://personalaisafety.com/p/the-other-half-of-ai-safety\nComments URL: https://news.ycombinator.com/item?id=48129561\nPoints: 97\n# Comments: 130",
+    "tier": 1
+  },
+  {
+    "title": "Medicare's new payment model is built for AI. Most of the tech world has no idea",
+    "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Wed, 13 May 2026 21:24:14 +0000",
+    "snippet": "Article URL: https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/\nComments URL: https://news.ycombinator.com/item?id=48127815\nPoints: 85\n# Comments: 58",
+    "tier": 1
+  },
+  {
+    "title": "Meta won't let you block its AI account on Threads",
+    "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Wed, 13 May 2026 20:22:21 +0000",
+    "snippet": "Article URL: https://www.theverge.com/tech/929091/meta-ai-threads-account-block\nComments URL: https://news.ycombinator.com/item?id=48126981\nPoints: 193\n# Comments: 82",
+    "tier": 1
+  },
+  {
+    "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
+    "url": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Fri, 15 May 2026 19:24:16 +0000",
+    "snippet": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question: can we trust the people in charge of AI? All of this is playing out as SpaceX charges toward what could be one of the largest IPOs in American history, with a whole generation of founders already spinning out […]",
+    "tier": 1
+  },
+  {
+    "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
+    "url": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Fri, 15 May 2026 18:14:44 +0000",
+    "snippet": "Lake Tahoe, Silicon Valley's favorite ski spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
+    "tier": 1
+  },
+  {
+    "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+    "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Fri, 15 May 2026 16:00:00 +0000",
+    "snippet": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
+    "tier": 1
+  },
+  {
+    "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
+    "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Fri, 15 May 2026 14:00:00 +0000",
+    "snippet": "AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
+    "tier": 1
+  },
+  {
+    "title": "Osaurus brings both local and cloud AI models to your Mac",
+    "url": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Fri, 15 May 2026 12:19:48 +0000",
+    "snippet": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.",
+    "tier": 1
+  },
+  {
+    "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
+    "url": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Thu, 14 May 2026 22:47:51 +0000",
+    "snippet": "Here's what the biggest tech court case of the year is all about.",
+    "tier": 1
+  },
+  {
+    "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+    "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Thu, 14 May 2026 21:30:44 +0000",
+    "snippet": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
+    "tier": 1
+  },
+  {
+    "title": "OpenAI says Codex is coming to your phone",
+    "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Thu, 14 May 2026 20:58:55 +0000",
+    "snippet": "The update gives users enhanced flexibility over how they can manage their workflows.",
+    "tier": 1
+  },
+  {
+    "title": "What happens when AI starts building itself?",
+    "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Thu, 14 May 2026 19:57:20 +0000",
+    "snippet": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
+    "tier": 1
+  },
+  {
+    "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+    "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Thu, 14 May 2026 19:12:03 +0000",
+    "snippet": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPhone maker.",
+    "tier": 1
+  },
+  {
+    "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+    "url": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Thu, 14 May 2026 19:05:01 +0000",
+    "snippet": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
+    "tier": 1
+  },
+  {
+    "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
+    "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Thu, 14 May 2026 16:30:02 +0000",
+    "snippet": "A year ago, it looked like this day would never happen for Cerebras.",
+    "tier": 1
+  },
+  {
+    "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
+    "url": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Thu, 14 May 2026 15:20:18 +0000",
+    "snippet": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
+    "tier": 1
+  },
+  {
+    "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
+    "url": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Thu, 14 May 2026 14:01:14 +0000",
+    "snippet": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
+    "tier": 1
+  },
+  {
+    "title": "Two weeks left: Startup Battlefield 200 applications close May 27",
+    "url": "https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Thu, 14 May 2026 14:00:00 +0000",
+    "snippet": "Your shot at VC access, global visibility, TechCrunch coverage, and $100K equity-free funding is running out. Deadline to apply is May 27. Apply now.",
+    "tier": 1
+  },
+  {
+    "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
+    "url": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Thu, 14 May 2026 14:00:00 +0000",
+    "snippet": "The company pivoted to being a data provider in 2023 and now supplies datasets of images, videos, design assets, and gaming and 3D content to AI labs.",
+    "tier": 1
+  },
+  {
+    "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
+    "url": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Thu, 14 May 2026 06:05:31 +0000",
+    "snippet": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers,\" Campbell Brown said at StrictlyVC.",
+    "tier": 1
+  },
+  {
+    "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
+    "url": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Thu, 14 May 2026 05:24:39 +0000",
+    "snippet": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption.",
+    "tier": 1
+  },
+  {
+    "title": "Notion just turned its workspace into a hub for AI agents",
+    "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Wed, 13 May 2026 21:45:09 +0000",
+    "snippet": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
+    "tier": 1
+  },
+  {
+    "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+    "url": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Wed, 13 May 2026 19:49:42 +0000",
+    "snippet": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
+    "tier": 1
+  },
+  {
+    "title": "The Download: China’s AI drama factory and the WHO’s missing health targets",
+    "url": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Fri, 15 May 2026 12:10:00 +0000",
+    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How Chinese short dramas became AI content machines China’s short drama industry is fueled by bite-sized, melodramatic, and smutty shows built for smartphone scrolling. Now, many are being made entirely with…",
+    "tier": 1
+  },
+  {
+    "title": "The world is on track to miss its health targets",
+    "url": "https://www.technologyreview.com/2026/05/15/1137270/the-world-is-on-track-to-miss-its-health-targets/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Fri, 15 May 2026 09:00:00 +0000",
+    "snippet": "Every year the World Health Organization publishes a global health statistics report. It features the numbers behind world health trends and, importantly, assesses whether we’re on track to reach ambitious goals set in 2015. It’s a bit like a health grade. The 2026 report was published on Wednesday. And the results aren’t looking brilliant. While…",
+    "tier": 1
+  },
+  {
+    "title": "How Chinese short dramas became AI content machines",
+    "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Fri, 15 May 2026 09:00:00 +0000",
+    "snippet": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then drops. A dragon-shaped tattoo appears across her chest. “Two months,” the man says. “Give me an heir, or…",
+    "tier": 1
+  },
+  {
+    "title": "Data readiness for agentic AI in financial services",
+    "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Thu, 14 May 2026 13:00:00 +0000",
+    "snippet": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on the sophistication of the system and more on…",
+    "tier": 1
+  },
+  {
+    "title": "Establishing AI and data sovereignty in the age of autonomous systems",
+    "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Thu, 14 May 2026 13:00:00 +0000",
+    "snippet": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own, under governance you do not set. The protections you rely…",
+    "tier": 1
+  },
+  {
+    "title": "The Download: deepfake porn’s stolen bodies and AI sharing private numbers",
+    "url": "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Thu, 14 May 2026 12:10:00 +0000",
+    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The shock of seeing your body used in deepfake porn When Jennifer got a research job in 2023, she ran her new professional headshot through a facial recognition program. She wanted…",
+    "tier": 1
+  },
+  {
+    "title": "The Tesla Semi could be a big deal for electric trucking",
+    "url": "https://www.technologyreview.com/2026/05/14/1137197/tesla-semi-electric-trucking/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Thu, 14 May 2026 10:00:00 +0000",
+    "snippet": "The Tesla Semi has officially arrived. The company recently released a photo of the first vehicle rolling off its new full-scale production line. This moment has been nearly a decade in the making: The company first announced the truck in late 2017. And now we’ve got final battery specs, official prices, and big news about…",
+    "tier": 1
+  },
+  {
+    "title": "The shock of seeing your body used in deepfake porn",
+    "url": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Thu, 14 May 2026 09:00:00 +0000",
+    "snippet": "When Jennifer got a job doing research for a nonprofit in 2023, she ran her new professional headshot through a facial recognition program. She wanted to see if the tech would pull up the porn videos she’d made more than 10 years before, when she was in her early 20s. It did in fact return…",
+    "tier": 1
+  },
+  {
+    "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
+    "source": "The Verge AI",
+    "publishedAt": "2026-05-15T18:21:35.000Z",
+    "snippet": "OpenAI announced yet another reorganization Friday, consolidating certain areas and making company president Greg Brockman the official lead of all things product.\nIn a memo viewed by The Verge, Brockman wrote that since OpenAI's product strategy for this year is to go all-in on AI agents, the company is combining its products to \"invest in a single agentic platform and to merge ChatGPT and Codex into one unified agentic experience for all.\"\nTo do this, the company is making a suite of org chart",
+    "tier": 1
+  },
+  {
+    "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
+    "source": "The Verge AI",
+    "publishedAt": "2026-05-15T17:09:16.000Z",
+    "snippet": "AI radio DJs demonstrated their volatile personalities. | Image: Cath Virginia / The Verge, Getty Images\t\n\nAndon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there. \"Thinking Frequencies\" is run by Claude, \"OpenAIR\" by ChatGPT, \"Backlink Broadcast\" by Google's Gemini, and \"Grok and Roll Radio,\" obviously enough, by Grok. They were each given a sim",
+    "tier": 1
+  },
+  {
+    "title": "Does Trump Mobile know how many stripes are on the American flag?",
+    "url": "https://www.theverge.com/gadgets/931347/trump-mobile-t1-phone-logo-flag-stars-stripes",
+    "source": "The Verge AI",
+    "publishedAt": "2026-05-15T16:47:16.000Z",
+    "snippet": "The T1 Phone has the wrong number of stripes, but it does at least have 50 stars. | Screenshot: Trump Mobile\t\n\nWhere's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This week, despite our best hopes, we still don't have our phone - but we do have some fresh doubts about the company's patriotic credentials.\nThis has been a momentous few days for Trump Mobile, in which it defied the haters by announcing th",
+    "tier": 1
+  },
+  {
+    "title": "Google updates its spam rules to include attempts to ‘manipulate’ AI",
+    "url": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
+    "source": "The Verge AI",
+    "publishedAt": "2026-05-15T16:42:59.000Z",
+    "snippet": "Google updated its spam policy to mark attempts to \"manipulate\" its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports: \n\"In the context of Google Search, spam refers to techniques used to deceive users or manipulate our Search systems into featuring content prominently, such as attempting to manipulate Search systems into ranking content highly or attempting to manipulate generative AI responses in Google Search.\"\nSome users ",
+    "tier": 1
+  },
+  {
+    "title": "OpenAI now wants ChatGPT to access your bank accounts",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
+    "source": "The Verge AI",
+    "publishedAt": "2026-05-15T16:00:00.000Z",
+    "snippet": "ChatGPT will even know how much credit card debt you have. | Image: OpenAI\t\n\nYour trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank accounts. The new feature announced in preview today will allow users to \"securely connect\" ChatGPT with Plaid - the bank-to-app bridging platform used by 12,000 financial institutions, including Schwab, Fidelity, Chase, Capital One, and more.\n\"More than 200 million people are already going to ChatGPT ev",
+    "tier": 1
+  },
+  {
+    "title": "The promises and pitfalls of personalized health",
+    "url": "https://www.theverge.com/column/931148/optimizer-pmos-pcos-personalized-health",
+    "source": "The Verge AI",
+    "publishedAt": "2026-05-15T14:00:00.000Z",
+    "snippet": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here.\nA few days ago, my esthetician was smearing hot wax on my face. The two caterpillars I call eyebrows were in desperate need of taming - as was my lady 'stache. I hate this monthly ritual, but facial hair is a sore spot. Hirsutism is perhaps one of the few visual indicato",
+    "tier": 1
+  },
+  {
+    "title": "AI research papers are getting better, and it’s a big problem for scientists",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem",
+    "source": "The Verge AI",
+    "publishedAt": "2026-05-15T11:00:00.000Z",
+    "snippet": "Last summer, Peter Degen's postdoctoral supervisor came to him with an unusual problem: One of his papers was being cited too much. Citations are the currency of academia, but there was something unusual about these. Published in 2017, the paper had assessed the accuracy of a particular type of statistical analysis on epidemiological data and had received a respectable few dozen citations in other research papers over the years, but now it was being referenced every few days, hundreds of times, ",
+    "tier": 1
+  },
+  {
+    "title": "Closing time",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis",
+    "source": "The Verge AI",
+    "publishedAt": "2026-05-14T22:21:46.000Z",
+    "snippet": "Today was closing arguments in the Musk v. Altman trial, and I almost feel bad writing about the unbelievable demolition derby I just witnessed. Steven Molo, Musk's lawyer, stumbled over his words. He at one point called Greg Brockman - a co-defendant - Greg Altman. He erroneously claimed that Musk wasn't asking for money and had to be corrected by the judge. He made it clear we've heard from many liars over the past few weeks, but offered little evidence for Musk's actual legal claims.\nOpenAI's",
+    "tier": 1
+  },
+  {
+    "title": "Behold, the Elon Musk jackass trophy",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
+    "source": "The Verge AI",
+    "publishedAt": "2026-05-14T20:59:23.000Z",
+    "snippet": "Yesterday, in Musk v. Altman, before the jurors came in, Sam Altman's team passed up what looked - from a distance - like a Little League trophy. It was not. Judge Yvonne Gonzalez Rogers had the lawyers read the inscription aloud for the press: \"Never stop being a jackass.\" It's a commemoration OpenAI employees bought for research scientist Josh Achiam, who testified yesterday.\nHow exactly did this come up in a trial about nonprofit contract law? Allegedly, when Elon Musk was leaving OpenAI, he ",
+    "tier": 1
+  },
+  {
+    "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
+    "source": "The Verge AI",
+    "publishedAt": "2026-05-14T20:00:00.000Z",
+    "snippet": "OpenAI is going to let users access Codex, its desktop AI tool that can write code and use apps on your computer, from the ChatGPT app on your phone. \nFollowing the surge in popularity for Anthropic's Claude Code, OpenAI has been working quickly to try and catch up, including by cutting back on \"side quests,\" shutting down projects like the Sora video-generation tool, and focusing on growing its enterprise business. The company's push included the recently released major update for Codex that le",
+    "tier": 1
+  },
+  {
+    "title": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up",
+    "url": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
+    "source": "Wired AI",
+    "publishedAt": "Fri, 15 May 2026 17:09:17 +0000",
+    "snippet": "OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.",
+    "tier": 1
+  },
+  {
+    "title": "Mira Murati Wants Her AI to ‘Keep Humans in the Loop’",
+    "url": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
+    "source": "Wired AI",
+    "publishedAt": "Fri, 15 May 2026 09:00:00 +0000",
+    "snippet": "The Thinking Machines Lab founder and former CTO of OpenAI tells WIRED she isn’t interested in automating people out of jobs. Instead, she’s building AI that can collaborate.",
+    "tier": 1
+  },
+  {
+    "title": "The Real Losers of the Musk v. Altman Trial",
+    "url": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/",
+    "source": "Wired AI",
+    "publishedAt": "Fri, 15 May 2026 00:49:53 +0000",
+    "snippet": "A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad.",
+    "tier": 1
+  },
+  {
+    "title": "An Engineer’s Post Protesting Laptop Surveillance Is Going Viral Inside Meta",
+    "url": "https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/",
+    "source": "Wired AI",
+    "publishedAt": "Thu, 14 May 2026 20:27:34 +0000",
+    "snippet": "Meta employees in the US and UK are organizing against corporate software that tracks workers’ keystrokes and mouse activity.",
+    "tier": 1
+  },
+  {
+    "title": "Trump’s Tech Posse in China, Who’s Winning in Musk v. Altman, and Hantavirus Conspiracy Theories",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-trump-tech-posse-china-musk-v-altman-trial-hantavirus-conspiracy-theories/",
+    "source": "Wired AI",
+    "publishedAt": "Thu, 14 May 2026 19:04:47 +0000",
+    "snippet": "Today on Uncanny Valley, we discuss how Donald Trump’s visit to China could influence conversations between world leaders at a moment when the economic and foreign policy stakes couldn’t be higher.",
+    "tier": 1
+  },
+  {
+    "title": "AI Promised the Audemars Piguet x Swatch Wristwatch. China Will Deliver It",
+    "url": "https://www.wired.com/story/ai-ruined-the-audemars-piguet-x-swatch-collaboration-china-could-save-it/",
+    "source": "Wired AI",
+    "publishedAt": "Thu, 14 May 2026 12:52:28 +0000",
+    "snippet": "Watch fans spent a week falling in love with colorful Royal Oak wristwatches that didn’t exist—then the real thing arrived. Now, fantasy is becoming a manufacturing opportunity.",
+    "tier": 1
+  },
+  {
+    "title": "Gen Z Is Pioneering a New Understanding of Truth",
+    "url": "https://www.wired.com/story/book-excerpt-the-future-of-truth-steven-rosenbaum/",
+    "source": "Wired AI",
+    "publishedAt": "Thu, 14 May 2026 11:00:00 +0000",
+    "snippet": "The first generation to truly grow up online, Generation Z and their cohort live in a social media ecosystem that blends facts and feelings. It’s significantly shifting how they understand what’s true.",
+    "tier": 1
+  },
+  {
+    "title": "Meta’s New Reality: Record High Profits. Record Low Morale",
+    "url": "https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/",
+    "source": "Wired AI",
+    "publishedAt": "Thu, 14 May 2026 09:00:00 +0000",
+    "snippet": "Next week, Meta is cutting about 10 percent of its staff. WIRED spoke with more than a dozen current and former employees about what it's like inside a company where “everyone is unhappy.”",
+    "tier": 1
+  },
+  {
+    "title": "Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions",
+    "url": "https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/",
+    "source": "Wired AI",
+    "publishedAt": "Wed, 13 May 2026 21:58:47 +0000",
+    "snippet": "The plaintiffs and defense have rested their cases, as well as their rear ends.",
+    "tier": 1
+  },
+  {
+    "title": "A new personal finance experience in ChatGPT",
+    "url": "https://openai.com/index/personal-finance-chatgpt",
+    "source": "OpenAI Blog",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 GMT",
+    "snippet": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+    "tier": 1
+  },
+  {
+    "title": "Sea's View on the Future of Agentic Software Development with Codex",
+    "url": "https://openai.com/index/sea-david-chen",
+    "source": "OpenAI Blog",
+    "publishedAt": "Thu, 14 May 2026 20:30:00 GMT",
+    "snippet": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+    "tier": 1
+  },
+  {
+    "title": "Work with Codex from anywhere",
+    "url": "https://openai.com/index/work-with-codex-from-anywhere",
+    "source": "OpenAI Blog",
+    "publishedAt": "Thu, 14 May 2026 13:00:00 GMT",
+    "snippet": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
+    "tier": 1
+  },
+  {
+    "title": "Helping ChatGPT better recognize context in sensitive conversations",
+    "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+    "source": "OpenAI Blog",
+    "publishedAt": "Thu, 14 May 2026 00:00:00 GMT",
+    "snippet": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
+    "tier": 1
+  },
+  {
+    "title": "Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents",
+    "url": "https://arxiv.org/abs/2605.12620",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.12620v1 Announce Type: new \nAbstract: Building generalist embodied agents capable of solving complex real-world tasks remains a fundamental challenge in AI. Multimodal Large Language Models (MLLMs) have significantly advanced the reasoning capabilities of such agents through strong vision-language knowledge and chain-of-thought (CoT) reasoning, yet remain brittle when faced with challenging out-of-distribution scenarios. To address this, we propose Verifier-Guided Action Selection (Ve",
+    "tier": 1
+  },
+  {
+    "title": "Macro-Action Based Multi-Agent Instruction Following through Value Cancellation",
+    "url": "https://arxiv.org/abs/2605.12655",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.12655v1 Announce Type: new \nAbstract: Multi-agent reinforcement learning (MARL) in real-world use cases may need to adapt to external natural language instructions that interrupt ongoing behavior and conflict with long-horizon objectives. However, conditioning rewards on instructions introduces a fundamental failure mode as Bellman updates couple value estimates across instruction contexts, leading to inconsistent values when instructions interrupt macro-actions. We propose Macro-Acti",
+    "tier": 1
+  },
+  {
+    "title": "Do Androids Dream of Breaking the Game? Systematically Auditing AI Agent Benchmarks with BenchJack",
+    "url": "https://arxiv.org/abs/2605.12673",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.12673v1 Announce Type: new \nAbstract: Agent benchmarks have become the de facto measure of frontier AI competence, guiding model selection, investment, and deployment. However, reward hacking, where agents maximize a score without performing the intended task, emerges spontaneously in frontier models without overfitting. We argue that benchmarks must be secure by design. From past incidents of reward hacks, we derive a taxonomy of eight recurring flaw patterns and compile them into th",
+    "tier": 1
+  },
+  {
+    "title": "Revealing Interpretable Failure Modes of VLMs",
+    "url": "https://arxiv.org/abs/2605.12674",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.12674v1 Announce Type: new \nAbstract: Vision-Language Models (VLMs) are increasingly used in safety-critical applications because of their broad reasoning capabilities and ability to generalize with minimal task-specific engineering. Despite these advantages, they can exhibit catastrophic failures in specific real-world situations, constituting failure modes.\n  We introduce REVELIO, a framework for systematically uncovering interpretable failure modes in VLMs. We define a failure mode",
+    "tier": 1
+  },
+  {
+    "title": "Learning Transferable Latent User Preferences for Human-Aligned Decision Making",
+    "url": "https://arxiv.org/abs/2605.12682",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.12682v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used as reasoning modules in many applications. While they are efficient in certain tasks, LLMs often struggle to produce human-aligned solutions. Human-aligned decision making requires accounting for both explicitly stated goals and latent user preferences that shape how ambiguous situations should be resolved. Existing approaches to incorporating such preferences either rely on extensive and repeated",
+    "tier": 1
+  },
+  {
+    "title": "On the Size Complexity and Decidability of First-Order Progression",
+    "url": "https://arxiv.org/abs/2605.12691",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.12691v1 Announce Type: new \nAbstract: Progression, the task of updating a knowledge base to reflect action effects, generally requires second-order logic. Identifying first-order special cases, by restricting either the knowledge base or action effects, has long been a central topic in reasoning about actions. It is known that local-effect, normal, and acyclic actions, three increasingly expressive classes, admit first-order progression. However, a systematic analysis of the size of s",
+    "tier": 1
+  },
+  {
+    "title": "DisaBench: A Participatory Evaluation Framework for Disability Harms in Language Models",
+    "url": "https://arxiv.org/abs/2605.12702",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.12702v1 Announce Type: new \nAbstract: General-purpose safety benchmarks for large language models do not adequately evaluate disability-related harms. We introduce DisaBench: a taxonomy of twelve disability harm categories co-created with people with disabilities and red teaming experts, a taxonomy-driven evaluation methodology that pairs benign and adversarial prompts across seven life domains, and a dataset of 175 prompts with human-annotated labels on 525 prompt-response pairs. Ann",
+    "tier": 1
+  },
+  {
+    "title": "CHAL: Council of Hierarchical Agentic Language",
+    "url": "https://arxiv.org/abs/2605.12718",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.12718v1 Announce Type: new \nAbstract: Multi-agent debate has emerged as a promising approach for improving LLM reasoning on ground-truth tasks, yet current methodologies face certain structural limitations: debate tends to induce a martingale over belief trajectories, majority voting accounts for most observed gains, and LLMs exhibit confidence escalation rather than calibration across rounds. We argue that the genuine value of debate, and dialectic systems as a whole, lies not in gro",
+    "tier": 1
+  },
+  {
+    "title": "BEHAVE: A Hybrid AI Framework for Real-Time Modeling of Collective Human Dynamics",
+    "url": "https://arxiv.org/abs/2605.12730",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.12730v1 Announce Type: new \nAbstract: Existing AI systems for modeling human behavior operate at the level of individuals or detect events after they occur. As a result, they systematically fail to capture the collective dynamics that determine whether a group remains stable or transitions into escalation or breakdown. We propose a different foundation: a group of interacting humans constitutes a complex dynamical system in the precise mathematical sense, exhibiting emergence, nonline",
+    "tier": 1
+  },
+  {
+    "title": "State-Centric Decision Process",
+    "url": "https://arxiv.org/abs/2605.12755",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.12755v1 Announce Type: new \nAbstract: Language environments such as web browsers, code terminals, and interactive simulations emit raw text rather than states, and provide none of the runtime structure that MDP analysis requires. No explicit state space, no observation-to-state mapping, no certified transitions, and no termination criterion. We introduce the State-Centric Decision Process (SDP), a runtime framework that constructs these missing inputs by having the agent build them, p",
+    "tier": 1
+  },
+  {
+    "title": "PROMETHEUS: Automating Deep Causal Research Integrating Text, Data and Models",
+    "url": "https://arxiv.org/abs/2605.12835",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.12835v1 Announce Type: new \nAbstract: Large language models can extract local causal claims from text, but those claims become more useful when organized as persistent, navigable world models rather than as flat summaries. We introduce PROMETHEUS, a framework that turns retrieved literature, filings, reviews, reports, agent traces, source data, code, simulations, and scientific models into causal atlases: sheaf-like families of local causal predictive-state models over an explicit cov",
+    "tier": 1
+  },
+  {
+    "title": "Multimodal Hidden Markov Models for Persistent Emotional State Tracking",
+    "url": "https://arxiv.org/abs/2605.12838",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.12838v1 Announce Type: new \nAbstract: Tracking an interpretable emotional arc of a conversation via the sentiment of individual utterances processed as a whole is central to both understanding and guiding communication in applied, especially clinical, conversational contexts. Existing approaches to emotion recognition operate at the utterance level, obscuring the persistent phases that characterize real conversational dynamics. We propose a lightweight framework that models conversati",
+    "tier": 1
+  },
+  {
+    "title": "Moltbook Moderation: Uncovering Hidden Intent Through Multi-Turn Dialogue",
+    "url": "https://arxiv.org/abs/2605.12856",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.12856v2 Announce Type: new \nAbstract: The emergence of multi-agent systems introduces novel moderation challenges that extend beyond content filtering. Agents with malicious intent may contribute harmful content that appears benign to evade content-based moderation, while compromising the system through exploitative and malicious behavior manifested across their overall interaction patterns within the community. To address this, we introduce BOT-MOD (BOT-MODeration), a moderation fram",
+    "tier": 1
+  },
+  {
+    "title": "Beyond Cooperative Simulators: Generating Realistic User Personas for Robust Evaluation of LLM Agents",
+    "url": "https://arxiv.org/abs/2605.12894",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.12894v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents are increasingly deployed in settings where they interact with a wide variety of people, including users who are unclear, impatient, or reluctant to share information. However, collecting real interaction data at scale remains expensive. The field has turned to LLM-based user simulators as stand-ins, but these simulators inherit the behavior of their underlying models: cooperative and homogeneous. As a result, age",
+    "tier": 1
+  },
+  {
+    "title": "When Attention Closes: How LLMs Lose the Thread in Multi-Turn Interaction",
+    "url": "https://arxiv.org/abs/2605.12922",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.12922v1 Announce Type: new \nAbstract: Large language models can follow complex instructions in a single turn, yet over long multi-turn interactions they often lose the thread of instructions, persona, and rules. This degradation has been measured behaviorally but not mechanistically explained. We propose a channel-transition account: goal-defining tokens become less accessible through attention, while goal-related information may persist in residual representations. We introduce the G",
+    "tier": 1
+  },
+  {
+    "title": "Sustaining AI safety: Control-theoretic external impossibility, intrinsic necessity, and structural requirements",
+    "url": "https://arxiv.org/abs/2605.12963",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.12963v1 Announce Type: new \nAbstract: As AI systems become increasingly capable, safety strategies must be evaluated not only by how much they reduce present risk, but by whether they could sustain safety once external control can no longer reliably constrain system behavior. This paper addresses that problem by using control theory to clarify, at a structural level, whether externally enforced safety-sustaining strategies can succeed and, if not, what any alternative strategy would h",
+    "tier": 1
+  },
+  {
+    "title": "Position: Agentic AI System Is a Foreseeable Pathway to AGI",
+    "url": "https://arxiv.org/abs/2605.12966",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.12966v1 Announce Type: new \nAbstract: Is monolithic scaling the only path to AGI? This paper challenges the dogma that purely scaling a single model is sufficient to achieve Artificial General Intelligence. Instead, we identify Agentic AI as a necessary paradigm for mastering the complex, heterogeneous distribution of real-world tasks. Through rigorous theoretical derivations, we contrast the optimization constraints of monolithic learners against the efficiency of Agentic systems, pr",
+    "tier": 1
+  },
+  {
+    "title": "Retrieval is Cheap, Show Me the Code: Executable Multi-Hop Reasoning for Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2605.12975",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.12975v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation (RAG) has become a standard approach for knowledge-intensive question answering, but existing systems remain brittle on multi-hop questions, where solving the task requires chaining multiple retrieval and reasoning steps. Key challenges are that current methods represent reasoning through free-form natural language, where intermediate states are implicit, retrieval queries can drift from intended entities, and errors",
+    "tier": 1
+  },
+  {
+    "title": "Useful Memories Become Faulty When Continuously Updated by LLMs",
+    "url": "https://arxiv.org/abs/2605.12978",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.12978v1 Announce Type: new \nAbstract: Learning from past experience benefits from two complementary forms of memory: episodic traces -- raw trajectories of what happened -- and consolidated abstractions distilled across many episodes into reusable, schema-like lessons. Recent agentic-memory systems pursue the consolidated form: an LLM rewrites past trajectories into a textual memory bank that it continuously updates with new interactions, promising self-improving agents without parame",
+    "tier": 1
+  },
+  {
+    "title": "Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education",
+    "url": "https://arxiv.org/abs/2605.12988",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.12988v1 Announce Type: new \nAbstract: Students learning algorithms often need support as they interpret traces, debug reasoning errors, and apply procedures across unfamiliar problem instances. In this paper, we present KITE (Knowledge-Informed Tutoring Engine), a Retrieval-Augmented Generation (RAG)-based intelligent tutoring system designed to serve as a classroom teaching assistant for algorithmic reasoning and problem-solving tasks. KITE uses an intent-aware Socratic response stra",
+    "tier": 1
+  },
+  {
+    "title": "MAP: A Map-then-Act Paradigm for Long-Horizon Interactive Agent Reasoning",
+    "url": "https://arxiv.org/abs/2605.13037",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.13037v1 Announce Type: new \nAbstract: Current interactive LLM agents rely on goal-conditioned stepwise planning, where environmental understanding is acquired reactively during execution rather than established beforehand. This temporal inversion leads to Delayed Environmental Perception: agents must infer environmental constraints through trial-and-error, resulting in an Epistemic Bottleneck that traps them in inefficient failure cycles. Inspired by human affordance perception and co",
+    "tier": 1
+  },
+  {
+    "title": "An Agentic LLM-Based Framework for Population-Scale Mental Health Screening",
+    "url": "https://arxiv.org/abs/2605.13046",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.13046v1 Announce Type: new \nAbstract: Mental health disorders affect millions worldwide, and healthcare systems are increasingly overwhelmed by the volume of clinical data generated from electronic records, telemedicine platforms, and population-level screening programs. At the same time, the emergence of novel AI-based approaches in healthcare calls for intelligent frameworks capable of processing domain-specific unstructured clinical information while adapting to patient-specific ne",
+    "tier": 1
+  },
+  {
+    "title": "GRACE: Gradient-aligned Reasoning Data Curation for Efficient Post-training",
+    "url": "https://arxiv.org/abs/2605.13130",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.13130v1 Announce Type: new \nAbstract: Existing reasoning data curation pipelines score whole samples, treating every intermediate step as equally valuable. In reality, steps within a trace contribute very unevenly, and selecting reasoning data well requires assessing them individually. We present GRACE, a gradient-aligned curation method that views each reasoning trace as a sequence of optimization events and scores every step by two complementary signals: its alignment with the answe",
+    "tier": 1
+  },
+  {
+    "title": "A Constraint Programming Approach for $n$-Day Lookahead Playoff Clinching",
+    "url": "https://arxiv.org/abs/2605.13142",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.13142v1 Announce Type: new \nAbstract: In professional sports, a team has clinched the playoffs if they are guaranteed a postseason spot, regardless of the outcomes of any remaining games. As the season progresses, sports fans and other stakeholders are interested in precisely when, and under what conditions, their team will clinch the playoffs. In this paper, we investigate playoff clinching in the context of the National Hockey League (NHL), where it is computationally challenging to",
+    "tier": 1
+  },
+  {
+    "title": "Strikingness-Aware Evaluation for Temporal Knowledge Graph Reasoning",
+    "url": "https://arxiv.org/abs/2605.13153",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.13153v1 Announce Type: new \nAbstract: Temporal Knowledge Graph Reasoning (TKGR) aims at inferring missing (especially future) events from historical data. Current evaluation in TKGR uniformly weights all events, ignoring that most are trivial repetitions, which overestimate the true reasoning ability. Therefore, the rare outstanding events, whose prediction demands deeper reasoning, should be distinguished and emphasized. To this end, we propose a strikingness-aware evaluation framewo",
+    "tier": 1
+  },
+  {
+    "title": "Formal Conjectures: An Open and Evolving Benchmark for Verified Discovery in Mathematics",
+    "url": "https://arxiv.org/abs/2605.13171",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.13171v1 Announce Type: new \nAbstract: As automated reasoning systems advance rapidly, there is a growing need for research-level formal mathematical problems to accurately evaluate their capabilities. To address this, we present Formal Conjectures, an evolving benchmark of currently 2615 mathematical problem statements formalized in Lean 4. Sourced from areas of active mathematical research, the dataset features 1029 open research conjectures providing a zero-contamination benchmark f",
+    "tier": 1
+  },
+  {
+    "title": "Hierarchical Attacks for Multi-Modal Multi-Agent Reasoning",
+    "url": "https://arxiv.org/abs/2605.13213",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.13213v1 Announce Type: new \nAbstract: Multi-modal multi-agent systems (MM-MAS) have gained increasing attention for their capacity to enable complex reasoning and coordination across diverse modalities. As these systems continue to expand in scale and functionality, investigating their potential vulnerabilities has become increasingly important. However, existing studies on adversarial attacks in multi-agent systems primarily focus on isolated agents or unimodal settings, leaving the ",
+    "tier": 1
+  },
+  {
+    "title": "An Agentic AI Framework with Large Language Models and Chain-of-Thought for UAV-Assisted Logistics Scheduling with Mobile Edge Computing",
+    "url": "https://arxiv.org/abs/2605.13221",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.13221v1 Announce Type: new \nAbstract: In cloud manufacturing, unmanned aerial vehicles (UAVs) can support both product collection and mobile edge computing (MEC). This joint operation forms a hybrid scheduling problem, where physical logistics decisions are coupled with computational task scheduling. In this paper, UAVs collect finished products from manufacturing stations and transport them back to a central depot. Meanwhile, computational tasks generated by industrial sensor devices",
+    "tier": 1
+  },
+  {
+    "title": "Improving Code Translation with Syntax-Guided and Semantic-aware Preference Optimization",
+    "url": "https://arxiv.org/abs/2605.13229",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.13229v1 Announce Type: new \nAbstract: LLMs have shown immense potential for code translation, yet they often struggle to ensure both syntactic correctness and semantic consistency. While preference-based learning offers a promising alignment strategy, it is hindered by unreliable semantic rewards derived from sparse test cases or restrictive reference translations. We argue that a robust semantic reward for code translation must be derived directly from the source code. In this paper,",
+    "tier": 1
+  },
+  {
+    "title": "It's not the Language Model, it's the Tool: Deterministic Mediation for Scientific Workflows",
+    "url": "https://arxiv.org/abs/2605.13245",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.13245v1 Announce Type: new \nAbstract: Language models can produce convincing scientific analyses, but repeated generations on the same data do not guarantee the same result. A researcher may regenerate an identical query and receive a different fit, a different peak position or a different analysis procedure, without an obvious way to decide which output to trust. We propose typed mediation, a pattern in which the model orchestrates deterministic tools rather than generating analytica",
+    "tier": 1
+  },
+  {
+    "title": "Respecting Self-Uncertainty in On-Policy Self-Distillation for Efficient LLM Reasoning",
+    "url": "https://arxiv.org/abs/2605.13255",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.13255v1 Announce Type: new \nAbstract: On-policy self-distillation trains a reasoning model on its own rollouts while a teacher, often the same model conditioned on privileged context, provides dense token-level supervision. Existing objectives typically weight the teacher's token-level signal uniformly across a chain-of-thought sequence, despite substantial variation in the entropy of the teacher's predictive distribution. We propose EGRSD (Entropy-Guided Reinforced Self-Distillation)",
+    "tier": 1
+  },
+  {
+    "title": "D-VLA: A High-Concurrency Distributed Asynchronous Reinforcement Learning Framework for Vision-Language-Action Models",
+    "url": "https://arxiv.org/abs/2605.13276",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 -0400",
+    "snippet": "arXiv:2605.13276v2 Announce Type: new \nAbstract: The rapid evolution of Embodied AI has enabled Vision-Language-Action (VLA) models to excel in multimodal perception and task execution. However, applying Reinforcement Learning (RL) to these massive models in large-scale distributed environments faces severe systemic bottlenecks, primarily due to the resource conflict between high-fidelity physical simulation and the intensive VRAM/bandwidth demands of deep learning. This conflict often leaves ov",
+    "tier": 1
+  }
+]
