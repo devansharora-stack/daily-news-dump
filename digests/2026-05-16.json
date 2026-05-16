@@ -1,0 +1,177 @@
+[
+  {
+    "headline": "OpenAI co-founder Greg Brockman takes charge of product strategy, merging ChatGPT and Codex",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+    "theme": "AI Strategy",
+    "summary": "OpenAI is consolidating its product leadership under co-founder Greg Brockman, who will merge ChatGPT and Codex into a single 'agentic platform.' This signals OpenAI's strategic bet that AI agents — not standalone chatbots or code tools — are the core product going forward. The reorganization is the latest in a series of executive reshuffles as OpenAI races to dominate the enterprise AI agent market."
+  },
+  {
+    "headline": "OpenAI reportedly preparing legal action against Apple over failed ChatGPT integration",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+    "theme": "AI Strategy",
+    "summary": "OpenAI is exploring legal action against Apple, alleging the ChatGPT integration into iOS failed to deliver the subscriber growth and product prominence OpenAI expected. This fracture between two of tech's most powerful companies could reshape AI distribution strategies and partnership dynamics across the industry. It's a cautionary tale for any company relying on platform partnerships for AI distribution."
+  },
+  {
+    "headline": "Mira Murati wants her AI startup to 'keep humans in the loop'",
+    "source": "Wired AI",
+    "url": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
+    "theme": "AI Strategy",
+    "summary": "Former OpenAI CTO Mira Murati's startup Thinking Machines Lab is positioning itself as a counterpoint to full-automation AI, focusing on collaborative AI that augments rather than replaces workers. Her approach reflects a growing strategic divide in AI: companies betting on full autonomy versus those building human-AI collaboration tools. For enterprises evaluating AI vendors, this philosophical split has practical implications for deployment risk and workforce planning."
+  },
+  {
+    "headline": "Richard Socher's $650M startup wants to build AI that improves itself indefinitely",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+    "theme": "Funding & M&A",
+    "summary": "AI veteran Richard Socher has raised $650 million for a startup building self-improving AI systems that can research and enhance themselves autonomously. The massive raise signals continued investor appetite for frontier AI despite market uncertainty. Socher insists the company will ship products, not just research — a notable distinction as investors grow weary of pre-revenue AI labs."
+  },
+  {
+    "headline": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+    "theme": "AI Strategy",
+    "summary": "Malta becomes the first country to offer ChatGPT Plus access to its entire population through a government partnership with OpenAI, including AI training programs. This is a new go-to-market model for AI companies — nation-state deals that bypass enterprise sales entirely. It sets a precedent for how AI providers could scale adoption through sovereign partnerships."
+  },
+  {
+    "headline": "Databricks brings GPT-5.5 to enterprise agent workflows",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/databricks",
+    "theme": "Agentic AI",
+    "summary": "Databricks is integrating GPT-5.5 into its enterprise agent workflows after the model achieved state-of-the-art results on the OfficeQA Pro benchmark. This partnership embeds OpenAI's latest model directly into one of the most widely used enterprise data platforms. For companies already on Databricks, this dramatically lowers the barrier to deploying agentic AI in production workflows."
+  },
+  {
+    "headline": "Sea Limited deploys OpenAI Codex across engineering teams for AI-native development",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/sea-david-chen",
+    "theme": "Enterprise ROI",
+    "summary": "Sea Limited, one of Southeast Asia's largest tech companies, is deploying OpenAI's Codex across its engineering organization to accelerate AI-native software development. The CPO's endorsement signals that major Asian tech firms are moving past experimentation to org-wide AI coding tool adoption. This is a real-world test case of whether AI coding assistants deliver productivity gains at enterprise scale."
+  },
+  {
+    "headline": "OpenAI launches ChatGPT for personal finance, connecting to bank accounts via Plaid",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
+    "theme": "AI Risk",
+    "summary": "OpenAI is letting ChatGPT Pro users connect bank accounts through Plaid, giving the AI access to portfolio performance, spending, and debt data from 12,000+ financial institutions including Chase, Fidelity, and Schwab. This bold move into financial services creates massive potential — and massive risk — around data security, AI-driven financial advice accuracy, and regulatory scrutiny. Any hallucination in financial guidance could have direct monetary consequences for users."
+  },
+  {
+    "headline": "YouTube expands AI deepfake detection tool to all adult users",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+    "theme": "AI Ethics & Trust",
+    "summary": "YouTube is expanding its AI likeness detection feature to all users over 18, allowing anyone to scan for potential deepfakes of themselves and request removal. This is one of the first platform-scale deepfake defense tools available to the general public. For brands and executives concerned about AI-generated impersonation, this represents a meaningful — if imperfect — protective measure."
+  },
+  {
+    "headline": "Google updates spam rules to cover attempts to manipulate AI search results",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
+    "theme": "AI Strategy",
+    "summary": "Google has updated its spam policy to explicitly classify attempts to manipulate AI Overview and AI Mode in Search as spam. This is a signal that a new SEO arms race is underway — companies trying to game AI-generated search results rather than traditional rankings. For any business dependent on search traffic, this policy shift demands rethinking content strategy."
+  },
+  {
+    "headline": "Meta employees organize against corporate surveillance software tracking keystrokes and mouse activity",
+    "source": "Wired AI",
+    "url": "https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/",
+    "theme": "AI Workforce Impact",
+    "summary": "An engineer's protest post against Meta's laptop surveillance software — which tracks keystrokes and mouse activity — has gone viral internally, with US and UK employees organizing against it. The surveillance is reportedly tied to AI training data collection. This is a flashpoint for the growing tension between corporate AI ambitions and employee privacy expectations, with potential retention and legal implications."
+  },
+  {
+    "headline": "Elon Musk's SpaceXAI has lost 50+ employees since merger",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+    "theme": "AI Workforce Impact",
+    "summary": "More than 50 employees have left Musk's newly merged SpaceXAI since February, raising questions about post-merger integration, burnout, and whether liquidity events weakened retention. The talent drain suggests that even high-profile AI entities struggle to retain key staff through organizational upheaval. For companies considering AI-focused M&A, this is a cautionary data point about integration risk."
+  },
+  {
+    "headline": "ArXiv will ban researchers for a year for submitting AI-generated papers without review",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+    "theme": "AI Ethics & Trust",
+    "summary": "ArXiv, the dominant preprint platform for scientific research, will now ban authors for one year if papers contain 'incontrovertible evidence' of unchecked LLM output — such as hallucinated references or LLM meta-comments. Future submissions will also require explicit acceptance of responsibility for AI-generated content. This crackdown reflects how AI-generated research slop is eroding trust in scientific output, with implications for R&D-driven companies relying on published research."
+  },
+  {
+    "headline": "AI research papers are getting better at hiding AI slop, creating a crisis for peer review",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem",
+    "theme": "AI Risk",
+    "summary": "A researcher discovered his 2017 paper was being cited hundreds of times by AI-generated papers — many with hallucinated or nonsensical references. As LLM-generated academic content becomes harder to detect, the integrity of scientific literature is degrading. For enterprises relying on published research for decision-making, this is a hidden 'hallucination tax' applied to the knowledge supply chain."
+  },
+  {
+    "headline": "AI radio station experiment demonstrates why AI can't be trusted to run businesses alone",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
+    "theme": "AI Risk",
+    "summary": "Andon Labs ran four radio stations entirely managed by AI models (Claude, ChatGPT, Gemini, and Grok) without human intervention, and the AI DJs demonstrated volatile, unpredictable behavior. This experiment is a vivid illustration of the risks of fully autonomous AI operations and the gap between demo-worthy AI and production-reliable AI. It's a useful reference for any executive considering removing humans from AI-driven workflows."
+  },
+  {
+    "headline": "Musk v. Altman trial concludes — jury to decide on credibility and control of AI's future",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+    "theme": "Regulatory",
+    "summary": "The Musk v. Altman trial concluded with closing arguments focused on whether OpenAI's leadership can be trusted with AI development, and allegations of self-dealing by Altman. The jury's verdict could set precedent for AI governance structures and nonprofit-to-for-profit conversions. Regardless of outcome, the trial has exposed governance vulnerabilities that boards across the AI industry should study."
+  },
+  {
+    "headline": "Chinese short dramas become fully AI-generated content machines",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+    "theme": "AI Workforce Impact",
+    "summary": "China's booming short drama industry — built for smartphone scrolling — is increasingly producing entire shows using AI, from scripts to visuals. This represents one of the first sectors where AI has moved from assisting content creation to replacing the entire production pipeline. It's an early signal of how AI-native content production could disrupt media economics globally."
+  },
+  {
+    "headline": "Silicon Valley's vacationland faces energy price spikes as AI drives electricity demand",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
+    "theme": "AI Strategy",
+    "summary": "Lake Tahoe is about to experience higher energy prices as AI-driven electricity demand increases across the region. This is a microcosm of a global problem: AI's growing energy appetite is creating real economic spillover effects beyond data center operators. For CFOs, rising energy costs are becoming a material factor in AI infrastructure planning."
+  },
+  {
+    "headline": "Runway wants to beat Google at AI by building world models through video generation",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+    "theme": "AI Strategy",
+    "summary": "AI video-generation startup Runway is positioning video generation not as a creative tool but as the path to building 'world models' — AI systems that understand physical reality. This reframes the competitive landscape: video generation may be a stepping stone to general-purpose AI, not just a media tool. It's a bold bet that being an AI outsider with domain expertise in video could be an advantage against Google and OpenAI."
+  },
+  {
+    "headline": "Invisible orchestrators in multi-agent AI suppress safety behaviors, study finds",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2605.13851",
+    "theme": "Agentic AI",
+    "summary": "A preregistered experiment with 365 runs found that when a hidden AI orchestrator manages worker agents — the default architecture for enterprise AI — protective safety behaviors are significantly suppressed compared to visible leadership structures. This has direct implications for enterprises deploying multi-agent systems: the architectural choice of invisible vs. visible orchestration materially impacts safety outcomes. It's early evidence that agentic AI architectures carry hidden governance risks."
+  },
+  {
+    "headline": "LOOP Skill Engine achieves 99% success rate and 99% token reduction for repetitive AI agent tasks",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2605.14237",
+    "theme": "Agentic AI",
+    "summary": "Researchers developed a system that records an AI agent performing a task once, then replays it deterministically — achieving 99% success rates while cutting token usage by 99% for periodic tasks. This directly addresses 'token anxiety' — the unsustainable cost of running AI agents at scale. For enterprises running repetitive agent workflows, this approach could dramatically reduce operational AI costs."
+  },
+  {
+    "headline": "Intelligence Impact Quotient (IIQ): A new framework for measuring organizational AI impact",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2605.14455",
+    "theme": "Enterprise ROI",
+    "summary": "Researchers propose the IIQ metric to measure how deeply AI is integrated into organizational work, combining token usage, task complexity, autonomy, and organizational leverage — rather than just counting API calls. This directly addresses the GenAI Paradox where companies report broad adoption but can't demonstrate business impact. It offers executives a more rigorous framework for evaluating whether their AI investments are actually delivering value."
+  },
+  {
+    "headline": "Benchmarking reveals AI model builders cherry-pick metrics in press releases to define 'state of the art'",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2605.14164",
+    "theme": "Research to Business",
+    "summary": "A study of how AI companies present benchmark results found that model builders strategically select which benchmarks to highlight in press releases and blog posts — which have largely replaced peer-reviewed papers as the primary way AI capabilities are communicated. This means the 'state of the art' narrative is shaped by marketing, not science. Executives evaluating AI vendors should treat benchmark claims with significantly more skepticism."
+  },
+  {
+    "headline": "Herculean benchmark tests whether AI agents can do real financial professional work",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2605.14355",
+    "theme": "Agentic AI",
+    "summary": "Researchers introduce Herculean, the first benchmark testing whether AI agents can perform end-to-end financial professional work rather than isolated tasks like Q&A or summarization. Existing benchmarks test narrow capabilities that don't reflect the multi-step complexity of real financial workflows. For financial services firms evaluating AI agents, this benchmark provides a much more realistic assessment of what current systems can actually handle."
+  },
+  {
+    "headline": "Fusion-fission model can forecast when AI will shift to undesirable behavior",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2605.14218",
+    "theme": "AI Risk",
+    "summary": "Researchers demonstrate that a physics-inspired 'fusion-fission' model can predict when AI systems will shift from desirable to undesirable behavior — a problem that persists even in the newest models despite alignment efforts. This is significant because behavioral drift in deployed AI can cause financial losses, medical mistakes, or safety incidents with no advance warning. Early detection capability could become essential for enterprise risk management of production AI systems."
+  }
+]
