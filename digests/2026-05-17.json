@@ -1,0 +1,205 @@
+[
+  {
+    "headline": "US is starting to see heavy job losses in roles exposed to AI",
+    "source": "Bloomberg via Hacker News",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai",
+    "theme": "AI Workforce Impact",
+    "summary": "Bloomberg reports that measurable job losses are now materializing in US roles most exposed to AI automation. The story drew 260 comments on Hacker News, reflecting widespread concern. This shifts the narrative from theoretical displacement to documented labor market impact — a critical signal for workforce planning and board-level risk assessment."
+  },
+  {
+    "headline": "This tech job grew 729% in a year amid AI-related layoffs — salaries now touch ₹1.7 crore",
+    "source": "Mint",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaWZ3TnlEMjhDMVMwR2tQZHlZT05GMWItaWRKMDlfeURKeDlDcGd2VE0zaGZvaXRhQkQ1MWVVZnQ2ck1RZHJ0UlZiSGIwQVdWNnVKV29xVmo0aEZrMXhZT1JpeTE3cVFzaG4wOWhnN3M3STRXQjhVR19aV21tNXNRR1M0dEc5U1dlSlZUaV82UEVLdWxUUWd4U1FTT3M4b2VRM1pxUXhZRTJWenMxZGp6R3ZEWGYzUkg5V3JRcnF5QUhWV2x4aEp1UVJUOUNPRk9Od3ZBTGxrTG1wM2VFR01lUGpfeGFrMXNRQVB2YVZhOTZtS0RoZlHSAfsBQVVfeXFMTUtvaUV2YnE2dUp4clljN2JnQVdkUmI2MzNfbHJaMnRGWW9nTGM3UTJkUTk3QUNTdmxiT3FnbnV0eXVSY2lBODV4bFZUTTdIQWgwRUxzRUhTMExyYWVZV2hJUjBQXzgwdnUwdlpJZ1JaUGhDaTZieDk4Zno1N2JrRjF5c0FEZ1EwTWo4aXR3bzhQVFViWGM4VGh1NWpVWEZRQVYzWkRKbjVLLTdhbGxpYTUwZUVzV3dlZEhUc0dSeW5veERmMTgwSTlSZl9HZ0tQcWxHc3JXZno3TGc0WW10d2l6TEhVcTRvVUlmTER6dmJXbjdweDFNU2M4QWc?oc=5",
+    "theme": "AI Workforce Impact",
+    "summary": "While AI is eliminating traditional roles, one specific tech job category surged 729% in demand over the past year, with top salaries reaching approximately $200K. This illustrates the dramatic reshuffling of labor markets — some roles vanish while new AI-adjacent positions command premium compensation, creating urgency around workforce reskilling strategies."
+  },
+  {
+    "headline": "University of Arizona students boo Eric Schmidt's AI cheerleading during commencement",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
+    "theme": "AI Workforce Impact",
+    "summary": "Former Google CEO Eric Schmidt was booed repeatedly by University of Arizona graduates when his commencement speech turned to AI's potential. Students entering a disrupted job market are openly hostile to AI optimism from tech leaders. This is a leading indicator of a broader public sentiment shift that could influence regulation, talent acquisition, and corporate messaging strategies."
+  },
+  {
+    "headline": "I believe there are entire companies right now under AI psychosis",
+    "source": "Hacker News (Top)",
+    "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+    "theme": "AI Strategy",
+    "summary": "A viral post by HashiCorp co-founder Mitchell Hashimoto — garnering over 2,000 upvotes and 1,200 comments on Hacker News — argues that entire companies are making irrational decisions driven by AI hype, detached from real business outcomes. The massive engagement signals that 'AI psychosis' resonates deeply with practitioners and leaders, and represents a warning about organizational decision-making in the current hype cycle."
+  },
+  {
+    "headline": "I don't think AI will make your processes go faster",
+    "source": "Hacker News (Top)",
+    "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+    "theme": "AI Strategy",
+    "summary": "With 370 upvotes and 278 comments, this widely-discussed article argues that AI doesn't accelerate existing business processes as commonly promised — it changes what's possible but rarely delivers the speed gains vendors claim. This directly challenges the ROI assumptions behind many enterprise AI investments and exemplifies the GenAI Paradox of broad adoption without measurable impact."
+  },
+  {
+    "headline": "The haves and have nots of the AI gold rush",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+    "theme": "AI Strategy",
+    "summary": "TechCrunch reports that even within the tech industry, sentiment around the AI boom is souring as a widening gap emerges between companies successfully monetizing AI and those burning capital on it. This is a direct illustration of the AI Value Gap — the chasm between AI winners and everyone else — and should inform investment and competitive strategy discussions."
+  },
+  {
+    "headline": "Mistral's CEO: Europe has 2 years to stop becoming America's AI 'vassal state'",
+    "source": "Business Insider via Hacker News",
+    "url": "https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5",
+    "theme": "AI Strategy",
+    "summary": "Mistral CEO Arthur Mensch warns that Europe has a two-year window before it becomes entirely dependent on American AI infrastructure. With 80 upvotes and 115 comments, the piece highlights growing geopolitical AI competition and sovereign AI concerns that could reshape procurement decisions for any company operating across US-EU markets."
+  },
+  {
+    "headline": "AI is a technology not a product",
+    "source": "Daring Fireball via Hacker News",
+    "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+    "theme": "AI Strategy",
+    "summary": "John Gruber's influential essay — with 201 upvotes — argues that companies treating AI as a standalone product rather than an enabling technology are making a strategic error. The distinction matters for executives deciding whether to buy AI products or embed AI capabilities into existing offerings and workflows."
+  },
+  {
+    "headline": "Every AI subscription is a ticking time bomb for enterprise",
+    "source": "Hacker News (Top)",
+    "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+    "theme": "Enterprise ROI",
+    "summary": "With 308 upvotes and 303 comments, this article warns that enterprises are accumulating sprawling, overlapping AI subscriptions with unclear ROI and escalating costs. It exemplifies Token Anxiety — the mounting cost and complexity of running AI at scale — and raises urgent questions about AI vendor consolidation and cost governance for CFOs."
+  },
+  {
+    "headline": "Beware the Agentic Convergence Trap",
+    "source": "Harvard Business Review",
+    "url": "https://hbr.org/2026/05/beware-the-agentic-convergence-trap",
+    "theme": "Agentic AI",
+    "summary": "HBR warns companies against the 'agentic convergence trap' — where organizations rush to deploy AI agents that all converge on the same strategies, eliminating competitive differentiation. This is essential reading for leaders evaluating agentic AI deployments and directly addresses the Agentwashing phenomenon of rebranding basic automation as agentic AI."
+  },
+  {
+    "headline": "Nvidia plans open-source AI agent platform 'NemoClaw' for enterprises",
+    "source": "Wired via MSN",
+    "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxOdDItOXBLd3hRT01wNUxFckl3NHdfdEc2MGJUWkxCNUphLU1EeWVLazZCWDQ3OC0zN19wOHUxUzAzVXFyaTE3dEZLbkxXbWNHWmNlR2s3eFpZMFZWR2JrYUlDUjExMUlQbkNjc1ZsdnUtb2tjYm9aenZwbndndVVnODRTV0JXUHFqZmk0VmptTHpnbWFhWlAzUUNzR2xpOWFUVWxwZUpsRGdTSnd5OFA0R3NwMXhyeTBHOGo2YU5BWDVsWHpTMkZwRWJBSG5TdTdIaG1VMC1FZjFOWnA4WFVvdEhCVGJURE8wbjNodjFUamtZRmJhdWFUY1p6Z1BlNF81NktZQkRqeHNXVW5KWlJRQ0xueFZrSWUzWV9GX0paTDdPNUhPTWlGQ0dGa3VOX1lyR0tQMmRWenF0WTlOblVTS1E0cEN4ZnRPZ0pmeFZCUVQwWS1CWWNGZnNHOU5PTTFXQ3RrOVUwTy0xb1k0RFYtb0d6bkJlNmdFS1hOUzYwOE5IdXdnVzVMcWNxQVA5RDVVQ0NFY2pJNFZDTlYzcWp0WVA3NjdBcFJJd2RTOW82ZWY5X0Jj?oc=5",
+    "theme": "Agentic AI",
+    "summary": "Nvidia is developing NemoClaw, an open-source AI agent platform targeting enterprise deployments. This move positions Nvidia beyond chips and into the agent orchestration layer, potentially reshaping the competitive landscape for enterprise AI infrastructure and challenging existing agent platform vendors."
+  },
+  {
+    "headline": "Research: Why you shouldn't treat AI agents like employees",
+    "source": "Harvard Business Review",
+    "url": "https://hbr.org/2026/05/research-why-you-shouldnt-treat-ai-agents-like-employees",
+    "theme": "Agentic AI",
+    "summary": "New HBR research finds that organizations anthropomorphizing AI agents — assigning them roles, titles, and expectations like human employees — see worse outcomes than those managing agents as tools with defined task boundaries. This has direct implications for how companies design their AI operating models and governance frameworks."
+  },
+  {
+    "headline": "Cerebras' blockbuster IPO boosts hype for SpaceX and OpenAI, but crowds out smaller players",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/16/cerebras-blockbuster-ipo-boosts-hype-for-spacex-openai-anthropic.html",
+    "theme": "Funding & M&A",
+    "summary": "Cerebras' successful IPO is fueling anticipation for upcoming SpaceX, OpenAI, and Anthropic offerings, but is also crowding out smaller AI companies seeking capital. The concentration of investor attention on mega-cap AI plays is widening the AI Value Gap and could starve mid-tier AI companies of funding."
+  },
+  {
+    "headline": "Cerebras stock falls 10% in first full day of trading after blockbuster debut",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/15/cerebras-stock-ipo-debut-ai.html",
+    "theme": "Funding & M&A",
+    "summary": "After surging in its IPO, Cerebras shares dropped 10% on the first full trading day, raising questions about whether AI chip valuations have overshot fundamentals. For investors and enterprise buyers alike, the volatility signals the market is still pricing AI infrastructure companies with significant uncertainty."
+  },
+  {
+    "headline": "What smart people are saying about OpenAI's new $10 billion company to help businesses deploy AI",
+    "source": "AOL / Business Insider",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WcjVjRTBLb25LekVzLVM0S3drOERkaXdjdXVzbkZzTmp0Z3Vpam1ZUVNJOElGeFJWY3ZWZ19WY0lwaURoaHREd21iQ3VCQjJyWFl4ay1yUi1uV19vSVU4QkZfbE0xVVFHenBEbTZFTWRJVEFrQmxCQUx1ZTdGbGM?oc=5",
+    "theme": "Funding & M&A",
+    "summary": "OpenAI has reportedly launched a $10 billion subsidiary focused on enterprise AI deployment, signaling a major strategic shift from model research to enterprise services. This positions OpenAI in direct competition with Accenture, Deloitte, and other consultancies in the AI implementation market and could reshape the enterprise AI services landscape."
+  },
+  {
+    "headline": "Anthropic scales enterprise AI push with PwC, 30,000 staff to be trained on Claude",
+    "source": "MSN",
+    "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOS2pYR25hTWk1d01HRFlfYUNrLUNwMk1uWUo5UFlmRFJjUVpRYkhUTTRmOW9aVndWRnd4NGRIZ2FVbVhGOXpwMF9fZGVBcmZveG4wTUd2ZGhCTHlGeE5wWGc5TUdlXzFNWVV0aWpyWGVOSHBOLUxFZ2FyTndWdng2VXR1M1lJQ0FERVZUUGZaX21fY3dDQ1NBdDJTX1M1RDJQd09EbzFZRjRYVTA0Z3g3dnFYdmlWVXRsUjZUXzZxZEZ5YnZra0tJVThUTzBtY0FJOENKUkZnSm5UQ3B5ZkZ1T2RKM005Y3hlUmdWdVA0MXkzVi1MdEs1VUkzREJiaWE4UzBaZEd3ajlKZWhxeFRaa3VzX2FYR0t4bHhCeFVjaVo3Sk1zRzhPUEZaNGVCZENaTDE1OWlnUFdHS0tKZW5sUHFSOXNuZDdrNVVUMDRoYWN6S2haUVpPSllBWkdmcEU2ZG5ab0xMVmU?oc=5",
+    "theme": "Funding & M&A",
+    "summary": "Anthropic and PwC are partnering to train 30,000 PwC staff on Claude, marking one of the largest enterprise AI training rollouts by a professional services firm. This deal validates Anthropic's enterprise strategy and signals that Big Four firms are picking sides in the foundation model wars, with implications for every company relying on these consultancies."
+  },
+  {
+    "headline": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+    "theme": "Model & Platform",
+    "summary": "OpenAI is reportedly merging ChatGPT and its coding product Codex under Greg Brockman's product leadership. This consolidation signals OpenAI's shift toward a unified platform play rather than standalone tools, which could reshape how enterprises evaluate and procure OpenAI products."
+  },
+  {
+    "headline": "Is Microsoft building its own AI empire beyond OpenAI?",
+    "source": "Kavout",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZjIzVXVKMXRVaE5zRVpta21KOGc5TFRDR3VrUkx0b3BMZHhOZFh4SnJySmRfUEdjUnM0YjFtNVMzbTBZWHNOeVJSYWllWXNiZWs4dW43MmpJTHRQRDdYdDI0WC00aFptRUZ6dHhDVjFLbWx6YW8xazlzanVkc0oyek5EMU1RakFhRVlPaVdTZGxFZw?oc=5",
+    "theme": "Model & Platform",
+    "summary": "Analysis suggests Microsoft is hedging its $13B+ OpenAI bet by building independent AI capabilities across Azure, Copilot, and its own models. For enterprise customers, this raises strategic questions about vendor lock-in and whether Microsoft's AI stack will diverge from or compete with OpenAI's offerings."
+  },
+  {
+    "headline": "Revamped Siri will offer auto-deleting chats as Apple bets on privacy as AI differentiator",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
+    "theme": "Model & Platform",
+    "summary": "Apple's upcoming Siri overhaul in iOS 27 will include auto-deleting chat histories — a deliberate contrast to competitors who retain conversation data. Apple is positioning privacy as its core AI differentiator, which could matter significantly for enterprise and regulated-industry customers evaluating AI assistants."
+  },
+  {
+    "headline": "Americans are increasingly concerned about AI — want more regulation",
+    "source": "AOL",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUFk5LVJiS05LbWFOX3h6bnBCb3hNS2IyZjBMNGpWdmJ1R2txNGtndV9FUzM2SUFXMWdING4yUjV5V2FteGZBOFNIMS1rYVl0dVRySTdOTGJEYnh3RDNxbTB0ZzlEM2ZHSVZIcTRKNHNTTmFtQV9FR3RmamYyc1Y5LWgtY1NYNGs0MlNNQlF3?oc=5",
+    "theme": "Regulatory",
+    "summary": "New polling data shows Americans are increasingly concerned about AI's impact and are calling for stronger regulation. This growing public pressure increases the likelihood of new AI legislation, which business leaders should factor into compliance planning and AI deployment timelines."
+  },
+  {
+    "headline": "There's a mammoth disagreement brewing within the Federal Reserve over AI — and it may reshape monetary policy",
+    "source": "The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQU56azI3ODVYaWlweGo4bDhqeDMyckd4OG9va1VPNWlkLXVKN1dMMDdkYnRWeTc1QVItUFBLcVFzRmdIcWVxT1lub00tZEx1UWhqWWV3T014em5WaFZ1ZjFFYXVxS1l4MnY3MHc4dEdHekgyUGdSWTFKaVFWLWZsR2Y0NUxuX2doRDl4TEFCdW94NExUeEpB?oc=5",
+    "theme": "Regulatory",
+    "summary": "Federal Reserve officials are reportedly divided on how AI-driven productivity gains should be factored into monetary policy decisions, with some arguing AI could reduce inflationary pressure while others remain skeptical. The outcome could influence interest rate trajectories, affecting capital costs for every business."
+  },
+  {
+    "headline": "Trump touted Palantir on Truth Social after buying the company's stock, records show",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/15/trump-palantir-stock-truth-social.html",
+    "theme": "Regulatory",
+    "summary": "Financial disclosures reveal President Trump purchased $630K–$247K of Palantir stock and then promoted the company on Truth Social, while also making substantial tech stock purchases including Amazon, Meta, and Oracle. This raises governance and conflict-of-interest questions at the intersection of AI policy and political leadership."
+  },
+  {
+    "headline": "ArXiv will ban researchers who upload papers full of AI slop",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+    "theme": "AI Risk",
+    "summary": "ArXiv is implementing one-year bans for researchers who submit papers with obvious AI-generated errors like hallucinated references. This reflects the growing Hallucination Tax spreading into academia and signals that AI quality control is becoming a governance issue across industries, not just tech."
+  },
+  {
+    "headline": "What are your company's AI nightmares?",
+    "source": "Harvard Business Review",
+    "url": "https://hbr.org/2026/05/what-are-your-companys-ai-nightmares",
+    "theme": "AI Risk",
+    "summary": "HBR examines the emerging category of enterprise AI failure modes — from hallucination-driven customer incidents to agent-caused data breaches. The article frames AI risk management as a C-suite priority rather than an IT concern, arguing that most companies lack the governance structures to handle AI failures at scale."
+  },
+  {
+    "headline": "YouTube is expanding its AI deepfake detection tool to all adult users",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+    "theme": "AI Ethics & Trust",
+    "summary": "YouTube is making its AI likeness detection tool available to all users over 18, allowing anyone to scan for deepfakes of themselves and request removals. This sets a precedent for platform-level deepfake protection that could influence corporate brand protection strategies and employee safety policies."
+  },
+  {
+    "headline": "Inside the AI Index: 12 takeaways from the 2026 report",
+    "source": "Stanford HAI",
+    "url": "https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report",
+    "theme": "Research to Business",
+    "summary": "Stanford's authoritative annual AI Index reveals breakthrough capabilities alongside urgent questions about environmental costs, transparency gaps, and concentration of benefits. The report is a key reference for any executive benchmarking their AI strategy against industry-wide trends and serves as an evidence base for board-level AI discussions."
+  },
+  {
+    "headline": "Gen AI could fix performance reviews — or make them even worse",
+    "source": "Harvard Business Review",
+    "url": "https://hbr.org/2026/05/gen-ai-could-fix-performance-reviews-or-make-them-even-worse",
+    "theme": "AI Strategy",
+    "summary": "HBR explores how generative AI is being deployed in employee performance management — with potential to reduce bias and improve consistency, but also risk amplifying existing flaws if poorly implemented. For CHROs and COOs, this highlights a high-impact, high-risk internal AI use case that touches every employee."
+  },
+  {
+    "headline": "Cyber defense has to move at the speed of AI",
+    "source": "Harvard Business Review",
+    "url": "https://hbr.org/2026/05/cyber-defense-has-to-move-at-the-speed-of-ai",
+    "theme": "AI Risk",
+    "summary": "HBR argues that AI-powered cyberattacks are outpacing traditional security response times, requiring organizations to deploy AI-driven defenses. For CISOs and boards, the article makes the case that cybersecurity budgets and architectures must be fundamentally restructured around AI-speed threat detection and response."
+  },
+  {
+    "headline": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+    "theme": "AI Strategy",
+    "summary": "OpenAI struck a national-level deal with Malta to provide ChatGPT Plus access and AI training to all citizens — the first country-wide deployment of its kind. This sets a precedent for government-AI company partnerships and could become a template for national AI literacy programs that reshape workforce readiness across economies."
+  }
+]
