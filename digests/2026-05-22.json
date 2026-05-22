@@ -1,0 +1,198 @@
+[
+  {
+    "headline": "Intuit to lay off over 3,000 employees to refocus on AI",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+    "theme": "AI Workforce Impact",
+    "summary": "Intuit is cutting more than 3,000 jobs as it restructures around AI capabilities. This is one of the largest single AI-motivated layoffs from a major enterprise software company and signals that the 'replace headcount with AI' playbook is accelerating in back-office and financial software."
+  },
+  {
+    "headline": "Cloudflare CEO on how he chooses which employees to replace with AI",
+    "source": "Wall Street Journal",
+    "url": "https://www.wsj.com/opinion/how-i-choose-which-cloudflare-employees-to-replace-with-ai-40a197e5",
+    "theme": "AI Workforce Impact",
+    "summary": "Cloudflare CEO Matthew Prince publicly details his framework for deciding which roles to automate with AI, a rare candid look from a sitting CEO. The piece is significant because it moves the AI-workforce conversation from abstract trends to concrete executive decision-making criteria."
+  },
+  {
+    "headline": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
+    "source": "Hacker News / Libertas Software",
+    "url": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
+    "theme": "AI Workforce Impact",
+    "summary": "A widely-discussed counterargument (191 comments, 191 points on HN) to the 'replace workers with AI' trend, arguing that companies retaining human talent and augmenting them with AI will outperform those that cut headcount. This directly challenges the Intuit/Cloudflare approach and frames the strategic fork facing every CEO."
+  },
+  {
+    "headline": "University graduates boo and heckle AI-promoting tech CEOs at commencements",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos",
+    "theme": "AI Workforce Impact",
+    "summary": "A wave of viral videos shows 2026 graduates loudly jeering executives like former Google CEO Eric Schmidt who praise AI in commencement speeches. The backlash reflects deep anxiety among the next generation of workers about AI displacing their career prospects — a reputational risk for companies recruiting top talent."
+  },
+  {
+    "headline": "Samsung chip workers will get an average $340K bonus as AI profits soar",
+    "source": "Quartz / The Verge",
+    "url": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
+    "theme": "AI Workforce Impact",
+    "summary": "Samsung's 48,000 semiconductor workers negotiated average annual bonuses of $340,000 after threatening an 18-day strike, driven by surging AI chip demand. This illustrates how AI's economic gains are creating labor leverage in the hardware supply chain — and significant cost pressure for chipmakers."
+  },
+  {
+    "headline": "Anthropic says it's about to have its first profitable quarter",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+    "theme": "Funding & M&A",
+    "summary": "Anthropic told investors it expects to more than double revenue to ~$10.9 billion in Q2, reaching profitability for the first time. This is a landmark moment for the AI industry — the first major OpenAI competitor to claim profitability, validating the enterprise AI business model beyond just OpenAI."
+  },
+  {
+    "headline": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+    "theme": "Funding & M&A",
+    "summary": "Nvidia reported another record revenue quarter but signaled that growth will slow in the next period. The company also disclosed $43 billion in startup holdings, making it one of the largest de facto venture investors in the AI ecosystem — a dual role that raises questions about market power."
+  },
+  {
+    "headline": "Jensen Huang says he's found a 'brand new' $200B market for Nvidia",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+    "theme": "Funding & M&A",
+    "summary": "Nvidia CEO Jensen Huang identified CPUs for AI agents as a new $200 billion market opportunity. This signals Nvidia's strategic pivot beyond GPUs and suggests the agentic AI wave will drive a distinct new hardware cycle that enterprise buyers will need to plan for."
+  },
+  {
+    "headline": "Hark raises $700M Series A for its secretive 'universal' AI interface",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+    "theme": "Funding & M&A",
+    "summary": "Hark raised a $700 million Series A — one of the largest A rounds ever — for a multimodal AI platform and hardware devices planned for later this year. The round signals continued massive investor appetite for AI platforms, though the secretive nature and lack of shipped products raises questions about valuation discipline."
+  },
+  {
+    "headline": "xAI burned $6.4B last year — SpaceX's IPO filing reveals Musk's AI financials",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+    "theme": "Funding & M&A",
+    "summary": "SpaceX's S-1 filing provided the first public look at xAI's financials: a $6.4 billion loss in 2025 with massive Grok expansion planned. Combined with $2.8 billion in gas turbine purchases for data centers, the filing reveals the staggering capital intensity of competing in foundation models."
+  },
+  {
+    "headline": "SpaceX files to go public with $1.75 trillion valuation target",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
+    "theme": "Funding & M&A",
+    "summary": "SpaceX's S-1 targets what would be the largest IPO in American history, with 36 pages of risk factors including xAI-related liabilities and a $28 trillion total addressable market claim. The filing is a bellwether for how public markets will value AI-adjacent mega-companies."
+  },
+  {
+    "headline": "SpaceX listed Grok's 'Spicy' mode as a risk in its IPO filing",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/",
+    "theme": "AI Risk",
+    "summary": "SpaceX reserved over $500 million for potential litigation losses partly tied to complaints that Grok generated sexualized images. This is a concrete example of AI safety failures translating directly into material financial risk in public filings — a warning for any company embedding generative AI in products."
+  },
+  {
+    "headline": "Grok barely appears in government AI records; chatbot struggles with adoption",
+    "source": "The Verge / Reuters",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
+    "theme": "AI Strategy",
+    "summary": "A Reuters review of 400+ government AI use cases found Grok barely mentioned, despite Musk's political access. Combined with $6.4B in losses, this suggests xAI is failing to convert its massive spending and political positioning into actual enterprise or government adoption."
+  },
+  {
+    "headline": "Google's AI search is so broken it can 'disregard' what you're looking for",
+    "source": "The Verge / TechCrunch",
+    "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+    "theme": "AI Risk",
+    "summary": "Google's AI Overviews broke when users searched for the word 'disregard' — the AI treated it as a prompt instruction rather than a search query. This is a high-profile example of prompt injection vulnerabilities in production systems used by billions, highlighting the hidden fragility of deploying LLMs at scale."
+  },
+  {
+    "headline": "Trump delays AI security executive order, citing language concerns",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+    "theme": "Regulatory",
+    "summary": "President Trump delayed an executive order that would have required pre-release government security reviews of AI models, saying the language 'could have been a blocker.' The delay signals continued US reluctance to impose meaningful pre-deployment oversight, widening the regulatory gap with the EU."
+  },
+  {
+    "headline": "OpenAI's Chris Lehane works to fix AI's reputation crisis and shape state laws",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
+    "theme": "Regulatory",
+    "summary": "OpenAI's global affairs chief Chris Lehane is actively working to influence state-level AI legislation to prevent laws that could constrain OpenAI's growth. The piece reveals how AI companies are deploying political operatives to shape the regulatory environment — a critical dynamic for any company navigating AI compliance."
+  },
+  {
+    "headline": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+    "source": "TechCrunch / The Verge",
+    "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+    "theme": "AI Strategy",
+    "summary": "Spotify partnered with Universal Music Group to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving royalties and able to opt out. This is the first major licensing deal that creates a commercial framework for AI-generated derivative content in music — a template other creative industries will watch closely."
+  },
+  {
+    "headline": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
+    "theme": "Agentic AI",
+    "summary": "Google I/O introduced a consumer-facing AI agent ecosystem, but coverage highlights confusion around the pitch. This exemplifies the 'agentwashing' risk: companies branding complex LLM workflows as agents without clear user value propositions or proven enterprise use cases."
+  },
+  {
+    "headline": "Even if you hate AI, you will use Google AI Search",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/",
+    "theme": "AI Strategy",
+    "summary": "Wired argues Google's AI-crafted search answers are becoming so deeply embedded that users have no practical alternative, even as the feature degrades the web ecosystem for publishers and content creators. For any business dependent on search traffic, this represents a fundamental shift in digital distribution economics."
+  },
+  {
+    "headline": "The current AI pricing was always going to go away",
+    "source": "Hacker News / arnon.dk",
+    "url": "https://arnon.dk/the-current-ai-pricing-was-always-going-to-go-away/",
+    "theme": "AI Strategy",
+    "summary": "A widely-discussed analysis argues that current below-cost AI pricing from major providers is unsustainable and price increases are inevitable. This is a critical planning consideration for enterprises building AI-dependent workflows — a direct manifestation of 'token anxiety' about the true long-term cost of AI at scale."
+  },
+  {
+    "headline": "OpenAI named a Leader in enterprise coding agents by Gartner",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "theme": "Model & Platform",
+    "summary": "OpenAI's Codex was named a leader in Gartner's 2026 Magic Quadrant for Enterprise AI Coding Agents, the first such quadrant for this category. The creation of a Gartner Magic Quadrant signals that agentic coding has crossed from experimental to enterprise procurement category — relevant for any CTO evaluating AI development tools."
+  },
+  {
+    "headline": "AI has a multiplying effect on existing technical skills",
+    "source": "Hacker News / Josh W. Comeau",
+    "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
+    "theme": "Enterprise ROI",
+    "summary": "A viral post (220 points, 222 comments) argues AI amplifies rather than replaces technical expertise — experienced developers extract far more value from AI tools than novices. This reframes the AI workforce question: the ROI gap may widen between skilled and unskilled teams rather than between AI-using and non-AI companies."
+  },
+  {
+    "headline": "The Gulf's AI boom has an undersea cable problem",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/the-gulfs-ai-boom-has-an-undersea-cable-problem/",
+    "theme": "AI Strategy",
+    "summary": "Hyperscalers building AI infrastructure in the Gulf states are hitting a bottleneck: insufficient undersea cable capacity to handle AI workloads. This highlights an often-overlooked infrastructure constraint that could shape where AI data centers are viable and influence geopolitical competition for AI capacity."
+  },
+  {
+    "headline": "Anthropic's Code with Claude showed off coding's future — whether you like it or not",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+    "theme": "Model & Platform",
+    "summary": "Anthropic's developer event in London showcased coding workflows where attendees reported shipping pull requests entirely written by AI. The event directly competed with Google I/O timing, signaling Anthropic's growing confidence and the intensifying platform war for developer mindshare."
+  },
+  {
+    "headline": "A literary prize selects a story that appears to be AI-generated",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
+    "theme": "AI Ethics & Trust",
+    "summary": "The prestigious Commonwealth Short Story Prize published a regional winner that appears to be AI-generated, featuring hallmarks of LLM prose. The incident exposes how existing gatekeeping institutions lack tools to detect AI-generated content, raising questions about provenance and trust across creative and professional domains."
+  },
+  {
+    "headline": "AI is just unauthorised plagiarism at a bigger scale",
+    "source": "Hacker News",
+    "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
+    "theme": "AI Ethics & Trust",
+    "summary": "The most upvoted AI story on Hacker News this week (805 points, 715 comments) argues AI training constitutes large-scale unauthorized plagiarism. The intensity of debate signals growing mainstream pushback on training data practices — a legal and reputational risk for enterprises deploying or building on foundation models."
+  },
+  {
+    "headline": "Google I/O showed how the path for AI-driven science is shifting",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+    "theme": "Research to Business",
+    "summary": "Google DeepMind CEO Demis Hassabis declared we're 'standing in the foothills of the singularity' at I/O, while the company showcased AI tools for scientific research. MIT Technology Review analyzes how Google is repositioning AI-for-science as a core business strategy, not just a research initiative."
+  },
+  {
+    "headline": "The Path raises funding for safer AI therapy, scoring 95 on mental health safety benchmark",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
+    "theme": "AI Risk",
+    "summary": "Founded by Tony Robbins and Calm alumni, The Path claims a score of 95 on the Vera-MH mental health safety benchmark vs. 65 for consumer chatbots. AI therapy is one of the highest-risk AI use cases after recent chatbot-related incidents, making safety benchmarking in this space a critical development for regulators and investors."
+  }
+]
