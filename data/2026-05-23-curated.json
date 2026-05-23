@@ -1,0 +1,184 @@
+[
+  {
+    "headline": "Microsoft reports AI is more expensive than paying human employees",
+    "source": "Fortune / Hacker News",
+    "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
+    "theme": "Enterprise ROI",
+    "summary": "Microsoft has disclosed that its AI token and agent costs are exceeding the cost of human employees for equivalent tasks. This is a landmark admission from one of the largest AI investors and directly challenges the automation-saves-money narrative. Business leaders betting on AI-driven headcount reduction need to reassess their cost models."
+  },
+  {
+    "headline": "Is AI Profitable Yet?",
+    "source": "Hacker News",
+    "url": "https://isaiprofitable.com/",
+    "theme": "Enterprise ROI",
+    "summary": "A widely-discussed tracker cataloguing whether major AI investments are generating returns drew 242 points and 185 comments on Hacker News. The intense engagement reflects growing investor and executive anxiety about the GenAI Paradox — massive adoption with unclear business impact. This is the question every board is asking."
+  },
+  {
+    "headline": "The current AI pricing was always going to go away",
+    "source": "Hacker News",
+    "url": "https://arnon.dk/the-current-ai-pricing-was-always-going-to-go-away/",
+    "theme": "Enterprise ROI",
+    "summary": "Analysis argues that current below-cost AI pricing from major providers is unsustainable and will inevitably rise, similar to past cloud pricing strategies. Companies building AI workflows on today's token prices face significant cost risk as subsidies end. This is a direct manifestation of Token Anxiety for enterprises scaling AI agents."
+  },
+  {
+    "headline": "How VCs and founders use inflated 'ARR' to crown AI startups",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+    "theme": "Funding & M&A",
+    "summary": "TechCrunch reports that AI startups and their investors are systematically stretching traditional ARR metrics to inflate growth narratives. Practices include counting one-time deals, usage credits, and pilot revenue as recurring. Investors and acquirers evaluating AI companies need to scrutinize revenue quality more carefully than ever."
+  },
+  {
+    "headline": "Samsung chip workers will get an average $340k bonus as AI profits soar",
+    "source": "Quartz / The Verge",
+    "url": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
+    "theme": "AI Workforce Impact",
+    "summary": "Samsung's 48,000 semiconductor employees negotiated average annual bonuses of $340,000 after threatening an 18-day strike, driven by surging AI chip demand and profits. This signals how AI-driven hardware demand is creating extraordinary bargaining power for skilled workers in the chip supply chain, with implications for chip costs industry-wide."
+  },
+  {
+    "headline": "The companies cutting headcount for AI will lose to the ones who didn't",
+    "source": "Hacker News",
+    "url": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
+    "theme": "AI Workforce Impact",
+    "summary": "A widely-debated piece (201 points, 190 comments) argues that companies replacing employees with AI are destroying institutional knowledge and adaptability, and will be outcompeted by firms that augment rather than replace. This contrarian view challenges the hyper-automation trend and is relevant to any CEO planning AI-driven restructuring."
+  },
+  {
+    "headline": "AI has a multiplying effect on existing technical skills",
+    "source": "Hacker News",
+    "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
+    "theme": "AI Workforce Impact",
+    "summary": "The most-discussed technical piece this week (324 points, 304 comments) presents evidence that AI tools amplify the productivity of already-skilled workers far more than they uplift novices. This has direct hiring implications: the AI Value Gap may widen between companies that invest in upskilling versus those that rely on AI as a substitute for expertise."
+  },
+  {
+    "headline": "University graduates boo and heckle tech CEOs who praise AI at commencements",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos",
+    "theme": "AI Ethics & Trust",
+    "summary": "Multiple viral videos show 2026 graduates loudly jeering executives including former Google CEO Eric Schmidt for promoting AI during commencement speeches. The backlash reflects a generational trust crisis around AI among young workers entering the job market, which has brand and talent acquisition implications for tech companies."
+  },
+  {
+    "headline": "AI keeps inventing fake cases. Lawyers keep citing them",
+    "source": "Scientific American / Hacker News",
+    "url": "https://www.scientificamerican.com/article/why-lawyers-keep-citing-fake-cases-invented-by-ai/",
+    "theme": "AI Risk",
+    "summary": "Scientific American reports that AI-hallucinated legal citations continue to plague courts despite years of warnings. The persistence of this problem illustrates the 'Hallucination Tax' — the ongoing hidden cost of AI errors in professional settings where accuracy is non-negotiable. Law firms and regulated industries face real liability exposure."
+  },
+  {
+    "headline": "Google's AI search is so broken it can 'disregard' what you're looking for",
+    "source": "The Verge / TechCrunch",
+    "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+    "theme": "AI Risk",
+    "summary": "Google's AI Overviews began treating the search term 'disregard' as a chatbot instruction, breaking core search functionality for the word entirely. The incident exposes fundamental vulnerabilities in AI-mediated search and prompt injection risks at massive consumer scale — affecting the world's dominant search engine."
+  },
+  {
+    "headline": "The literary world isn't prepared for AI: AI-written story wins Commonwealth Prize selection",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
+    "theme": "AI Risk",
+    "summary": "British literary magazine Granta published what appears to be an AI-generated story as a regional winner of the Commonwealth Short Story Prize. The incident highlights how AI-generated content is infiltrating high-trust institutions, raising authenticity and provenance concerns across creative industries."
+  },
+  {
+    "headline": "Even if you hate AI, you will use Google AI Search",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/",
+    "theme": "AI Strategy",
+    "summary": "Wired argues that Google's AI-crafted search answers are becoming so embedded in the default experience that users have no practical opt-out, potentially devastating the web ecosystem of publishers and creators that feeds it. For any business dependent on search traffic, this represents an existential strategic shift."
+  },
+  {
+    "headline": "OpenAI named a Leader in enterprise coding agents by Gartner",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "theme": "Model & Platform",
+    "summary": "OpenAI's Codex has been named a leader in Gartner's inaugural 2026 Magic Quadrant for Enterprise AI Coding Agents. The creation of this new Gartner category signals that agentic coding tools have crossed from experimental to enterprise-evaluated, with procurement and vendor comparison implications for CIOs."
+  },
+  {
+    "headline": "How Virgin Atlantic ships faster with Codex",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/virgin-atlantic",
+    "theme": "Enterprise ROI",
+    "summary": "Virgin Atlantic used OpenAI's Codex to rebuild its mobile app under a fixed holiday deadline, achieving near-total unit test coverage and zero P1 defects. This is a concrete enterprise case study with measurable outcomes — the kind of evidence business leaders need to evaluate AI coding tool ROI beyond pilot stage."
+  },
+  {
+    "headline": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+    "theme": "AI Strategy",
+    "summary": "Spotify partnered with Universal Music Group to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving revenue share. This is the first major label-platform deal legitimizing consumer AI music creation, setting a commercial framework that could reshape the $30B+ recorded music industry."
+  },
+  {
+    "headline": "Google's new anything-to-anything AI model Gemini Omni is 'wild'",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+    "theme": "Model & Platform",
+    "summary": "Google's Gemini Omni model can generate and transform across text, image, audio, and video modalities in a unified system, dramatically lowering the barrier to creating convincing synthetic media. The deepfake and content authenticity implications are significant for every industry dealing with trust, brand, and media verification."
+  },
+  {
+    "headline": "Can OpenAI's 'Master of Disaster' fix AI's reputation crisis?",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
+    "theme": "Regulatory",
+    "summary": "OpenAI's global affairs chief Chris Lehane is working to shape state-level AI legislation to avoid regulations that could impede OpenAI's growth, while managing growing public skepticism about AI's societal impact. The profile reveals OpenAI's lobbying strategy at a critical moment when dozens of US states are considering AI bills."
+  },
+  {
+    "headline": "The Gulf's AI boom has an undersea cable problem",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/the-gulfs-ai-boom-has-an-undersea-cable-problem/",
+    "theme": "AI Strategy",
+    "summary": "As hyperscalers rush to build AI data centers in the Gulf states, inadequate undersea cable infrastructure threatens to bottleneck the region's AI ambitions. Cable disruptions that were manageable for standard internet traffic become critical failure points for AI workloads requiring massive bandwidth, creating infrastructure risk for Gulf AI investments."
+  },
+  {
+    "headline": "Elon Musk's Grok barely used in government; struggles despite xAI's IPO ambitions",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
+    "theme": "AI Strategy",
+    "summary": "Reuters found that Grok barely appears in over 400 documented federal AI use cases, despite Musk's political influence and xAI's plans for what could be the largest IPO in history at $1.75 trillion. The gap between Grok's market position and xAI's valuation ambitions raises serious questions about the company's enterprise traction."
+  },
+  {
+    "headline": "Google I/O showed how the path for AI-driven science is shifting",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+    "theme": "Research to Business",
+    "summary": "At Google I/O, DeepMind CEO Demis Hassabis declared we are 'in the foothills of the singularity' while unveiling AI tools for scientific discovery. Google is positioning AI-driven science as a core commercial strategy, with implications for pharma, materials science, and any R&D-intensive industry evaluating AI partnerships."
+  },
+  {
+    "headline": "Compiling agentic workflows into LLM weights: near-frontier quality at 100x less cost",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2605.22502",
+    "theme": "Agentic AI",
+    "summary": "Researchers demonstrate that complex multi-agent orchestration workflows (across LangGraph, CrewAI, etc.) can be compiled directly into smaller model weights, achieving near-frontier quality at roughly 1/100th the cost. This could fundamentally undercut the agent framework ecosystem and reduce Token Anxiety — a potential inflection point for enterprises evaluating agent deployment economics."
+  },
+  {
+    "headline": "AI usage associated with weaker skill development in logical reasoning",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2605.21695",
+    "theme": "Research to Business",
+    "summary": "A controlled study found that heavy AI users developed weaker logical reasoning skills compared to peers who used AI less, even when starting from similar baselines. This is empirical evidence that AI dependency may erode workforce capabilities over time — a critical finding for L&D leaders and any organization deploying AI-assisted decision-making."
+  },
+  {
+    "headline": "Who uses AI? Platform data measures user base, not workforce exposure",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2605.21743",
+    "theme": "Research to Business",
+    "summary": "Researchers found that widely-cited AI 'occupation exposure' scores are measuring which workers use specific platforms, not actual workforce displacement risk. Switching the platform input changed employment impact coefficients by 1.9x, and consumer vs. enterprise channels produced estimates that disagreed in sign. This undermines many popular AI labor impact forecasts."
+  },
+  {
+    "headline": "SpaceX files for IPO with $28 trillion TAM and $1.75 trillion valuation target",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
+    "theme": "Funding & M&A",
+    "summary": "SpaceX's S-1 filing reveals a $28 trillion total addressable market claim, 36 pages of risk factors, and CEO compensation tied to Mars colonization — targeting the largest IPO in US history. While not purely an AI story, SpaceX's Starlink satellite network is critical infrastructure for AI data centers and connectivity, making this filing relevant to the AI ecosystem."
+  },
+  {
+    "headline": "Meta is in crisis: mass layoffs and AI backlash converge",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-meta-in-crisis-google-search-makeover-ai-booed-by-graduates/",
+    "theme": "AI Workforce Impact",
+    "summary": "Wired reports on Meta's mass layoffs coinciding with broader AI industry backlash, connecting the restructuring to Meta's aggressive AI pivot. The convergence of workforce cuts and public sentiment against AI creates reputational and operational risk for companies pursuing similar AI-driven transformation strategies."
+  },
+  {
+    "headline": "AI used to reconstruct dead pilots' voices from cockpit recordings, forcing NTSB to restrict access",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+    "theme": "AI Ethics & Trust",
+    "summary": "People used AI to reconstruct identifiable voices of deceased pilots from spectrogram images of cockpit recordings, prompting the NTSB to temporarily block access to its docket system. This demonstrates unforeseen AI misuse of public data that forces government agencies to restrict access, with broader implications for open data policies."
+  }
+]
