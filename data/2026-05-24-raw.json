@@ -1,0 +1,802 @@
+[
+  {
+    "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+    "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Sun, 24 May 2026 16:31:29 +0000",
+    "snippet": "Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares\nComments URL: https://news.ycombinator.com/item?id=48258684\nPoints: 139\n# Comments: 145",
+    "tier": 1
+  },
+  {
+    "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
+    "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Sun, 24 May 2026 15:21:28 +0000",
+    "snippet": "Article URL: https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand\nComments URL: https://news.ycombinator.com/item?id=48257980\nPoints: 118\n# Comments: 91",
+    "tier": 1
+  },
+  {
+    "title": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Sun, 24 May 2026 14:09:33 +0000",
+    "snippet": "Article URL: https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model\nComments URL: https://news.ycombinator.com/item?id=48257410\nPoints: 129\n# Comments: 126",
+    "tier": 1
+  },
+  {
+    "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+    "url": "https://arxiv.org/abs/2605.06445",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Sun, 24 May 2026 12:55:53 +0000",
+    "snippet": "Article URL: https://arxiv.org/abs/2605.06445\nComments URL: https://news.ycombinator.com/item?id=48256912\nPoints: 101\n# Comments: 55",
+    "tier": 1
+  },
+  {
+    "title": "Making deep learning go brrrr from first principles (2022)",
+    "url": "https://horace.io/brrr_intro.html",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Sat, 23 May 2026 11:50:22 +0000",
+    "snippet": "Article URL: https://horace.io/brrr_intro.html\nComments URL: https://news.ycombinator.com/item?id=48246889\nPoints: 183\n# Comments: 64",
+    "tier": 1
+  },
+  {
+    "title": "Microsoft reports AI is more expensive than paying human employees",
+    "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Sat, 23 May 2026 03:44:16 +0000",
+    "snippet": "Article URL: https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/\nComments URL: https://news.ycombinator.com/item?id=48244434\nPoints: 227\n# Comments: 66",
+    "tier": 1
+  },
+  {
+    "title": "Is AI Profitable Yet?",
+    "url": "https://isaiprofitable.com/",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Sat, 23 May 2026 02:10:38 +0000",
+    "snippet": "Article URL: https://isaiprofitable.com/\nComments URL: https://news.ycombinator.com/item?id=48243863\nPoints: 255\n# Comments: 197",
+    "tier": 1
+  },
+  {
+    "title": "Don't just paste the AI at me",
+    "url": "https://dontquotetheai.com/",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Fri, 22 May 2026 22:57:58 +0000",
+    "snippet": "Article URL: https://dontquotetheai.com/\nComments URL: https://news.ycombinator.com/item?id=48242648\nPoints: 180\n# Comments: 113",
+    "tier": 1
+  },
+  {
+    "title": "AI keeps inventing fake cases. Lawyers keep citing them",
+    "url": "https://www.scientificamerican.com/article/why-lawyers-keep-citing-fake-cases-invented-by-ai/",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Fri, 22 May 2026 20:26:29 +0000",
+    "snippet": "Article URL: https://www.scientificamerican.com/article/why-lawyers-keep-citing-fake-cases-invented-by-ai/\nComments URL: https://news.ycombinator.com/item?id=48241179\nPoints: 69\n# Comments: 8",
+    "tier": 1
+  },
+  {
+    "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+    "url": "https://github.com/anomalyco/models.dev",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Fri, 22 May 2026 20:26:07 +0000",
+    "snippet": "Article URL: https://github.com/anomalyco/models.dev\nComments URL: https://news.ycombinator.com/item?id=48241172\nPoints: 156\n# Comments: 27",
+    "tier": 1
+  },
+  {
+    "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+    "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Sun, 24 May 2026 15:00:00 +0000",
+    "snippet": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
+    "tier": 1
+  },
+  {
+    "title": "Ferrari is using IBM’s AI to create F1 superfans",
+    "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Sat, 23 May 2026 15:08:00 +0000",
+    "snippet": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+    "tier": 1
+  },
+  {
+    "title": "Elon Musk has given up on solar power (on Earth)",
+    "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Sat, 23 May 2026 13:00:00 +0000",
+    "snippet": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
+    "tier": 1
+  },
+  {
+    "title": "AI is being used to resurrect the voices of dead pilots",
+    "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Fri, 22 May 2026 23:03:33 +0000",
+    "snippet": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+    "tier": 1
+  },
+  {
+    "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
+    "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Fri, 22 May 2026 21:02:36 +0000",
+    "snippet": "You can now disco ball-ify your entire Pixel home screen, says Google.",
+    "tier": 1
+  },
+  {
+    "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+    "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Fri, 22 May 2026 20:40:48 +0000",
+    "snippet": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
+    "tier": 1
+  },
+  {
+    "title": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
+    "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
+    "source": "The Verge AI",
+    "publishedAt": "2026-05-24T12:00:00.000Z",
+    "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nHacking the first generation of AI chatbots was a laughably simple affair. You didn't need any technical know-how, backdoor access, or even a basic understanding of what a large language model was. You didn't need to code. To get an AI system that had c",
+    "tier": 1
+  },
+  {
+    "title": "Google’s new anything-to-anything AI model is wild",
+    "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+    "source": "The Verge AI",
+    "publishedAt": "2026-05-23T11:00:00.000Z",
+    "snippet": "Just a stuffed deer having the time of his life. | Image: Gemini / The Verge\t\n\nLast year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation.\nIt was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my four-year-old. But it was a revealing exercise that made me think a lot about the difference between some harmless fun with generative AI and full",
+    "tier": 1
+  },
+  {
+    "title": "Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for",
+    "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+    "source": "The Verge AI",
+    "publishedAt": "2026-05-22T20:39:54.000Z",
+    "snippet": "Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term \"disregard,\" the AI Overview section would include a response like what you'd see from a more traditional AI chatbot instead of the typical AI summary, as spotted on X. As you can see in the image at the top of this story, I got an AI Overview response that said, \"Got it. If you need anything else or have a new question later, just let me know!\"\nAs of Friday afternoon, however",
+    "tier": 1
+  },
+  {
+    "title": "These Robots Are Making Meals for a Nonprofit in San Francisco’s Tenderloin",
+    "url": "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/",
+    "source": "Wired AI",
+    "publishedAt": "Sun, 24 May 2026 10:30:00 +0000",
+    "snippet": "A nonprofit in the city’s most troubled district has turned to robotic meal prep tech to make up for a dearth of human volunteers.",
+    "tier": 1
+  },
+  {
+    "title": "'The Mandalorian and Grogu' is Disney's lowest-ever Star Wars film opening",
+    "url": "https://www.cnbc.com/2026/05/24/the-mandalorian-and-grogu-is-disneys-lowest-star-wars-film-opening.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Sun, 24 May 2026 16:04:57 GMT",
+    "snippet": "Disney's \"The Mandalorian and Grogu\" tallied and estimated $82 million in domestic ticket sales through its first three days in theaters.",
+    "tier": 1
+  },
+  {
+    "title": "Microsoft’s new responsible tech lead on how to humanize high-speed AI development",
+    "url": "https://www.cnbc.com/2026/05/23/microsofts-new-responsible-tech-lead-on-high-speed-ai-development.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Sat, 23 May 2026 13:00:01 GMT",
+    "snippet": "Jenny Lay-Flurrie, head of Microsoft's Trusted Technology Group, says responsible tech is: How do we build it right? And how do we keep it that way?",
+    "tier": 1
+  },
+  {
+    "title": "AI wealth must benefit the public, South Korea's deputy PM says amid Samsung labor tensions",
+    "url": "https://www.cnbc.com/2026/05/23/ai-wealth-must-benefit-the-public-south-koreas-deputy-pm-says.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Sat, 23 May 2026 10:07:38 GMT",
+    "snippet": "South Korea's deputy PM tells CNBC there are concerns as to whether AI could worsen wealth gaps or lead to job losses.",
+    "tier": 1
+  },
+  {
+    "title": "SpaceX launches Starship test flight on second try",
+    "url": "https://www.cnbc.com/2026/05/22/spacex-prepares-another-attempt-at-starship-launch-after-prior-scrub.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Sat, 23 May 2026 01:28:52 GMT",
+    "snippet": "SpaceX launched its massive Starship rocket on Friday, a day after the company scrubbed plans before takeoff.",
+    "tier": 1
+  },
+  {
+    "title": "Qualcomm's stock pop shows investors are 'waking up' to boom in AI devices",
+    "url": "https://www.cnbc.com/2026/05/22/qualcomms-stock-pop-shows-investors-waking-up-to-boom-in-ai-devices.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Fri, 22 May 2026 20:52:39 GMT",
+    "snippet": "Qualcomm is on a big run, powered by investor bullishness that the company will be at the center of a boom in AI devices.",
+    "tier": 1
+  },
+  {
+    "title": "Reddit stock drops almost 6% after Meta launches standalone app for online forums",
+    "url": "https://www.cnbc.com/2026/05/22/reddit-stock-drops-after-meta-launches-forum-app.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Fri, 22 May 2026 20:17:09 GMT",
+    "snippet": "Reddit shares fell after Meta released a standalone app for Facebook Groups called Forum.",
+    "tier": 1
+  },
+  {
+    "title": "Share infographic",
+    "url": "https://www2.deloitte.com/content/dam/insights/articles/2025/us188546_tt-26/content-images/US188546_Figure1.png",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-05-24T19:16:08.549Z",
+    "snippet": "But rapid adoption is only the surface. Innovation is compounding; forces aren’t simply additive, but multiplicative. Think of it as a flywheel: Better technology enables more applications. More applications generate more data. More data attracts more investment. More investment builds better infrastructure. Better infrastructure reduces costs. Lower costs enable more experimentation. Each improvement simultaneously accelerates all the others.",
+    "tier": 2
+  },
+  {
+    "title": "Weekly Global Economic Outlook",
+    "url": "https://www2.deloitte.com/us/en/insights/topics/economy/global-economic-outlook/weekly-update.html?icid=disidenav_weekly-update",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-05-24T19:16:08.551Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Human Capital Trends",
+    "url": "https://www2.deloitte.com/us/en/insights/topics/talent/human-capital-trends.html?icid=disidenav_human-capital-trends",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-05-24T19:16:08.551Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Digital Media Trends",
+    "url": "https://www2.deloitte.com/us/en/insights/industry/technology/digital-media-trends-consumption-habits-survey.html?icid=disidenav_digital-media-trends-consumption-habits-survey",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-05-24T19:16:08.551Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "TMT Predictions",
+    "url": "https://www2.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions.html?icid=disidenav_technology-media-and-telecom-predictions",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-05-24T19:16:08.551Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "FSI Predictions",
+    "url": "https://www2.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-predictions.html?icid=disidenav_financial-services-industry-predictions",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-05-24T19:16:08.551Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Environmental, Social, & Governance",
+    "url": "https://www2.deloitte.com/us/en/insights/topics/environmental-social-governance.html?icid=disidenav_environmental-social-governance",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-05-24T19:16:08.551Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Deloitte Insights Magazine",
+    "url": "https://www2.deloitte.com/us/en/insights/deloitte-insights-magazine.html?icid=disidenav_deloitte-insights-magazine",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-05-24T19:16:08.551Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Top 10 Reading Guide",
+    "url": "https://www2.deloitte.com/us/en/insights/top-10-business-insights.html?icid=disidenav_top-10-business-insights",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-05-24T19:16:08.552Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Center for Integrated Research Home",
+    "url": "https://www2.deloitte.com/us/en/insights/research-centers/center-for-integrated-research.html?icid=disidenav_center-for-integrated-research",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-05-24T19:16:08.552Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Workforce Trends",
+    "url": "https://www2.deloitte.com/us/en/insights/research-centers/center-for-integrated-research/workforce-trends.html?icid=disidenav_workforce-trends",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-05-24T19:16:08.552Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Enterprise Growth & Innovation",
+    "url": "https://www2.deloitte.com/us/en/insights/research-centers/center-for-integrated-research/enterprise-growth-and-innovation.html?icid=disidenav_enterprise-growth-and-innovation",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-05-24T19:16:08.552Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Technology & Transformation",
+    "url": "https://www2.deloitte.com/us/en/insights/research-centers/center-for-integrated-research/technology-and-transformation.html?icid=disidenav_technology-and-transformation",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-05-24T19:16:08.552Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Environmental & Social Issues",
+    "url": "https://www2.deloitte.com/us/en/insights/research-centers/center-for-integrated-research/environmental-and-social-issues.html?icid=disidenav_environmental-and-social-issues",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-05-24T19:16:08.552Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Global Economics Research Center Home",
+    "url": "https://www2.deloitte.com/us/en/insights/research-centers/economics.html?icid=disidenav_economics",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-05-24T19:16:08.552Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "How Agentic AI Supercharges Startups and Threatens Incumbents",
+    "url": "https://hbr.org/2026/07/how-agentic-ai-supercharges-startups-and-threatens-incumbents",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-05-24T19:16:09.284Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Entrepreneurship",
+    "url": "https://hbr.org/topic/subject/entrepreneurship",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-05-24T19:16:09.284Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "The Best Manufacturers Build AI with Workers, Not for Them",
+    "url": "https://hbr.org/2026/05/the-best-manufacturers-build-ai-with-workers-not-for-them",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-05-24T19:16:09.285Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "AI and machine learning",
+    "url": "https://hbr.org/topic/subject/ai-and-machine-learning",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-05-24T19:16:09.285Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Technology and analytics",
+    "url": "https://hbr.org/topic/subject/technology-and-analytics",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-05-24T19:16:09.285Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "What Really Gets in the Way of Change",
+    "url": "https://hbr.org/2026/05/what-really-gets-in-the-way-of-change",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-05-24T19:16:09.285Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Organizational change",
+    "url": "https://hbr.org/topic/subject/organizational-change",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-05-24T19:16:09.285Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Gen AI Could Fix Performance Reviews—or Make Them Even Worse",
+    "url": "https://hbr.org/2026/05/gen-ai-could-fix-performance-reviews-or-make-them-even-worse",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-05-24T19:16:09.285Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Employee performance management",
+    "url": "https://hbr.org/topic/subject/employee-performance-management",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-05-24T19:16:09.285Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "It’s Hard to Use AI as a Team. These 3 Practices Can Help.",
+    "url": "https://hbr.org/2026/05/its-hard-to-use-ai-as-a-team-these-3-practices-can-help",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-05-24T19:16:09.285Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Beware the Agentic Convergence Trap",
+    "url": "https://hbr.org/2026/05/beware-the-agentic-convergence-trap",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-05-24T19:16:09.285Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Should You Treat AI Like a Teammate?",
+    "url": "https://hbr.org/2026/05/should-you-treat-ai-like-a-teammate",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-05-24T19:16:09.285Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "What Are Your Company’s AI Nightmares?",
+    "url": "https://hbr.org/2026/05/what-are-your-companys-ai-nightmares",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-05-24T19:16:09.285Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Meeting the Customer Engagement Moment in Life Sciences with Agentic Operating Systems",
+    "url": "https://hbr.org/sponsored/2026/05/meeting-the-customer-engagement-moment-in-life-sciences-with-agentic-operating-systems",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-05-24T19:16:09.286Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "“Cyber Defense Has to Move at the Speed of AI”",
+    "url": "https://hbr.org/2026/05/cyber-defense-has-to-move-at-the-speed-of-ai",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-05-24T19:16:09.286Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Inside the AI Index: 12 Takeaways from the 2026 Report",
+    "url": "https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-05-24T19:16:14.342Z",
+    "snippet": "The annual report reveals a field hitting breakthrough capabilities while raising urgent questions about environmental costs, transparency, and who benefits from the technology.",
+    "tier": 2
+  },
+  {
+    "title": "New Approach to Scaling Laws Could Change How AI Models Are Trained",
+    "url": "https://hai.stanford.edu/news/new-approach-to-scaling-laws-could-change-how-ai-models-are-trained",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-05-24T19:16:14.342Z",
+    "snippet": "Leveraging statistical concepts from measurement science and education, AI researchers have greatly reduced the computational demand of predicting how the largest of large language models will scale up in the future. It could save millions of dollars in training costs.",
+    "tier": 2
+  },
+  {
+    "title": "Stanford HAI Launches AI and Organizations Lab to Study Science of AI in the Workplace",
+    "url": "https://hai.stanford.edu/news/stanford-hai-launches-ai-and-organizations-lab-to-study-science-of-ai-in-the-workplace",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-05-24T19:16:14.342Z",
+    "snippet": "The new center will examine AI's real-world impacts on jobs, teams, and organizational performance.",
+    "tier": 2
+  },
+  {
+    "title": "Researchers Worldwide Compete to Shape the Future of AI in Organizations",
+    "url": "https://hai.stanford.edu/news/researchers-worldwide-compete-to-shape-the-future-of-ai-in-organizations",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-05-24T19:16:14.342Z",
+    "snippet": "More than 200 academic teams submitted proposals to the AI for Organizations Grand Challenge, exploring how artificial intelligence will transform teamwork and collaboration.",
+    "tier": 2
+  },
+  {
+    "title": "Why Stanford Is Restructuring For AI’s Next Era",
+    "url": "https://hai.stanford.edu/news/why-stanford-is-restructuring-for-ais-next-era",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-05-24T19:16:14.342Z",
+    "snippet": "As artificial intelligence transforms society, Stanford HAI’s James Landay, Fei-Fei Li, and John Hennessy explain why they’re merging HAI with the Stanford Data Science initiative, mobilizing “team science at scale,” and betting that academic openness will shape AI’s future.",
+    "tier": 2
+  },
+  {
+    "title": "Stanford Merges AI and Data Science Efforts Under Single Institute",
+    "url": "https://hai.stanford.edu/news/stanford-merges-ai-and-data-science-efforts-under-single-institute",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-05-24T19:16:14.342Z",
+    "snippet": "The combined institute will retain the Stanford HAI name and be helmed by computer scientist James Landay. Co-founder Fei-Fei Li takes on a new university-wide role as Special Advisor on AI and joins John Hennessy as co-chair of the advisory council.",
+    "tier": 2
+  },
+  {
+    "title": "Collaborative Coding, Better Scaling, Health Tracking: HAI Awards $2.17M to Innovative Research",
+    "url": "https://hai.stanford.edu/news/collaborative-coding-better-scaling-health-tracking-hai-awards-217m-to-innovative-research",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-05-24T19:16:14.342Z",
+    "snippet": "Seed grants will fund 29 research teams pursuing novel research ideas across disciplines.",
+    "tier": 2
+  },
+  {
+    "title": "An AI Health Coach Could Change Your Mindset",
+    "url": "https://hai.stanford.edu/news/an-ai-health-coach-could-change-your-mindset",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-05-24T19:16:14.342Z",
+    "snippet": "Bloom, a health coaching app created by Stanford researchers, helps people tap into their own motivations.",
+    "tier": 2
+  },
+  {
+    "title": "Using LLMs To Improve Workplace Social Skills",
+    "url": "https://hai.stanford.edu/news/using-llms-to-improve-workplace-social-skills",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-05-24T19:16:14.342Z",
+    "snippet": "Practicing specific social skills with AI chatbots helps users build confidence and competence.",
+    "tier": 2
+  },
+  {
+    "title": "AI’s ‘Delusional Spirals’ (and What to Do About Them)",
+    "url": "https://hai.stanford.edu/news/ais-delusional-spirals-and-what-to-do-about-them",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-05-24T19:16:14.342Z",
+    "snippet": "In a world where chatbots can stand in for friends, counselors, and even lovers, the mental health risks are a growing concern.",
+    "tier": 2
+  },
+  {
+    "title": "Who Decides How America Uses AI in War?",
+    "url": "https://hai.stanford.edu/news/who-decides-how-america-uses-ai-in-war",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-05-24T19:16:14.342Z",
+    "snippet": "As artificial intelligence becomes central to national security, experts grapple with a technology that remains unpredictable, unregulated, and increasingly powerful.",
+    "tier": 2
+  },
+  {
+    "title": "AI-driven change and the next big thing",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLUhJOTFGSzNMeUxJV3gydDJOZ2tqcHkzeWhVRU5FME5zYl9aQUpMRmlBQnBFbTRJYjRZU1B0blFLUk5ndHJOWVNRYWcwbnJzd1RMbGpZZ3RNQ3NnRC0td01FNVc5dmFtNVFSWWFaNTR5VmxwOExsRVY5YzA4VUE4TTE5dw?oc=5",
+    "source": "PwC",
+    "publishedAt": "Sun, 24 May 2026 16:37:49 GMT",
+    "snippet": "AI-driven change and the next big thing&nbsp;&nbsp;PwC",
+    "tier": 3
+  },
+  {
+    "title": "How AI Is Reshaping American Enterprise, and Being Shaped by It - American Enterprise Institute",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeXZRaVZUZGctMi1KZER6ajdhOU1sMUFPNU1leUtkTnVQSWRCSjhYWXB4N2tvczRSbnU0S3I1NlNET1BzUXM0d2huSktOX2dOX1lXdlcySEpKSmVGbHZFcnljSFVJaEJQUHFMRGJyZE1YTTcwWlBUN01hREo3cUg2NzQyT2c2NzFJdWdiSk1BUVZ1QzE3?oc=5",
+    "source": "AEI",
+    "publishedAt": "Sun, 24 May 2026 05:37:51 GMT",
+    "snippet": "How AI Is Reshaping American Enterprise, and Being Shaped by It&nbsp;&nbsp;American Enterprise Institute - AEI",
+    "tier": 3
+  },
+  {
+    "title": "Blackstone-backed AI enterprise services firm acquires Fractional AI",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSWRGcnRXT2pOYmM5WExsRTBqdDU1Tk90WWJHN000LUMyNXU1T005RlNNd1NSc2xHWmJtZ2VuWTJoX2lkdFRsWTVpUGV5SmpGRnhaNzhmdnlIVmxzSjQydmdMbUFmMmI2ZHMtLXh2WThxZW5pejN2MG1DZXpNZGQxSVRJemdtOExEZnFaNEtsMDlFZXZiajg0N1JaXy0xLUpWUURXRy1oS0ZXX00zckUtMkVhYUtIakRDdUE?oc=5",
+    "source": "MSN",
+    "publishedAt": "Sun, 24 May 2026 13:10:52 GMT",
+    "snippet": "Blackstone-backed AI enterprise services firm acquires Fractional AI&nbsp;&nbsp;MSN",
+    "tier": 3
+  },
+  {
+    "title": "This Artificial Intelligence (AI) Stock Is the One the Smart Money Doesn't Want You to Find",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaVJRT1N6eFdEVWFjRVo0b25mYWxYMi14NDlsYkllOHZtQUxFei1LRzdtTVhZWFdnZzdERmFTSzJGeW5FNFBxRGRCMXFaRkZQXzQ2WFU4a3ZTczFFOVYwVWlUTnNiYnZjRmU3NEs5ME1INEhIeHNXRkh5eXBUZDdHTGNMZTBDLXlFVkJYd0FPR1JJLUNPNTJ2dA?oc=5",
+    "source": "The Motley Fool",
+    "publishedAt": "Sun, 24 May 2026 07:00:00 GMT",
+    "snippet": "This Artificial Intelligence (AI) Stock Is the One the Smart Money Doesn't Want You to Find&nbsp;&nbsp;The Motley Fool",
+    "tier": 3
+  },
+  {
+    "title": "IBM Stock Surges: Is Big Blue Making a Massive AI Comeback?",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMzc3Vlhmd0VjNDNqQmxjSWZHc0dSRktvSU0xd0EzdTNQTlVJWlhFSlJWaVNjQ09ycWtUZzBPQVdQcUZ5QTlMLW5XdHp1blJQemtYclJMTzdveTlyci1qQ1htYkFYMHROM0hoYWlXQWhJM3F6SUw0bkJEaERwVEZ2UUxfRXN2R2pTMlFVMzFB?oc=5",
+    "source": "vocal.media",
+    "publishedAt": "Sun, 24 May 2026 12:10:28 GMT",
+    "snippet": "IBM Stock Surges: Is Big Blue Making a Massive AI Comeback?&nbsp;&nbsp;vocal.media",
+    "tier": 3
+  },
+  {
+    "title": "The Real AI Shift in 2026 Isn’t Chatbots — It’s AI Employees",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN0RXS2EwamY3LVQ5VlRPeGxJVmY1X0ZwZlJSYVF0ZTdvQ1dMZ2VSNGszU0FnVkNNenBKZjQ4S21DWFprSnJrVnpSNnZDS0ZxT2o3YmpqS2JGN3VpOWVFODNhbFpHTmdiQXk2OEUxcTBsYnIwNEpVZTN1UjdUT09saHUzcDZOdw?oc=5",
+    "source": "Times Square Chronicles",
+    "publishedAt": "Sun, 24 May 2026 10:03:38 GMT",
+    "snippet": "The Real AI Shift in 2026 Isn’t Chatbots — It’s AI Employees&nbsp;&nbsp;Times Square Chronicles",
+    "tier": 3
+  },
+  {
+    "title": "China's DeepSeek to make permanent 75% price cut on flagship V4‑Pro AI model",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaDYzckhaQnlYVEhmSnRfSGdUelhnQ0pncHd6V00yTzdnYUZMUTJ5dHhCT2kzb0xQVmRZZEVNenlyWHJNT2lWV3ZvVWFWZTJwSWdpVGlXMXBvcFB3cTQ5bWgyVW15YncwMG5GZzRoYmtSYjFqUUJESW96MFhZazNpUEdUZjZqWUxDSmJ4bVpnR1NydjdBcGJ1MzFndy1QRGlBeE9kLXJsWi0yYkxwRktKSkRXRnIyTDktWlE4cDdwX2dtQU9PSEHSAcsBQVVfeXFMT2ZkZ2JKQng0QmxhSGVIdFlFOEh0TVFPdUUzQWZfMjBMX00yNmpRaFdzaGhqYi01bElnWkdqYzhIeVlUVEZQYW9sX0otLTBsSGdfdDlCdlczdTNfRHFwUVVIUHBmVVNSX3Z3U01OM21SRk9OYlZhRndDR2x6azNELTJHMkRxU1g2VTFfVTZhSlIweEhoYjNybnNtVGlDUHlYMG1FUWRfb01ieHY5T0R4aEMwbjZRWERrTHpSdS1uTUhxa21CejVNeElCcXc?oc=5",
+    "source": "Indiatimes",
+    "publishedAt": "Sun, 24 May 2026 12:29:22 GMT",
+    "snippet": "China's DeepSeek to make permanent 75% price cut on flagship V4‑Pro AI model&nbsp;&nbsp;Indiatimes",
+    "tier": 3
+  },
+  {
+    "title": "How AI misuse is fanning digital crime in businesses",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ3JOd1BIT3FYRVRqN3FobVY5SVAtek9oa1RFbUpWaTBnTHFOVWh3ZjByYXlBYUJ4aU5oQXlBQU4xZHZIdzNPZUl5THJqRFEyUWhiSWRScEU4bE5hNV9KeEVZVnpXWHA5QjBCN0NzLUg3aEFDQVI2NHE4Zm5Zd05XekJ3cHZ6U0pXZHN0UUgwSVVrcW96Y2lpZDJnUjktZXJHVWtnNVFLLW1KZWpuSHVnYmh0OXVFSzZnajVDSA?oc=5",
+    "source": "Business Daily",
+    "publishedAt": "Sun, 24 May 2026 14:30:00 GMT",
+    "snippet": "How AI misuse is fanning digital crime in businesses&nbsp;&nbsp;Business Daily",
+    "tier": 3
+  },
+  {
+    "title": "Market Focus on Enterprise Software and AI Infrastructure Amid Earnings Reports",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVFZVSFNGSEY0Ql9rU2dGMFNxYUlDMzUtakVRNG43WWRvWWgydS1ZVllnbkVkeVhyTG5NZ2MwZm9yTlp5MEc5UVI1U0NXbGJmc3BRODB5VTVTcm91dl9xeWxiclFRUzhNOEVPVEJqZDdaWmJ4cWtiOUR3bFh5YUozcEhMMml0NWZ4SDJxVDNQRk5wOFhVVGdLSTlZc0hxWm55bWxKMDhLc0NIQnpPMnVBOV8xYw?oc=5",
+    "source": "Intellectia AI",
+    "publishedAt": "Sun, 24 May 2026 00:12:26 GMT",
+    "snippet": "Market Focus on Enterprise Software and AI Infrastructure Amid Earnings Reports&nbsp;&nbsp;Intellectia AI",
+    "tier": 3
+  },
+  {
+    "title": "3 Ridiculously Cheap AI Stocks That Could Turn $5,000 Into at Least $10,000 by 2028",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQd0hPUENnVk03LUF2eUdjX1lnVXE3QTF3aWtKZkotT25lbUZrRm9xcHJwS1pya1pLYjdQaVNwZ2VtQWlYcEFyU3VoRjA1NzVPSVRaSUJ6cVA0bjdZSkEtTzJhaGk1VkpDQ0VIUGhrWWxYYV9hRzJwbGpJT1RyRUV5RzJhVjlxODlYaWVWWjJXdThZSUZIdlBwTmo3dXBTZkNUN3dIRkNJZDkxcHl2Rm1Oa1hWS0tQUWluakdCX3cxMWgtQmRPdndZR0FsMDNMY3hNeWZtTnlUUXp0Yk1nUnphUVNCaHFhWGQ3X0pkODFMem9hMkpmWS1B?oc=5",
+    "source": "The Globe and Mail",
+    "publishedAt": "Sun, 24 May 2026 17:54:40 GMT",
+    "snippet": "3 Ridiculously Cheap AI Stocks That Could Turn $5,000 Into at Least $10,000 by 2028&nbsp;&nbsp;The Globe and Mail",
+    "tier": 3
+  },
+  {
+    "title": "‘Overusing AI making us less intelligent’: Employees fear overreliance weakening their skills",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQT21FbVVySzNRdG8wTXFmTmxKalhRR25QMG1YczljTGZSOEV6bFdYUER0RUZPNi1DMEFMWjY0TEtHTVBIWUpuX05lMUlqZFF4bG9zVktVWmUyLURtd19Id3gzcTAzM0x4NzhEZTlyeTZETFA0NXJRTFE4VkFwN3FxeTZOeHJzamxIaFlaMWRVNGxlSDRBVXJ1UHFOc1FBYWRFeWlOTk5lWVRCZzQyRWF1VFBjbVpWR293UzVWX3pTUUlGVTY4UkpYcmlyTm9YVWwtN1JodDNWNGFDY19mX09JT3pCUWd6Vi1ZVHdSX1h1UFQ3cnRKYVVF?oc=5",
+    "source": "Indiatimes",
+    "publishedAt": "Sun, 24 May 2026 06:10:15 GMT",
+    "snippet": "‘Overusing AI making us less intelligent’: Employees fear overreliance weakening their skills&nbsp;&nbsp;Indiatimes",
+    "tier": 3
+  },
+  {
+    "title": "CEOs race into AI as Kenya’s digital economy redraws corporate strategy",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQa3lVSkxPSzdscHJkT3lsRTIyZDBidEVaLWlnNXk4YTdSNVFjUWx4eXZ0N3N5cXJJdXBsUFh2U1BzRnRueFlaT2o5SGg5NEpaZGsxOW8tOE5BRkFsN1lObUpJS05zVmRqUjVBZTM5eE1fdjJjWEhyOEg0LW1NZ3dzN0FaOUozdWFzNUczNWtBM0tjSVVpV3VySUR4RjdpNzl5anRIU2dWSU5wTzRkUFRyanJIWW56czJNVTdudENSYWdCRVdSMjJ1eExn?oc=5",
+    "source": "Business Daily",
+    "publishedAt": "Sun, 24 May 2026 14:30:00 GMT",
+    "snippet": "CEOs race into AI as Kenya’s digital economy redraws corporate strategy&nbsp;&nbsp;Business Daily",
+    "tier": 3
+  },
+  {
+    "title": "When enterprise AI finally works, it won’t look like AI",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaENfV0NNa2lzZHowNkg5WElEZ2UtLVBuSElmWm5tNGtWNWhtcE83dThfZEthRnI5emxZMENPb2hrLXlmalI1a0xwWnV3LVdRNmFVVkQ1NFJwZWYwYlBIQ2w5WnRFbWNaSUFQNloxQ3BPYTZnbDZHMGhkcWltbHdhN2VvMnkxTUZiUTdMOEFNZmh3QXVIVmc?oc=5",
+    "source": "Enrique Dans – Medium",
+    "publishedAt": "Sun, 24 May 2026 05:37:09 GMT",
+    "snippet": "When enterprise AI finally works, it won’t look like AI&nbsp;&nbsp;Enrique Dans – Medium",
+    "tier": 3
+  },
+  {
+    "title": "Jubilee blocks Sh1.28bn in fake insurance claims using AI",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbUs2YnNFZUJLYnplM25rbG9ob3NzdmxqNkVYWWFYTWdqSUZsZkFuYlVtc0ZGMmp5UmFybEw1X3Z5NnFPdFVIOER6VVBjbDNXdVAySzF6eHBfaldsZDFzZFJTal9WUV9KcVF3d0NFRzNIalpRZXRzckNhNFpEQ3cyNmRlUi1fVXBOTXZpN0phS1V3VEV3ckZLajRmUjR1U1pFbmo0NjlOd3AwM2g3OGFfREtHRWNFamVNSnRDRHdwMm9mQQ?oc=5",
+    "source": "Business Daily",
+    "publishedAt": "Sun, 24 May 2026 06:00:00 GMT",
+    "snippet": "Jubilee blocks Sh1.28bn in fake insurance claims using AI&nbsp;&nbsp;Business Daily",
+    "tier": 3
+  },
+  {
+    "title": "Trump’s last-minute AI order switch exposes White House divides",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYjhDMGFzVjVuUk1SMlZlSmZ4WTI3RW9zaG1xZDJSOWdaRC15WElqQkVfWm5FMmZOVDRyLW55cGR2M1VJTEZqY1dybzI3Vnd6RURJX2NzLUdkVGhBMXhvMFh3Yl9Bbm8yY1JIYlBlLUdUV0dtUV9sTmVvUEx2Zm1SLXctRdIBiAFBVV95cUxPak1hQ3JMTUY0LTFGc2lUelR5TXhHd1FUNndBRWZlVnNjVTFpMUxFUE1FUzNfRFUtSDNFT0tqRTA2UEF5dFVNN2Z3Szc0RVNwaUhxbEtLbHoxRHBicUxtOUpJS25pLU5PVTljc0h6NHc3STZHWmNxeWhTTlJPRE0yeDhvZ2hLNXhG?oc=5",
+    "source": "The Hill",
+    "publishedAt": "Sun, 24 May 2026 10:00:00 GMT",
+    "snippet": "Trump’s last-minute AI order switch exposes White House divides&nbsp;&nbsp;The Hill",
+    "tier": 3
+  },
+  {
+    "title": "Ohio schools are embracing AI, but how do they protect student learning",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQM2RZZEhyU2tpOUZ5RVNDSW1XTUVKei1CZ1NibzJzUW5hZVNORHppcHJKeHRjb213bDFYRUlhNVB4TmQxa2dtQU12WmhLNXR1QThTQkh2V2dvVDY2bEUzTzJSdVloOHJ2Z3h6NjVtbTFXdTlvbUNnNmV6dmx4NlB2UnhFeTN0ZGlCSFEyS3NYZUtURVlVUTJqR0hPM2ZycGRDMVpDNzdKelhLRFpseEJDM2dZTExLQUhGcHNhUGFhRXZ5cjNtLVQ1UUtfVVFQeFlWeFFRbg?oc=5",
+    "source": "The Columbus Dispatch",
+    "publishedAt": "Sun, 24 May 2026 10:01:00 GMT",
+    "snippet": "Ohio schools are embracing AI, but how do they protect student learning&nbsp;&nbsp;The Columbus Dispatch",
+    "tier": 3
+  },
+  {
+    "title": "School Board Hones Policy on AI Usage",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSTIxTlB2eWlMWU0xRzhpR1FUYTVlM0xmbzRyVWlOSTZuN3FqQnB3SDMtU191YWNHak1EWW91SmJ4cExfRlVfVFBzYXVZRWdTaV9RdGhwRlZ3T1VSZnJVMzM5Y0FMUF9jVFBndFhHQU44UWt6WlNqTjBTNGl4NGpLbXhJdw?oc=5",
+    "source": "Hernando Sun",
+    "publishedAt": "Sun, 24 May 2026 12:05:37 GMT",
+    "snippet": "School Board Hones Policy on AI Usage&nbsp;&nbsp;Hernando Sun",
+    "tier": 3
+  },
+  {
+    "title": "US, China are discussing AI guardrails to safeguard most powerful models, Bessent says",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYS1zOHZ4Z3Nhd29hblZ0MnkzUFp1bHA4cVNxcERpX1pCUnZNUTlvSUY0b21NbmVwSjlDb2JjZlBqQUNTTkh6Yi1OMGVsRDBFcFJuZThnN1FZSzFCVUIxWTVQdVFPaV9kaG52WGQ5YW1vYnlmUlMzeHFoN0hCVVlnQ1MzRQ?oc=5",
+    "source": "AOL.com",
+    "publishedAt": "Sun, 24 May 2026 16:49:07 GMT",
+    "snippet": "US, China are discussing AI guardrails to safeguard most powerful models, Bessent says&nbsp;&nbsp;AOL.com",
+    "tier": 3
+  },
+  {
+    "title": "CEPS Task Force on the Apply AI Strategy",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX0pabzBibWN2Q0Y2VEVBOFdlcmQ2cjA3Ym1vOVpsTEtiUG1qNWRyS3FaX1N5TmYyQXAtbE95TVZFTW85V01qMnkwOXd4amxfSFlNZm1ualRtNEFoZVIySGxhOFpJMURnc0JkUFhScG02V2tSbmRVUFJiZFdRS2lXVElXQ2c?oc=5",
+    "source": "CEPS",
+    "publishedAt": "Sun, 24 May 2026 16:08:14 GMT",
+    "snippet": "CEPS Task Force on the Apply AI Strategy&nbsp;&nbsp;CEPS",
+    "tier": 3
+  },
+  {
+    "title": "Shadow AI Tools: 80% of Employees Use Them, Only 12% of Companies Govern Them",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xd0Jyek9rVTNLSXctZzJYdm1QVVg3XzY1Xy1jYkdHdEFrUTNuakRLSlFJdEl4ejdZemFPUzlzV1l3Wmp5Yzd4SURGVUNodjd2VFgwbGpmb3RBTnJEbjAzSzFxdFFFaUhMRXRWWnM3bUtVR2ZYcGYtOWdn?oc=5",
+    "source": "Cybersecurity Insiders",
+    "publishedAt": "Sun, 24 May 2026 12:27:59 GMT",
+    "snippet": "Shadow AI Tools: 80% of Employees Use Them, Only 12% of Companies Govern Them&nbsp;&nbsp;Cybersecurity Insiders",
+    "tier": 3
+  },
+  {
+    "title": "St. Cloud Students Join National AI Festival In Boston",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDOG1GdHY1SW4yRHhrSk9mUGFtT2J1alQ4N2ZiU20wYUVtSWFLTE5nOUY4OE00dlNIZkMyOWFESUduT0RieDh2Wl9sM1RxUS1XaFduakV3?oc=5",
+    "source": "WJON",
+    "publishedAt": "Sun, 24 May 2026 13:39:59 GMT",
+    "snippet": "St. Cloud Students Join National AI Festival In Boston&nbsp;&nbsp;WJON",
+    "tier": 3
+  },
+  {
+    "title": "Trump postpones AI executive order after David Sacks warns of regulatory risks",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3ZkZDX1JsZzViUHdwQjl4YlhZcjlNeHd3LTVxamtxckFPeTNOdzRpclhTRTJwMHhEMURXb3FHdlBRZ0R4U1ZSM29mbWUyVDN0MnRsRXc5UjF1c0ZIeEoyV011eHdaWU1jQXpoTnVmb3g4UU8xRklF?oc=5",
+    "source": "Crypto Briefing",
+    "publishedAt": "Sun, 24 May 2026 06:11:04 GMT",
+    "snippet": "Trump postpones AI executive order after David Sacks warns of regulatory risks&nbsp;&nbsp;Crypto Briefing",
+    "tier": 3
+  },
+  {
+    "title": "Read AI oversight order that President Donald Trump said ‘didn't like certain aspects of it’",
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNR3ZBbEEtTG51NzIzb1pyN3llbURVVnJldEYzY3hDYzRVaWkySVRJYUctOUdKR1ZFbGpMX3pyQU5jdDJvQzJ6X1JYOUgzYVdudU9JSVFVdDlyOFkzc1FieFJYZlF1OEY2ckozd2I4alo0c1pJMnZFekQwU3RyNHM0TUJqd0w3SzFwYm1HalY5dnpTR0pDN2tjSktEYjZONV9OMjZFamg4bm9jcVBqRGhTT0pBOEwyd1BRczFhZHFlaXVSOWRhc1FBVm5fZ0x0akYzTld0QzV5V0RCc0IxZnV5ajVXRVNoSFBQb3BRbGFMcmtIT0h3TjNyRU90ZW0tcVlZUmfSAYcCQVVfeXFMTVJKdHFsanE4U1dMZzJ1NFpiMnJTQXVXd1BhREZlLUZMcU5NS3UyU3h0c3Z3bGFyX1I2aFlDc0hnMExYamdvSWNsZ1RQTkY4LVZnMHZ0cjJRb2pXY3dJc0c4dDVLODhDSGZhdUp4b3VFemxpaVR5T21iRjVHcktYQXR1c0J5ZlFBcHc1bFQ2UG1CdzY3Vjd5dW9TUkE4QkFfNl95cWJEN2lvYnA4dVZDRUdrN01LMjdiYVFyX013SjRONWJULURxV0pPNk1KLVR2eTFfdUF0U0gzRjRJNzJEWFpMZ3JrVXNOUkRoRXgyaUVxSkxvNWlCUnVVajQtaERUZHRVRHEzZGs?oc=5",
+    "source": "The Times of India",
+    "publishedAt": "Sun, 24 May 2026 15:40:00 GMT",
+    "snippet": "Read AI oversight order that President Donald Trump said ‘didn't like certain aspects of it’&nbsp;&nbsp;The Times of India",
+    "tier": 3
+  },
+  {
+    "title": "The Security Clearance Risks of AI Companions and Chatbots",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdmRsTVRlQzJ1ZFNzOGZfY19sYjA5RUV0U3E2MTBETWRtV3EtRlc2LTFSWW9PeGRUVlRsaHp0cmpSSkhPY2ExT01KYjZncFYxMERuR3hxVDVzeUJNTXNDMXRNTkY1LWY1RGpNT3dOa0ZBejJxenhwLVd2ajZVN0huelloUzFNV2JVZGpSQ2JQU3UzdURJa3FHUFR6cnduNzRoODVF?oc=5",
+    "source": "Clearance Jobs",
+    "publishedAt": "Sun, 24 May 2026 11:30:05 GMT",
+    "snippet": "The Security Clearance Risks of AI Companions and Chatbots&nbsp;&nbsp;Clearance Jobs",
+    "tier": 3
+  },
+  {
+    "title": "Datadog (NASDAQ: DDOG) Stock Crosses $1 Billion Revenue Mark as AI Observability Drives 25% Growth",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaFFJNTh2TFF4dmJ1YUVKUGtTNWtEaVdzaVkzUGg1bjlCV2E0T0hFVkxOak93T3h4bTQxd0JpVWQ5cjhveFh6UHdBN045Rmx3cFFEY0ZWc0xtNWVQRU9sR0FHeW1keDg1VzdMdGpBeWhQQjZJZVk0VzVVRTZKLW56RlJEQ3E4bTVmQlpyTXphVjI3bWxSR1dRZFFiUllHOWxLb2dYRDN2S1lMdmhBRHhnajFIbUdaVkktWE9oaFRPTXQ5clpyYkRqdG1ZZVJhS0ZfVDRDVHZJMFdRZw?oc=5",
+    "source": "foreignpolicyjournal.com",
+    "publishedAt": "Sun, 24 May 2026 17:12:00 GMT",
+    "snippet": "Datadog (NASDAQ: DDOG) Stock Crosses $1 Billion Revenue Mark as AI Observability Drives 25% Growth&nbsp;&nbsp;foreignpolicyjournal.com",
+    "tier": 3
+  },
+  {
+    "title": "Academic Questions Singapore's Accelerating AI Adoption",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPS0c0Q2tMeF9OUGlzMndmZUUzWTNNMWVRd2IzdmVrNVdZdjFiU3poNDRzQkJzRGo3LU5kVDhvWmJkZ0tvRHpMbm5mR1U0cDJhNDBQYzM2ckhUenV6MWhWNnBhVGh5ampNTy12ZmdVMzdoc18tSmFYZWVVSGxLUmVvTmlZU3NONHFXNHRxb3o2MTFCT0xOR1I0cWw5dU8?oc=5",
+    "source": "Let's Data Science",
+    "publishedAt": "Sun, 24 May 2026 13:31:59 GMT",
+    "snippet": "Academic Questions Singapore's Accelerating AI Adoption&nbsp;&nbsp;Let's Data Science",
+    "tier": 3
+  },
+  {
+    "title": "UC Berkeley Law School bans most AI use following plagiarism issues",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNFc0czF4d09LOWV1eFNJeHVuOTlpQmd6UmVrS1BrRk81SmU4OVd0M2E2UlhRRXhBbnlGQ0Q1blN0VTdYb2hCNXc4djBYRTBNRE84SFNOR3ZjTXV4RTFtN1ROajJORWdoM0kwMFh5T2MyajB5bzE0MjlQOEx3bWFUY2l2bTJUYXQ5dmJ2bzgyOGg2LUdCWWtxemJ5LXpMbF9CYm5MZmRkYnNuSWE4RTV1VHFqRHJPNXhXdXFQOFJ3?oc=5",
+    "source": "MSN",
+    "publishedAt": "Sun, 24 May 2026 07:46:52 GMT",
+    "snippet": "UC Berkeley Law School bans most AI use following plagiarism issues&nbsp;&nbsp;MSN",
+    "tier": 3
+  },
+  {
+    "title": "Meta to lay off 100 in Israel, reassign 200 to AI",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81WWlPYmxZVDR1NkdIZXF1Q3h3ZngwaWlibmwwdlR1Mlo4Mk0wQ0I3Z25Zck5MNGZpNTlqWHpSbmk4OGdSMW5QbC0ySlVNMVhDWklwVHRtalFyOXltRzhPV0xLanU0ZUZVQVJpRQ?oc=5",
+    "source": "The Jerusalem Post",
+    "publishedAt": "Sun, 24 May 2026 05:11:50 GMT",
+    "snippet": "Meta to lay off 100 in Israel, reassign 200 to AI&nbsp;&nbsp;The Jerusalem Post",
+    "tier": 3
+  },
+  {
+    "title": "Faculty debate the promise, perils of Ohio State's AI Fluency Initiative",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNmVzWURJd2pBcW92SlBGSVJ2T01WeHYwX21OWGhXUnpZRENaMjF4M2Mwa3N0RnNhSWlnaU40WjZHeWdWS00wTlJaV2ZwN1NacmpsRmlDck9zdXIzSUhaNDN6aTAwaHV6eHhqTDB1aTRhNXpuckN2c3lobzMxOXg5QzdnMTB4cTQ0UmwxZGN5Q0NsSFk4b2xTeVZRdl91c1k2WXlPRG9qRzE4M3RFSUZTZXBKWHp3VG5NbUhDLS1xc3lJMDdrWi03Q2h1amYxcDRQWDBjTW13?oc=5",
+    "source": "The Columbus Dispatch",
+    "publishedAt": "Sun, 24 May 2026 10:01:00 GMT",
+    "snippet": "Faculty debate the promise, perils of Ohio State's AI Fluency Initiative&nbsp;&nbsp;The Columbus Dispatch",
+    "tier": 3
+  },
+  {
+    "title": "CATL Targets AI Data Center Infrastructure Through Strategic Investment in DeepSeek",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Cc1NhcWZmMzM5MHZBUkx5aUlRUmdOcTdlZmdrb0Y2dEdtc1JiYWRJNFRSNWVzSGhZWGFzTUhiaWtfSjVORHlkQmJPRzFISWJMWExhWVRjM3V4ZTRVR2Frc244N3ZwWWZic2lVLWJ3N3p3WEp2cnB6cg?oc=5",
+    "source": "Technetbook",
+    "publishedAt": "Sun, 24 May 2026 15:41:00 GMT",
+    "snippet": "CATL Targets AI Data Center Infrastructure Through Strategic Investment in DeepSeek&nbsp;&nbsp;Technetbook",
+    "tier": 3
+  },
+  {
+    "title": "SpaceX is asking IPO investors to price it like an AI platform",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPelNsNkFTNUZ0Y3dRVUJJcWFycE16dV9hT2RQN29leWJoU0c2dXJWNHJwWmVFQjh0aERObm43NDItTEVyVzVSTnlSQXRxNU9Nc3l0SEdtcmUwX1BjWVVnTmxYRksxNmVXOHZIYTctSEVPRUY2NTNmQVpNRTdpT1diVFNzTDVUdWQ5V3pSelQzbVYwLWZu?oc=5",
+    "source": "Startup Fortune",
+    "publishedAt": "Sun, 24 May 2026 16:34:14 GMT",
+    "snippet": "SpaceX is asking IPO investors to price it like an AI platform&nbsp;&nbsp;Startup Fortune",
+    "tier": 3
+  },
+  {
+    "title": "Zoho founder Sridhar Vembu: AI is clearly an investment bubble, justification is …",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTnNxQ3NSLTM0OUhZOFJwRWNWZ29lWktCTWFCdGdxbXY4bE1MampIMFh3TGJMRFZ6MF8xQ3NxaWxLelJuUzJaV2x6X1BGWFJWRDdkMGJ4bVZlUUJpZkN5T0k3Nk8weUNWdVJHR3hVWmtnQmFSb3NIS25wTVV0UWlweWt6UFRpN3FUTUdzSC15eG50ZkIzbUpQbWdqLVpjSHFWWm04clZ1WlB0ckstVGtlN2Q0SmdzQVJXTlZLbGY0QWpZaFltY0ZmU2U5Z185c0x0ZWRGWlRfbGVUSGNZSFo5ZEJRV2RObTFSSWlnRFcybTlNeXl30gH6AUFVX3lxTFB1aWtqUU1tQmNnRkZ3ZGJ6djZrWnMxOFhURDJSTmIxZkFDQ0h2TjlIMlpLUTAyTzFTR3V2YUExbWxlbWxxU2lYODFjWWVnLURXRjVEMHYyOUlZTFI1ZHdpamFLSi1taTl4ZGdkWjZhZXVDOXFpWVZua3pSV2tBN0xGYWpjN2hjSWpUYzVxa01xUko4WjBfMURjdldyRDlNYkQzbzcwYnVsODFEbUR1VGFrdGEtcGxLYU1KN0NoMWZ2MzRlVE14aVAtRmVKZ1F2eTNnODcxTFpreE1ienRRT0hBVk4xS3J4eUxQdkE2MEZ3U2QxaUpJemo5RlE?oc=5",
+    "source": "The Times of India",
+    "publishedAt": "Sun, 24 May 2026 10:23:00 GMT",
+    "snippet": "Zoho founder Sridhar Vembu: AI is clearly an investment bubble, justification is …&nbsp;&nbsp;The Times of India",
+    "tier": 3
+  },
+  {
+    "title": "AI valuation inflation reignites debate over annual recurring revenue (ARR) figures",
+    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE55aHVWYmxlZVNoQUNOZmpGYVlJQTNhR3hfbGIybnZ0cG1ZMmRQRTNkVGxQZFNXc3ZucTlHTTUxcw?oc=5",
+    "source": "Jawlah",
+    "publishedAt": "Sat, 23 May 2026 20:13:57 GMT",
+    "snippet": "AI valuation inflation reignites debate over annual recurring revenue (ARR) figures&nbsp;&nbsp;Jawlah",
+    "tier": 3
+  }
+]

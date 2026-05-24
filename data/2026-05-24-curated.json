@@ -1,0 +1,205 @@
+[
+  {
+    "headline": "Microsoft reports AI is more expensive than paying human employees",
+    "source": "Fortune / Hacker News",
+    "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
+    "theme": "Enterprise ROI",
+    "summary": "Microsoft has acknowledged that running AI agents at scale is currently more expensive than employing human workers for equivalent tasks, driven by token costs and compute overhead. This is a landmark admission from one of AI's biggest proponents and raises serious questions about the near-term ROI of enterprise agentic AI deployments. The finding directly challenges the prevailing narrative that AI automation delivers immediate cost savings."
+  },
+  {
+    "headline": "Is AI Profitable Yet?",
+    "source": "Hacker News",
+    "url": "https://isaiprofitable.com/",
+    "theme": "Enterprise ROI",
+    "summary": "A widely-discussed tracker examines whether major AI investments are generating returns, drawing 255 points and nearly 200 comments on Hacker News. The resource aggregates financial data from leading AI companies to assess the gap between massive capital expenditure and actual revenue generation. It reflects growing investor and executive anxiety about whether the AI spending boom will deliver commensurate business value."
+  },
+  {
+    "headline": "DeepSeek to make permanent 75% discount on flagship AI model",
+    "source": "Bloomberg / Hacker News",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
+    "theme": "Model & Platform",
+    "summary": "Chinese AI lab DeepSeek is permanently cutting the price of its flagship V4-Pro model by 75%, dramatically intensifying the AI pricing war. This aggressive move pressures OpenAI, Anthropic, and Google to respond and could accelerate commoditization of frontier AI capabilities. For enterprise buyers, this signals that model costs are plummeting — potentially reshaping build-vs-buy calculations and shifting competitive advantage toward application and data layers."
+  },
+  {
+    "headline": "Memory has grown to nearly two-thirds of AI chip component costs",
+    "source": "Epoch AI / Hacker News",
+    "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+    "theme": "AI Strategy",
+    "summary": "Analysis from Epoch AI reveals that memory now accounts for nearly two-thirds of AI chip component costs, a dramatic shift in the economics of AI hardware. This reshapes the competitive landscape for chip suppliers — benefiting memory manufacturers like SK Hynix and Samsung while changing the cost calculus for companies building AI infrastructure. C-suite leaders planning data center investments need to factor this structural cost shift into their capital allocation."
+  },
+  {
+    "headline": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
+    "source": "The Guardian / Hacker News",
+    "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
+    "theme": "AI Ethics & Trust",
+    "summary": "The Guardian reports on a growing wave of companies artificially rebranding themselves as AI-powered to attract investor interest and higher valuations, regardless of actual AI capabilities. This 'AI washing' trend mirrors the blockchain hype cycle and is drawing regulatory scrutiny. For boards and investors, it highlights the importance of due diligence in distinguishing genuine AI transformation from marketing spin."
+  },
+  {
+    "headline": "How VCs and founders use inflated 'ARR' to crown AI startups",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+    "theme": "Funding & M&A",
+    "summary": "TechCrunch reports that AI startups and their investors are systematically stretching traditional revenue metrics — including counting one-time implementation fees and pilot revenue as ARR — to inflate perceived traction. VCs are reportedly aware but complicit, as inflated metrics help attract follow-on funding. This undermines market discipline and poses significant risk for later-stage investors and acquirers relying on headline revenue figures."
+  },
+  {
+    "headline": "Zoho founder Sridhar Vembu: AI is clearly an investment bubble",
+    "source": "The Times of India",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTnNxQ3NSLTM0OUhZOFJwRWNWZ29lWktCTWFCdGdxbXY4bE1MampIMFh3TGJMRFZ6MF8xQ3NxaWxLelJuUzJaV2x6X1BGWFJWRDdkMGJ4bVZlUUJpZkN5T0k3Nk8weUNWdVJHR3hVWmtnQmFSb3NIS25wTVV0UWlweWt6UFRpN3FUTUdzSC15eG50ZkIzbUpQbWdqLVpjSHFWWm04clZ1WlB0ckstVGtlN2Q0SmdzQVJXTlZLbGY0QWpZaFltY0ZmU2U5Z185c0x0ZWRGWlRfbGVUSGNZSFo5ZEJRV2RObTFSSWlnRFcybTlNeXl30gH6AUFVX3lxTFB1aWtqUU1tQmNnRkZ3ZGJ6djZrWnMxOFhURDJSTmIxZkFDQ0h2TjlIMlpLUTAyTzFTR3V2YUExbWxlbWxxU2lYODFjWWVnLURXRjVEMHYyOUlZTFI1ZHdpamFLSi1taTl4ZGdkWjZhZXVDOXFpWVZua3pSV2tBN0xGYWpjN2hjSWpUYzVxa01xUko0WjBfMURjdldyRDlNYkQzbzcwYnVsODFEbUR1VGFrdGEtcGxLYU1KN0NoMWZ2MzRlVE14aVAtRmVKZ1F2eTNnODcxTFpreE1ienRRT0hBVk4xS3J4eUxQdkE2MEZ3U2QxaUpJemo5RlE?oc=5",
+    "theme": "Funding & M&A",
+    "summary": "Zoho CEO Sridhar Vembu, who leads a $1B+ enterprise software company, publicly declared that AI investment is 'clearly a bubble' and questioned whether the capital being deployed will ever generate proportionate returns. His view carries weight as a profitable SaaS founder who has historically avoided hype-driven spending. The statement adds to a chorus of skepticism from operators, contrasting with the bullishness of VCs and hyperscalers."
+  },
+  {
+    "headline": "CATL targets AI data center infrastructure through strategic investment in DeepSeek",
+    "source": "Technetbook",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Cc1NhcWZmMzM5MHZBUkx5aUlRUmdOcTdlZmdrb0Y2dEdtc1JiYWRJNFRSNWVzSGhZWGFzTUhiaWtfSjVORHlkQmJPRzFISWJMWExhWVRjM3V4ZTRVR2Frc244N3ZwWWZic2lVLWJ3N3p3WEp2cnB6cg?oc=5",
+    "theme": "Funding & M&A",
+    "summary": "CATL, the world's largest battery manufacturer, is making a strategic investment in DeepSeek to enter the AI data center infrastructure market. This cross-industry move signals that energy and hardware companies see AI infrastructure as a massive growth opportunity. It also strengthens DeepSeek's position in China's AI ecosystem and illustrates how AI is attracting capital from non-traditional tech players."
+  },
+  {
+    "headline": "Blackstone-backed AI enterprise services firm acquires Fractional AI",
+    "source": "MSN",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSWRGcnRXT2pOYmM5WExsRTBqdDU1Tk90WWJHN000LUMyNXU1T005RlNNd1NSc2xHWmJtZ2VuWTJoX2lkdFRsWTVpUGV5SmpGRnhaNzhmdnlIVmxzSjQydmdMbUFmMmI2ZHMtLXh2WThxZW5pejN2MG1DZXpNZGQxSVRJemdtOExEZnFaNEtsMDlFZXZiajg0N1JaXy0xLUpWUURXRy1oS0ZXX00zckUtMkVhYUtIakRDdUE?oc=5",
+    "theme": "Funding & M&A",
+    "summary": "A Blackstone-backed AI enterprise services company has acquired Fractional AI, signaling continued M&A consolidation in the AI services sector. Private equity firms are actively rolling up AI capabilities to build scaled enterprise offerings. This reflects a maturing market where standalone AI tools are being absorbed into larger platforms."
+  },
+  {
+    "headline": "SpaceX is asking IPO investors to price it like an AI platform",
+    "source": "Startup Fortune",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPelNsNkFTNUZ0Y3dRVUJJcWFycE16dV9hT2RQN29leWJoU0c2dXJWNHJwWmVFQjh0aERObm43NDItTEVyVzVSTnlSQXRxNU9Nc3l0SEdtcmUwX1BjWVVnTmxYRksxNmVXOHZIYTctSEVPRUY2NTNmQVpNRTdpT1diVFNzTDVUdWQ5V3pSelQzbVYwLWZu?oc=5",
+    "theme": "Funding & M&A",
+    "summary": "SpaceX is reportedly seeking IPO valuations comparable to AI platform companies rather than aerospace peers, arguing that its Starlink constellation and orbital compute ambitions qualify it as an AI infrastructure play. This illustrates how the AI premium is distorting valuations across sectors and how companies are leveraging AI narratives to command higher multiples."
+  },
+  {
+    "headline": "Shadow AI tools: 80% of employees use them, only 12% of companies govern them",
+    "source": "Cybersecurity Insiders",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xd0Jyek9rVTNLSXctZzJYdm1QVVg3XzY1Xy1jYkdHdEFrUTNuakRLSlFJdEl4ejdZemFPUzlzV1l3Wmp5Yzd4SURGVUNodjd2VFgwbGpmb3RBTnJEbjAzSzFxdFFFaUhMRXRWWnM3bUtVR2ZYcGYtOWdn?oc=5",
+    "theme": "AI Risk",
+    "summary": "A new report finds that 80% of employees are using unauthorized AI tools at work, while only 12% of companies have governance frameworks in place. This massive Shadow AI gap creates significant data leakage, compliance, and security risks. The finding should be an urgent wake-up call for CISOs and boards to implement AI usage policies before a major incident occurs."
+  },
+  {
+    "headline": "AI keeps inventing fake cases. Lawyers keep citing them",
+    "source": "Scientific American / Hacker News",
+    "url": "https://www.scientificamerican.com/article/why-lawyers-keep-citing-fake-cases-invented-by-ai/",
+    "theme": "AI Risk",
+    "summary": "Scientific American documents the persistent problem of lawyers submitting AI-hallucinated case citations in court filings, despite repeated sanctions and warnings. The article reveals that the problem is getting worse, not better, as more legal professionals rely on AI tools without verification. This represents a growing 'hallucination tax' — real financial and reputational costs from trusting AI outputs without human oversight."
+  },
+  {
+    "headline": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+    "source": "arXiv / Hacker News",
+    "url": "https://arxiv.org/abs/2605.06445",
+    "theme": "AI Risk",
+    "summary": "New research demonstrates that LLM-based coding agents progressively lose track of constraints and specifications during complex code generation tasks — a phenomenon the authors call 'constraint decay.' This has direct implications for enterprises deploying AI coding agents, as errors compound over longer tasks and can introduce subtle bugs. The finding suggests agentic AI for software engineering requires more guardrails than currently deployed."
+  },
+  {
+    "headline": "How AI misuse is fanning digital crime in businesses",
+    "source": "Business Daily",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ3JOd1BIT3FYRVRqN3FobVY5SVAtek9oa1RFbUpWaTBnTHFOVWh3ZjByYXlBYUJ4aU5oQXlBQU4xZHZIdzNPZUl5THJqRFEyUWhiSWRScEU4bE5hNV9KeEVZVnpXWHA5QjBCN0NzLUg3aEFDQVI2NHE4Zm5Zd05XekJ3cHZ6U0pXZHN0UUgwSVVrcW96Y2lpZDJnUjktZXJHVWtnNVFLLW1KZWpuSHVnYmh0OXVFSzZnajVDSA?oc=5",
+    "theme": "AI Risk",
+    "summary": "Reporting from Business Daily documents how AI tools are being weaponized for business fraud, including deepfake-enabled impersonation, automated phishing at scale, and AI-generated false documents. The convergence of accessible AI and criminal intent is creating a new category of enterprise risk that traditional cybersecurity measures are not equipped to handle."
+  },
+  {
+    "headline": "Trump's last-minute AI order switch exposes White House divides",
+    "source": "The Hill",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYjhDMGFzVjVuUk1SMlZlSmZ4WTI3RW9zaG1xZDJSOWdaRC15WElqQkVfWm5FMmZOVDRyLW55cGR2M1VJTEZqY1dybzI3Vnd6RURJX2NzLUdkVGhBMXhvMFh3Yl9Bbm8yY1JIYlBlLUdUV0dtUV9sTmVvUEx2Zm1SLXctRdIBiAFBVV95cUxPak1hQ3JMTUY0LTFGc2lUelR5TXhHd1FUNndBRWZlVnNjVTFpMUxFUE1FUzNfRFUtSDNFT0tqRTA2UEF5dFVNN2Z3Szc0RVNwaUhxbEtLbHoxRHBicUxtOUpJS25pLU5PVTljc0h6NHc3STZHWmNxeWhTTlJPRE0yeDhvZ2hLNXhG?oc=5",
+    "theme": "Regulatory",
+    "summary": "President Trump postponed a planned AI executive order after his AI czar David Sacks raised concerns that certain provisions could inadvertently create regulatory burdens on U.S. AI companies. The incident reveals significant internal disagreements within the administration about the balance between AI promotion and oversight. For businesses, the regulatory uncertainty creates planning challenges for compliance-sensitive AI deployments."
+  },
+  {
+    "headline": "US, China are discussing AI guardrails to safeguard most powerful models, Bessent says",
+    "source": "AOL / Reuters",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYS1zOHZ4Z3Nhd29hblZ0MnkzUFp1bHA4cVNxcERpX1pCUnZNUTlvSUY0b21NbmVwSjlDb2JjZlBqQUNTTkh6Yi1OMGVsRDBFcFJuZThnN1FZSzFCVUIxWTVQdVFPaV9kaG52WGQ5YW1vYnlmUlMzeHFoN0hCVVlnQ1MzRQ?oc=5",
+    "theme": "Regulatory",
+    "summary": "Treasury Secretary Bessent confirmed that the U.S. and China are in active discussions about establishing joint guardrails for the most powerful AI models. This is a significant geopolitical development that could shape global AI governance standards and affect how frontier models are deployed commercially. For multinationals operating in both markets, harmonized rules could reduce compliance complexity."
+  },
+  {
+    "headline": "AI wealth must benefit the public, South Korea's deputy PM says amid Samsung labor tensions",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/23/ai-wealth-must-benefit-the-public-south-koreas-deputy-pm-says.html",
+    "theme": "Regulatory",
+    "summary": "South Korea's deputy PM has called for AI-generated wealth to be distributed more broadly, citing growing public concern about AI worsening inequality, amid ongoing labor tensions at Samsung. The statement signals potential policy intervention in one of the world's most important semiconductor and AI hardware markets. Companies with supply chain exposure to South Korea should watch for new regulations around AI-driven workforce restructuring."
+  },
+  {
+    "headline": "Meta to lay off 100 in Israel, reassign 200 to AI",
+    "source": "The Jerusalem Post",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81WWlPYmxZVDR1NkdIZXF1Q3h3ZngwaWlibmwwdlR1Mlo4Mk0wQ0I3Z25Zck5MNGZpNTlqWHpSbmk4OGdSMW5QbC0ySlVNMVhDWklwVHRtalFyOXltRzhPV0xLanU0ZUZVQVJpRQ?oc=5",
+    "theme": "AI Workforce Impact",
+    "summary": "Meta is laying off 100 employees in Israel while simultaneously reassigning 200 others to AI-focused roles, illustrating the workforce rebalancing underway at Big Tech. The 2:1 ratio of reassignment to layoff shows how AI is not just eliminating jobs but fundamentally reshuffling where companies deploy talent. This pattern of simultaneous cutting and AI-hiring is becoming standard across major tech firms."
+  },
+  {
+    "headline": "'Overusing AI making us less intelligent': Employees fear overreliance weakening their skills",
+    "source": "Indiatimes",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQT21FbVVySzNRdG8wTXFmTmxKalhRR25QMG1YczljTGZSOEV6bFdYUER0RUZPNi1DMEFMWjY0TEtHTVBIWUpuX05lMUlqZFF4bG9zVktVWmUyLURtd19Id3gzcTAzM0x4NzhEZTlyeTZETFA0NXJRTFE4VkFwN3FxeTZOeHJzamxIaFlaMWRVNGxlSDRBVXJ1UHFOc1FBYWRFeWlOTk5lWVRCZzQyRWF1VFBjbVpWR293UzVWX3pTUUlGVTY4UkpYcmlyTm9YVWwtN1JodDNWNGFDY19mX09JT3pCUWd6Vi1ZVHdSX1h1UFQ3cnRKYVVF?oc=5",
+    "theme": "AI Workforce Impact",
+    "summary": "A growing body of employee sentiment data shows workers fear that AI overreliance is atrophying their core professional skills. This emerging 'deskilling' concern has implications for talent strategy — if employees lose competency through AI dependence, organizations face hidden risks when AI tools fail or are unavailable. HR leaders need to consider skill preservation alongside AI adoption."
+  },
+  {
+    "headline": "How Agentic AI Supercharges Startups and Threatens Incumbents",
+    "source": "Harvard Business Review",
+    "url": "https://hbr.org/2026/07/how-agentic-ai-supercharges-startups-and-threatens-incumbents",
+    "theme": "Agentic AI",
+    "summary": "HBR examines how agentic AI is enabling small teams to operate at the scale of much larger organizations, creating an asymmetric competitive threat to incumbents. The article argues that startups deploying autonomous AI agents can compress timelines and reduce headcount requirements in ways that fundamentally challenge the economies of scale that protected large enterprises. This is essential reading for any incumbent evaluating competitive threats."
+  },
+  {
+    "headline": "Beware the Agentic Convergence Trap",
+    "source": "Harvard Business Review",
+    "url": "https://hbr.org/2026/05/beware-the-agentic-convergence-trap",
+    "theme": "Agentic AI",
+    "summary": "HBR warns that companies rushing to deploy agentic AI are falling into a 'convergence trap' — implementing the same agent architectures and workflows as competitors, erasing any differentiation. The piece argues that competitive advantage in the agentic era comes from proprietary data and unique business process design, not the agents themselves. This is a strategic warning against treating agentic AI as a commodity plug-in."
+  },
+  {
+    "headline": "The Best Manufacturers Build AI with Workers, Not for Them",
+    "source": "Harvard Business Review",
+    "url": "https://hbr.org/2026/05/the-best-manufacturers-build-ai-with-workers-not-for-them",
+    "theme": "AI Strategy",
+    "summary": "HBR presents evidence that manufacturing companies achieving the best AI outcomes are co-designing systems with frontline workers rather than imposing top-down solutions. The approach leads to higher adoption rates, fewer errors, and faster iteration. For operations-heavy industries, this challenges the common executive playbook of centralized AI deployment."
+  },
+  {
+    "headline": "Inside the AI Index: 12 Takeaways from the 2026 Report",
+    "source": "Stanford HAI",
+    "url": "https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report",
+    "theme": "Research to Business",
+    "summary": "Stanford's annual AI Index report highlights breakthrough model capabilities alongside urgent concerns about environmental costs, lack of transparency, and widening inequities in who benefits from AI. The report provides the most comprehensive data-driven snapshot of the global AI landscape and is widely referenced by policymakers and corporate strategists. Key findings include accelerating capability gains but slowing efficiency improvements."
+  },
+  {
+    "headline": "New Approach to Scaling Laws Could Change How AI Models Are Trained",
+    "source": "Stanford HAI",
+    "url": "https://hai.stanford.edu/news/new-approach-to-scaling-laws-could-change-how-ai-models-are-trained",
+    "theme": "Research to Business",
+    "summary": "Stanford researchers have developed a new methodology for predicting LLM scaling behavior that dramatically reduces the compute needed for forecasting, potentially saving millions in training costs. By borrowing statistical techniques from measurement science, the approach lets companies predict model performance without running full-scale training runs. This could significantly change how AI labs and enterprises allocate R&D budgets."
+  },
+  {
+    "headline": "Qualcomm's stock pop shows investors are 'waking up' to boom in AI devices",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/22/qualcomms-stock-pop-shows-investors-waking-up-to-boom-in-ai-devices.html",
+    "theme": "AI Strategy",
+    "summary": "Qualcomm's significant stock rally reflects growing investor conviction that on-device AI — running models locally on phones, PCs, and IoT hardware — represents the next major growth vector. The market is beginning to price in a shift from cloud-centric AI to edge computing. For enterprise strategists, this signals that AI deployment architectures may need to account for hybrid cloud-edge approaches sooner than expected."
+  },
+  {
+    "headline": "Datadog crosses $1 billion revenue mark as AI observability drives 25% growth",
+    "source": "Foreign Policy Journal",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaFFJNTh2TFF4dmJ1YUVKUGtTNWtEaVdzaVkzUGg1bjlCV2E0T0hFVkxOak93T3h4bTQxd0JpVWQ5cjhveFh6UHdBN045Rmx3cFFEY0ZWc0xtNWVQRU9sR0FHeW1keDg1VzdMdGpBeWhQQjZJZVk0VzVVRTZKLW56RlJEQ3E4bTVmQlpyTXphVjI3bWxSR1dRZFFiUllHOWxLb2dYRDN2S1lMdmhBRHhnajFIbUdaVkktWE9oaFRPTXQ5clpyYkRqdG1ZZVJhS0ZfVDRDVHZJMFdRZw?oc=5",
+    "theme": "Enterprise ROI",
+    "summary": "Datadog has crossed $1 billion in revenue with 25% growth driven specifically by AI observability — tools that help enterprises monitor and debug their AI systems in production. This validates AI observability as a fast-growing enterprise software category and suggests that as companies deploy more AI, the tooling market around managing AI systems is becoming substantial in its own right."
+  },
+  {
+    "headline": "Jubilee blocks Sh1.28bn in fake insurance claims using AI",
+    "source": "Business Daily",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbUs2YnNFZUJLYnplM25rbG9ob3NzdmxqNkVYWWFYTWdqSUZsZkFuYlVtc0ZGMmp5UmFybEw1X3Z5NnFPdFVIOER6VVBjbDNXdVAySzF6eHBfaldsZDFzZFJTal9WUV9KcVF3d0NFRzNIalpRZXRzckNhNFpEQ3cyNmRlUi1fVXBOTXZpN0phS1V3VEV3ckZLajRmUjR1U1pFbmo0NjlOd3AwM2g3OGFfREtHRWNFamVNSnRDRHdwMm9mQQ?oc=5",
+    "theme": "Enterprise ROI",
+    "summary": "Kenyan insurer Jubilee Insurance used AI to block Sh1.28 billion (~$10M) in fraudulent claims, providing a concrete, quantified example of AI delivering measurable ROI in financial services. The case demonstrates AI's value in fraud detection — a use case where the business case is unambiguous. This is the kind of specific, numbers-backed success story that cuts through AI hype."
+  },
+  {
+    "headline": "Gen AI Could Fix Performance Reviews — or Make Them Even Worse",
+    "source": "Harvard Business Review",
+    "url": "https://hbr.org/2026/05/gen-ai-could-fix-performance-reviews-or-make-them-even-worse",
+    "theme": "AI Strategy",
+    "summary": "HBR examines the double-edged potential of using generative AI in employee performance reviews — it can reduce bias and improve consistency, but also risks homogenizing feedback and masking managerial negligence. With HR tech vendors rapidly integrating AI into review workflows, this analysis is timely for CHROs considering these tools. The key risk: AI-generated reviews that feel comprehensive but lack genuine human judgment."
+  },
+  {
+    "headline": "Hackers are learning to exploit chatbot 'personalities'",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
+    "theme": "AI Risk",
+    "summary": "The Verge reports that hackers are developing increasingly sophisticated techniques to exploit the persona and instruction-following behaviors of enterprise chatbots, moving beyond simple prompt injection to manipulate chatbot 'personalities.' As companies deploy customer-facing AI agents, this emerging attack vector poses reputational and data security risks that security teams need to address."
+  }
+]
