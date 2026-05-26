@@ -1,0 +1,184 @@
+[
+  {
+    "headline": "Uber president says AI spending is getting 'harder to justify'",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
+    "theme": "Enterprise ROI",
+    "summary": "Uber's president publicly stated that the company's AI investments are becoming increasingly difficult to justify, signaling growing skepticism among major tech adopters about AI ROI. This is a significant data point from a $170B+ company that has been a heavy AI investor, and reflects the broader 'GenAI Paradox' where adoption is widespread but measurable business impact remains elusive."
+  },
+  {
+    "headline": "What ClickUp's mass layoff tells us about the future of work",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+    "theme": "AI Workforce Impact",
+    "summary": "ClickUp is replacing hundreds of employees with thousands of AI agents in a mass layoff, making it one of the most explicit cases of a company swapping human headcount for AI at scale. This represents a concrete example of 'Hyper Automation' — not just augmenting workers but replacing entire teams with agent-based workflows."
+  },
+  {
+    "headline": "A reality check on the AI jobs hysteria",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+    "theme": "AI Workforce Impact",
+    "summary": "Despite high-profile layoffs at Coinbase, Meta, and Cisco being attributed to AI, MIT Technology Review finds scant evidence of large-scale AI-driven job displacement in aggregate data. The disconnect between headline narratives and employment statistics suggests the workforce impact is more nuanced than either optimists or doomsayers claim."
+  },
+  {
+    "headline": "It's time to address the looming crisis in entry-level work",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+    "theme": "AI Workforce Impact",
+    "summary": "While aggregate employment remains stable, AI may be quietly eliminating the first rung of the career ladder — entry-level positions that serve as training grounds for future professionals. This 'hidden' workforce impact could create a serious talent pipeline problem for companies that rely on junior employees developing into senior leaders."
+  },
+  {
+    "headline": "Rethinking organizational design in the age of agentic AI",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+    "theme": "Agentic AI",
+    "summary": "85% of organizations want to be 'agentic' within three years, but 76% say their current operations and infrastructure can't support that change — citing lack of readiness across people, processes, and workflows. This stark ambition-execution gap is a textbook case of 'Pilot Purgatory' and suggests massive consulting and transformation spend ahead."
+  },
+  {
+    "headline": "AI Agents Plunged the Tech World Into Chaos. Here's Exactly How That Happened",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
+    "theme": "Agentic AI",
+    "summary": "Wired provides the definitive account of how Claude Code and OpenClaw kicked off what it calls computing's biggest transformation, detailing how autonomous coding agents disrupted development workflows across the industry. The piece traces the cascading effects on software engineering practices, team structures, and competitive dynamics."
+  },
+  {
+    "headline": "OpenRouter more than doubles valuation to $1.3B in a year",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+    "theme": "Funding & M&A",
+    "summary": "OpenRouter raised a $113M Series B led by CapitalG at a $1.3B valuation, more than doubling in a year, with 5x usage growth over six months. The AI model routing platform's rapid growth validates the multi-model enterprise strategy — companies want flexibility to switch between AI providers rather than lock into a single vendor."
+  },
+  {
+    "headline": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
+    "source": "Signal Bloom / Hacker News",
+    "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+    "theme": "AI Strategy",
+    "summary": "This highly-discussed analysis (175 points, 193 comments on HN) argues that combining outsourced labor with local AI models will soon undercut frontier lab APIs on cost. For enterprises, this suggests a viable alternative to expensive cloud AI subscriptions and raises strategic questions about build-vs-buy decisions and the sustainability of OpenAI/Anthropic's pricing models."
+  },
+  {
+    "headline": "The AI bubble isn't like the internet bubble",
+    "source": "Cory Doctorow / Pluralistic",
+    "url": "https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves",
+    "theme": "AI Strategy",
+    "summary": "Cory Doctorow argues that the AI investment cycle differs structurally from the dot-com bubble, potentially making it more dangerous for investors and businesses. The analysis challenges the common reassurance that 'AI will be like the internet — oversold short-term but transformative long-term,' suggesting the economic dynamics may not follow the same pattern."
+  },
+  {
+    "headline": "Sundar Pichai on AI, the future of search, and what's happening to the web",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
+    "theme": "AI Strategy",
+    "summary": "Google CEO Sundar Pichai discusses the company's strategy post-I/O, including new Gemini models, AI agents across products, and major changes to Search and YouTube. For any business dependent on web traffic or digital advertising, Google's AI-driven reshaping of search and content discovery has direct revenue implications."
+  },
+  {
+    "headline": "Pope Leo XIV says AI must serve humanity, not the powerful few",
+    "source": "Religion News Service / Hacker News",
+    "url": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/",
+    "theme": "AI Ethics & Trust",
+    "summary": "Pope Leo XIV's first encyclical 'Magnifica Humanitas' warns that AI concentrated in a few firms risks 'new forms of dehumanization,' calling for AI to serve humanity broadly. With 1.4 billion Catholics worldwide, this papal document — which specifically names Anthropic and discusses AI warfare and labor — could influence regulatory sentiment and public opinion on AI governance globally."
+  },
+  {
+    "headline": "US Law Enforcement Warns of 'Anti-Tech Extremism' as AI Hatred Grows",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/",
+    "theme": "AI Risk",
+    "summary": "Federal law enforcement is raising alarms about a new threat category: 'anti-tech extremism' fueled by fears of job-stealing AI and data center expansion. Documents obtained by Wired show officials concerned about escalating public hostility toward AI infrastructure, creating a new risk vector for companies building or operating AI facilities."
+  },
+  {
+    "headline": "AI Is Taking Over the Most Cursed Job in the World — Debt Collection",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/ai-takes-over-debt-collection/",
+    "theme": "AI Strategy",
+    "summary": "There's a rush to automate debt collection calls with AI, one of the first large-scale deployments of AI voice agents in a high-stakes consumer-facing role. The debt collection industry's $13B+ market represents a test case for AI replacing human-intensive, conversation-heavy work — with significant regulatory and reputational risks."
+  },
+  {
+    "headline": "I'm a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/fact-checking-ai/",
+    "theme": "AI Risk",
+    "summary": "A professional fact-checker documents how AI systems produce errors at rates far higher than most users assume, providing real-world evidence of the 'Hallucination Tax.' For enterprises deploying AI in content, research, or customer-facing applications, this underscores the hidden cost of quality assurance and human review that must accompany AI outputs."
+  },
+  {
+    "headline": "Everyone is navigating AI security in real time — even Google",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+    "theme": "AI Risk",
+    "summary": "Even Google is struggling with AI security challenges in real-time, highlighting that no organization — regardless of resources — has fully solved the security implications of AI deployment. This levels the playing field on AI risk but also means every enterprise adopting AI is operating without established security playbooks."
+  },
+  {
+    "headline": "AI warfare is already here",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines",
+    "theme": "Regulatory",
+    "summary": "Lethal autonomous weapons systems have moved from hypothetical UN discussions to active deployment, a shift that occurred faster than international governance frameworks anticipated. For defense contractors and tech companies supplying military AI, the regulatory landscape is evolving rapidly with implications for contracts, liability, and reputational risk."
+  },
+  {
+    "headline": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
+    "theme": "Regulatory",
+    "summary": "UMG and TikTok renewed their partnership with explicit provisions to combat unauthorized AI-generated music, signaling that content authenticity enforcement is becoming a standard component of major platform deals. This sets precedent for how IP holders and platforms will negotiate AI content rights going forward."
+  },
+  {
+    "headline": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+    "source": "Blocks and Files / Hacker News",
+    "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+    "theme": "AI Strategy",
+    "summary": "Norway is using 2 petabytes of Huawei flash storage for LLM training, a story that drew 317 points and 201 comments on Hacker News. The use of Huawei infrastructure for sovereign AI training raises geopolitical questions about technology supply chains and whether Western sanctions are effectively limiting Chinese tech in European AI projects."
+  },
+  {
+    "headline": "This startup is betting India's gig economy can train the world's robots",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+    "theme": "Funding & M&A",
+    "summary": "Human Archive, founded by UC Berkeley and Stanford researchers, pays Indian gig workers to wear camera-equipped caps and sensors to collect physical-world training data for robotics AI. This emerging 'data supply chain' for physical AI represents a new market layer where developing-world labor creates training data for developed-world AI companies."
+  },
+  {
+    "headline": "OpenAI partners with Grupo Folha and Grupo UOL for Brazilian journalism in ChatGPT",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+    "theme": "AI Strategy",
+    "summary": "OpenAI continues its global media licensing strategy by partnering with Brazil's Grupo Folha and Grupo UOL to bring Brazilian journalism into ChatGPT with attribution. This expands the emerging model of AI companies paying for content rights — a critical strategic move as regulatory and legal pressure around training data intensifies worldwide."
+  },
+  {
+    "headline": "Using AI to write better code more slowly",
+    "source": "Nolan Lawson / Hacker News",
+    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+    "theme": "Enterprise ROI",
+    "summary": "This post garnered 1,096 points on Hacker News — making it the most-discussed item — arguing that AI coding tools can improve code quality but actually slow down development. This challenges the dominant narrative that AI coding assistants boost developer productivity, with implications for enterprise ROI calculations on tools like Copilot and Cursor."
+  },
+  {
+    "headline": "The AI Era Is Creating a Bug-Hunting Arms Race",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
+    "theme": "AI Risk",
+    "summary": "As attackers ramp up AI-powered exploit development, the vulnerability discovery landscape is transforming rapidly, creating an arms race between AI-powered attack and defense. CISOs need to account for the acceleration of both offensive and defensive AI capabilities in their security strategies and budgets."
+  },
+  {
+    "headline": "A governance horizon for ethical-use constraints in open-weight AI models",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2605.24383",
+    "theme": "Regulatory",
+    "summary": "An audit of 2.1 million model repositories on Hugging Face found that ethical-use constraints on open-weight AI models — implemented as voluntary metadata disclosures — fail to propagate reliably across derivative models. This research has direct implications for AI governance policy, suggesting that current voluntary compliance frameworks for open-source AI are fundamentally broken."
+  },
+  {
+    "headline": "LLMs are overconfident: Confidence exceeds accuracy, especially on hard tasks",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2605.23909",
+    "theme": "Research to Business",
+    "summary": "A preregistered study finds that current LLMs systematically exhibit overconfidence — stating they are correct more often than they actually are — with the effect most severe on difficult tasks. For enterprises using LLMs for decision support, this means AI confidence scores cannot be taken at face value, requiring calibration layers before deployment in high-stakes applications."
+  },
+  {
+    "headline": "How Much Thinking is Enough? Quantifying Redundancy in LLM Reasoning",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2605.23926",
+    "theme": "Research to Business",
+    "summary": "Researchers measured reasoning redundancy in LLMs for the first time at scale, finding extensive unnecessary reformulation and circular self-reflection in chain-of-thought outputs. This directly quantifies the 'Token Anxiety' problem — enterprises are paying for significant wasted compute in reasoning models, suggesting major cost savings are achievable through optimization."
+  },
+  {
+    "headline": "From Accuracy to Auditability: Determinism in Financial AI Systems",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2605.23955",
+    "theme": "Regulatory",
+    "summary": "A survey reveals that deep neural networks and generative AI introduce 'mechanical nondeterminism' rooted in hardware and architecture that makes financial AI systems impossible to reproduce exactly — a critical problem for regulated environments requiring audit trails. Banks and financial institutions deploying AI for credit risk, fraud detection, and AML face fundamental reproducibility challenges that current frameworks don't address."
+  }
+]
