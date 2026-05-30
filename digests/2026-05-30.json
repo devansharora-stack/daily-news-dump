@@ -1,0 +1,212 @@
+[
+  {
+    "headline": "Anthropic tops OpenAI as most valuable AI startup, nears $1 trillion valuation in latest round",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/05/28/anthropic-open-ai-startup-value.html",
+    "theme": "Funding & M&A",
+    "summary": "Anthropic has surpassed OpenAI as Silicon Valley's most valuable AI company after closing a $65 billion funding round that pushes its valuation near $1 trillion. This signals a major shift in the competitive landscape of foundation model companies, with implications for enterprise customers choosing AI partners and for investors assessing the concentration of value in the AI sector."
+  },
+  {
+    "headline": "After Nvidia's $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+    "theme": "Funding & M&A",
+    "summary": "Chipmaker Groq is raising $650 million as it pivots from hardware to AI inference, following Nvidia's $20 billion not-acqui-hire deal in the chip space. The move highlights growing investor conviction that inference—not just training—will be the major profit center in AI infrastructure."
+  },
+  {
+    "headline": "This chip startup just raised $135M on a bet that AI's biggest bottleneck isn't compute — it's memory",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+    "theme": "Funding & M&A",
+    "summary": "South Korean startup XCENA raised $135M at a $570M valuation, betting that memory—not compute—is AI's true bottleneck. This thesis aligns with Samsung's HBM4E push and Nvidia's photonics investments, suggesting the AI infrastructure investment thesis is broadening beyond GPUs."
+  },
+  {
+    "headline": "Asana acquires no-code agent-builder StackAI",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+    "theme": "Funding & M&A",
+    "summary": "Asana acquired StackAI to incorporate no-code AI agent-building into its workflow platform, signaling that established SaaS companies are buying their way into agentic AI capabilities. The move reflects a broader trend of project management and productivity platforms racing to embed AI agents before they get disrupted."
+  },
+  {
+    "headline": "Dell stock skyrockets 32% for its best day ever as AI server revenue soars 757%",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/05/29/dell-stock-earnings-ai-servers.html",
+    "theme": "Enterprise ROI",
+    "summary": "Dell reported its fastest revenue growth since returning to public markets in 2018, with AI server revenue soaring 757% year-over-year, sending shares up 32% in a single day. The results confirm that enterprise demand for AI infrastructure remains explosive and that legacy hardware companies can be major AI beneficiaries."
+  },
+  {
+    "headline": "Glean's top line crosses $300M as AI budget cutting becomes its major selling point",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+    "theme": "Enterprise ROI",
+    "summary": "Enterprise AI search startup Glean tripled its annual revenue past $300M even as tech giants entered the category, by positioning itself as a cost-cutting tool rather than a cost center. This is a notable counter-narrative to 'AI costs more than expected' stories and suggests ROI-focused AI products are winning enterprise budgets."
+  },
+  {
+    "headline": "Software stocks wrap up best month since 2001 as talk of 'SaaSpocalypse' subsides",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/05/29/software-stocks-wrap-best-month-since-2001-as-talk-of-saaspocalypse-.html",
+    "theme": "AI Strategy",
+    "summary": "Software stocks posted their best month since 2001, with Snowflake and Okta both seeing record stock pops driven by AI strategies. The rally suggests investors are now rewarding SaaS incumbents that show credible AI monetization paths, reversing earlier fears that AI would commoditize traditional software businesses."
+  },
+  {
+    "headline": "Okta jumps 8%, tops first-quarter results on agentic AI demand",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/05/28/okta-okta-earnings-q1-2027.html",
+    "theme": "Agentic AI",
+    "summary": "Okta beat Q1 estimates and saw shares jump 8% as CEO Todd McKinnon credited growing demand for identity management of AI agents. As enterprises deploy more agentic AI, identity and access management is becoming a critical infrastructure layer—a business opportunity that wasn't on most radars a year ago."
+  },
+  {
+    "headline": "Tokens or humans? The new corporate trade-off",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/05/29/-tokens-or-humans-the-new-corporate-trade-off.html",
+    "theme": "AI Strategy",
+    "summary": "AI is costing far more than companies expected, forcing CFOs into explicit trade-offs between spending on AI tokens versus human workers—a risk the market hasn't fully priced in. This exemplifies 'Token Anxiety' as enterprise AI spending scales and the true cost of running AI agents at production volume becomes clearer."
+  },
+  {
+    "headline": "Does your CEO have AI psychosis? Aaron Levie thinks most of them do",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do/",
+    "theme": "AI Workforce Impact",
+    "summary": "Box founder Aaron Levie coined the term 'AI psychosis' for executives who replace workers with AI agents without understanding the jobs being eliminated. With ClickUp cutting 22% of its workforce for AI agents and 2026 tech layoffs already nearly matching all of 2025, the warning carries weight about the gap between executive AI ambitions and operational reality."
+  },
+  {
+    "headline": "SentinelOne stock drops 8% as cyber firm trims headcount to boost AI investments",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/05/29/sentinelone-s-stock-earnings-ai-layoffs.html",
+    "theme": "AI Workforce Impact",
+    "summary": "Cybersecurity firm SentinelOne cut staff and redirected spending toward AI, but the market punished the stock 8% after lackluster guidance. The reaction suggests investors are increasingly skeptical of companies using 'investing in AI' as cover for cost cuts when the underlying business is struggling."
+  },
+  {
+    "headline": "Coders are refusing to work without AI — and that could come back to bite them",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+    "theme": "AI Risk",
+    "summary": "Developers are increasingly dependent on AI coding tools, but researchers warn this produces more code without necessarily producing better code. This creates a potential quality debt bomb for enterprises, as AI-assisted code proliferates faster than it can be reviewed, testing the 'Hallucination Tax' in software development."
+  },
+  {
+    "headline": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+    "source": "Ars Technica AI",
+    "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+    "theme": "AI Risk",
+    "summary": "A developer embedded a prompt injection in the jqwik library that instructed AI coding agents to delete application output, exploiting the growing reliance on 'vibe coding.' This incident exposes a serious supply chain security risk: as AI agents autonomously write and execute code, they inherit vulnerabilities from every dependency they touch."
+  },
+  {
+    "headline": "GitHub Copilot's new token-based billing spurs consternation among developers",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+    "theme": "Model & Platform",
+    "summary": "Microsoft is shifting GitHub Copilot from flat-rate to token-based billing, signaling the end of unlimited AI coding assistance at a fixed price. For enterprises with thousands of developer seats, this pricing shift could significantly increase costs and forces a rethinking of AI tool budgets—a clear example of Token Anxiety."
+  },
+  {
+    "headline": "The internet is being rebuilt for machines",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+    "theme": "AI Strategy",
+    "summary": "AWS, Cloudflare, and other infrastructure providers are redesigning cloud services for a future where machine-generated traffic—from AI agents—exceeds human traffic. This represents a fundamental shift in how companies must architect their digital presence, with implications for API strategy, security, and infrastructure spending."
+  },
+  {
+    "headline": "EU seeks to 'intensify' talks with U.S. on advanced cyber AI models amid Mythos concerns",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/05/29/mythos-ai-models-eu-talks-us.html",
+    "theme": "Regulatory",
+    "summary": "Anthropic's Mythos model, which has demonstrated advanced cyber capabilities, is prompting the EU to push for intensified talks with the U.S. on AI governance. This signals a new front in AI regulation focused specifically on models with offensive cyber abilities, with potential implications for cross-border AI deployment and compliance."
+  },
+  {
+    "headline": "AI Hiring Tools Can Yield Racial Bias and Systemic Rejection",
+    "source": "Stanford HAI",
+    "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
+    "theme": "AI Ethics & Trust",
+    "summary": "The first large-scale study of AI hiring algorithms deployed in real-world settings found concerning patterns of racial bias and systemic candidate rejection. For any company using automated screening tools, this research creates significant legal and reputational exposure, particularly as regulators in the EU and U.S. states increase scrutiny of algorithmic hiring."
+  },
+  {
+    "headline": "How Agentic AI Supercharges Startups and Threatens Incumbents",
+    "source": "Harvard Business Review",
+    "url": "https://hbr.org/2026/07/how-agentic-ai-supercharges-startups-and-threatens-incumbents",
+    "theme": "Agentic AI",
+    "summary": "HBR analyzes how agentic AI is giving startups an asymmetric advantage over incumbents by enabling small teams to automate entire workflows that previously required large organizations. For enterprise leaders, this is a direct warning that the competitive moat of scale may be eroding faster than expected."
+  },
+  {
+    "headline": "How to Compete Against Agentic Startups",
+    "source": "Harvard Business Review",
+    "url": "https://hbr.org/2026/05/how-to-compete-against-agentic-startups",
+    "theme": "Agentic AI",
+    "summary": "HBR provides a strategic framework for incumbent companies facing disruption from agentic AI-native startups. The companion piece to their analysis of agentic startup advantages, this offers practical guidance for established companies trying to defend market position as AI agents reshape competitive dynamics."
+  },
+  {
+    "headline": "Managers Are Struggling to Keep Up with the AI Productivity Boom",
+    "source": "Harvard Business Review",
+    "url": "https://hbr.org/2026/05/managers-are-struggling-to-keep-up-with-the-ai-productivity-boom",
+    "theme": "AI Workforce Impact",
+    "summary": "HBR reports that middle managers are becoming a bottleneck in AI-powered organizations, unable to review, supervise, and quality-check the volume of AI-augmented output their teams now produce. This illustrates the GenAI Paradox: AI is boosting individual productivity while creating new organizational dysfunction."
+  },
+  {
+    "headline": "Meta has struggled at selling anything other than ads. Will AI be different?",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/05/30/meta-struggled-selling-anything-other-than-ads-will-ai-be-different.html",
+    "theme": "AI Strategy",
+    "summary": "Meta is making a major push to monetize AI beyond its core advertising business, but its history of failed diversification—from Portal to the metaverse—raises questions about execution. With Meta also reportedly developing an AI pendant, the company is betting big on AI as its second revenue pillar."
+  },
+  {
+    "headline": "Samsung's shares surge as much as 6% after shipping next-generation AI memory chip samples",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/05/29/samsung-hbm4e-chip-samples-ai-memory.html",
+    "theme": "AI Strategy",
+    "summary": "Samsung began shipping HBM4E memory chip samples globally, sending shares up 6% and reinforcing the thesis that AI memory is becoming as strategically important as AI compute. For enterprise buyers and infrastructure planners, this signals that the AI hardware supply chain is diversifying beyond GPUs."
+  },
+  {
+    "headline": "Nvidia is investing billions into photonics technology that could change the AI industry",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/05/29/nvidia-photonics-investment-ai.html",
+    "theme": "AI Strategy",
+    "summary": "Nvidia is pouring billions into photonics companies developing light-based data transfer to replace electricity in data centers, which could dramatically improve AI infrastructure efficiency. This signals a potential architectural shift in data centers that could reshape costs and competitive advantage in AI deployment."
+  },
+  {
+    "headline": "Boston Children's Hospital uses AI to unlock new diagnoses for 40+ rare disease cases",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/boston-childrens-hospital",
+    "theme": "Enterprise ROI",
+    "summary": "Boston Children's Hospital used OpenAI technology to diagnose more than 40 rare disease cases, reduce operational burden, and improve patient care. This is one of the clearest examples of measurable AI ROI in healthcare, demonstrating AI's potential to solve problems that were previously intractable rather than just automating existing workflows."
+  },
+  {
+    "headline": "AI's Impact on SaaS Will Be Uneven. Here's What Leaders Need to Know",
+    "source": "Harvard Business Review",
+    "url": "https://hbr.org/2026/05/ais-impact-on-saas-will-be-uneven-heres-what-leaders-need-to-know",
+    "theme": "AI Strategy",
+    "summary": "HBR argues that AI will not uniformly disrupt all SaaS categories—some will see radical transformation while others remain insulated. This nuanced view matters for investors and executives evaluating which software companies face existential risk versus which can integrate AI for competitive advantage."
+  },
+  {
+    "headline": "How Lenovo Built an AI-Powered Supply Chain",
+    "source": "Harvard Business Review",
+    "url": "https://hbr.org/2026/05/how-lenovo-built-an-ai-powered-supply-chain",
+    "theme": "Enterprise ROI",
+    "summary": "HBR details how Lenovo successfully deployed AI across its supply chain operations, offering a concrete case study of enterprise AI delivering measurable results. For operations and supply chain leaders, this provides a real-world blueprint for moving AI from pilot to production at scale."
+  },
+  {
+    "headline": "This Trump-linked startup plans to put humanoid robots in the military",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/05/30/humanoid-robots-ukraine-war-foundation-military-ai.html",
+    "theme": "AI Strategy",
+    "summary": "Foundation Robotics Labs, with ties to the Trump family, aims to deploy humanoid robots in military roles within 12-18 months. The intersection of defense contracts, political connections, and AI robotics raises questions about the governance and procurement of autonomous military systems."
+  },
+  {
+    "headline": "New Approach to Scaling Laws Could Change How AI Models Are Trained",
+    "source": "Stanford HAI",
+    "url": "https://hai.stanford.edu/news/new-approach-to-scaling-laws-could-change-how-ai-models-are-trained",
+    "theme": "Research to Business",
+    "summary": "Stanford researchers developed a new method using statistical concepts from measurement science that greatly reduces the computational demand of predicting how large language models will scale, potentially saving millions of dollars in training costs. For companies investing in foundation models, this could dramatically lower the cost of deciding where to allocate training compute."
+  },
+  {
+    "headline": "Tech companies desperately want to film you doing chores to train AI robots",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
+    "theme": "Research to Business",
+    "summary": "AI startup Shift is offering free home cleaning in exchange for filming cleaners at work to train household robots, highlighting the emerging market for physical-world training data. As robotics companies race to collect real-world behavioral data, this model raises questions about data value, privacy, and the pace of household robot development."
+  },
+  {
+    "headline": "Tesla Robotaxi fleet in Texas less than one-tenth size of Waymo's, filings reveal",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/05/28/tesla-robotaxi-fleet-texas-one-tenth-size-of-waymos-filings-reveal.html",
+    "theme": "AI Strategy",
+    "summary": "Tesla has registered only 42 automated vehicles for its Texas Robotaxi service versus Waymo's much larger fleet, revealing a significant gap between Tesla's autonomous driving ambitions and its actual deployment. For investors and competitors, this data point undercuts Tesla's narrative of imminent autonomous vehicle dominance."
+  }
+]
