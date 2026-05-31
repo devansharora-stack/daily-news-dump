@@ -1,0 +1,205 @@
+[
+  {
+    "headline": "Dell stock skyrockets 32% for its best day ever as AI server revenue soars 757%",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/05/29/dell-stock-earnings-ai-servers.html",
+    "theme": "Enterprise ROI",
+    "summary": "Dell reported its fastest revenue growth since returning to the public market in 2018, with AI server revenue surging 757% year-over-year. The stock jumped 32% in a single day — its best ever — signaling that enterprise AI infrastructure spending is translating into real revenue for hardware players and widening the gap between AI winners and laggards."
+  },
+  {
+    "headline": "Software stocks wrap up best month since 2001 as talk of 'SaaSpocalypse' subsides",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/05/29/software-stocks-wrap-best-month-since-2001-as-talk-of-saaspocalypse-.html",
+    "theme": "AI Strategy",
+    "summary": "Snowflake and Okta both posted record stock gains this week as investors rewarded their AI software strategies. The software sector's best month since 2001 suggests the market now believes incumbent SaaS companies can successfully pivot to AI rather than being disrupted by it — a sharp reversal from the 'SaaSpocalypse' narrative of recent quarters."
+  },
+  {
+    "headline": "Tokens or humans? The new corporate trade-off",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/05/29/-tokens-or-humans-the-new-corporate-trade-off.html",
+    "theme": "AI Strategy",
+    "summary": "AI is costing far more than companies expected, forcing CFOs into an explicit trade-off between spending on AI tokens and spending on human workers. The article highlights a risk the market hasn't fully priced in: ballooning inference costs that could squeeze margins even as companies feel competitive pressure to keep deploying AI. A textbook example of Token Anxiety."
+  },
+  {
+    "headline": "After the AI binge, companies balk at soaring bills",
+    "source": "Indiatimes",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQzhwcUl5cDhjZmd1Y3E0NkpBZkdhTDhhNmxZTUhNVEdQZnVjaXFCd0x6Tkk5VkxLUjM1WUtDQ2kzM2Nfak9KbHdTTlNfY25Hem1TU2xCc2J5SWNTQWJsVGpwbmNiVW9MY2VSQWZBOWRvRkpqZEFYbHV5ZDJsdVJ0VV9yX3JSb3BERC1TVnZuVFVjMDB3M0lOVzZGdGlIMlV2VUxvRWhKN2lFUUxpb2hHZ1FPQkpnMFZpUkFKc0F0eFhJd9IBxwFBVV95cUxNMVMwMnZRLWIxdlZiQ0JIMkk3bmpmMVBGWmhDWEIyOXlzY2I4OFdnU3JMc05DZDBVcUxGNW9CSmZaeFVjS0llT0xRemJqZmVBZEpBNzdqZ0NsWGNCbl90WEFkcjJ6ZDZ5WUVyeXdPQUNGcXg4cGhRbURvZXFnOXpEczFTQ09fdkx5QlltaXh0MTBCSi0tQXVjaXZQaUpXQmxrN1FLdEo2TURZM00wNWFoN1hXbGRKMEFWSjI0MkpsUnptYXlIcTZv?oc=5",
+    "theme": "AI Strategy",
+    "summary": "Companies that aggressively adopted generative AI are now confronting unexpectedly high costs and questioning ROI. This emerging backlash represents the GenAI Paradox in action — broad adoption without measurable business impact — and could slow enterprise AI budgets in the second half of 2026."
+  },
+  {
+    "headline": "Anthropic reaches $965 billion valuation after fresh funding round, overtaking OpenAI",
+    "source": "MSN",
+    "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNVjZyd2Fmb3U5YkVQVDFkWFpOR1o4T1BjSXladWNwTEktNHRVRzhzMldqOEVYM0hvRk5NZUVkUWlGTTZyTXNRLUR1WXV6ampSdE5JcDR2VndGQ1FmSjFzYUswTURxTmQwbUY4RXdTYU5hakVIRkp6NFgwbENIMG5yamhINlAzSm1EelY1cHVmZVRDczJsNzIyamhTV1lFN3AtTVRTSG5zclF4dTdsSndNU1VKREh6TmlzOHFUWFZ3UWpFQTgxYUxoYzYtQVJhdnJMMGxQYjMtOXVxMEhWMGlRQVdLNVlFeEwtN2ZIOXZaSmdSV2dLcDllb3JUaG9FdFEySU53R2RYcGp0WlZSdWhqSEdRc1lxWjFYSmg2WmZOUzRNVk1kem0wMUVna1poMHlYTjJoXzNwQlUzdDRqWkNMZGJEeXFJZzMxVDllV0RnRXZYbUNlaWJuS1hPZkM1YU0zMU9PbldiY0tlSjFRQ0VtQ0h5bXU0NkZWWlJSZDQ3T3NVaGJqb3NTSUVDWDZSWWNYM3hCWW9yXy1hcVdXWm8yVzlwemZpY01QSS1ZQVdWRkN1eFVndk5aZkVn?oc=5",
+    "theme": "Funding & M&A",
+    "summary": "Anthropic has reached a $965 billion valuation in its latest funding round, surpassing OpenAI to become the most valuable AI company. This reshuffles the competitive landscape at the top of the foundation model market and signals investor conviction that Anthropic's safety-focused approach and enterprise positioning can win the long game."
+  },
+  {
+    "headline": "SoftBank says it will invest up to €75 billion to build French data centers",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+    "theme": "Funding & M&A",
+    "summary": "SoftBank announced plans to invest up to €75 billion to develop and operate up to 5 gigawatts of data center capacity in France, which would make it Europe's largest AI infrastructure project. The investment underscores the intensifying global race for AI compute capacity and positions France as a major European AI hub."
+  },
+  {
+    "headline": "SentinelOne stock drops 8% as cyber firm trims headcount to boost AI investments",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/05/29/sentinelone-s-stock-earnings-ai-layoffs.html",
+    "theme": "AI Workforce Impact",
+    "summary": "Cybersecurity firm SentinelOne is cutting staff to redirect spending toward AI, even as it issued lackluster guidance that sent shares down 8%. The move illustrates how companies are explicitly trading human headcount for AI investment — a pattern accelerating across tech as boards demand AI-first cost structures."
+  },
+  {
+    "headline": "Wix layoffs show AI is becoming a cost story for workers",
+    "source": "Startup Fortune",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVGhCMHN6UGFTLVNUOFphY0ZrZF80eXlOamlnZTVVSzVFS2xqanJGeXNBbW5jTHMxY3g4RUV1aFpuM0N1V1NhZ0lINUh5SXdCZ3R6dU9BOTRsSVRNVmszXzdxaW1VZ2FVbVc3NFRWckw3RHg4UlFlbXlPR1J4QnlBZEhUeGU5T2VlZV9ONg?oc=5",
+    "theme": "AI Workforce Impact",
+    "summary": "Wix is the latest company to cut jobs explicitly citing AI-driven efficiency gains, reinforcing the trend of AI becoming a workforce reduction story rather than purely a growth story. For business leaders, the pattern is clear: companies are increasingly using AI adoption as justification for headcount reductions across creative and technical roles."
+  },
+  {
+    "headline": "Coders are refusing to work without AI — and that could come back to bite them",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+    "theme": "AI Workforce Impact",
+    "summary": "Developers are increasingly dependent on AI coding assistants, but researchers warn the code produced may be faster without being better. This creates a hidden technical debt risk for enterprises — a form of Hallucination Tax where AI-generated code introduces quality issues that compound over time."
+  },
+  {
+    "headline": "Managers Are Struggling to Keep Up with the AI Productivity Boom",
+    "source": "Harvard Business Review",
+    "url": "https://hbr.org/2026/05/managers-are-struggling-to-keep-up-with-the-ai-productivity-boom",
+    "theme": "AI Workforce Impact",
+    "summary": "HBR reports that middle managers are becoming the bottleneck in AI-powered organizations, as individual contributor productivity surges beyond what management structures were designed to handle. This signals that the organizational redesign challenge may be as significant as the technology challenge for enterprises scaling AI."
+  },
+  {
+    "headline": "GitHub Copilot's new token-based billing spurs consternation among devs",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+    "theme": "Model & Platform",
+    "summary": "Microsoft's GitHub Copilot is shifting to token-based billing, ending flat-rate pricing that fueled its rapid adoption. The backlash highlights Token Anxiety across the industry — as AI tools move from subsidized growth pricing to usage-based economics, enterprises face unpredictable costs that complicate budgeting and ROI calculations."
+  },
+  {
+    "headline": "Snowflake stock soars on growing enterprise AI demand, AWS partnership",
+    "source": "AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0VyeUV0RUhuYVVUaFc3U3JhdHpobHR1SVBDYUJhM1pmRWk2X1ZGUW9KUUpLUnFOOVlycWV4aU8tWTBPd2lnWHFic0N6WDJOOEFvaUhPMzhnS29ldHFWNGR1MVV4X3hFbTctS2cwUnJPYXMzck1fZHN0ZTg0aG9nTnloVWlFc19zbm9r?oc=5",
+    "theme": "Enterprise ROI",
+    "summary": "Snowflake posted record earnings gains driven by enterprise AI demand and a deepened AWS partnership. The results suggest that data platform companies serving as the infrastructure layer for enterprise AI are among the clearest beneficiaries, validating the 'picks and shovels' investment thesis."
+  },
+  {
+    "headline": "How Agentic AI Supercharges Startups and Threatens Incumbents",
+    "source": "Harvard Business Review",
+    "url": "https://hbr.org/2026/07/how-agentic-ai-supercharges-startups-and-threatens-incumbents",
+    "theme": "Agentic AI",
+    "summary": "HBR examines how agentic AI capabilities are enabling startups to compete at a scale previously requiring enterprise-level resources, fundamentally threatening incumbents. For established companies, the strategic implication is that competitive moats built on operational complexity may be eroding as AI agents handle increasingly autonomous workflows."
+  },
+  {
+    "headline": "How to Compete Against Agentic Startups",
+    "source": "Harvard Business Review",
+    "url": "https://hbr.org/2026/05/how-to-compete-against-agentic-startups",
+    "theme": "Agentic AI",
+    "summary": "A companion HBR piece provides a framework for incumbents facing disruption from agentic AI-native startups. The article argues that large enterprises must rethink defensibility beyond data moats and brand, as autonomous AI agents can now replicate complex processes that previously required large teams."
+  },
+  {
+    "headline": "Personal agents light the fuse as Snowflake and Databricks move up the AI stack",
+    "source": "SiliconANGLE",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTkdKWFZRdFQ1aXoxdjBYM3A5dDcxN1dZekIyV2MxS2FvbEwyQjhxLVBuVHpLQ2hheVpUZThHZ2VDSXJ5VGY1MkJjTXVRdkVTUjBRT21ZQW43a19tSTVFZTBjVEtiTmVBMUYyc1Fyd1NkRkZ5dEU4ak9GQjMtdHpjejZFTkUxTDV1ZTZTU0QwZVJhMHd2a1RNcWZvQ28zZEk?oc=5",
+    "theme": "Agentic AI",
+    "summary": "Snowflake and Databricks are both racing to embed personal AI agents into their data platforms, moving up the stack from infrastructure to autonomous task execution. This shift means enterprise data platforms are becoming agent orchestration layers, with major implications for how companies structure their AI architectures."
+  },
+  {
+    "headline": "AI Regulation 2026 Opens Three Fronts: CNN Sues Perplexity as OpenAI Aligns With EU Rules",
+    "source": "Tech Times",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNk1ZMi05Vk8yVXQzcUZxX0RSdUdabmdLeS0wNnZ6UzdwRW0tcWNCRXdIdnppaWFXTExoTW5iTmh1Tzg3MExPUnBwMDZCYVNhb1ozcjZsdFM3bi1DaDU0OWV1TzAzR3NuNHBvX19FOVQxQkpyU1Awc21kcDdoN1UzS3BPZV9hdnhFNmh1UGV6ZU96NDczWVl3RWE3SXhXM1lrUGJTU2t4TU81R0F3Rlc4TEZEQ0hoVzZPZ3NkNVhrd1JtbnRWeV80T0IxS0IxOHhG?oc=5",
+    "theme": "Regulatory",
+    "summary": "AI regulation is intensifying on three simultaneous fronts: CNN's lawsuit against Perplexity over content scraping, OpenAI's proactive alignment with EU AI Act requirements, and ongoing state-level legislative efforts in the US. Business leaders face an increasingly complex compliance landscape where copyright, content licensing, and model governance rules vary by jurisdiction."
+  },
+  {
+    "headline": "White House sends AI legislative framework to Congress amid state-level efforts",
+    "source": "Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oT1N1MWs5UGN6UVpCRmNfc210dTB4YmVEYnhkcU0zN19VblcyeHhhOFRKU3I0WEQxVlU5Q3pzN0NsNWFoTFVVeUJfQkVCZ2w1WS02Rk92dGY0MnRYemQ2Mk1sSkNqWUdBQVNKVHhB?oc=5",
+    "theme": "Regulatory",
+    "summary": "The White House has submitted an AI legislative framework to Congress, attempting to establish federal standards before a patchwork of state-level AI laws creates compliance chaos for enterprises. The move signals that federal AI regulation is moving from aspiration to concrete policy, with implications for every company deploying AI at scale."
+  },
+  {
+    "headline": "Trump postpones signing AI security order over parts he disliked",
+    "source": "MSN",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ3A5R2hmdmhBNXRvZ1JlQ193RXlJMTRISldnRGZGLXpuR2VmZkJIRnEwUlE5ZW8tT0JoU1UydVdJUTQ4QzZ5ejVOcHcxblJnRjFtUm1pd0xCdFVYR1g4OUE5TzJ4Qm8wVlpNcnVYNmNuSHpEb2xPVUk4aUZfYW0wOGpyRjhsMm5wbGgyOERPQlU3Q0NIY3VyZlhoazQ4NklSRjQydWM4b3ZneXJxS21GUUlQVQ?oc=5",
+    "theme": "Regulatory",
+    "summary": "President Trump delayed signing an AI security executive order after objecting to certain provisions, revealing internal disagreements within the administration about how aggressively to regulate AI. The delay creates continued policy uncertainty for defense and enterprise AI companies planning around government security requirements."
+  },
+  {
+    "headline": "AI Hiring Tools Can Yield Racial Bias and Systemic Rejection",
+    "source": "Stanford HAI",
+    "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
+    "theme": "AI Ethics & Trust",
+    "summary": "Stanford HAI's first large-scale study of AI hiring algorithms deployed in real-world settings found concerning patterns of racial bias and systemic candidate rejection. For any company using automated screening tools, this research creates immediate legal and reputational exposure, particularly as EEOC scrutiny of AI-driven hiring intensifies."
+  },
+  {
+    "headline": "AI grifters are creating fake Black people to sell Shein junk",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
+    "theme": "AI Ethics & Trust",
+    "summary": "TikTok sellers are using AI-generated avatars of Black women to emotionally manipulate viewers into purchasing dropshipped products. The practice highlights growing trust and fraud risks on AI-enabled commerce platforms, with potential regulatory implications for platforms that host AI-generated content at scale."
+  },
+  {
+    "headline": "Amazon Is Making an AI-Animated 'Good Advice Cupcake' TV Show. Its Original Creator Is Furious",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/",
+    "theme": "AI Ethics & Trust",
+    "summary": "Amazon licensed BuzzFeed's 'Good Advice Cupcake' character for an AI-animated series without the original creator's consent, spotlighting unresolved questions about creator rights in AI-generated content. As studios and platforms ramp up AI content production, IP ownership disputes are becoming a significant legal and brand risk."
+  },
+  {
+    "headline": "Meta has struggled at selling anything other than ads. Will AI be different?",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/05/30/meta-struggled-selling-anything-other-than-ads-will-ai-be-different.html",
+    "theme": "AI Strategy",
+    "summary": "Meta is making its biggest push yet to diversify revenue beyond advertising through AI products and services, but its track record of failed non-ad businesses (hardware, metaverse, payments) raises serious questions. The article examines whether Meta's massive AI infrastructure investments can translate into a meaningful new revenue stream or become another expensive bet."
+  },
+  {
+    "headline": "How Lenovo Built an AI-Powered Supply Chain",
+    "source": "Harvard Business Review",
+    "url": "https://hbr.org/2026/05/how-lenovo-built-an-ai-powered-supply-chain",
+    "theme": "Enterprise ROI",
+    "summary": "HBR details how Lenovo deployed AI across its supply chain operations, offering a concrete enterprise case study of AI delivering measurable operational improvements. For supply chain leaders, this provides a blueprint for moving AI from pilot projects to production-scale deployment."
+  },
+  {
+    "headline": "AI's Impact on SaaS Will Be Uneven. Here's What Leaders Need to Know.",
+    "source": "Harvard Business Review",
+    "url": "https://hbr.org/2026/05/ais-impact-on-saas-will-be-uneven-heres-what-leaders-need-to-know",
+    "theme": "AI Strategy",
+    "summary": "HBR argues that AI will not uniformly disrupt SaaS — some categories face existential threat while others will be enhanced. The analysis helps CIOs and investors distinguish between SaaS companies that are AI-vulnerable and those positioned to benefit, directly addressing the AI Value Gap phenomenon."
+  },
+  {
+    "headline": "Renting intelligence is a risky way to run a business",
+    "source": "KPMG",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR3hYZzAydlBDUmRmS2poY0VobEdVZjNOcXA5ZmZOak5DVXZZS1RQZ21VWmdaaVVYX2xPLWVBQm1uT09tX3pKcTh6S3UwbFJmdTl5cld6LXlrbmlmd3d4ODB2Yl90SkFVSTkzS1ZYSmtJanpTREtnNGRobWctSXMyd0syRm5YeDF6dHFZakVYdHpjUEZwdUJGZERzaTdtVU0?oc=5",
+    "theme": "AI Risk",
+    "summary": "KPMG warns that enterprises relying entirely on third-party AI models are building strategic dependency on capabilities they don't own or control. The piece argues this 'rented intelligence' model creates concentration risk, vendor lock-in, and potential business continuity threats — a critical governance question for any board evaluating AI strategy."
+  },
+  {
+    "headline": "Anthropic AI Vulnerability Scanner in Enterprise Beta: IBM Joins After 10,000 Flaws Found",
+    "source": "Tech Times",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUUFoYmVTVHV5MmNFa3ZycHhULVBpVUI3WkRfWjl5Z2JrNGpkUl82MjdrbWZDWUZicnBkWkFRNG5aREdyUDFCRVh2RmhNZXRIVXRlMXVERkY0TWxDT1Z6Q0gxRlFRQ1dmeDUtMTVPazc0ZXhWOUdjeFpZVGY2Yi1oRTBuQ3hhQVRscFZEVVhzN2oyQmhSWjVKcU85QjNqN1BqbHA3T3JuUFNMQ1JzOVhNd3R3WXRDejMtQW1UU0h5ZlZhQ0UtWVkxZDFpd0p4aTBTNEt3OE9UZnBwUGRhWUtrLVpMaw?oc=5",
+    "theme": "AI Risk",
+    "summary": "Anthropic's enterprise AI vulnerability scanner has already identified 10,000 flaws in beta, with IBM now joining the program. The tool highlights the growing enterprise need for AI-specific security auditing, as companies deploy models that may contain exploitable vulnerabilities at scale."
+  },
+  {
+    "headline": "New Approach to Scaling Laws Could Change How AI Models Are Trained",
+    "source": "Stanford HAI",
+    "url": "https://hai.stanford.edu/news/new-approach-to-scaling-laws-could-change-how-ai-models-are-trained",
+    "theme": "Research to Business",
+    "summary": "Stanford researchers have developed a new method using statistical concepts from measurement science that could dramatically reduce the computational cost of predicting how large language models will scale. The approach could save millions in training costs, directly impacting the economics of foundation model development for companies like OpenAI, Google, and Anthropic."
+  },
+  {
+    "headline": "This Trump-linked startup plans to put humanoid robots in the military",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/05/30/humanoid-robots-ukraine-war-foundation-military-ai.html",
+    "theme": "Funding & M&A",
+    "summary": "Foundation Robotics Labs, a startup with ties to the Trump family, aims to deploy humanoid robots in military applications within 12-18 months. The convergence of political connections, defense spending, and AI robotics signals a new frontier in government-adjacent AI deals that boards and investors in the defense sector should monitor closely."
+  },
+  {
+    "headline": "Leading the Human-AI Organization",
+    "source": "Harvard Business Review",
+    "url": "https://hbr.org/2026/05/leading-the-human-ai-organization",
+    "theme": "AI Strategy",
+    "summary": "HBR addresses the emerging challenge of leading organizations where AI handles significant portions of work, requiring new management frameworks, performance metrics, and organizational designs. For C-suite leaders, this piece tackles the practical question of how to restructure leadership when AI agents become a meaningful share of the workforce."
+  }
+]
