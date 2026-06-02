@@ -1,0 +1,184 @@
+[
+  {
+    "headline": "Trump signs downsized AI executive order after weeks of reversals and industry objections",
+    "source": "Politico / The Verge",
+    "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
+    "theme": "Regulatory",
+    "summary": "President Trump signed a narrowed executive order creating only a 'voluntary framework' for AI companies to share frontier models with the government before release. The original order was significantly weakened after industry lobbying, reflecting the administration's internal tensions between pro-innovation and safety factions. The order signals that meaningful federal AI regulation remains unlikely under this administration, leaving companies largely self-governing."
+  },
+  {
+    "headline": "Florida sues OpenAI and Sam Altman in first-of-its-kind lawsuit over violent incidents",
+    "source": "Politico / TechCrunch",
+    "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
+    "theme": "Regulatory",
+    "summary": "Florida's attorney general filed a precedent-setting lawsuit against OpenAI and CEO Sam Altman, linking ChatGPT to a shooting at Florida State University. This is the first state AG action directly alleging an AI company bears responsibility for real-world violence. The case could establish legal precedent for AI liability that reshapes risk calculus across the industry."
+  },
+  {
+    "headline": "Amazon faces class action lawsuit over Ring facial-recognition feature",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/",
+    "theme": "Regulatory",
+    "summary": "A class action filed in Seattle alleges Ring's 'Familiar Faces' feature stores biometric images of passersby without consent. The case underscores growing legal risk for companies deploying AI-powered surveillance features in consumer products, particularly as biometric privacy laws expand across states."
+  },
+  {
+    "headline": "Americans don't know how to fight AI so they're fighting data centers",
+    "source": "Vox",
+    "url": "https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash",
+    "theme": "Regulatory",
+    "summary": "Communities across the US are passing moratoria on data center construction as a proxy battle against AI expansion, driven by concerns over water usage, energy consumption, and noise. This grassroots resistance is creating real friction for companies planning AI infrastructure buildouts, adding permitting delays and political risk to capex timelines."
+  },
+  {
+    "headline": "Alphabet announces $80B equity capital raise to expand AI infrastructure and compute",
+    "source": "Alphabet Investor Relations",
+    "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
+    "theme": "Funding & M&A",
+    "summary": "Alphabet announced an unprecedented $80 billion equity raise specifically to fund AI infrastructure, citing demand that exceeds available supply. The sheer scale — roughly matching the GDP of a mid-sized country — signals that the AI infrastructure arms race is intensifying dramatically and that hyperscalers view AI compute as a winner-take-most market."
+  },
+  {
+    "headline": "Anthropic confidentially files for what could be the largest IPO ever",
+    "source": "Wired / TechCrunch",
+    "url": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
+    "theme": "Funding & M&A",
+    "summary": "Anthropic submitted confidential S-1 paperwork to the SEC, following SpaceX's recent IPO announcement. As one of the leading frontier AI labs with major enterprise customers, Anthropic's IPO could be among the largest in history and will provide the first public window into the unit economics and growth trajectory of a pure-play frontier AI company."
+  },
+  {
+    "headline": "OpenAI breaks ground on 1GW Stargate data center in Michigan",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/stargate-michigan-data-center",
+    "theme": "Funding & M&A",
+    "summary": "OpenAI began construction on a 1-gigawatt data center in Michigan as part of its Stargate infrastructure initiative. The project highlights how AI companies are becoming major industrial players with physical footprints rivaling utilities, and underscores the massive capital requirements needed to remain competitive in frontier AI."
+  },
+  {
+    "headline": "Rocket engine startup Impulse raises $500M to hire people, not AI",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
+    "theme": "Funding & M&A",
+    "summary": "Impulse Space raised $500 million with a deliberate 'hire humans' strategy, arguing that engineering physical systems still depends on human talent. The contrarian positioning provides a data point on where AI substitution hits hard limits and where human expertise retains premium value."
+  },
+  {
+    "headline": "AI Doesn't Have ROI",
+    "source": "Where's Your Ed At",
+    "url": "https://www.wheresyoured.at/ai-doesnt-have-roi/",
+    "theme": "Enterprise ROI",
+    "summary": "A widely-shared analysis argues that enterprise AI deployments are failing to demonstrate measurable return on investment, with companies spending heavily but unable to show concrete business outcomes. This directly reflects the GenAI Paradox — broad adoption with no measurable business impact — and should concern any C-suite evaluating AI budgets."
+  },
+  {
+    "headline": "Uber caps employee AI spending after blowing through budget in four months",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+    "theme": "Enterprise ROI",
+    "summary": "Uber burned through its annual AI tools budget in just four months after encouraging employees to use AI freely, forcing spending caps. This is a textbook example of Token Anxiety — the runaway costs of widespread AI tool usage — and a warning for any enterprise with an 'AI-first' mandate but no consumption governance."
+  },
+  {
+    "headline": "Travelers deploys AI-powered claims processing nationwide with OpenAI",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/travelers",
+    "theme": "Enterprise ROI",
+    "summary": "Insurance giant Travelers scaled an AI-powered Claim Assistant built with OpenAI to handle claims nationally, providing 24/7 support and scaling during peak demand. This represents a significant example of an enterprise moving AI from pilot to full production deployment in a core business function."
+  },
+  {
+    "headline": "OpenAI launches Codex tools targeting specific white-collar roles",
+    "source": "TechCrunch / OpenAI Blog",
+    "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+    "theme": "AI Workforce Impact",
+    "summary": "OpenAI released six Codex plug-ins designed to approximate specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking. Each bundles role-specific integrations and context, marking a shift from general-purpose AI assistants to targeted job-function automation that directly threatens mid-level white-collar roles."
+  },
+  {
+    "headline": "Microsoft Build 2026: The 7 biggest announcements",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
+    "theme": "Model & Platform",
+    "summary": "Microsoft's Build 2026 unveiled its flagship in-house reasoning model MAI-Thinking-1, the Scout personal AI assistant built on OpenClaw, Project Solara (an Android-based OS for AI agent devices), and Surface hardware optimized for local AI. The announcements signal Microsoft's strategic shift from OpenAI dependency toward vertical integration across models, agents, and hardware."
+  },
+  {
+    "headline": "Microsoft launches Scout, an always-on AI personal assistant built on OpenClaw",
+    "source": "The Verge / Wired",
+    "url": "https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw",
+    "theme": "Agentic AI",
+    "summary": "Microsoft Scout integrates into Teams, Outlook, and Microsoft 365 as an always-on personal assistant that manages calendars, expenses, and email — appearing like a human colleague. Unlike Copilot which lives inside apps, Scout can operate across applications autonomously, representing Microsoft's most aggressive move into agentic AI for enterprise productivity."
+  },
+  {
+    "headline": "Microsoft's Project Solara is an OS for AI agent gadgets",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
+    "theme": "Agentic AI",
+    "summary": "Microsoft unveiled Project Solara, an Android-based operating system purpose-built for devices that run AI agents, with concept hardware including desk and badge form factors. This signals Microsoft's bet that AI agents will move beyond software into dedicated physical devices, potentially creating an entirely new hardware category."
+  },
+  {
+    "headline": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+    "theme": "Model & Platform",
+    "summary": "Nvidia is entering the consumer laptop CPU market with its Arm-based RTX Spark chips, partnering with Microsoft, Dell, and HP to create PCs optimized for running AI agents locally. If successful, this challenges both Qualcomm and Apple in the $200B CPU market and could fundamentally shift where AI inference happens — from cloud to edge."
+  },
+  {
+    "headline": "Microsoft's first advanced reasoning AI model MAI-Thinking-1 unveiled at Build",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
+    "theme": "Model & Platform",
+    "summary": "Microsoft announced MAI-Thinking-1, a 'medium-sized' flagship reasoning model that reportedly matches leading models on software engineering benchmarks. This is Microsoft's most ambitious step toward model independence from OpenAI following their renegotiated deal, and signals that the era of frontier model concentration among a few labs may be ending."
+  },
+  {
+    "headline": "Anthropic scales Claude Mythos to critical infrastructure in 15+ countries",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+    "theme": "AI Strategy",
+    "summary": "Anthropic is deploying its Claude Mythos model and Project Glasswing security vulnerability program to 150 organizations across 15 countries in power, water, healthcare, and communications sectors. The deployment could affect security for 100 million people, representing a significant expansion of AI into safety-critical infrastructure with substantial liability implications."
+  },
+  {
+    "headline": "Hackers used Meta's AI support bot to seize Instagram accounts",
+    "source": "Krebs on Security",
+    "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
+    "theme": "AI Risk",
+    "summary": "Security researchers documented how hackers exploited Meta's AI-powered customer support chatbot to gain control of Instagram accounts. This is a concrete example of the Hallucination Tax — AI systems being manipulated into taking consequential real-world actions — and highlights the security risks of deploying AI agents with actual authority over account management."
+  },
+  {
+    "headline": "DuckDuckGo makes its 'no-AI' search engine easier to access as traffic booms",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+    "theme": "AI Strategy",
+    "summary": "DuckDuckGo is seeing surging traffic by positioning itself as the 'no-AI' alternative in search, making its AI-free experience more accessible. The trend suggests a meaningful consumer segment is actively rejecting AI integration, creating competitive opportunities for brands that offer human-curated or AI-optional experiences."
+  },
+  {
+    "headline": "OpenAI frontier models and Codex are now available on AWS",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+    "theme": "AI Strategy",
+    "summary": "OpenAI made its frontier models and Codex generally available on AWS, giving enterprises access through their existing AWS procurement workflows and security controls. This multi-cloud move is strategically significant — it reduces enterprise lock-in concerns and positions OpenAI to compete directly on platforms beyond Microsoft Azure."
+  },
+  {
+    "headline": "Gemini Spark is the most impressive and terrifying AI agent experience yet",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
+    "theme": "Agentic AI",
+    "summary": "A hands-on review of Google's Gemini Spark agent describes it as a significant leap in agentic AI capability for consumer tasks like trip planning, going beyond generic recommendations to execute multi-step workflows. The review calls it both impressive and terrifying, reflecting the dual nature of agents that can actually do things autonomously."
+  },
+  {
+    "headline": "The Trump Administration is at war with itself over AI regulation",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/the-white-house-is-at-war-with-itself-over-ai-regulation/",
+    "theme": "Regulatory",
+    "summary": "Deep divisions within the Trump administration between pro-industry deregulators and national security officials concerned about AI risks produced weeks of internal conflict before the downsized executive order. The dysfunction creates policy uncertainty that makes long-term AI strategy planning difficult for enterprises counting on regulatory clarity."
+  },
+  {
+    "headline": "Water access is now a risk factor in SpaceX's IPO filing",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
+    "theme": "AI Risk",
+    "summary": "SpaceX's IPO filing explicitly lists water access as a material risk factor for its data center operations, acknowledging the challenge of securing affordable water for cooling. This is a signal that resource constraints — water, power, land — are becoming genuine strategic risks for AI infrastructure companies, not just PR issues."
+  },
+  {
+    "headline": "Erin Brockovich takes aim at data center secrecy",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+    "theme": "AI Risk",
+    "summary": "Environmental activist Erin Brockovich has launched a campaign targeting the lack of transparency around data center environmental impacts, adding a high-profile voice to the backlash. For companies planning AI infrastructure expansion, this signals that environmental opposition is professionalizing and could complicate permitting and public relations."
+  },
+  {
+    "headline": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
+    "theme": "AI Ethics & Trust",
+    "summary": "Google launched a feature for its Phone app that detects when scammers use AI deepfake technology to impersonate contacts, flagging spoofed calls in real time. The feature addresses a rapidly growing threat vector as AI-generated voice cloning makes social engineering attacks more convincing, with direct implications for corporate security teams."
+  }
+]
