@@ -1,0 +1,205 @@
+[
+  {
+    "headline": "Alphabet announces $80–85B equity capital raise to expand AI infrastructure and compute",
+    "source": "Hacker News / TechCrunch",
+    "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
+    "theme": "Funding & M&A",
+    "summary": "Alphabet announced a record-breaking $80–85 billion equity capital raise specifically to fund AI infrastructure and compute capacity. This is the largest AI-related capital raise in history, signaling that big tech is willing to bet enormous sums that AI infrastructure demand will continue accelerating. For investors and competitors, this sets a new bar for the capital intensity required to compete in AI."
+  },
+  {
+    "headline": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+    "theme": "Funding & M&A",
+    "summary": "Coralogix raised $200M to build monitoring and observability tools specifically for AI agents in production. As enterprises deploy more autonomous AI systems, the need for tools that can troubleshoot failures and monitor agent behavior is emerging as its own market. This signals that 'AI ops' infrastructure is becoming a major investment category."
+  },
+  {
+    "headline": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
+    "theme": "Funding & M&A",
+    "summary": "AI-powered cybersecurity firm Cyera is nearing a $300M round at a $12B valuation — an 80x ARR multiple — despite ongoing operating losses. The valuation reflects investor willingness to pay extreme premiums for AI-native security companies, but also raises questions about sustainability. This is a benchmark data point for anyone evaluating AI startup valuations."
+  },
+  {
+    "headline": "Anthropic stock now accepted in lieu of cash for San Francisco real estate",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/whats-worth-more-than-san-francisco-real-estate-anthropic-stock/",
+    "theme": "Funding & M&A",
+    "summary": "Several San Francisco Bay Area real estate listings are now offering to exchange homes for Anthropic stock, reflecting the extreme perceived value of private AI company equity. This anecdote illustrates how concentrated AI wealth creation has become in the Bay Area and how illiquid startup stock is functioning as an alternative currency."
+  },
+  {
+    "headline": "Trump signs downsized AI executive order after weeks of reversals and industry objections",
+    "source": "Politico / TechCrunch / Wired",
+    "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
+    "theme": "Regulatory",
+    "summary": "President Trump signed a revised AI executive order requiring only voluntary prerelease government reviews of frontier models, after industry lobbying led to the scrapping of a more aggressive earlier version. The order frames itself as promoting innovation while acknowledging security risks to critical infrastructure. The result is a significantly lighter regulatory touch than originally proposed, signaling continued industry influence over AI policy."
+  },
+  {
+    "headline": "UK regulators require Google to let publishers opt out of AI Search features",
+    "source": "The Verge / TechCrunch",
+    "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
+    "theme": "Regulatory",
+    "summary": "The UK's Competition and Markets Authority is requiring Google to provide tools letting publishers keep their content out of AI Overviews and prevent it from being used for fine-tuning AI models. This is described as a 'world first' and will be tested in the UK before global rollout. It sets a precedent that could reshape the economics of AI search and content licensing worldwide."
+  },
+  {
+    "headline": "xAI asks court to strip alleged Grok deepfake nudes victims of anonymity",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
+    "theme": "AI Ethics & Trust",
+    "summary": "Elon Musk's xAI is requesting a court force plaintiffs in a deepfake nudes lawsuit to reveal their real identities or drop the case. The four plaintiffs had sued under pseudonyms due to the sensitive nature of AI-generated nonconsensual imagery. This legal tactic could have a chilling effect on future AI harm litigation and raises serious questions about corporate accountability."
+  },
+  {
+    "headline": "Amazon faces class action lawsuit over Ring facial-recognition feature",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/",
+    "theme": "AI Ethics & Trust",
+    "summary": "A class action filed in Seattle alleges Amazon's Ring 'Familiar Faces' feature stores facial images of passersby without consent. This adds to growing legal exposure for companies deploying biometric AI in consumer products and could influence how enterprises approach facial recognition deployment."
+  },
+  {
+    "headline": "OpenAI publishes blueprint for democratic governance of frontier AI",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/frontier-safety-blueprint",
+    "theme": "Regulatory",
+    "summary": "OpenAI released a detailed proposal for US governance of frontier AI, including a federal framework for safety, resilience, and national security. Coming alongside Trump's lighter-touch executive order, this represents OpenAI's attempt to shape the regulatory conversation on its own terms. Business leaders should watch how this blueprint influences upcoming legislation."
+  },
+  {
+    "headline": "Uber caps employee AI spending at $1,500/month after blowing through budget in four months",
+    "source": "TechCrunch / Simon Willison",
+    "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+    "theme": "Enterprise ROI",
+    "summary": "Uber exhausted its employee AI tool budget in just four months and is now imposing a $1,500/month cap per employee. This is a real-world signal of both runaway AI consumption costs and the difficulty of budgeting for AI tool usage at enterprise scale. The $1,500 figure is becoming a pricing benchmark for the industry — a concrete example of 'token anxiety' at scale."
+  },
+  {
+    "headline": "AI Doesn't Have ROI",
+    "source": "Where's Your Ed At",
+    "url": "https://www.wheresyoured.at/ai-doesnt-have-roi/",
+    "theme": "Enterprise ROI",
+    "summary": "A widely-shared analysis argues that enterprise AI investments broadly lack demonstrable return on investment, with companies spending heavily on AI tools without measurable business outcomes. This is a direct articulation of the 'GenAI Paradox' — broad adoption with no clear impact — and is essential reading for any executive justifying AI budgets."
+  },
+  {
+    "headline": "Travelers deploys AI-powered claims assistant countrywide with OpenAI",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/travelers",
+    "theme": "Enterprise ROI",
+    "summary": "Insurance giant Travelers has deployed an AI-powered Claim Assistant built with OpenAI nationally, providing 24/7 customer support and scaling operations during peak demand. This is a notable example of an AI deployment moving from pilot to full production in a highly regulated industry. It counters the 'pilot purgatory' narrative with a concrete enterprise rollout."
+  },
+  {
+    "headline": "AI outperforms law professors in Stanford Law study",
+    "source": "Stanford Law / Hacker News",
+    "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+    "theme": "AI Workforce Impact",
+    "summary": "A Stanford Law study found AI systems outperformed law professors on key legal reasoning tasks. With 385 upvotes and 342 comments, this was the most engaged story of the day. The implications for legal services, professional education, and knowledge-worker displacement are significant — this is the kind of evidence that accelerates automation decisions in professional services."
+  },
+  {
+    "headline": "OpenAI launches Codex plugins for six white-collar job categories",
+    "source": "TechCrunch / OpenAI Blog",
+    "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+    "theme": "AI Workforce Impact",
+    "summary": "OpenAI released six Codex plugins targeting specific white-collar roles: data analytics, creative production, sales, product design, equity investing, and investment banking. Each bundles integrations and context to approximate an entire job function. This represents a shift from general-purpose AI to role-specific automation, directly threatening traditional knowledge work."
+  },
+  {
+    "headline": "More than 6 out of 10 people turn to AI for psychological support",
+    "source": "AXA / Hacker News",
+    "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
+    "theme": "Research to Business",
+    "summary": "AXA's 2026 Mind Health Report found that over 60% of respondents now use AI for psychological support. This has massive implications for healthcare, insurance, liability, and the mental health industry. For business leaders, it raises questions about employee wellbeing programs and the regulatory risks of unregulated AI therapy."
+  },
+  {
+    "headline": "Microsoft launches Scout, an always-on AI personal assistant built on OpenClaw",
+    "source": "The Verge / Computerworld",
+    "url": "https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw",
+    "theme": "Agentic AI",
+    "summary": "Microsoft unveiled Scout at Build 2026, an always-on AI assistant that integrates across Microsoft 365 apps and can manage calendars, expenses, emails, and more — appearing in Teams like a human colleague. Unlike Copilot, Scout operates autonomously across applications. This is Microsoft's most aggressive move yet into autonomous workplace agents and directly challenges OpenAI's consumer-facing products."
+  },
+  {
+    "headline": "Microsoft's internal documents reveal strategy to 'make people addicted' to Scout AI assistant",
+    "source": "404 Media / Hacker News",
+    "url": "https://www.404media.co/microsoft-wants-to-make-people-addicted-to-scout-its-new-ai-assistant-internal-documents-reveal/",
+    "theme": "AI Risk",
+    "summary": "Leaked internal Microsoft documents reveal the company's strategy to make users 'addicted' to its new Scout AI assistant. This framing raises ethical and regulatory concerns about AI dependency by design, particularly in enterprise settings where employers control tool access. It could draw regulatory scrutiny and reputational risk."
+  },
+  {
+    "headline": "Microsoft and OpenAI broke up — now they're ready to fight",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
+    "theme": "AI Strategy",
+    "summary": "Microsoft's Build 2026 announcements — including in-house reasoning models (MAI-Thinking-1), Scout, and cybersecurity tools — signal the company is fully decoupling from its OpenAI dependency. Microsoft is now positioned as a direct AI competitor rather than just a distribution partner. This reshapes competitive dynamics across the enterprise AI market."
+  },
+  {
+    "headline": "Microsoft's first advanced reasoning model, MAI-Thinking-1, matches leading models",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
+    "theme": "Model & Platform",
+    "summary": "Microsoft announced MAI-Thinking-1, its first in-house 'flagship' reasoning model, claiming it matches leading models on key software engineering benchmarks. This marks Microsoft's transition from AI model consumer to AI model producer, reducing its dependence on OpenAI and intensifying competition with Google and Anthropic."
+  },
+  {
+    "headline": "Meta's AI agent for WhatsApp Business is now available globally",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+    "theme": "Agentic AI",
+    "summary": "Meta has launched an AI agent for WhatsApp Business globally, charging businesses based on token usage. With WhatsApp's 2+ billion users, this instantly creates one of the largest commercial AI agent deployments in the world. The token-based pricing model is a significant signal for how AI agent services will be monetized."
+  },
+  {
+    "headline": "Anthropic scales Claude Mythos to critical infrastructure in 15+ countries",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+    "theme": "AI Strategy",
+    "summary": "Anthropic is expanding access to its Claude Mythos model and Project Glasswing security vulnerability program to 150 organizations across 15 countries, targeting critical infrastructure in power, water, healthcare, and communications affecting 100 million people. This positions Anthropic as a key AI provider for government and critical infrastructure, differentiating from consumer-focused competitors."
+  },
+  {
+    "headline": "GPT-Rosalind advances life sciences with enhanced biological reasoning capabilities",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+    "theme": "Model & Platform",
+    "summary": "OpenAI introduced new capabilities to GPT-Rosalind, a specialized model for life sciences with enhanced biological reasoning, medicinal chemistry, genomics analysis, and experimental workflow capabilities. This represents the industry trend toward domain-specific AI models rather than general-purpose ones, with direct implications for pharma, biotech, and healthcare companies."
+  },
+  {
+    "headline": "U of T researchers demonstrate AI worm that could target any online device",
+    "source": "University of Toronto / Hacker News",
+    "url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
+    "theme": "AI Risk",
+    "summary": "University of Toronto researchers demonstrated an AI-powered worm capable of autonomously spreading across connected devices. This proof-of-concept highlights a new class of AI-enabled cybersecurity threats that could impact any organization with internet-connected infrastructure. CISOs and boards should factor AI-autonomous attack vectors into risk planning."
+  },
+  {
+    "headline": "32GB of DDR5 now costs $375 as AI shortage squeezes PC building",
+    "source": "Tom's Hardware / Hacker News",
+    "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
+    "theme": "AI Strategy",
+    "summary": "DDR5 memory prices have surged to $375 for 32GB due to AI-driven demand consuming global memory supply. With 344 upvotes, this was one of the most discussed stories. The AI infrastructure buildout is now creating real supply-chain bottlenecks that affect the broader technology ecosystem, raising costs for every company buying computing hardware."
+  },
+  {
+    "headline": "Americans don't know how to fight AI so they're fighting data centers",
+    "source": "Vox / Hacker News",
+    "url": "https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash",
+    "theme": "Regulatory",
+    "summary": "Communities across the US are imposing moratoria on AI data center construction as a proxy for broader AI backlash. This grassroots resistance to AI infrastructure could delay or increase costs for companies planning data center expansions. For companies like Google, Microsoft, and Amazon, local opposition is becoming a material risk to their AI buildout timelines."
+  },
+  {
+    "headline": "If AI data centers are so great, why are they being built in secret?",
+    "source": "The Brockovich Report / Hacker News",
+    "url": "https://www.thebrockovichreport.com/p/if-data-centers-are-so-great-why",
+    "theme": "AI Risk",
+    "summary": "An investigation highlights how AI data centers are increasingly being constructed without community notification or transparency, drawing parallels to industrial secrecy. With growing public opposition to data center water and energy consumption, the lack of transparency creates reputational and regulatory risk for the companies involved."
+  },
+  {
+    "headline": "Google's water commitments aim to address AI data center backlash",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
+    "theme": "AI Strategy",
+    "summary": "Google announced five commitments around water use, including a goal to replenish more water than its data centers consume by 2030, along with investments in local water infrastructure. This is a direct response to escalating public opposition to AI data center environmental impacts and represents the kind of proactive sustainability commitment other tech companies may need to match."
+  },
+  {
+    "headline": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
+    "theme": "AI Risk",
+    "summary": "Google launched a new feature that detects when scammers spoof trusted phone numbers and use AI deepfake technology to impersonate known contacts. The rise of voice deepfake scams represents a growing business risk — executives are increasingly targeted by AI voice impersonation for fraud. This is both a security product and a signal of the escalating arms race between AI offense and defense."
+  },
+  {
+    "headline": "Mathematicians issue warning as AI rapidly gains ground in mathematical research",
+    "source": "Science / Hacker News",
+    "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
+    "theme": "Research to Business",
+    "summary": "Leading mathematicians issued the Leiden Declaration warning that AI is rapidly approaching and in some areas surpassing human mathematical ability, with implications for research integrity and education. This extends the pattern seen in law and coding — AI encroaching on domains previously thought to require deep human expertise — with implications for R&D-intensive industries."
+  }
+]
