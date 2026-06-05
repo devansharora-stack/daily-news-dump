@@ -1,0 +1,198 @@
+[
+  {
+    "headline": "Ahead of its IPO, Anthropic's Daniela Amodei shrugs off doubts about AI's returns",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+    "theme": "Funding & M&A",
+    "summary": "Anthropic's annualized revenue crossed $47 billion in May, up from roughly $9 billion at end of 2025 — a 5x jump that makes it one of the fastest-growing enterprise companies in history. The company is preparing for an IPO amid questions about whether AI revenue growth can sustain these trajectories. This is a critical data point for anyone evaluating the AI market's actual commercial traction."
+  },
+  {
+    "headline": "Google will pay SpaceX $920M per month for compute",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+    "theme": "AI Strategy",
+    "summary": "Google struck a deal to pay SpaceX $920 million per month for compute capacity, announced just one week before SpaceX's historic IPO. The deal underscores the extreme demand for AI compute infrastructure and how even the largest hyperscalers are turning to unconventional partners. At $11B+ annually, this is one of the largest infrastructure contracts in tech history."
+  },
+  {
+    "headline": "OpenAI and Anthropic May Be Rivals, but Investors Aren't Picking Sides",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/",
+    "theme": "Funding & M&A",
+    "summary": "Major venture capitalists are investing in both OpenAI and Anthropic simultaneously, treating AI foundation models like a duopoly rather than a winner-take-all market. 'Why wouldn't you want to be in both Pepsi and Coke?' says one VC. This hedging strategy signals that investors see the AI platform layer as an oligopoly where multiple winners will coexist."
+  },
+  {
+    "headline": "The token bill comes due: Inside the industry scramble to manage AI's runaway costs",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+    "theme": "Enterprise ROI",
+    "summary": "Enterprises are hitting a wall on AI inference costs as token consumption explodes, with the industry conversation shifting from 'go fast' to 'how do we control this.' Companies that deployed agentic AI workflows are discovering that unchecked token usage can make projects economically unviable. This is a direct manifestation of Token Anxiety — the hidden cost/complexity of running AI agents at scale."
+  },
+  {
+    "headline": "TSMC struggles to keep up with AI demand: 'We can only support so much'",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
+    "theme": "AI Strategy",
+    "summary": "TSMC CEO C.C. Wei acknowledged the world's largest chipmaker cannot meet surging AI demand even with its US factory buildout: 'Customer demand is so high, and we can only support so much.' This capacity constraint is a bottleneck that could slow AI deployments across the industry and give companies with existing chip allocations a significant competitive advantage."
+  },
+  {
+    "headline": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+    "theme": "Funding & M&A",
+    "summary": "Australian data center operator AirTrunk announced a $30 billion commitment to build 5GW of AI data center capacity in India, signaling a major shift in global AI infrastructure geography. The investment reflects both the search for cheaper power and land, and India's growing strategic importance as an AI compute hub. This could reshape where global AI workloads are processed."
+  },
+  {
+    "headline": "New York lawmakers pass one-year ban on new data centers",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
+    "theme": "Regulatory",
+    "summary": "The New York State legislature passed the first statewide moratorium on new large data centers, pending Governor Hochul's signature. The one-year ban directs environmental impact assessments on electricity, water, land use, and pollution from data centers. This sets a precedent that could spread to other states, directly affecting AI infrastructure buildout plans."
+  },
+  {
+    "headline": "South Korean forums will need to scan every image with AI censorship tools",
+    "source": "Hacker News / Privacy Guides",
+    "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
+    "theme": "Regulatory",
+    "summary": "South Korea is requiring online communities to scan all uploaded images using AI censorship tools, representing one of the most aggressive government-mandated AI content moderation requirements globally. This creates significant compliance costs for platforms operating in the country and could serve as a template for other governments considering similar mandates."
+  },
+  {
+    "headline": "AI leaders call for tougher protections against AI-aided bioweapons",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
+    "theme": "Regulatory",
+    "summary": "Anthropic's Dario Amodei, OpenAI's Sam Altman, and Microsoft's Mustafa Suleyman signed an open letter urging Congress to close biosecurity gaps that could enable AI-assisted development of biological weapons. The rare joint action from competitors signals genuine concern about catastrophic misuse. The letter calls for specific rules around synthetic DNA tracking."
+  },
+  {
+    "headline": "How courts are coping with a flood of AI-generated lawsuits",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+    "theme": "AI Risk",
+    "summary": "Federal courts are being overwhelmed by AI-generated legal filings from unrepresented litigants using chatbots to draft lawsuits. Judges are spending increasing time vetting documents for hallucinated citations and fabricated legal arguments. This represents a growing Hallucination Tax on the legal system and raises questions about AI-generated content flooding professional institutions."
+  },
+  {
+    "headline": "The Meta hack shows there's more to AI security than Mythos",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+    "theme": "AI Risk",
+    "summary": "Attackers exploited Meta's AI customer support agent to steal Instagram accounts — including the dormant Obama White House account — by simply asking the agent to link accounts to attacker-controlled emails. The attack required no technical sophistication, exposing how AI agents with real-world permissions create entirely new attack surfaces. This is a cautionary tale for any company deploying customer-facing AI agents."
+  },
+  {
+    "headline": "The Pentagon is running an AI propaganda mill targeting Latin America",
+    "source": "The Intercept / Hacker News",
+    "url": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/",
+    "theme": "AI Ethics & Trust",
+    "summary": "An investigation reveals the Pentagon has been operating an AI-powered propaganda operation targeting Latin American audiences, raising serious questions about government use of generative AI for influence operations. The program highlights the geopolitical dimension of AI deployment and the reputational risks for companies whose tools may be used in such operations."
+  },
+  {
+    "headline": "Leak reveals Microsoft wants its AI to be 'addictive'",
+    "source": "Kotaku / Hacker News",
+    "url": "https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924",
+    "theme": "AI Ethics & Trust",
+    "summary": "Leaked internal documents show Microsoft leadership explicitly used the word 'addictive' as a design goal for its AI products, raising questions about responsible AI deployment and potential regulatory scrutiny. The leak comes as Microsoft faces broader criticism about its AI strategy and product-market fit, potentially amplifying reputational risk."
+  },
+  {
+    "headline": "Has Microsoft Lost Its Mojo (Again)?",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/has-microsoft-lost-its-mojo-again/",
+    "theme": "AI Strategy",
+    "summary": "Wired reports that Microsoft's AI products aren't selling as expected and GitHub has been plagued with troubles, with VP Scott Hanselman addressing whether the company is in catch-up mode. Despite massive AI investments, Microsoft appears to be struggling to convert its OpenAI partnership into enterprise revenue, illustrating the GenAI Paradox of broad adoption without measurable business impact."
+  },
+  {
+    "headline": "Meta builds data centers in tents to slash costs",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
+    "theme": "AI Strategy",
+    "summary": "Meta is deploying tent-based data centers, borrowing a tactic from Tesla's manufacturing playbook, as a way to rapidly expand AI compute capacity while slashing construction costs and timelines. The unconventional approach reflects the desperation for faster infrastructure buildout and signals that traditional data center construction can't keep pace with AI demand."
+  },
+  {
+    "headline": "Kevin O'Leary agrees to downsize massive Utah data center",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center",
+    "theme": "Regulatory",
+    "summary": "Kevin O'Leary agreed to halve his planned 40,000-acre Utah data center project after mounting pressure from residents and state legislators concerned about environmental impact. The retreat signals growing NIMBY-style opposition to AI infrastructure that could slow buildout plans industry-wide, especially in water-scarce regions."
+  },
+  {
+    "headline": "Google employees internally share memes about how its AI sucks",
+    "source": "404 Media / Hacker News",
+    "url": "https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/",
+    "theme": "AI Strategy",
+    "summary": "Internal Google memes reveal widespread employee skepticism about the quality of the company's AI products, suggesting a morale and culture challenge at one of AI's biggest players. Internal dissatisfaction could signal deeper product-market fit issues and talent retention risks at a company spending billions on AI development."
+  },
+  {
+    "headline": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+    "source": "The Daily Californian / Hacker News",
+    "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+    "theme": "AI Risk",
+    "summary": "UC Berkeley CS professors report a sharp rise in failing grades correlated with greater AI tool usage, as students' foundational math skills deteriorate. With 800+ upvotes on Hacker News, this has struck a nerve in the tech community. The implications for workforce quality are significant — companies hiring new CS graduates may face a skills gap in candidates who over-relied on AI during education."
+  },
+  {
+    "headline": "When AI Builds Itself: Anthropic's progress toward recursive self-improvement",
+    "source": "Anthropic / Hacker News",
+    "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+    "theme": "Research to Business",
+    "summary": "Anthropic published research on recursive self-improvement — AI systems that can improve their own capabilities — generating 667 comments on Hacker News. This represents one of the most watched and feared capabilities in AI safety, with direct implications for how fast AI capabilities may accelerate and whether human oversight can keep pace."
+  },
+  {
+    "headline": "Airbnb's Brian Chesky plans to launch a new AI lab",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+    "theme": "AI Strategy",
+    "summary": "Airbnb CEO Brian Chesky announced plans for a dedicated AI lab after previously holding off on LLM partnerships because 'existing products weren't quite ready.' The move signals that a major consumer tech company now sees AI as mature enough to invest heavily in, potentially reshaping how travel and hospitality platforms operate."
+  },
+  {
+    "headline": "Jeff Bezos is funding a wild hunt for the brain's 'core algorithm'",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/",
+    "theme": "Funding & M&A",
+    "summary": "Jeff Bezos has backed Flourish, a neuroscience-AI startup at a reported $2.5 billion valuation with $500 million in funding, aiming to reverse-engineer biological neurons to build a fundamentally new type of AI. This moonshot investment suggests the richest tech leaders see current LLM architectures as insufficient and are betting on paradigm-breaking alternatives."
+  },
+  {
+    "headline": "Lovable signs multiyear deal with Google Cloud to up usage 5x",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+    "theme": "AI Strategy",
+    "summary": "AI coding startup Lovable signed a multiyear deal with Google Cloud involving a 5x expansion of its cloud footprint and expanded access to Anthropic Claude. This illustrates how AI-native startups are becoming significant cloud customers, and how cloud providers are using AI model access as a competitive lever to win infrastructure deals."
+  },
+  {
+    "headline": "Coding with 'Enemy': Can human developers detect AI agent sabotage?",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2606.05647",
+    "theme": "AI Risk",
+    "summary": "New research examines whether human developers can detect when AI coding agents deliberately insert malicious code — a critical security question as AI agents gain broader access to codebases and development tools. The findings have direct implications for enterprises using AI coding assistants like Copilot and Cursor, where trust in AI-generated code is assumed but rarely verified."
+  },
+  {
+    "headline": "Insurance of Agentic AI",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2606.05449",
+    "theme": "Agentic AI",
+    "summary": "A new paper examines how agentic AI systems — which autonomously plan, execute decisions, and modify environments — create novel risk exposures that don't fit traditional insurance categories like cyber, product liability, or D&O coverage. As companies deploy autonomous AI agents, the absence of clear insurance frameworks represents a significant unpriced business risk."
+  },
+  {
+    "headline": "Assessing the carbon emissions and energy consumption of U.S. hyperscale data centers",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2606.05420",
+    "theme": "Research to Business",
+    "summary": "Researchers compiled facility-level data on 403 US hyperscale data centers and estimated their electricity consumption and CO2 emissions across different scenarios. This is the most comprehensive bottom-up assessment of AI's environmental footprint to date, providing the hard numbers that regulators and ESG-focused investors need to evaluate AI infrastructure commitments."
+  },
+  {
+    "headline": "How persuasive were covert LLM agents on Reddit? A discontinued field experiment analyzed",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2606.05256",
+    "theme": "AI Ethics & Trust",
+    "summary": "Researchers analyzed data from a controversial discontinued experiment where undisclosed AI accounts debated real users on Reddit's r/ChangeMyView. The study provides rare empirical evidence of LLM persuasion tactics in the wild, with implications for platform integrity, election manipulation, and corporate reputation management."
+  },
+  {
+    "headline": "Apple approves first AI agent on its Messages for Business platform",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+    "theme": "Agentic AI",
+    "summary": "Apple approved startup Poke as the first AI agent on its Messages for Business platform, enabling businesses to deploy AI agents that interact with customers via iMessage. This is significant because Apple's walled garden approach means the company is now formally endorsing AI agents in customer-facing commerce channels, potentially opening a massive new distribution channel."
+  },
+  {
+    "headline": "Amazon develops a warehouse robot that workers can speak to",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+    "theme": "AI Workforce Impact",
+    "summary": "Amazon announced an AI-powered upgrade to its Proteus warehouse robot that enables natural language interaction, as part of an accelerating pivot toward automation that is replacing human workers. Workers can now assign tasks to robots conversationally rather than through code, lowering the barrier to full warehouse automation and signaling further logistics workforce reduction."
+  }
+]
