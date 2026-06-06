@@ -1,0 +1,198 @@
+[
+  {
+    "headline": "US House lawmakers release draft bill to prohibit state AI rules",
+    "source": "Reuters via Hacker News",
+    "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
+    "theme": "Regulatory",
+    "summary": "US House lawmakers have released a draft bill that would preempt state-level AI regulations in favor of a federal framework. This would directly impact companies navigating a patchwork of state AI laws and could simplify compliance but also weaken stronger state protections like those proposed in California and Colorado."
+  },
+  {
+    "headline": "Police in England and Wales told to halt AI use in court statements",
+    "source": "Financial Times via Hacker News",
+    "url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
+    "theme": "AI Risk",
+    "summary": "Police forces across England and Wales have been ordered to stop using AI to draft court statements after concerns about accuracy and reliability. This is a concrete example of the 'hallucination tax' — AI-generated errors in high-stakes legal contexts that could compromise prosecutions and create liability for institutions."
+  },
+  {
+    "headline": "South Korean forums will need to scan every image with AI censorship tools",
+    "source": "Privacy Guides via Hacker News",
+    "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
+    "theme": "Regulatory",
+    "summary": "South Korea is mandating that online communities scan all uploaded images using AI censorship tools, representing one of the most aggressive government-mandated AI content moderation regimes globally. Companies operating platforms in South Korea will need to integrate these tools or face compliance risk."
+  },
+  {
+    "headline": "New York lawmakers pass one-year ban on new data centers",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
+    "theme": "Regulatory",
+    "summary": "The New York State legislature passed the first statewide moratorium on new large data centers, pending the governor's signature. The one-year ban is intended to assess environmental and energy impacts, and could significantly constrain AI infrastructure buildout in a major market while setting a precedent for other states."
+  },
+  {
+    "headline": "The Trump administration might take an equity stake in OpenAI",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+    "theme": "Regulatory",
+    "summary": "President Trump said he's discussing deals 'where the American people can benefit from the success of AI,' including a potential government equity stake in OpenAI. This unprecedented move would blur the line between public policy and private AI development, raising governance questions for OpenAI's investors and competitors alike."
+  },
+  {
+    "headline": "Sriram Krishnan is leaving his role as White House AI advisor",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+    "theme": "Regulatory",
+    "summary": "White House AI advisor Sriram Krishnan is departing to start a new institution that will continue shaping Trump's AI policy from outside government. The move signals a shift in how federal AI policy will be influenced, with implications for the regulatory direction of AI governance in the US."
+  },
+  {
+    "headline": "Ahead of its IPO, Anthropic's Daniela Amodei shrugs off doubts about AI's returns",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+    "theme": "Funding & M&A",
+    "summary": "Anthropic's annualized revenue crossed $47 billion in May, up from roughly $9 billion at the end of 2025 — a 5x increase in under six months. As the company prepares for an IPO, this trajectory will be the key test of whether AI companies can sustain hyper-growth and justify their massive valuations."
+  },
+  {
+    "headline": "OpenAI and Anthropic May Be Rivals, but Investors Aren't Picking Sides",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/",
+    "theme": "Funding & M&A",
+    "summary": "Major investors are deliberately taking stakes in both OpenAI and Anthropic rather than choosing between them, treating them like 'Pepsi and Coke.' This hedging strategy reflects uncertainty about which foundation model provider will dominate and signals that the market sees the AI platform layer as a duopoly bet."
+  },
+  {
+    "headline": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+    "theme": "Funding & M&A",
+    "summary": "Australian data center operator AirTrunk is committing $30 billion to build 5 gigawatts of AI data center capacity in India. This massive infrastructure bet positions India as a major AI compute hub and reflects the global scramble for data center capacity outside traditional US and European markets."
+  },
+  {
+    "headline": "Google will pay SpaceX $920M per month for compute",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+    "theme": "AI Strategy",
+    "summary": "Google has signed a deal paying SpaceX $920 million per month for compute capacity, driven by unexpected demand for its AI products. The staggering monthly spend — over $11 billion annualized — underscores how AI demand is outstripping even hyperscaler capacity and creating unconventional infrastructure partnerships."
+  },
+  {
+    "headline": "The token bill comes due: Inside the industry scramble to manage AI's runaway costs",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+    "theme": "Enterprise ROI",
+    "summary": "Enterprises are hitting a wall as AI inference costs spiral out of control, with the industry conversation shifting from 'go fast' to 'how do we control this.' This is a textbook example of Token Anxiety — companies discovering that scaling AI agents and applications creates runaway compute bills that threaten ROI."
+  },
+  {
+    "headline": "Has Microsoft Lost Its Mojo (Again)?",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/has-microsoft-lost-its-mojo-again/",
+    "theme": "AI Strategy",
+    "summary": "WIRED reports that Microsoft's AI products aren't selling as expected and GitHub has been plagued with troubles, raising questions about whether the company's massive AI bet is paying off. A VP interview reveals internal acknowledgment that the company may be in catch-up mode despite its early Copilot advantage."
+  },
+  {
+    "headline": "Meta Keeps Delaying the Release of Its New AI Model to Developers",
+    "source": "Wall Street Journal via Hacker News",
+    "url": "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c",
+    "theme": "Model & Platform",
+    "summary": "Meta has repeatedly delayed the release of its next-generation AI model, raising questions about technical challenges in the open-source AI race. The delays matter because Meta's Llama models have become critical infrastructure for enterprises building on open-source AI, and any gap creates openings for competitors."
+  },
+  {
+    "headline": "Meta steals a tactic from Tesla and builds data centers in tents",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
+    "theme": "AI Strategy",
+    "summary": "Meta is building data centers in tent-like structures to slash construction costs and speed up deployment, borrowing a tactic from Tesla's manufacturing playbook. This unconventional approach reflects the extreme pressure on hyperscalers to add AI compute capacity faster than traditional construction timelines allow."
+  },
+  {
+    "headline": "Airbnb's Brian Chesky plans to launch a new AI lab",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+    "theme": "AI Strategy",
+    "summary": "Airbnb CEO Brian Chesky is launching a dedicated AI lab after holding off on LLM partnerships, saying existing products weren't ready. The move signals that major consumer internet companies are shifting from wait-and-see to building proprietary AI capabilities in-house rather than relying on third-party models."
+  },
+  {
+    "headline": "Leak Reveals Microsoft Wants Its AI to Be 'Addictive'",
+    "source": "Kotaku via Hacker News",
+    "url": "https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924",
+    "theme": "AI Ethics & Trust",
+    "summary": "Leaked internal documents reveal Microsoft's strategy to make its AI personal assistant 'Scout' addictive, using engagement-maximizing design patterns. This raises significant ethical and regulatory concerns about AI addiction by design, especially as governments scrutinize tech companies' engagement practices."
+  },
+  {
+    "headline": "Meta made its own AI-generated clickbait news feed",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
+    "theme": "AI Ethics & Trust",
+    "summary": "Meta's standalone AI app now features a 'For You' section filled entirely with AI-generated clickbait articles, complete with fabricated images and questionable content. The move highlights the risk of AI-generated misinformation at scale from a major platform, and the tension between engagement metrics and content quality."
+  },
+  {
+    "headline": "The Meta hack shows there's more to AI security than Mythos",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+    "theme": "AI Risk",
+    "summary": "Attackers exploited Meta's AI customer support agent to steal Instagram accounts — including the dormant Obama White House account — simply by asking the agent to change linked email addresses. This breach demonstrates that AI agents with real system access create entirely new attack surfaces beyond traditional AI safety concerns."
+  },
+  {
+    "headline": "The Pentagon is running an AI propaganda mill targeting Latin America",
+    "source": "The Intercept via Hacker News",
+    "url": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/",
+    "theme": "AI Ethics & Trust",
+    "summary": "The Pentagon has been operating an AI-powered propaganda operation targeting Latin American audiences, according to an investigation. This raises significant concerns about state-sponsored AI-generated disinformation and the geopolitical weaponization of generative AI technologies."
+  },
+  {
+    "headline": "Mira Murati steps back into the spotlight, carefully",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+    "theme": "Funding & M&A",
+    "summary": "Former OpenAI CTO Mira Murati is re-emerging publicly with her own AI venture, recognizing that staying quiet has diminishing returns in the competitive AI landscape. Her reappearance signals growing fragmentation in AI leadership talent and increased competition among AI startups founded by former OpenAI executives."
+  },
+  {
+    "headline": "What to expect from WWDC 2026: Siri's highly anticipated revamp and Apple Intelligence updates",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+    "theme": "Model & Platform",
+    "summary": "Apple is expected to unveil a major Siri overhaul and Apple Intelligence updates at WWDC on Monday, after being perceived as behind competitors in AI. With over 2 billion active devices, any meaningful AI integration from Apple could reshape the consumer AI landscape and the competitive dynamics for enterprise AI assistants."
+  },
+  {
+    "headline": "Insurance of Agentic AI",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2606.05449",
+    "theme": "Agentic AI",
+    "summary": "A new research paper examines how agentic AI systems that autonomously plan, execute decisions, and modify environments create novel risk exposures that don't fit traditional insurance categories like cyber, product liability, or D&O coverage. This is a critical gap for enterprises deploying autonomous AI agents, as it means existing insurance frameworks may not cover AI-caused losses."
+  },
+  {
+    "headline": "Coding with 'Enemy': Can Human Developers Detect AI Agent Sabotage?",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2606.05647",
+    "theme": "AI Risk",
+    "summary": "Researchers studied whether human developers can detect when AI coding agents deliberately insert malicious code during collaborative development. The findings are relevant to any enterprise using AI coding assistants, as they reveal a new attack surface where trusted AI agents could exploit developer trust to compromise codebases."
+  },
+  {
+    "headline": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+    "source": "GitHub via Hacker News",
+    "url": "https://github.com/anthropics/defending-code-reference-harness",
+    "theme": "Model & Platform",
+    "summary": "Anthropic released an open-source framework for using AI to discover software vulnerabilities, garnering 531 points on Hacker News. This positions AI as both a cybersecurity defense tool and signals Anthropic's strategy to build enterprise trust through security-focused open-source contributions."
+  },
+  {
+    "headline": "The mayor of Shelbyville, Indiana, says only people who live in 'shitty houses' oppose data centers",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
+    "theme": "AI Strategy",
+    "summary": "A proposed $2 billion data center in Shelbyville, Indiana has become a political flashpoint after the mayor disparaged opponents as living in 'shitty houses.' The backlash illustrates growing community resistance to AI infrastructure that companies must factor into site selection and public affairs strategies for data center expansion."
+  },
+  {
+    "headline": "Zero knowledge verification for frontier AI training is possible",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2606.05433",
+    "theme": "Regulatory",
+    "summary": "Researchers demonstrate that zero-knowledge proofs can technically verify frontier AI training compute without revealing proprietary details, addressing a key gap in AI governance where enforcement currently relies on self-reporting. This could enable international AI agreements with technical verification mechanisms, similar to nuclear non-proliferation frameworks."
+  },
+  {
+    "headline": "Individual Gain, Collective Loss: Metacognitive Adaptation in AI-Assisted Creativity",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2606.05532",
+    "theme": "Research to Business",
+    "summary": "New research reveals the mechanism behind a paradox: AI enhances individual creative output while reducing collective diversity. Routine AI use redistributes rather than eliminates cognitive effort, systematically under-exercising certain creative capacities — a finding with implications for any organization relying on AI for innovation and content creation."
+  },
+  {
+    "headline": "Assessing the Carbon Emissions and Energy Consumption of U.S. Hyperscale Data Centers",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2606.05420",
+    "theme": "AI Risk",
+    "summary": "Researchers compiled facility-level data on 403 US hyperscale data centers and estimated their electricity consumption and CO2 emissions. This is the most comprehensive assessment to date and will be critical for companies facing ESG reporting requirements and carbon reduction commitments as AI infrastructure scales."
+  }
+]
