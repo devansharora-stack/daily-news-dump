@@ -1,0 +1,184 @@
+[
+  {
+    "headline": "OpenAI files confidentially for IPO, following Anthropic",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
+    "theme": "Funding & M&A",
+    "summary": "OpenAI has confidentially submitted a Form S-1 to the SEC, just one week after rival Anthropic took the same step. With both leading AI labs racing toward public offerings — alongside SpaceX — this signals the largest wave of tech IPOs since the early 2020s and will force unprecedented financial transparency from companies that have operated largely in private."
+  },
+  {
+    "headline": "It's not FAANG anymore. It's MANGOS.",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+    "theme": "Funding & M&A",
+    "summary": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry's power structure may be fundamentally shifting. The potential new class of corporate giants — captured in the acronym MANGOS — reflects how AI-native companies are displacing the previous generation of platform incumbents as the most valuable tech firms."
+  },
+  {
+    "headline": "As OpenAI files for IPO, Sam Altman's eye-scanning company is doing layoffs",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+    "theme": "Funding & M&A",
+    "summary": "Tools for Humanity, Sam Altman's identity verification company (formerly Worldcoin), is reportedly struggling to generate revenue and downsizing staff. The contrast with OpenAI's IPO filing highlights how even well-funded ventures from prominent AI leaders can fail to find product-market fit."
+  },
+  {
+    "headline": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
+    "theme": "Enterprise ROI",
+    "summary": "AI coding platform Lovable has surpassed $500M in annualized run-rate revenue, with users building 1 million new projects per week — including replacing internal enterprise software. This is concrete evidence that AI-powered 'vibe coding' tools are generating real revenue at scale and disrupting both the developer tools market and internal IT functions."
+  },
+  {
+    "headline": "Sandstone raises $30M to bring AI to in-house legal teams",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
+    "theme": "Funding & M&A",
+    "summary": "Sandstone closed a $30M Series A just six months after a Sequoia-led seed round, targeting AI automation for in-house legal teams. The rapid fundraising pace reflects strong investor conviction that legal work — one of the highest-cost professional functions in enterprises — is ripe for AI disruption."
+  },
+  {
+    "headline": "Anthropic releases Claude Fable 5, its first Mythos-class model available to the public",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
+    "theme": "Model & Platform",
+    "summary": "Anthropic released Claude Fable 5, a public version of its Mythos-class model line — previously restricted due to cybersecurity concerns — with guardrails blocking high-risk areas like bioweapons and cyberattacks. Separately, the unrestricted Mythos 5 is available only to trusted partners. This tiered-release strategy signals a new industry paradigm: capability-gated access where the most powerful models are restricted by use case."
+  },
+  {
+    "headline": "Can tech companies learn to love cheaper AI models?",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+    "theme": "AI Strategy",
+    "summary": "If enterprise AI workloads can be handled by smaller, cheaper models without quality degradation, the economics of AI shift dramatically — reducing margins for frontier model providers while potentially democratizing access. This directly challenges the 'bigger is better' capital expenditure thesis that has driven hundreds of billions in AI infrastructure investment."
+  },
+  {
+    "headline": "Google DeepMind launches Gemini 3.5 Live Translate for near real-time voice translation",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+    "theme": "Model & Platform",
+    "summary": "Google's Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google Meet, Google Translate, and AI Studio. For multinational enterprises, this could reduce translation costs and friction in cross-border collaboration, potentially disrupting the $50B+ language services industry."
+  },
+  {
+    "headline": "Apple bets cheaper AI will woo small developers by waiving cloud API costs",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+    "theme": "AI Strategy",
+    "summary": "Apple is waiving cloud AI API costs for developers with fewer than 2 million first-time App Store downloads, directly addressing the 'Token Anxiety' problem that makes AI experimentation prohibitively expensive for smaller players. This is a strategic play to lock developers into Apple's ecosystem and could reshape competitive dynamics in the app economy."
+  },
+  {
+    "headline": "Why Apple's slow-and-steady AI bet is starting to look pretty smart",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+    "theme": "AI Strategy",
+    "summary": "After a year of being criticized for falling behind in AI, Apple's WWDC 2026 positioned its deliberate approach as an advantage — integrating AI across the full OS rather than bolting on chatbots. The privacy-first framing, including expanded Private Cloud Compute, may prove a durable competitive moat as enterprise and consumer concerns about AI data handling intensify."
+  },
+  {
+    "headline": "Apple's AI pitch will live or die by its privacy promise",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/946705/apple-private-cloud-compute-ai-siri-intelligence-wwdc",
+    "theme": "AI Ethics & Trust",
+    "summary": "Apple is now running AI workloads on Google's cloud servers while claiming its Private Cloud Compute delivers on-device-level privacy. As Apple expands its AI capabilities, the credibility of this privacy promise becomes a make-or-break business proposition — any breach would undermine its core brand differentiation against Google, Microsoft, and Meta."
+  },
+  {
+    "headline": "Apple is embracing the fantasy of AI photo editing",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes",
+    "theme": "AI Ethics & Trust",
+    "summary": "Apple's WWDC 2026 showcased extensive AI photo manipulation tools without clearly flagging which images were real versus generated — a reversal from its previously cautious stance. This raises significant questions about deepfake proliferation and content authenticity, especially relevant for enterprises concerned about misinformation and brand integrity."
+  },
+  {
+    "headline": "Microsoft AI chief walks back comments about AI taking over white-collar work",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs",
+    "theme": "AI Workforce Impact",
+    "summary": "Microsoft AI head Mustafa Suleyman retracted his statement that AI would automate jobs done by lawyers, accountants, and project managers, clarifying that AI will automate sub-tasks rather than entire roles. The walkback reflects growing corporate sensitivity about AI-displacement messaging as enterprises navigate workforce transformation without triggering employee backlash or regulatory scrutiny."
+  },
+  {
+    "headline": "Learning to lead in a hybrid human-AI enterprise",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+    "theme": "Agentic AI",
+    "summary": "AI agent adoption is projected to surge by 300% in the next two years, forcing leadership teams to rethink organizational design for a hybrid human-AI workforce. Unlike existing automation that requires manual input, AI agents can autonomously coordinate complex tasks across multiple tools — creating new management challenges around oversight, accountability, and workforce integration."
+  },
+  {
+    "headline": "Amazon employees ask Seattle to put the brakes on new data centers",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/945809/amazon-employees-seattle-data-center-moratorium",
+    "theme": "Regulatory",
+    "summary": "The Seattle City Council is voting on a one-year moratorium on new data centers after five large-scale proposals in two months — with Amazon's own employees among the fiercest supporters of the pause. Data center opposition over water consumption, electricity costs, and environmental impact is spreading across the country and could become a material constraint on AI infrastructure buildout."
+  },
+  {
+    "headline": "The UK is betting on a billion-dollar AI supercomputer to kick its addiction to US tech",
+    "source": "Wired AI",
+    "url": "https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/",
+    "theme": "Regulatory",
+    "summary": "The British government is backing a state-funded AI supercomputer initiative aimed at reducing dependency on US technology and nurturing domestic chip startups. This signals accelerating AI sovereignty efforts among major economies, with direct implications for global supply chains and cross-border AI partnerships."
+  },
+  {
+    "headline": "Meta deletes face-recognition system from smart glasses app after WIRED report",
+    "source": "Wired AI",
+    "url": "https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/",
+    "theme": "AI Ethics & Trust",
+    "summary": "Meta removed face-recognition code from its Meta AI smart glasses companion app after WIRED identified it, but won't say whether the feature is coming back. The incident highlights ongoing tensions between AI capabilities and privacy expectations, and the reputational risk companies face when AI features are discovered rather than announced."
+  },
+  {
+    "headline": "Mercor's CEO calls out Sequoia, accusing it of 'dual-pricing' valuation tricks",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
+    "theme": "Funding & M&A",
+    "summary": "Mercor CEO Brendan Foody publicly accused Sequoia of selling the same equity at two different prices — a practice he describes as 'dual-pricing.' If widespread among top VC firms, this raises serious questions about AI startup valuation integrity and the reliability of reported funding milestones that influence investment decisions."
+  },
+  {
+    "headline": "Apple's WWDC AI demos looked more real after $250M false advertising settlement",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+    "theme": "AI Risk",
+    "summary": "Following a $250M false advertising settlement, Apple's WWDC 2026 demos were notably more authentic, with presenters using actual phones and showing live AI interactions. This represents a tangible business consequence — a quarter-billion dollars — that is reshaping how tech companies demonstrate AI capabilities, with implications for marketing standards across the industry."
+  },
+  {
+    "headline": "OpenAI launches Economic Research Exchange to study AI's impact on jobs and productivity",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/economic-research-exchange",
+    "theme": "AI Workforce Impact",
+    "summary": "OpenAI launched the Economic Research Exchange, a program to fund and coordinate research on AI's impact on jobs, productivity, and the broader economy. As the company prepares for its IPO, this positions OpenAI to shape the narrative around AI's economic effects — a critical concern for regulators, investors, and the public."
+  },
+  {
+    "headline": "Apple's best AI idea looks a lot like vibe coding for Shortcuts and Safari",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/tech/946733/apple-shortcuts-ai-safari-tabs-vibe-code",
+    "theme": "Agentic AI",
+    "summary": "Apple is enabling users to create custom Shortcuts workflows and Safari extensions simply by describing what they want in natural language. This 'vibe coding' approach to personal automation — letting non-technical users build functional tools through prompts — could drive the most meaningful consumer adoption of agentic AI by embedding it in 2 billion+ Apple devices."
+  },
+  {
+    "headline": "Overcoming the regulatory bottleneck via agent-to-agent protocols: a nuclear case study",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2606.07866",
+    "theme": "Agentic AI",
+    "summary": "Researchers propose the Regulatory Context Protocol (RCP), an agent-to-agent communication standard that could replace the human-to-human pipeline between nuclear regulators and applicants — a process that currently takes 3+ years and costs hundreds of millions. This is an early concrete example of agentic AI being designed to transform government regulatory processes while preserving human oversight."
+  },
+  {
+    "headline": "Stress-testing medical LLMs reveals latent safety pathology beyond benchmark accuracy",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2606.07929",
+    "theme": "AI Risk",
+    "summary": "Researchers stress-tested seven medical LLMs using 240 clinical cases and found safety-relevant failure modes that standard benchmark accuracy completely misses. For healthcare executives deploying AI in clinical settings, this is a stark warning: passing benchmarks doesn't mean a model is safe, and the 'hallucination tax' in healthcare could be measured in patient harm."
+  },
+  {
+    "headline": "Beyond agent architecture: execution assumptions and reproducibility in LLM-based trading systems",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2606.08285",
+    "theme": "AI Risk",
+    "summary": "A reproducibility audit of LLM-based trading systems found that reported performance is nearly impossible to compare because studies vary wildly in execution timing, transaction costs, and data provenance. For financial services firms evaluating AI trading tools, this research suggests vendor performance claims may be unreliable — a direct manifestation of the AI Value Gap between marketing and reality."
+  },
+  {
+    "headline": "How small can you go? LoRA fine-tuning 270M-8B models for financial transaction extraction",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2606.08051",
+    "theme": "Research to Business",
+    "summary": "A production study tested 24 model variants from 270M to 8B parameters for extracting merchant information from bank transactions, finding that much smaller models can approach the 96.95% F1 score of an 8B parameter model at dramatically lower cost. This directly supports the case that enterprises may be over-provisioning AI compute, with major implications for deployment economics."
+  },
+  {
+    "headline": "VATS: Exploiting implicit authority in error-path injection via systematic mutation",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2606.07992",
+    "theme": "AI Risk",
+    "summary": "Researchers discovered that the Model Context Protocol (MCP) — increasingly used to standardize how AI agents call tools — has a critical vulnerability in its error-handling loop, where tool error messages carry 'implicit authority' that can bypass safety heuristics. As enterprises deploy more agentic AI systems, this attack surface represents a significant and previously unexamined security risk."
+  }
+]
