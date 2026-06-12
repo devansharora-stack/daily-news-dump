@@ -1,0 +1,177 @@
+[
+  {
+    "headline": "Jeff Bezos's Prometheus raises $12B to build an 'artificial general engineer' for the physical world",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+    "theme": "Funding & M&A",
+    "summary": "Jeff Bezos's AI startup Prometheus raised $12 billion at a $41 billion valuation to develop AI-powered engineering tools for physical product design and drug development. This is one of the largest private funding rounds ever for an AI company and signals that the AI arms race is expanding beyond software into heavy engineering and life sciences."
+  },
+  {
+    "headline": "Mistral is rumored to be raising €3B at €20B valuation",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+    "theme": "Funding & M&A",
+    "summary": "French AI company Mistral is reportedly raising €3 billion at a €20 billion (~$23B) valuation, nearly doubling its Series C valuation of €11.7 billion. The round underscores continued investor appetite for non-US AI foundation model companies and Europe's growing role in the AI competitive landscape."
+  },
+  {
+    "headline": "OpenAI to acquire Ona",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/openai-to-acquire-ona",
+    "theme": "Funding & M&A",
+    "summary": "OpenAI plans to acquire Ona to expand its Codex product with secure, persistent cloud environments for long-running AI agents across enterprise workflows. The acquisition signals OpenAI's strategic push into agentic enterprise infrastructure, moving beyond chatbot interactions toward autonomous, persistent AI work."
+  },
+  {
+    "headline": "Theker raises $85M to build the factory robot that doesn't specialize in anything",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+    "theme": "Funding & M&A",
+    "summary": "Theker raised $85M for reconfigurable factory robots designed to handle diverse tasks rather than specializing in one function. This challenges the humanoid robot hype and targets the practical reality that manufacturers need flexible automation that can adapt across production lines."
+  },
+  {
+    "headline": "SpaceX, Anthropic, and OpenAI's hot IPO summer — the MANGOS era begins",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+    "theme": "Funding & M&A",
+    "summary": "Multiple mega-cap AI and tech companies — Anthropic, OpenAI, and SpaceX — are heading to public markets in the same window, creating a new acronym (MANGOS) to replace FAANG. This simultaneous IPO wave is a stress test for public market appetite for AI valuations and signals a generational shift in which companies define the tech sector."
+  },
+  {
+    "headline": "SpaceX officially prices shares at $135 in the largest IPO ever",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+    "theme": "Funding & M&A",
+    "summary": "SpaceX priced its IPO at $135 per share, making it the largest IPO in history. The combined rocket, AI, and social media company's public debut made Elon Musk the world's first trillionaire and represents a landmark moment for the convergence of space, AI, and media businesses."
+  },
+  {
+    "headline": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+    "theme": "Funding & M&A",
+    "summary": "Amazon borrowed $17.5 billion from banks on top of recent bond sales to fund its AI infrastructure buildout. The scale of debt accumulation illustrates how the AI arms race is pushing even the largest companies to take on significant financial leverage, raising questions about the sustainability of current AI spending levels."
+  },
+  {
+    "headline": "BBVA puts AI at the core of banking with OpenAI — scales ChatGPT Enterprise to 100,000 employees",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/bbva",
+    "theme": "Enterprise ROI",
+    "summary": "Spanish banking giant BBVA scaled ChatGPT Enterprise to 100,000 employees, making it one of the largest enterprise AI deployments in financial services. The case offers a rare example of a major corporation moving past AI pilots to full-scale organizational adoption, though measurable ROI details remain to be seen."
+  },
+  {
+    "headline": "Opendoor's India exit is fueling a bigger conversation about AI and outsourcing",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+    "theme": "AI Workforce Impact",
+    "summary": "Opendoor's exit from India is sparking debate about how AI is reshaping the outsourcing industry, even as India becomes the world's largest Global Capability Center market. The move suggests AI may be accelerating the reshoring or automation of work previously offshored, with major implications for the $250B+ Indian IT services sector."
+  },
+  {
+    "headline": "xAI fired an engineer who raised alarms about Grok safety, lawsuit claims",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+    "theme": "AI Risk",
+    "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO. The lawsuit highlights tensions between commercial pressure and safety culture at AI companies, with potential implications for regulatory scrutiny of AI labs."
+  },
+  {
+    "headline": "Grok is still hosting sexualized deepfakes of famous women",
+    "source": "Wired AI",
+    "url": "https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/",
+    "theme": "AI Ethics & Trust",
+    "summary": "A WIRED investigation found dozens of nonconsensual 'nudified' deepfake images and videos on Grok's website, including depictions of celebrities and at least one US politician. The finding demonstrates ongoing failures in AI content moderation at xAI and carries significant brand, legal, and regulatory risk."
+  },
+  {
+    "headline": "Anthropic apologizes for invisible Claude Fable guardrails that undermined researchers",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+    "theme": "AI Ethics & Trust",
+    "summary": "Anthropic apologized for secretly throttling its Claude Fable 5 model with hidden guardrails that limited competitors using it to develop rival systems. The company reversed course after researcher backlash, but the episode raises fundamental trust questions about hidden restrictions in foundation models that enterprises depend on."
+  },
+  {
+    "headline": "Google sues alleged Chinese cybercrime operation that used AI to send 2.5 million scam texts",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/",
+    "theme": "AI Risk",
+    "summary": "Google is suing a group called 'Outsider Enterprise' that allegedly used AI to send 2.5 million scam text messages in just two weeks, targeting hundreds of thousands of victims. The case illustrates how AI is dramatically scaling cybercrime operations and the growing legal and security costs companies face in response."
+  },
+  {
+    "headline": "Google DeepMind is worried about what happens when millions of agents start to interact",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+    "theme": "Agentic AI",
+    "summary": "Google DeepMind is funding research into the dangers of millions of autonomous AI agents interacting online without human oversight. Rohin Shah, who directs the company's AGI safety research, warns that mass-market agent deployment could create emergent, unpredictable behaviors — a systemic risk that enterprises deploying agents at scale need to understand."
+  },
+  {
+    "headline": "The Containment Gap: How deployed agentic AI frameworks fail public-facing safety requirements",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2606.12797",
+    "theme": "Agentic AI",
+    "summary": "Researchers evaluated agentic AI frameworks deployed in government, healthcare, and financial services against six containment safety principles and found significant architectural gaps. The findings suggest that enterprises deploying AI agents in regulated, public-facing domains may be exposed to structural safety failures that current frameworks cannot prevent."
+  },
+  {
+    "headline": "The Illusion of Multi-Agent Advantage",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2606.13003",
+    "theme": "Agentic AI",
+    "summary": "New research challenges the prevailing assumption that multi-agent AI systems outperform single-agent systems, finding that benchmarks used to justify multi-agent approaches don't adequately test their claimed advantages. This is a significant finding for enterprises investing in complex multi-agent architectures — the added complexity may not deliver proportional value, a classic case of agentwashing."
+  },
+  {
+    "headline": "Amazon's data centers used 2.5 billion gallons of water last year",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
+    "theme": "AI Risk",
+    "summary": "Amazon disclosed for the first time that its global data centers consumed 2.5 billion gallons of water in 2025, though usage per kilowatt-hour dropped 2% even as capacity grew. The disclosure comes as Seattle enacted a data center moratorium, highlighting growing environmental and community resistance that could constrain AI infrastructure expansion."
+  },
+  {
+    "headline": "Siri is good now — Apple's AI assistant gets its biggest upgrade",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
+    "theme": "Model & Platform",
+    "summary": "Apple's new Siri AI is receiving surprisingly positive early reviews after years of underperformance, with Apple deliberately designing it to avoid the sycophancy of competing chatbots. If Siri becomes genuinely competitive, it changes the AI assistant landscape given Apple's 2+ billion device installed base and its emphasis on on-device privacy."
+  },
+  {
+    "headline": "OpenAI introduces Academy courses for applying AI at work",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "theme": "AI Strategy",
+    "summary": "OpenAI launched three Academy courses focused on practical AI skills, repeatable workflows, and applying agents in everyday work. The move signals OpenAI's push to accelerate enterprise AI adoption by addressing the skills gap that keeps many organizations stuck in pilot purgatory."
+  },
+  {
+    "headline": "OpenAI supports EU Code of Practice on AI content transparency",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "theme": "Regulatory",
+    "summary": "OpenAI announced support for the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help users identify AI-generated content. This signals growing alignment between major AI providers and European regulators as the EU AI Act implementation progresses."
+  },
+  {
+    "headline": "China Didn't Make Americans Hate Data Centers",
+    "source": "Wired AI",
+    "url": "https://www.wired.com/story/china-us-data-center-opposition/",
+    "theme": "Regulatory",
+    "summary": "GOP lawmakers, tech investors, and even OpenAI have blamed Chinese interference for the growing anti-data-center movement in the US, but experts say community opposition is driven by local concerns about water, energy, and land use. The narrative matters because misdiagnosing the opposition could lead to policy responses that fail to address the actual infrastructure bottlenecks constraining AI buildout."
+  },
+  {
+    "headline": "Elon Musk becomes the world's first trillionaire after SpaceX IPO",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
+    "theme": "Funding & M&A",
+    "summary": "Elon Musk's net worth crossed $1 trillion after SpaceX shares opened at $150, well above the $135 IPO price. His wealth now exceeds the GDP of countries like Ireland and Sweden, concentrated across a combined rocket-AI-social media company — an unprecedented concentration of economic power in AI-adjacent industries."
+  },
+  {
+    "headline": "OpenAI's ChatGPT overhaul led by Codex engineering lead",
+    "source": "Wired AI",
+    "url": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
+    "theme": "AI Strategy",
+    "summary": "Thibault Sottiaux, who made AI coding one of OpenAI's fastest-growing businesses, is now overseeing a sweeping overhaul of ChatGPT. The shift signals OpenAI's strategic bet that code-generation and developer tools are becoming central to its consumer and enterprise product strategy."
+  },
+  {
+    "headline": "Deezer launches AI music detector that scans playlists on Spotify and Apple Music",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+    "theme": "AI Ethics & Trust",
+    "summary": "Deezer launched a tool that scans playlists on rival platforms like Spotify and Apple Music to detect AI-generated music, after other major streaming services declined to adopt its detection technology. The move highlights the growing tension between AI-generated content flooding creative industries and the lack of industry-wide standards for transparency."
+  },
+  {
+    "headline": "Deployment-Centered Evaluation: Predicting query-level rejection risk in clinical LLM systems",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2606.12702",
+    "theme": "AI Risk",
+    "summary": "Researchers found that standard AI benchmarks for clinical LLM systems measure correctness but miss whether clinicians actually accept AI recommendations, creating a dangerous gap between test performance and real-world utility. For healthcare enterprises, this highlights the hallucination tax problem: models that look good on paper may be routinely rejected by practitioners, wasting deployment investment."
+  }
+]
