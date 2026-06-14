@@ -1,0 +1,802 @@
+[
+  {
+    "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+    "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Sun, 14 Jun 2026 15:37:31 +0000",
+    "snippet": "Article URL: https://github.com/nex-agi/Nex-N2/issues/4\nComments URL: https://news.ycombinator.com/item?id=48528371\nPoints: 172\n# Comments: 97",
+    "tier": 1
+  },
+  {
+    "title": "No, everyone is not using AI for everything",
+    "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Sun, 14 Jun 2026 14:44:29 +0000",
+    "snippet": "Article URL: https://gabrielweinberg.com/p/people-are-consuming-ai-like-they\nComments URL: https://news.ycombinator.com/item?id=48527700\nPoints: 315\n# Comments: 322",
+    "tier": 1
+  },
+  {
+    "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+    "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Sun, 14 Jun 2026 14:01:35 +0000",
+    "snippet": "Article URL: https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/\nComments URL: https://news.ycombinator.com/item?id=48527297\nPoints: 94\n# Comments: 14",
+    "tier": 1
+  },
+  {
+    "title": "Meta’s chaotic AI strategy",
+    "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Sun, 14 Jun 2026 01:23:45 +0000",
+    "snippet": "Article URL: https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/\nComments URL: https://news.ycombinator.com/item?id=48523271\nPoints: 70\n# Comments: 79",
+    "tier": 1
+  },
+  {
+    "title": "Human Routers of Machine Words",
+    "url": "https://borretti.me/article/human-routers-of-machine-words",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Sat, 13 Jun 2026 21:35:24 +0000",
+    "snippet": "Article URL: https://borretti.me/article/human-routers-of-machine-words\nComments URL: https://news.ycombinator.com/item?id=48521709\nPoints: 70\n# Comments: 40",
+    "tier": 1
+  },
+  {
+    "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+    "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Sat, 13 Jun 2026 19:54:55 +0000",
+    "snippet": "Article URL: https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661\nComments URL: https://news.ycombinator.com/item?id=48520807\nPoints: 363\n# Comments: 185",
+    "tier": 1
+  },
+  {
+    "title": "PwC Report: AI Making Medical Bills Higher",
+    "url": "https://fortune.com/2026/06/12/ai-making-medical-bills-higher/",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Sat, 13 Jun 2026 17:39:14 +0000",
+    "snippet": "Article URL: https://fortune.com/2026/06/12/ai-making-medical-bills-higher/\nComments URL: https://news.ycombinator.com/item?id=48519519\nPoints: 79\n# Comments: 19",
+    "tier": 1
+  },
+  {
+    "title": "AI coding at home without going broke",
+    "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Sat, 13 Jun 2026 16:45:03 +0000",
+    "snippet": "Article URL: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/\nComments URL: https://news.ycombinator.com/item?id=48518969\nPoints: 327\n# Comments: 269",
+    "tier": 1
+  },
+  {
+    "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+    "url": "https://github.com/tensorzero/tensorzero",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Sat, 13 Jun 2026 12:10:47 +0000",
+    "snippet": "Article URL: https://github.com/tensorzero/tensorzero\nComments URL: https://news.ycombinator.com/item?id=48516504\nPoints: 272\n# Comments: 168",
+    "tier": 1
+  },
+  {
+    "title": "KPMG's AI report turns into a demo of AI hallucinations",
+    "url": "https://www.theregister.com/ai-and-ml/2026/06/12/kpmgs-ai-report-turns-into-a-demo-of-ai-hallucinations/5255029",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Sat, 13 Jun 2026 10:32:38 +0000",
+    "snippet": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/12/kpmgs-ai-report-turns-into-a-demo-of-ai-hallucinations/5255029\nComments URL: https://news.ycombinator.com/item?id=48515733\nPoints: 52\n# Comments: 18",
+    "tier": 1
+  },
+  {
+    "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+    "url": "https://github.com/Paca-AI/paca",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Sat, 13 Jun 2026 09:44:25 +0000",
+    "snippet": "I built Paca out of pure passion—a free and lightweight Jira alternative written in Go where humans and AI agents work together as equal teammates to plan sprints and assign tasks to each other. It is fully customizable with custom views, fields, and a WASM-based plugin architecture. My team uses it daily for our own development, so it will be continuously maintained and completely free forever\nComments URL: https://news.ycombinator.com/item?id=48515385\nPoints: 160\n# Comments: 57",
+    "tier": 1
+  },
+  {
+    "title": "Open source AI must win",
+    "url": "https://opensourceaimustwin.com/?share=v2",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Sat, 13 Jun 2026 02:14:24 +0000",
+    "snippet": "Article URL: https://opensourceaimustwin.com/?share=v2\nComments URL: https://news.ycombinator.com/item?id=48511908\nPoints: 1555\n# Comments: 467",
+    "tier": 1
+  },
+  {
+    "title": "As AI companies race to go public, who else is along for the ride?",
+    "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Sun, 14 Jun 2026 16:38:09 +0000",
+    "snippet": "Startups are trying to \"ride that SpaceX IPO wave.\"",
+    "tier": 1
+  },
+  {
+    "title": "As Anthropic suspends access to new models, India debates its AI future",
+    "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Sun, 14 Jun 2026 03:00:00 +0000",
+    "snippet": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+    "tier": 1
+  },
+  {
+    "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+    "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Sun, 14 Jun 2026 00:03:49 +0000",
+    "snippet": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+    "tier": 1
+  },
+  {
+    "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+    "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Sat, 13 Jun 2026 19:11:41 +0000",
+    "snippet": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+    "tier": 1
+  },
+  {
+    "title": "OpenAI faces investigation from state attorneys general",
+    "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Sat, 13 Jun 2026 16:47:18 +0000",
+    "snippet": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+    "tier": 1
+  },
+  {
+    "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+    "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Sat, 13 Jun 2026 04:14:19 +0000",
+    "snippet": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
+    "tier": 1
+  },
+  {
+    "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+    "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Sat, 13 Jun 2026 02:26:30 +0000",
+    "snippet": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
+    "tier": 1
+  },
+  {
+    "title": "SpaceX IPO: Live updates on everything you need to know",
+    "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Fri, 12 Jun 2026 23:15:14 +0000",
+    "snippet": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+    "tier": 1
+  },
+  {
+    "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+    "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Fri, 12 Jun 2026 23:00:54 +0000",
+    "snippet": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
+    "tier": 1
+  },
+  {
+    "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+    "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Fri, 12 Jun 2026 20:38:09 +0000",
+    "snippet": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+    "tier": 1
+  },
+  {
+    "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+    "source": "The Verge AI",
+    "publishedAt": "2026-06-13T21:39:26.000Z",
+    "snippet": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series of prompts, it was able to get Fable 5 to serve up information that could be used in cyberattacks. Amazon has yet to respond to a request for comment.\nShortly after Jass",
+    "tier": 1
+  },
+  {
+    "title": "My yard is dying, so I made an app for that",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+    "source": "The Verge AI",
+    "publishedAt": "2026-06-13T13:00:00.000Z",
+    "snippet": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug.\n\"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right below it was a button to fix the bug. Pretty weird that I just instructed a computer to build a whole app for me with a single prompt, but it needed me to click a button to fix a bug. I did anyway, and in 233 seconds Gemini reported back that it had succ",
+    "tier": 1
+  },
+  {
+    "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+    "source": "The Verge AI",
+    "publishedAt": "2026-06-13T12:55:49.000Z",
+    "snippet": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Anthropic. To meet those demands, the company has completely cut off access to the models for all customers.\nIn a statement, Anthropic said that while it was complying with the order, the government \"did not provide specific details of its national security concern.\" Instead, it cla",
+    "tier": 1
+  },
+  {
+    "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
+    "url": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
+    "source": "The Verge AI",
+    "publishedAt": "2026-06-13T12:00:00.000Z",
+    "snippet": "iPhone owners are getting real, native AI photo editing for the first time.\t\n\nThe most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready.\nAs far as AI photo editing goes, the new features in iOS 27 are pretty tame compared to what you can do on, say, Google's Pixel phones. But for the iPhone, they represent a tipping point in what the native photos app allows you to do to your photos. I mean memories. I mean, I don't kn",
+    "tier": 1
+  },
+  {
+    "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
+    "source": "The Verge AI",
+    "publishedAt": "2026-06-13T11:00:00.000Z",
+    "snippet": "Concept art from Dear Upstairs Neighbors that used to train custom builds of Google’s Veo and Imagen models. | Image: Google DeepMind\t\n\nFor all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created with the technology that felt like the sort of entertainment people would pay to see. Most AI firms' video models are still only capable of churning out short bursts of visually inconsistent footage. And so",
+    "tier": 1
+  },
+  {
+    "title": "A Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews",
+    "url": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/",
+    "source": "Wired AI",
+    "publishedAt": "Sat, 13 Jun 2026 09:00:00 +0000",
+    "snippet": "The ruling holds that a company that designs, trains, operates, and manages an AI system must assume legal liability for any damages caused by the responses it generates.",
+    "tier": 1
+  },
+  {
+    "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
+    "url": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
+    "source": "Wired AI",
+    "publishedAt": "Sat, 13 Jun 2026 02:26:10 +0000",
+    "snippet": "“The government believes it has become aware of a method of bypassing, or ‘jailbreaking’ Fable 5,” the company said in a blog post.",
+    "tier": 1
+  },
+  {
+    "title": "Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon",
+    "url": "https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/",
+    "source": "Wired AI",
+    "publishedAt": "Fri, 12 Jun 2026 23:45:26 +0000",
+    "snippet": "“I’m not sure that this company supports a hackathon culture anymore,” one employee posted in a forum open to the entire staff.",
+    "tier": 1
+  },
+  {
+    "title": "One quality will be most in-demand from job-seekers in the AI era, Animoca co-founder Siu says",
+    "url": "https://www.cnbc.com/2026/06/14/ceo-of-.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Sun, 14 Jun 2026 14:03:30 GMT",
+    "snippet": "Yat Siu, the co-founder of Animoca Brands, says AI is going to change what skills are most valuable in the workforce.",
+    "tier": 1
+  },
+  {
+    "title": "Trump heads to G7 summit in France as world awaits Iran deal",
+    "url": "https://www.cnbc.com/2026/06/14/trump-g7-iran-deal-france-ukraine.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Sun, 14 Jun 2026 12:00:02 GMT",
+    "snippet": "The Iran war has drawn the world's focus, but the G7 is also likely to address Russia's war against Ukraine, which continues to rage in eastern Europe.",
+    "tier": 1
+  },
+  {
+    "title": "A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it",
+    "url": "https://www.cnbc.com/2026/06/14/meta-hired-alexandr-wang-to-build-ai-its-zuckerbergs-job-to-sell-it.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Sun, 14 Jun 2026 15:02:35 GMT",
+    "snippet": "Mark Zuckerberg's mega spending spree began a year ago, when he lured Alexandr Wang to oversee a new AI strategy. The results so far are underwhelming.",
+    "tier": 1
+  },
+  {
+    "title": "Elon Musk drifted from Larry Page over a decade ago, but their companies are closer than ever",
+    "url": "https://www.cnbc.com/2026/06/14/elon-musk-drifted-from-larry-page-but-spacex-google-closer-than-ever.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Sun, 14 Jun 2026 11:30:01 GMT",
+    "snippet": "SpaceX and Google have a long and complicated relationship, but they were both celebrating this week after Elon Musk's company held its blockbuster IPO.",
+    "tier": 1
+  },
+  {
+    "title": "Why TD Securities anticipates even bigger days ahead for SpaceX",
+    "url": "https://www.cnbc.com/2026/06/13/spacex-surges-but-bigger-days-are-ahead-td-securities-.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Sat, 13 Jun 2026 15:00:01 GMT",
+    "snippet": "Peter Haynes, TD Securities' head of index and market structure, suggests SpaceX's public debut is only a small part of the larger SpaceX timeline.",
+    "tier": 1
+  },
+  {
+    "title": "From 10% chance of success to $2 trillion market cap: SpaceX's historic IPO",
+    "url": "https://www.cnbc.com/2026/06/13/from-10percent-chance-of-success-to-2-trillion-spacexs-historic-ipo.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Sat, 13 Jun 2026 15:50:43 GMT",
+    "snippet": "After its Nasdaq debut on Friday, SpaceX was the sixth most-valuable U.S. company, despite being a fraction the size by revenue of tech's megacaps.",
+    "tier": 1
+  },
+  {
+    "title": "Anthropic disables access to Fable 5 and Mythos 5 to comply with government directive",
+    "url": "https://www.cnbc.com/2026/06/12/anthropic-disables-access-to-fable-5-and-mythos-5-to-comply-with-government-directive.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Sat, 13 Jun 2026 01:36:34 GMT",
+    "snippet": "Anthropic said it disabled access to its Fable 5 and Mythos 5 models to comply with an export control directive from the U.S. government.",
+    "tier": 1
+  },
+  {
+    "title": "OpenAI says it's engaging 'constructively' with state AGs about concerns",
+    "url": "https://www.cnbc.com/2026/06/12/openai-says-its-engaging-constructively-with-state-ags-.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Sat, 13 Jun 2026 00:29:18 GMT",
+    "snippet": "The Wall Street Journal reported that a coalition of state attorneys general have opened an investigation into OpenAI.",
+    "tier": 1
+  },
+  {
+    "title": "Jim Cramer says it's not too late to buy SpaceX — under one condition",
+    "url": "https://www.cnbc.com/2026/06/12/jim-cramer-not-too-late-to-buy-spacex-one-condition.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Fri, 12 Jun 2026 23:04:29 GMT",
+    "snippet": "CNBC's Jim Cramer said it's not too late to buy SpaceX if investors view the company as a long-term bet on space exploration.",
+    "tier": 1
+  },
+  {
+    "title": "Jim Cramer says SpaceX’s blockbuster IPO could have major implications for the week ahead",
+    "url": "https://www.cnbc.com/2026/06/12/jim-cramer-spacex-ipo-implications-week-ahead.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Fri, 12 Jun 2026 22:28:39 GMT",
+    "snippet": "CNBC’s Jim Cramer said the successful debut of SpaceX could pave the way for more AI-related offerings and help create a more constructive backdrop for stocks.",
+    "tier": 1
+  },
+  {
+    "title": "Top House Republican’s family investment poised to benefit from SpaceX IPO",
+    "url": "https://www.cnbc.com/2026/06/12/lisa-mcclain-spacex-ipo-xai-investment-congress.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Fri, 12 Jun 2026 21:15:28 GMT",
+    "snippet": "Republican Rep. Lisa McClain’s husband bought up to $250,000 in Elon Musk’s xAI before it was folded into SpaceX ahead of its IPO.",
+    "tier": 1
+  },
+  {
+    "title": "Elon Musk becomes world's first trillionaire as SpaceX begins trading on the Nasdaq",
+    "url": "https://www.cnbc.com/2026/06/12/elon-musk-trillionaire-spacex.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Fri, 12 Jun 2026 20:42:19 GMT",
+    "snippet": "Elon Musk's stake in SpaceX is worth more than $766 billion. Combined with his Tesla holdings, Musk's net worth as of Friday is roughly $1.05 trillion.",
+    "tier": 1
+  },
+  {
+    "title": "SpaceX market cap tops $2 trillion after shares of Elon Musk's rocket company gain 19% on debut",
+    "url": "https://www.cnbc.com/2026/06/12/spacex-stock-jumps-2-trillion.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Fri, 12 Jun 2026 20:33:52 GMT",
+    "snippet": "SpaceX shares soared on Friday as trading commenced on the Nasdaq.",
+    "tier": 1
+  },
+  {
+    "title": "New SpaceX millionaires are reinventing the business of managing large wealth",
+    "url": "https://www.cnbc.com/2026/06/12/spacex-millionaires-wealth-management.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Fri, 12 Jun 2026 21:56:52 GMT",
+    "snippet": "Wealth advisors say SpaceXers have unique ways of addressing their financial challenges, including whiteboarding, troubleshooting and AI.",
+    "tier": 1
+  },
+  {
+    "title": "Small investors scrambled to get in on the SpaceX IPO, even as some believe the valuation is 'stupid'",
+    "url": "https://www.cnbc.com/2026/06/12/small-investors-scrambled-to-get-in-on-the-spacex-ipo-even-as-some-believe-the-valuation-is-stupid.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Fri, 12 Jun 2026 21:48:59 GMT",
+    "snippet": "SpaceX set a fixed price of $135 per share in the leadup to its IPO on Friday, placing its valuation at $1.77 trillion. Shares rallied more than 25%.",
+    "tier": 1
+  },
+  {
+    "title": "Former Tesla board member says SpaceX needs to achieve 2 of its 3 moonshots to keep its valuation",
+    "url": "https://www.cnbc.com/2026/06/12/spacex-moonshots-valuation-westly-tesla.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Sat, 13 Jun 2026 07:22:10 GMT",
+    "snippet": "SpaceX has achieved its goal of becoming the largest IPO on record.",
+    "tier": 1
+  },
+  {
+    "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
+    "url": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
+    "source": "Ars Technica AI",
+    "publishedAt": "Fri, 12 Jun 2026 19:26:47 +0000",
+    "snippet": "Vulnerability in the Oracle-owned PeopleSoft software is about as critical as they come.",
+    "tier": 1
+  },
+  {
+    "title": "Share infographic",
+    "url": "https://www2.deloitte.com/content/dam/insights/articles/2025/us188546_tt-26/content-images/US188546_Figure1.png",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-06-14T19:25:26.117Z",
+    "snippet": "But rapid adoption is only the surface. Innovation is compounding; forces aren’t simply additive, but multiplicative. Think of it as a flywheel: Better technology enables more applications. More applications generate more data. More data attracts more investment. More investment builds better infrastructure. Better infrastructure reduces costs. Lower costs enable more experimentation. Each improvement simultaneously accelerates all the others.",
+    "tier": 2
+  },
+  {
+    "title": "Weekly Global Economic Outlook",
+    "url": "https://www2.deloitte.com/us/en/insights/topics/economy/global-economic-outlook/weekly-update.html?icid=disidenav_weekly-update",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-06-14T19:25:26.119Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Human Capital Trends",
+    "url": "https://www2.deloitte.com/us/en/insights/topics/talent/human-capital-trends.html?icid=disidenav_human-capital-trends",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-06-14T19:25:26.119Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Digital Media Trends",
+    "url": "https://www2.deloitte.com/us/en/insights/industry/technology/digital-media-trends-consumption-habits-survey.html?icid=disidenav_digital-media-trends-consumption-habits-survey",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-06-14T19:25:26.119Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "TMT Predictions",
+    "url": "https://www2.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions.html?icid=disidenav_technology-media-and-telecom-predictions",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-06-14T19:25:26.119Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "FSI Predictions",
+    "url": "https://www2.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-predictions.html?icid=disidenav_financial-services-industry-predictions",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-06-14T19:25:26.119Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Environmental, Social, & Governance",
+    "url": "https://www2.deloitte.com/us/en/insights/topics/environmental-social-governance.html?icid=disidenav_environmental-social-governance",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-06-14T19:25:26.120Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Deloitte Insights Magazine",
+    "url": "https://www2.deloitte.com/us/en/insights/deloitte-insights-magazine.html?icid=disidenav_deloitte-insights-magazine",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-06-14T19:25:26.120Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Top 10 Reading Guide",
+    "url": "https://www2.deloitte.com/us/en/insights/top-10-business-insights.html?icid=disidenav_top-10-business-insights",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-06-14T19:25:26.120Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Center for Integrated Research Home",
+    "url": "https://www2.deloitte.com/us/en/insights/research-centers/center-for-integrated-research.html?icid=disidenav_center-for-integrated-research",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-06-14T19:25:26.120Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Workforce Trends",
+    "url": "https://www2.deloitte.com/us/en/insights/research-centers/center-for-integrated-research/workforce-trends.html?icid=disidenav_workforce-trends",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-06-14T19:25:26.120Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Enterprise Growth & Innovation",
+    "url": "https://www2.deloitte.com/us/en/insights/research-centers/center-for-integrated-research/enterprise-growth-and-innovation.html?icid=disidenav_enterprise-growth-and-innovation",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-06-14T19:25:26.120Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Technology & Transformation",
+    "url": "https://www2.deloitte.com/us/en/insights/research-centers/center-for-integrated-research/technology-and-transformation.html?icid=disidenav_technology-and-transformation",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-06-14T19:25:26.120Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Environmental & Social Issues",
+    "url": "https://www2.deloitte.com/us/en/insights/research-centers/center-for-integrated-research/environmental-and-social-issues.html?icid=disidenav_environmental-and-social-issues",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-06-14T19:25:26.120Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Global Economics Research Center Home",
+    "url": "https://www2.deloitte.com/us/en/insights/research-centers/economics.html?icid=disidenav_economics",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-06-14T19:25:26.120Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "How Agentic AI Supercharges Startups and Threatens Incumbents",
+    "url": "https://hbr.org/2026/07/how-agentic-ai-supercharges-startups-and-threatens-incumbents",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-06-14T19:25:26.508Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Entrepreneurship",
+    "url": "https://hbr.org/topic/subject/entrepreneurship",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-06-14T19:25:26.508Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "How Gen AI is Disrupting B2B Buying Decisions",
+    "url": "https://hbr.org/2026/06/how-gen-ai-is-disrupting-b2b-buying-decisions",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-06-14T19:25:26.508Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "To Thrive Alongside AI, Focus on Mindset—Not Skillset",
+    "url": "https://hbr.org/2026/06/to-thrive-alongside-ai-focus-on-mindset-not-skillset",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-06-14T19:25:26.508Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "How Do You Market to an AI Customer?",
+    "url": "https://hbr.org/2026/06/how-do-you-market-to-an-ai-customer",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-06-14T19:25:26.508Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "AI and machine learning",
+    "url": "https://hbr.org/topic/subject/ai-and-machine-learning",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-06-14T19:25:26.508Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Why Employees Aren’t Transparent About Their AI Usage",
+    "url": "https://hbr.org/2026/06/why-employees-arent-transparent-about-their-ai-usage",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-06-14T19:25:26.508Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "New Data on How We’re Really Using AI",
+    "url": "https://hbr.org/2026/06/new-data-on-how-were-really-using-ai",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-06-14T19:25:26.508Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "3 Ways to Rethink Your Build-or-Buy Strategy",
+    "url": "https://hbr.org/2026/06/3-ways-to-rethink-your-build-or-buy-strategy",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-06-14T19:25:26.508Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Technology and analytics",
+    "url": "https://hbr.org/topic/subject/technology-and-analytics",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-06-14T19:25:26.508Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "AI Has Broken Hiring. Here’s How to Fix It.",
+    "url": "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-06-14T19:25:26.509Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Hiring and recruitment",
+    "url": "https://hbr.org/topic/subject/hiring-and-recruitment",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-06-14T19:25:26.509Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "AI Is Rewriting the Economics of Outsourcing",
+    "url": "https://hbr.org/2026/06/ai-is-rewriting-the-economics-of-outsourcing",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-06-14T19:25:26.509Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Process management",
+    "url": "https://hbr.org/topic/subject/process-management",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-06-14T19:25:26.509Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "What a Fragmenting Digital Economy Means for Global Competition",
+    "url": "https://hbr.org/2026/06/what-a-fragmenting-digital-economy-means-for-global-competition",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-06-14T19:25:26.509Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "How AI is Transforming Scientific Discovery While Keeping Humans at the Center",
+    "url": "https://hai.stanford.edu/news/how-ai-is-transforming-scientific-discovery-while-keeping-humans-at-the-center",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-06-14T19:25:34.635Z",
+    "snippet": "From designing new antibodies to simulating 1,000 years of climate in a day, AI is transforming what's possible—but humans remain the ones deciding what matters.",
+    "tier": 2
+  },
+  {
+    "title": "Today's AI Talks Like “Nobody.” New Research Gives It Real Personality.",
+    "url": "https://hai.stanford.edu/news/todays-ai-talks-like-nobody-new-research-gives-it-real-personality",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-06-14T19:25:34.635Z",
+    "snippet": "PsychAdapter lets researchers dial in on personality traits, age, and mental health characteristics to generate text that sounds like real individuals, opening the door to training simulations and personalized content.",
+    "tier": 2
+  },
+  {
+    "title": "Reading Today’s Headlines Through AI: A Real-Time Audit of Six Commercial Chatbots",
+    "url": "https://hai.stanford.edu/news/reading-todays-headlines-through-ai-a-real-time-audit-of-six-commercial-chatbots",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-06-14T19:25:34.635Z",
+    "snippet": "In a new study, scholars measured how accurately popular AI chatbots answered questions about the emerging news and found substantial regional disparity, dependence on distinct information ecosystems, and acute fragility under imperfect prompts.",
+    "tier": 2
+  },
+  {
+    "title": "AI Coding Agents Fail at Teamwork",
+    "url": "https://hai.stanford.edu/news/ai-coding-agents-fail-at-teamwork",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-06-14T19:25:34.635Z",
+    "snippet": "Two models working together perform worse than one alone, exposing a critical gap in artificial intelligence capabilities.",
+    "tier": 2
+  },
+  {
+    "title": "AI Hiring Tools Can Yield Racial Bias and Systemic Rejection",
+    "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-06-14T19:25:34.635Z",
+    "snippet": "The first large-scale study of hiring algorithms in the wild finds concerning patterns to how systems reject candidates.",
+    "tier": 2
+  },
+  {
+    "title": "Machine Learning",
+    "url": "https://hai.stanford.edu/topics/machine-learning",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-06-14T19:25:34.635Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "New Approach to Scaling Laws Could Change How AI Models Are Trained",
+    "url": "https://hai.stanford.edu/news/new-approach-to-scaling-laws-could-change-how-ai-models-are-trained",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-06-14T19:25:34.635Z",
+    "snippet": "Leveraging statistical concepts from measurement science and education, AI researchers have greatly reduced the computational demand of predicting how the largest of large language models will scale up in the future. It could save millions of dollars in training costs.",
+    "tier": 2
+  },
+  {
+    "title": "Stanford HAI Launches AI and Organizations Lab to Study Science of AI in the Workplace",
+    "url": "https://hai.stanford.edu/news/stanford-hai-launches-ai-and-organizations-lab-to-study-science-of-ai-in-the-workplace",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-06-14T19:25:34.635Z",
+    "snippet": "The new center will examine AI's real-world impacts on jobs, teams, and organizational performance.",
+    "tier": 2
+  },
+  {
+    "title": "Researchers Worldwide Compete to Shape the Future of AI in Organizations",
+    "url": "https://hai.stanford.edu/news/researchers-worldwide-compete-to-shape-the-future-of-ai-in-organizations",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-06-14T19:25:34.635Z",
+    "snippet": "More than 200 academic teams submitted proposals to the AI for Organizations Grand Challenge, exploring how artificial intelligence will transform teamwork and collaboration.",
+    "tier": 2
+  },
+  {
+    "title": "Why Stanford Is Restructuring For AI’s Next Era",
+    "url": "https://hai.stanford.edu/news/why-stanford-is-restructuring-for-ais-next-era",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-06-14T19:25:34.635Z",
+    "snippet": "As artificial intelligence transforms society, Stanford HAI’s James Landay, Fei-Fei Li, and John Hennessy explain why they’re merging HAI with the Stanford Data Science initiative, mobilizing “team science at scale,” and betting that academic openness will shape AI’s future.",
+    "tier": 2
+  },
+  {
+    "title": "Stanford Merges AI and Data Science Efforts Under Single Institute",
+    "url": "https://hai.stanford.edu/news/stanford-merges-ai-and-data-science-efforts-under-single-institute",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-06-14T19:25:34.635Z",
+    "snippet": "The combined institute will retain the Stanford HAI name and be helmed by computer scientist James Landay. Co-founder Fei-Fei Li takes on a new university-wide role as Special Advisor on AI and joins John Hennessy as co-chair of the advisory council.",
+    "tier": 2
+  },
+  {
+    "title": "Collaborative Coding, Better Scaling, Health Tracking: HAI Awards $2.17M to Innovative Research",
+    "url": "https://hai.stanford.edu/news/collaborative-coding-better-scaling-health-tracking-hai-awards-217m-to-innovative-research",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-06-14T19:25:34.635Z",
+    "snippet": "Seed grants will fund 29 research teams pursuing novel research ideas across disciplines.",
+    "tier": 2
+  },
+  {
+    "title": "Shared Services Still Matter in an AI World",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeExtVDBWSmpEaXh4SzlKNkFYUGxpSndRWGd3bElNVHdWSHJiVmNSQkxRQVlqTHU2bHZiWWZPYktRMDNsSjFYclc5all4WVVqaWY5WlRJNkI1VFpyZjZFcFMtQUZQbzBlV2R2V3J4Rzl0ZHZMVGdra2hDWlBmLVBSX1JYbw?oc=5",
+    "source": "Bain & Company",
+    "publishedAt": "Sun, 14 Jun 2026 13:16:28 GMT",
+    "snippet": "Shared Services Still Matter in an AI World&nbsp;&nbsp;Bain & Company",
+    "tier": 3
+  },
+  {
+    "title": "Agentic AI Enterprise Token Cost",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZWDdLTGlpdXBuZUVUZTB2U0pDMFc3QnZYb01iSDdpNzIzZTlvUWJJcE5ab1BXNlE4cXV1TGVobS0wM2ZsX0xFcHE5OFFFVUpRRUJ2MkYtTzVIc3ZRUFVlMnp0X2M2Z210aW1z?oc=5",
+    "source": "EY",
+    "publishedAt": "Sun, 14 Jun 2026 08:42:31 GMT",
+    "snippet": "Agentic AI Enterprise Token Cost&nbsp;&nbsp;EY",
+    "tier": 3
+  },
+  {
+    "title": "Treasure Global Secures $15 Million Enterprise AI Contract For Social Listening Platform",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHljbTN4VGxOY2NCTmlIc1VEanItTEx0WlQ2OFRwd0dCX3VGRXJjSkFWUXhSVEg1STVRam51QTdJRW5fNmNaLV9QdTZsdmhzdmRrZlM4a1l1eWNteDdYVV92NlBsd2ZFbDROSlliZHBCc2puNXdlYTZxOG5sNVBLaU5YQjV5cEgzaklKRWI0TEpEZzkzSldxcC1YbV96MDhwdjdwWEt2bXVXa2vSAbABQVVfeXFMT1RORG9vQ2toS1k1dXRraTNoM3JyWXdzalNfU0Z2Y3d5SkJ6SlF3ZXVEMnVERndWSHRTN0FSejAyMkVVSmdrZE0wU01Za2F2ekIyNmJTbGlfWjZ0MllXS0kybXo1RG94RGJvUDZiS1pLYVFJZXFLQ0xCY25HVl9rbTFSNVlRUTdfNE11c0VhQVlyNVZ4aEJrclRETDhxd0M4UHFkRlVjOGtfcE9VU0s4ejk?oc=5",
+    "source": "Pulse 2.0",
+    "publishedAt": "Sun, 14 Jun 2026 16:01:05 GMT",
+    "snippet": "Treasure Global Secures $15 Million Enterprise AI Contract For Social Listening Platform&nbsp;&nbsp;Pulse 2.0",
+    "tier": 3
+  },
+  {
+    "title": "Microsoft and EY launch $1 billion AI partnership to accelerate enterprise adoption (MSFT)",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSHlYbDg2V3ZGdExucGRnUUp4enFCdHdQZEV6SEJDMkJPeXJ2d2h6VDdsenY5TFcxQXdady1EV3B5QkVPd1FqRk5BdEtDR2l1SXdyaHV6V3FjR2tlc1dRZFgyZG9zazFzNnk0QjdKWklMa1NEM01QUFB2elBqUXRkN0h3RlBaem1qYUZmbERsM0M1MGl2WXdwN3hxQ3VOUmF6Z2JHdFNCMkp1Szh5N1g2UENTck9mQ0EyRUZKTTJXc3BDOUtrR0VfT0hCdGUybDJoTHlPWVlOem9QbWtKMHdZRXdtVnNSOHpIR0tXZzZMNTFqOEVDX1E?oc=5",
+    "source": "MSN",
+    "publishedAt": "Sun, 14 Jun 2026 17:25:34 GMT",
+    "snippet": "Microsoft and EY launch $1 billion AI partnership to accelerate enterprise adoption (MSFT)&nbsp;&nbsp;MSN",
+    "tier": 3
+  },
+  {
+    "title": "Individual AIs Turn Personal Expertise Into Scalable Enterprise Assets",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFJoZDU5bFZ1T0xnR0ZmcXdJdk1jdi1LZFJlRjdMOUdKQVRVSXJ6ZkhkUjNrVGUxNktOYm5mRzdQdlRpMjlialBQaF9taWJGemFxYXhVTDlXSVd0RUtHVFU1UTZFNU1OVWR0cDlxU3Y0VDcwa25PZjF4X3JCOVR4MEc3QUdGY3FlYnZXdFpSSWU4eEtwUDVlVTFxdmhQSWVzaWpaTlZGNWt0a3N2N1hKUVUzaXU3VXZpdnc?oc=5",
+    "source": "TechNewsWorld",
+    "publishedAt": "Sun, 14 Jun 2026 08:53:20 GMT",
+    "snippet": "Individual AIs Turn Personal Expertise Into Scalable Enterprise Assets&nbsp;&nbsp;TechNewsWorld",
+    "tier": 3
+  },
+  {
+    "title": "Your business doesn’t need random acts of AI. Here’s why",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcTlFWHB6eU1mTUlPMWNEc3lPZWVMd05VRHNVaUYwZk1uOUdQRGsxYl9zbmowZHJFTjRtTVg3REpyeFE0eUpfOVRsbXZzNFVzQmNVLVU4aGdWWXVFNFNBdWtQMm1sYmN1OFdxQVZ1N0hUekRmcjkzTk1hcnI5ckpEalladGhQN3c?oc=5",
+    "source": "Fast Company",
+    "publishedAt": "Sun, 14 Jun 2026 08:09:59 GMT",
+    "snippet": "Your business doesn’t need random acts of AI. Here’s why&nbsp;&nbsp;Fast Company",
+    "tier": 3
+  },
+  {
+    "title": "Beyond \"agent washing\": how to build AI systems that actually deliver ROI",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNU5kNDlnRFBTQUg1MllQN1k3TlJSVmg3QTdsSUswZTdNSnB0NU0zcHAySHM3SmkxWWJwS2otSU5DbUprYzF5Zi14Z0hfZWNwUXhTTklHczVlb3VrQWdtRl9NcHg3ak9WYUtyOTVLenZjcXRtSzFHdDJvdkJyVlJaRk5acTRuaEp2TnNaQzVMVURaQ25LR0V4Zk1PQ2NCY0FaUy1hV3NrSXRpMUliNGU2cTVidzgwb1BoUXFuUmt1V2daN3puNVE?oc=5",
+    "source": "IT Pro",
+    "publishedAt": "Sun, 14 Jun 2026 14:32:44 GMT",
+    "snippet": "Beyond \"agent washing\": how to build AI systems that actually deliver ROI&nbsp;&nbsp;IT Pro",
+    "tier": 3
+  },
+  {
+    "title": "China’s AI ‘hundred model’ war shifts to enterprise value, JPMorgan says",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVXhjcDNCRGJvWHJ4MWl2RkQyMFctS0MwWWllbWdJRFM2N1JtWkJRUkloWWt3QmFTamhlNmVyT2JPZURTQzVfUmUwUDVMbDVtMmhPY3RyR3lqNmhXdWx2STczVzhiSEFKZmFIMmQzQmlJZ25PMnA2NExVTFJFdDRJNGp5T0hkTkkzLV9DUXJPcFd0dnBVaWpXMnliVUdpTW43QXRfd29TQkVoYzZiUnNZRjQxblMtamPSAbcBQVVfeXFMTWFZNkl3eXV6RWxLdGpkTzhkaXp3Y1ZqZm9LRGE3WWoyemFEV2tGVmhSSVJPWkFkcEF4ODhqUXhTa0c2VTF0Rzk4TnhVb0FIc1RSMFV0SWd6Vi1DVmdNM09TQjJuUkFLZ0xQSTdvY21ETFBOR29aWDNySVZoMnM4VnBrbmx6RnFSYzFjUUF6bGhRaW5TU3NlUmFkZmZvZVdRVWFvQjJDc29CdVhQYUZaai1FdUYwaDNR?oc=5",
+    "source": "South China Morning Post",
+    "publishedAt": "Sun, 14 Jun 2026 04:00:17 GMT",
+    "snippet": "China’s AI ‘hundred model’ war shifts to enterprise value, JPMorgan says&nbsp;&nbsp;South China Morning Post",
+    "tier": 3
+  },
+  {
+    "title": "Chinese AI Companies Prioritize Business Value Over Raw Performance: JPMorgan - News and Statistics",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOWpvRUNicmtnVUtEOXdid3ZYNmdqNm5pUDl1OGo5LTBVUnlKd2t2VVpQM0dxOFBiaG8yZjh2SmVLd0ZsU3I4S2tZaGltaHRiVkxGenEyZ1B5QUhrRjlSZEx3WllnSmNZOWd6RUp6SDd1NHdzdl9ZUGdTOFpSM280SnJiUmZJTlBVMnBMZ1pHQWtzR3kwdGJoXzJsWWhWZDRzYTFIRU1hTGdNMFNnYnpV?oc=5",
+    "source": "IndexBox",
+    "publishedAt": "Sun, 14 Jun 2026 04:20:00 GMT",
+    "snippet": "Chinese AI Companies Prioritize Business Value Over Raw Performance: JPMorgan - News and Statistics&nbsp;&nbsp;IndexBox",
+    "tier": 3
+  },
+  {
+    "title": "US ‘export ban’ on Anthropic models may weaken cyber defence: Experts",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYld4VW9MZFlaYjRLWjJRWURaZ3ZmdUF5eEliNHlkd3U5T1ZRdTQ2aGtXakQxcnJYbk13SHM1X3IxaTYxazc3RXVkdURfYl9wQXQ1THF0QUhJaXRSYWR5OEMzYnc0TlVTNEhMX2hZWHpVYzB4M29hbnFjT21qaFEyNWRiNHpabDRRcWdZbzU0SjkxRnl1Zy11NUNUaGRhdWRzcVRod1EzcmpOVjJTQVZodGhJc21rZ0xpeFgzVnVsUEdpWVA1N0g4WkI5Ym0wZ1lNcDFnM2NfRTdsNVU?oc=5",
+    "source": "Indiatimes",
+    "publishedAt": "Sun, 14 Jun 2026 10:28:17 GMT",
+    "snippet": "US ‘export ban’ on Anthropic models may weaken cyber defence: Experts&nbsp;&nbsp;Indiatimes",
+    "tier": 3
+  },
+  {
+    "title": "US govt's curbs on Anthropic models reignite calls for sovereign AI",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRzRIZFNYMFFZSUs3dGRUS0U1OGMtVHZNVUhnYmFpV2NCOElfRUVsWkZVOGxaZm1ZMFIyZ2xDWS1XTFo3NUlKSjhBQktxV05DZ3d5NmoxWDgwb1FuRkNCLTYwaml6WkMxQ2FEVk5NRDJhdHF5Nm9ralBVUENnWXFWSjBfU2pKRXhrT0NzM1BINHhYbXYyeFF0ZURKQ0tadGx4a3ktbzlOZWdSaXlYTVRaLVc5MG9LbnhRenQ4SWJiRG1WRE0wU1pzSmJualVjSE1qZThVVGxuS0FLLUxBWjBzbzd0M2hmX2pnRXFEbNIB8gFBVV95cUxOZkpndlFVTnlkMjVkbUExZ2xxM1pITGFsU2VPb3kxdm11bjUzNmlmdWY2TDZtZXRjd2dTU2dsaFphcjVPVWd2SlppZ0VtZzU1cGp1X0M5VzVMRkRiUGJhOFdfQWlsd0QzeUQwLTE4RldOQkNQUHdKQmFzVHBuUWI0ZWQ3X3hnTWlYU3pXLVczWE4tLWdvYUM4NTJJcjdGRlJsZDVSWm1nQWxqWHF0VFVpbGdWVm9pRDNlMFVrejM3SnVQbE5mT0ZGQXZ6Nkh4QkhVZXA4RkVZSmNuaU5vb0lyVUp6aTRsdUV5RVZpSFJOSVRXdw?oc=5",
+    "source": "Business Standard",
+    "publishedAt": "Sun, 14 Jun 2026 18:02:51 GMT",
+    "snippet": "US govt's curbs on Anthropic models reignite calls for sovereign AI&nbsp;&nbsp;Business Standard",
+    "tier": 3
+  }
+]
