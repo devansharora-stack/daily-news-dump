@@ -1,0 +1,184 @@
+[
+  {
+    "headline": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+    "theme": "Funding & M&A",
+    "summary": "Salesforce is paying $3.6B for Fin, an AI customer service platform, to bolster its Agentforce enterprise AI agent platform. This is one of the largest AI acquisitions this year and signals that enterprise AI agent infrastructure is now commanding premium valuations as major platforms race to own the agentic workflow layer."
+  },
+  {
+    "headline": "Sarvam becomes India's newest AI unicorn with $234 million funding round led by HCLTech",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+    "theme": "Funding & M&A",
+    "summary": "Indian AI startup Sarvam raised $234M, with $150M from IT services giant HCLTech, reaching unicorn status. The deal highlights growing strategic investment in sovereign AI capabilities outside the US, with established IT services firms betting on homegrown AI infrastructure."
+  },
+  {
+    "headline": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+    "theme": "Funding & M&A",
+    "summary": "NewCore raised $66M to build identity and access management for AI agents, arguing that managing agent identities will become the next major enterprise security challenge. As companies deploy AI agents with system access and decision-making authority, the governance gap around non-human identities becomes a real operational risk."
+  },
+  {
+    "headline": "OpenAI launches Partner Network with $150M investment",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/introducing-openai-partner-network",
+    "theme": "Funding & M&A",
+    "summary": "OpenAI is investing $150M into a new Partner Network to help global partners accelerate enterprise AI deployment and transformation. The move mirrors classic enterprise software playbooks (think Salesforce/Microsoft partner ecosystems) and signals OpenAI's shift from API provider to full enterprise platform company."
+  },
+  {
+    "headline": "As AI companies race to go public, who else is along for the ride?",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+    "theme": "Funding & M&A",
+    "summary": "AI startups are looking to ride the wave created by SpaceX's IPO, with multiple companies accelerating public listing timelines. This signals a potential AI IPO window opening, which could reshape valuations, liquidity, and competitive dynamics across the sector."
+  },
+  {
+    "headline": "The AI layoff wave is becoming a powder keg",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+    "theme": "AI Workforce Impact",
+    "summary": "Tens of thousands of workers are being displaced while a small cohort of AI insiders accumulates unprecedented wealth. The growing inequality between AI beneficiaries and those displaced by automation is creating social and political pressure that business leaders need to anticipate in workforce planning and public positioning."
+  },
+  {
+    "headline": "Cybersecurity vets protest 'dangerous' US government ban on Anthropic's most powerful models",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+    "theme": "Regulatory",
+    "summary": "Dozens of cybersecurity experts are pushing back against White House export controls on Anthropic's Fable and Mythos models, arguing the restrictions will hamper defensive cybersecurity capabilities. The protest highlights the tension between national security export controls and the practical needs of the cybersecurity industry."
+  },
+  {
+    "headline": "All the news about Anthropic's new AI fight with the White House",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+    "theme": "Regulatory",
+    "summary": "The White House ordered Anthropic to block foreign access to its most powerful models, Fable 5 and Mythos 5, just days after launch, citing national security concerns. The sweeping export control action demonstrates that US government intervention can instantly shut down global access to frontier AI products — a major risk factor for any company building on American AI infrastructure."
+  },
+  {
+    "headline": "Trump's Anthropic shutdown just made the case for non-American AI",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
+    "theme": "Regulatory",
+    "summary": "The forced Anthropic model shutdown is accelerating the sovereign AI movement globally, as foreign governments and companies realize US-dominated AI supply chains carry regulatory risk. This could fragment the global AI market and boost investment in non-US frontier model development in Europe, India, and the Middle East."
+  },
+  {
+    "headline": "Big Tech's desperate last push at AI regulation — the fight over federal preemption",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
+    "theme": "Regulatory",
+    "summary": "Big Tech lobbyists are pushing hard for comprehensive federal AI legislation that would preempt state-level regulations, creating one set of AI rules nationwide. For enterprises operating across states, this fight will determine whether they face a patchwork of compliance requirements or a single federal standard."
+  },
+  {
+    "headline": "China may have accessed Anthropic's Mythos model",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+    "theme": "AI Risk",
+    "summary": "The White House's Anthropic export restrictions were reportedly driven by fears that a China-linked group accessed Mythos 5, with concerns about potential reverse-engineering through model distillation. This incident underscores the national security dimension of frontier AI model access and the risk of model IP theft — a concern for any company with proprietary AI capabilities."
+  },
+  {
+    "headline": "Amazon security research reportedly led to the White House's Anthropic Fable ban",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+    "theme": "AI Risk",
+    "summary": "Amazon's internal cybersecurity research reportedly demonstrated that Fable 5 could be prompted to produce information usable in cyberattacks, and conversations between CEO Andy Jassy and the White House helped trigger the export ban. The episode shows how one company's security audit can reshape government policy and create immediate business disruption for competitors."
+  },
+  {
+    "headline": "Meta reportedly moves to unwind $2B Manus deal after Beijing's demand",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+    "theme": "Regulatory",
+    "summary": "Meta is unwinding its $2B acquisition of Chinese AI company Manus after Beijing issued a national security-based divestiture order. This is a mirror image of US-China tech decoupling — now China is forcing American companies to divest Chinese AI assets, raising the stakes for any cross-border AI M&A."
+  },
+  {
+    "headline": "As Anthropic suspends access to new models, India debates its AI future",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+    "theme": "AI Strategy",
+    "summary": "The Anthropic access suspension is catalyzing an urgent debate among Indian tech leaders about dependency on US AI models and the need for domestic AI capabilities. For companies with operations in India or serving Indian markets, this signals a potential shift toward local AI requirements and sovereign model preferences."
+  },
+  {
+    "headline": "Meta's new 'AI Mode' on Facebook pulls from public info across its platforms",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+    "theme": "AI Strategy",
+    "summary": "Meta is rolling out an AI Mode on Facebook that synthesizes information from across its platforms, signaling its effort to catch up in the consumer AI race. The feature represents Meta's strategy to use its massive cross-platform data advantage to differentiate its AI offerings from standalone chatbot competitors."
+  },
+  {
+    "headline": "Meta tapped a Pentagon supplier to prototype face recognition for its glasses",
+    "source": "Wired AI",
+    "url": "https://www.wired.com/story/meta-rank-one-computing-face-recognition-smart-glasses/",
+    "theme": "AI Ethics & Trust",
+    "summary": "Meta partnered with Rank One Computing — whose board includes former CIA and FBI officials — to develop face recognition capabilities for its smart glasses. This raises significant privacy and regulatory implications as always-on face recognition in consumer hardware could face backlash from regulators and the public."
+  },
+  {
+    "headline": "WorkBench Revisited: Workplace AI agents complete 89% of tasks, up from 43% in 2024",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2606.13715",
+    "theme": "Agentic AI",
+    "summary": "A re-evaluation of the WorkBench agent benchmark shows Claude Opus 4.8 now completes 89% of workplace tasks (up from GPT-4's 43% in March 2024) while reducing unintended harmful actions from 26% to 2.5%. This is concrete evidence that agentic AI capabilities are improving rapidly and becoming reliable enough for real enterprise deployment — a key data point against the 'Pilot Purgatory' narrative."
+  },
+  {
+    "headline": "Capability Minimization as a Safety Primitive: Risk-Aware Causal Gating for Least-Privilege LLM Agents",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2606.13884",
+    "theme": "Agentic AI",
+    "summary": "Researchers introduce a framework for 'least-privilege' AI agents that decides whether to act on, defer, or abstain from a model's predictions based on causal risk assessment. For enterprises deploying AI agents at scale, this approach addresses the critical governance question of how to prevent agents from taking costly wrong actions — a direct response to 'Token Anxiety' and hallucination risk."
+  },
+  {
+    "headline": "When the Tool Decides: LLM Agents Defer Blindly to External Tools, and Stronger Models Defer More",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2606.14476",
+    "theme": "AI Risk",
+    "summary": "Research reveals that LLM agents blindly defer to external tools rather than exercising independent judgment, and counterintuitively, more capable models defer even more. This is a critical finding for enterprises building agentic systems: stronger AI doesn't necessarily mean better oversight, raising the risk of cascading errors when tools provide bad outputs."
+  },
+  {
+    "headline": "The Coin Flip Judge? Reliability and Bias in LLM-as-a-Judge Evaluation",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2606.13685",
+    "theme": "AI Risk",
+    "summary": "Testing GPT-4o-mini and GPT-4.1-mini as judges across 29 tasks with 50 repeated trials each reveals concerning run-to-run reliability issues in LLM-based evaluations. Companies relying on LLM-as-a-Judge for quality control, content moderation, or reward modeling should be aware that these systems may be less consistent than assumed — a hidden 'Hallucination Tax.'"
+  },
+  {
+    "headline": "From Chatbot to Digital Colleague: The Paradigm Shift Toward Persistent Autonomous AI",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2606.14502",
+    "theme": "Agentic AI",
+    "summary": "A new framework conceptualizes the transition from conversational AI to persistent 'digital colleague' systems capable of reasoning, action, memory, and self-improvement. This paper provides useful strategic framing for executives planning their AI roadmap — the shift from chatbot pilots to embedded autonomous systems that continuously work alongside human teams."
+  },
+  {
+    "headline": "SEVRA-BENCH: Automated code reviewers can be socially engineered into approving malicious code",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2606.13757",
+    "theme": "AI Risk",
+    "summary": "Researchers demonstrate that LLM-based code review agents can be manipulated into approving malicious code when attackers control both the code and the pull request description. For companies deploying AI in software development pipelines, this highlights a security vulnerability where AI-automated approvals could introduce exploitable code into production systems."
+  },
+  {
+    "headline": "AI Receptivity: People with lower AI literacy actually use AI more",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2606.13734",
+    "theme": "Research to Business",
+    "summary": "A reanalysis of AI adoption data confirms that people with lower AI literacy show greater receptivity and broader AI tool usage. For enterprise leaders, this has direct implications for Shadow AI risk — less technically sophisticated employees may be the heaviest unauthorized AI users, yet the least equipped to evaluate output quality or security risks."
+  },
+  {
+    "headline": "TwinBI: Agentic Digital Twin for Business Intelligence Dashboards",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2606.13731",
+    "theme": "Enterprise ROI",
+    "summary": "Researchers present an agentic digital-twin framework that keeps LLM-based analysis in sync with dashboard state during multi-step business intelligence workflows. This addresses a practical pain point for enterprises: the disconnect between BI tools and AI assistants that breaks analytical context and limits the usefulness of AI in actual decision-making workflows."
+  },
+  {
+    "headline": "Why do South Koreans love AI so much?",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+    "theme": "AI Strategy",
+    "summary": "South Korea is emerging as a global case study in society-wide AI adoption, from unmanned immigration checkpoints to deeply integrated AI services in daily life. For companies expanding in Asia-Pacific, South Korea offers a preview of what high-saturation AI markets look like and the consumer expectations that follow."
+  },
+  {
+    "headline": "A satellite just learned to find things on its own — autonomous AI in orbit",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
+    "theme": "AI Strategy",
+    "summary": "For the first time, an Earth observation satellite autonomously identified a target without human direction, marking a milestone for edge AI deployment in space. This has significant implications for defense, agriculture, insurance, and logistics industries that depend on satellite imagery — AI inference at the edge could dramatically reduce latency and cost of actionable intelligence."
+  }
+]
