@@ -1,0 +1,44 @@
+name: Daily B2B Marketing Resource
+
+on:
+  schedule:
+    # Run at 3 PM ET (7 PM UTC) — 1 hour after AI digest
+    - cron: "0 19 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-b2b-digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run B2B pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_FOUNDRY_API_KEY: ${{ secrets.ANTHROPIC_FOUNDRY_API_KEY }}
+          ANTHROPIC_FOUNDRY_RESOURCE: ${{ secrets.ANTHROPIC_FOUNDRY_RESOURCE }}
+        run: npm run b2b
+
+      - name: Commit B2B digest to repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase
+          DATE=$(date +%Y-%m-%d)
+          git add -f b2b-digests/ data/
+          git diff --staged --quiet && echo "No new B2B digest to commit" && exit 0
+          git commit -m "B2B resource: ${DATE}"
+          git push
