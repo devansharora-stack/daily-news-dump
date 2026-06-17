@@ -1,10 +1,74 @@
 [
   {
+    "title": "The Competitive Moat That AI Can't Replicate",
+    "url": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Wed, 17 Jun 2026 17:14:21 +0000",
+    "snippet": "Article URL: https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/\nComments URL: https://news.ycombinator.com/item?id=48573435\nPoints: 51\n# Comments: 28",
+    "tier": 1
+  },
+  {
+    "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
+    "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Wed, 17 Jun 2026 17:07:32 +0000",
+    "snippet": "Article URL: https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/\nComments URL: https://news.ycombinator.com/item?id=48573332\nPoints: 347\n# Comments: 385",
+    "tier": 1
+  },
+  {
+    "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+    "url": "https://github.com/Adam-CAD/CADAM",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Wed, 17 Jun 2026 16:14:04 +0000",
+    "snippet": "Hey HN! I'm Zach from Adam (https://adam.new/). We're building AI agents for mechanical CAD software. We’ve built the company on two fundamental beliefs:\n- AI will be the primary medium for creating mechanical designs just like it is in software today.\n- The best paradigm for CAD generation is to generate CAD as code (text -> code -> CAD).\nWe’re building CADAM, an open source Text to CAD platform. It's a React app (TanStack Start) with a Supabase backend for auth, database, and file storage. Thi",
+    "tier": 1
+  },
+  {
+    "title": "Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)",
+    "url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Wed, 17 Jun 2026 14:26:07 +0000",
+    "snippet": "Article URL: https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/\nComments URL: https://news.ycombinator.com/item?id=48571016\nPoints: 63\n# Comments: 47",
+    "tier": 1
+  },
+  {
+    "title": "AI demands more engineering discipline. Not less",
+    "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Wed, 17 Jun 2026 14:20:44 +0000",
+    "snippet": "Article URL: https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline\nComments URL: https://news.ycombinator.com/item?id=48570948\nPoints: 256\n# Comments: 122",
+    "tier": 1
+  },
+  {
+    "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+    "url": "https://wpvip.com/future-of-the-web-2026/",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Wed, 17 Jun 2026 12:11:27 +0000",
+    "snippet": "Article URL: https://wpvip.com/future-of-the-web-2026/\nComments URL: https://news.ycombinator.com/item?id=48569278\nPoints: 949\n# Comments: 489",
+    "tier": 1
+  },
+  {
+    "title": "Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload",
+    "url": "https://brevio.pro",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Wed, 17 Jun 2026 09:48:59 +0000",
+    "snippet": "Article URL: https://brevio.pro\nComments URL: https://news.ycombinator.com/item?id=48568023\nPoints: 81\n# Comments: 27",
+    "tier": 1
+  },
+  {
+    "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+    "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Wed, 17 Jun 2026 09:12:00 +0000",
+    "snippet": "Article URL: https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index\nComments URL: https://news.ycombinator.com/item?id=48567759\nPoints: 670\n# Comments: 343",
+    "tier": 1
+  },
+  {
     "title": "The founder's playbook: Building an AI-native startup",
     "url": "https://claude.com/blog/the-founders-playbook",
     "source": "Hacker News (Top)",
     "publishedAt": "Wed, 17 Jun 2026 07:04:42 +0000",
-    "snippet": "Article URL: https://claude.com/blog/the-founders-playbook\nComments URL: https://news.ycombinator.com/item?id=48566832\nPoints: 89\n# Comments: 86",
+    "snippet": "Article URL: https://claude.com/blog/the-founders-playbook\nComments URL: https://news.ycombinator.com/item?id=48566832\nPoints: 178\n# Comments: 139",
     "tier": 1
   },
   {
@@ -12,7 +76,7 @@
     "url": "https://twitter.com/i/status/2066825204207091926",
     "source": "Hacker News (Top)",
     "publishedAt": "Tue, 16 Jun 2026 19:47:13 +0000",
-    "snippet": "Article URL: https://twitter.com/i/status/2066825204207091926\nComments URL: https://news.ycombinator.com/item?id=48560913\nPoints: 60\n# Comments: 27",
+    "snippet": "Article URL: https://twitter.com/i/status/2066825204207091926\nComments URL: https://news.ycombinator.com/item?id=48560913\nPoints: 65\n# Comments: 29",
     "tier": 1
   },
   {
@@ -20,7 +84,7 @@
     "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
     "source": "Hacker News (Top)",
     "publishedAt": "Tue, 16 Jun 2026 17:54:02 +0000",
-    "snippet": "Article URL: https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/\nComments URL: https://news.ycombinator.com/item?id=48559188\nPoints: 214\n# Comments: 217",
+    "snippet": "Article URL: https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/\nComments URL: https://news.ycombinator.com/item?id=48559188\nPoints: 248\n# Comments: 285",
     "tier": 1
   },
   {
@@ -28,7 +92,7 @@
     "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
     "source": "Hacker News (Top)",
     "publishedAt": "Tue, 16 Jun 2026 17:11:05 +0000",
-    "snippet": "Article URL: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/\nComments URL: https://news.ycombinator.com/item?id=48558489\nPoints: 308\n# Comments: 342",
+    "snippet": "Article URL: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/\nComments URL: https://news.ycombinator.com/item?id=48558489\nPoints: 387\n# Comments: 460",
     "tier": 1
   },
   {
@@ -36,7 +100,7 @@
     "url": "https://ursb.me/en/posts/after-ai-takes-everything/",
     "source": "Hacker News (Top)",
     "publishedAt": "Tue, 16 Jun 2026 15:20:05 +0000",
-    "snippet": "Article URL: https://ursb.me/en/posts/after-ai-takes-everything/\nComments URL: https://news.ycombinator.com/item?id=48556644\nPoints: 98\n# Comments: 108",
+    "snippet": "Article URL: https://ursb.me/en/posts/after-ai-takes-everything/\nComments URL: https://news.ycombinator.com/item?id=48556644\nPoints: 100\n# Comments: 112",
     "tier": 1
   },
   {
@@ -44,7 +108,7 @@
     "url": "https://qwen.ai/blog?id=qwen-robotsuite",
     "source": "Hacker News (Top)",
     "publishedAt": "Tue, 16 Jun 2026 13:15:15 +0000",
-    "snippet": "Article URL: https://qwen.ai/blog?id=qwen-robotsuite\nComments URL: https://news.ycombinator.com/item?id=48554814\nPoints: 181\n# Comments: 31",
+    "snippet": "Article URL: https://qwen.ai/blog?id=qwen-robotsuite\nComments URL: https://news.ycombinator.com/item?id=48554814\nPoints: 207\n# Comments: 39",
     "tier": 1
   },
   {
@@ -52,7 +116,7 @@
     "url": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch",
     "source": "Hacker News (Top)",
     "publishedAt": "Tue, 16 Jun 2026 02:47:57 +0000",
-    "snippet": "Article URL: https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch\nComments URL: https://news.ycombinator.com/item?id=48549918\nPoints: 154\n# Comments: 73",
+    "snippet": "Article URL: https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch\nComments URL: https://news.ycombinator.com/item?id=48549918\nPoints: 154\n# Comments: 75",
     "tier": 1
   },
   {
@@ -60,39 +124,95 @@
     "url": "https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion",
     "source": "Hacker News (Top)",
     "publishedAt": "Tue, 16 Jun 2026 02:00:45 +0000",
-    "snippet": "Article URL: https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion\nComments URL: https://news.ycombinator.com/item?id=48549628\nPoints: 173\n# Comments: 482",
+    "snippet": "Article URL: https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion\nComments URL: https://news.ycombinator.com/item?id=48549628\nPoints: 182\n# Comments: 497",
     "tier": 1
   },
   {
-    "title": "Show HN: Veterinarian turned founder, AI lawn diagnosis",
-    "url": "https://grassdx.com/",
-    "source": "Hacker News (Top)",
-    "publishedAt": "Mon, 15 Jun 2026 17:56:00 +0000",
-    "snippet": "I know, it's kind of weird. What is a veterinarian doing creating an analysis tool for lawn problems?\nFrankly, the idea was born of my own lawn care struggles. Endless lawn care company fees without any actual improvement. Googling problems and finding generic solutions without regional considerations. One time I overseeded my grass not realizing I had to actually put soil down too.\nOne day, I decided to run lawn pictures through AI and found some pretty helpful information. So I decided with my",
+    "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+    "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Wed, 17 Jun 2026 19:01:19 +0000",
+    "snippet": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight  — a fear the Anthropic blackout just made real.",
     "tier": 1
   },
   {
-    "title": "My Homelab AI Dev Platform",
-    "url": "https://rsgm.dev/post/ai-dev-platform/",
-    "source": "Hacker News (Top)",
-    "publishedAt": "Mon, 15 Jun 2026 15:09:40 +0000",
-    "snippet": "Article URL: https://rsgm.dev/post/ai-dev-platform/\nComments URL: https://news.ycombinator.com/item?id=48542433\nPoints: 360\n# Comments: 57",
+    "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+    "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Wed, 17 Jun 2026 18:30:56 +0000",
+    "snippet": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
     "tier": 1
   },
   {
-    "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-    "url": "https://news.ycombinator.com/item?id=48542100",
-    "source": "Hacker News (Top)",
-    "publishedAt": "Mon, 15 Jun 2026 14:46:53 +0000",
-    "snippet": "Has anyone here fully swapped Claude/GPT for a local model as their main coding tool, not just for side experiments? If so, please share your setup and performance (e.g tok/s)\nComments URL: https://news.ycombinator.com/item?id=48542100\nPoints: 1260\n# Comments: 536",
+    "title": "Social media’s next evolution: user-controlled algorithms",
+    "url": "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Wed, 17 Jun 2026 18:19:48 +0000",
+    "snippet": "Social media feeds are becoming more customizable as platforms like Threads, Instagram, and TikTok introduce tools that let users directly influence the algorithms powering their recommendations.",
     "tier": 1
   },
   {
-    "title": "Can Europe train a frontier AI model on the compute it owns?",
-    "url": "https://github.com/sammysltd/euromesh",
-    "source": "Hacker News (Top)",
-    "publishedAt": "Mon, 15 Jun 2026 13:31:09 +0000",
-    "snippet": "Article URL: https://github.com/sammysltd/euromesh\nComments URL: https://news.ycombinator.com/item?id=48541014\nPoints: 140\n# Comments: 290",
+    "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
+    "url": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Wed, 17 Jun 2026 17:43:07 +0000",
+    "snippet": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.",
+    "tier": 1
+  },
+  {
+    "title": "Google bets on Gemini to reinvent the smart home speaker",
+    "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Wed, 17 Jun 2026 16:30:09 +0000",
+    "snippet": "Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversational Gemini interactions.",
+    "tier": 1
+  },
+  {
+    "title": "The slowtech revolution is here to kill your phone addiction and rescue your attention span",
+    "url": "https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Wed, 17 Jun 2026 15:24:41 +0000",
+    "snippet": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”",
+    "tier": 1
+  },
+  {
+    "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
+    "url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Wed, 17 Jun 2026 15:00:00 +0000",
+    "snippet": "If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.",
+    "tier": 1
+  },
+  {
+    "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
+    "url": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Wed, 17 Jun 2026 14:15:22 +0000",
+    "snippet": "Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation — where errors can be costly and reliability is at a premium.",
+    "tier": 1
+  },
+  {
+    "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
+    "url": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Wed, 17 Jun 2026 12:38:09 +0000",
+    "snippet": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India.",
+    "tier": 1
+  },
+  {
+    "title": "DeepL acquires Mixhalo for live-event audio streaming and translation",
+    "url": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Wed, 17 Jun 2026 12:14:44 +0000",
+    "snippet": "With this acquisition, DeepL is opening an office in San Francisco to expand its U.S. business.",
+    "tier": 1
+  },
+  {
+    "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
+    "url": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Wed, 17 Jun 2026 11:00:00 +0000",
+    "snippet": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface.",
     "tier": 1
   },
   {
@@ -160,99 +280,11 @@
     "tier": 1
   },
   {
-    "title": "Probably raises $9M to build a more reliable kind of AI",
-    "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
-    "source": "TechCrunch AI",
-    "publishedAt": "Tue, 16 Jun 2026 13:15:09 +0000",
-    "snippet": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems.",
-    "tier": 1
-  },
-  {
-    "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
-    "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
-    "source": "TechCrunch AI",
-    "publishedAt": "Tue, 16 Jun 2026 11:21:41 +0000",
-    "snippet": "The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI.",
-    "tier": 1
-  },
-  {
-    "title": "ChatGPT’s market share slips below 50% for first time",
-    "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
-    "source": "TechCrunch AI",
-    "publishedAt": "Tue, 16 Jun 2026 10:30:00 +0000",
-    "snippet": "The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude with 245 million.",
-    "tier": 1
-  },
-  {
-    "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
-    "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
-    "source": "TechCrunch AI",
-    "publishedAt": "Tue, 16 Jun 2026 06:59:00 +0000",
-    "snippet": "Respond.io, one of Malaysia's startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
-    "tier": 1
-  },
-  {
-    "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
-    "url": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
-    "source": "TechCrunch AI",
-    "publishedAt": "Mon, 15 Jun 2026 23:51:44 +0000",
-    "snippet": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.",
-    "tier": 1
-  },
-  {
-    "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
-    "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
-    "source": "TechCrunch AI",
-    "publishedAt": "Mon, 15 Jun 2026 21:50:21 +0000",
-    "snippet": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference.",
-    "tier": 1
-  },
-  {
-    "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
-    "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
-    "source": "TechCrunch AI",
-    "publishedAt": "Mon, 15 Jun 2026 18:30:58 +0000",
-    "snippet": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.",
-    "tier": 1
-  },
-  {
-    "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
-    "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
-    "source": "TechCrunch AI",
-    "publishedAt": "Mon, 15 Jun 2026 15:29:51 +0000",
-    "snippet": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.",
-    "tier": 1
-  },
-  {
-    "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
-    "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
-    "source": "TechCrunch AI",
-    "publishedAt": "Mon, 15 Jun 2026 14:34:45 +0000",
-    "snippet": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
-    "tier": 1
-  },
-  {
-    "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
-    "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
-    "source": "TechCrunch AI",
-    "publishedAt": "Mon, 15 Jun 2026 13:46:08 +0000",
-    "snippet": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
-    "tier": 1
-  },
-  {
-    "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
-    "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
-    "source": "TechCrunch AI",
-    "publishedAt": "Mon, 15 Jun 2026 13:00:00 +0000",
-    "snippet": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
-    "tier": 1
-  },
-  {
-    "title": "A satellite just learned to find things on its own — here’s what that means",
-    "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
-    "source": "TechCrunch AI",
-    "publishedAt": "Mon, 15 Jun 2026 12:00:00 +0000",
-    "snippet": "In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.",
+    "title": "The Download: a reality check for geoengineering and the science of interoception",
+    "url": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Wed, 17 Jun 2026 12:10:00 +0000",
+    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Hacking the atmosphere: geoengineering gets a reality check Solar geoengineering, the controversial idea that we could deliberately intervene in the climate system to counteract global warming, is moving beyond computer simulations…",
     "tier": 1
   },
   {
@@ -276,7 +308,7 @@
     "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
     "source": "MIT Technology Review",
     "publishedAt": "Tue, 16 Jun 2026 20:35:02 +0000",
-    "snippet": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. by James O’Donnell Choose which file format to…",
+    "snippet": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. Stories written by James O’Donnel by James O’Donnell…",
     "tier": 1
   },
   {
@@ -296,27 +328,51 @@
     "tier": 1
   },
   {
-    "title": "Why do South Koreans love AI so much?",
-    "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
-    "source": "MIT Technology Review",
-    "publishedAt": "Mon, 15 Jun 2026 18:46:08 +0000",
-    "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face and passport. On the subway home,…",
+    "title": "Anthropic got hit by export rules nobody understands",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
+    "source": "The Verge AI",
+    "publishedAt": "2026-06-17T18:28:50.000Z",
+    "snippet": "Anthropic has spent much of this week fighting to get its newest AI models back online after the Trump administration abruptly ordered the company to cut access for all foreign nationals, including users inside the US and its own employees, forcing Anthropic to block access to Fable 5 and Mythos 5 for everyone. \n\n\"To my knowledge, this is the first time US export controls have been used to control access to an AI model in this way.\"\n\nThe Trump administration has not publicly explained the legal ",
     "tier": 1
   },
   {
-    "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
-    "url": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
-    "source": "MIT Technology Review",
-    "publishedAt": "Mon, 15 Jun 2026 15:12:28 +0000",
-    "snippet": "Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has amyotrophic lateral sclerosis (ALS) and is paralyzed, first used his brain-computer interface (BCI) to “speak” sentences with the help of a research team in 2023. Since then, Harrell has clocked thousands of hours of use. He…",
+    "title": "Two-thirds of Americans think AI is advancing too quickly",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
+    "source": "The Verge AI",
+    "publishedAt": "2026-06-17T17:20:24.000Z",
+    "snippet": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatically since 2024, when only 33 percent reported using them. Specifically, ChatGPT's usage has doubled since 2023, with 44 percent of respondents saying they've used it. But opinions remain negative, with only 16 percent saying that AI will have a positive impact on society.\nInterest",
     "tier": 1
   },
   {
-    "title": "The Download: cutting AC emissions, and nature’s drug designer",
-    "url": "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/",
-    "source": "MIT Technology Review",
-    "publishedAt": "Mon, 15 Jun 2026 12:10:00 +0000",
-    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These new solid-state ACs promise a cool future. Scientists aren’t so sure. After three years of record-­breaking heat and another scorcher underway, air-conditioning isn’t going anywhere. That’s good for our health,…",
+    "title": "Vibe-decoding the White House-Anthropic fight over Fable",
+    "url": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
+    "source": "The Verge AI",
+    "publishedAt": "2026-06-17T16:27:00.000Z",
+    "snippet": "CEO of Anthropic Dario Amodei attends a working lunch with G7 leaders, G7 outreach partners, and global tech CEOs on innovation and AI, during the G7 Summit on June 17th, 2026, in Evian-les-Bains, France. | Photo: Anna Moneymaker / Getty Images\t\n\nHello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got the scoop on a petty feud that's going to somehow fun",
+    "tier": 1
+  },
+  {
+    "title": "Can anyone look cool wearing Snap’s $2,000 glasses?",
+    "url": "https://www.theverge.com/report/951481/snap-specs-wearables-smart-glasses-fashion",
+    "source": "The Verge AI",
+    "publishedAt": "2026-06-17T16:13:34.000Z",
+    "snippet": "Snap CEO Evan Spiegel wearing the Snap Specs. They’re not the worst on him, but bold fashion rarely makes for mainstream success. | Screenshot: CNBC\t\n\nYesterday, Snap debuted its new $2,195 Specs glasses. In an interview with CNBC, Snap CEO Evan Spiegel described the Specs as something the company had been working on for more than 12 years, an attempt to \"bring computing into the world\" and \"make it more human.\" He positioned them as a device to help people stay more connected to the world aroun",
+    "tier": 1
+  },
+  {
+    "title": "AI search grounded in Facebook posts? What could go wrong?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on",
+    "source": "The Verge AI",
+    "publishedAt": "2026-06-17T13:30:00.000Z",
+    "snippet": "More AI search in more places.\t\n\nAI is pretty reliable at putting things on your calendar these days, but it hasn't quite cracked answering the related and all-important question of \"What should I do this weekend?\" Meta's new AI Mode in search could be a useful tool - if it ever learns to stop getting stuff wrong.\nAI Mode is a new option when you hit the search bar in the Facebook app. It's designed to tackle complex queries - much like AI Mode in Google Search. But Meta's version draws on publi",
+    "tier": 1
+  },
+  {
+    "title": "Google’s first smart speaker in six years arrives next week",
+    "url": "https://www.theverge.com/tech/951147/google-home-speaker-gemini-launch-date-price-specs-features",
+    "source": "The Verge AI",
+    "publishedAt": "2026-06-17T13:00:00.000Z",
+    "snippet": "The Google Home Speaker comes in four colors, including porcelain. (Stroopwafel not included.) | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nGoogle's first new smart speaker in six years starts shipping on June 25th, narrowly missing its promised spring launch window. Preorders for the Google Home Speaker open today, June 17th.\nNothing has changed hardware-wise in the nine months since the $99 speaker was announced. It has the same slightly squished round design, with touch-capacitive buttons",
     "tier": 1
   },
   {
@@ -352,51 +408,27 @@
     "tier": 1
   },
   {
-    "title": "Inside the fight over Claude Mythos 5",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
-    "source": "The Verge AI",
-    "publishedAt": "2026-06-16T03:00:00.000Z",
-    "snippet": "As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release. At 5:21 PM on Friday, the company received a US export control directive to suspend access to its Mythos 5 and Fable 5 AI models by \"any foreign national\" inside or outside the US, \"including foreign national Anthropic employees.\" The only way that was possible, Anthropic determined, was to completel",
+    "title": "Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital",
+    "url": "https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/",
+    "source": "Wired AI",
+    "publishedAt": "Wed, 17 Jun 2026 18:25:35 +0000",
+    "snippet": "In Shenzhen, workers at IO-AI Tech control humanoid robots using a VR rig reminiscent of Ready Player One.",
     "tier": 1
   },
   {
-    "title": "Facebook’s new AI Mode search gets its info from public posts",
-    "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
-    "source": "The Verge AI",
-    "publishedAt": "2026-06-15T21:15:08.000Z",
-    "snippet": "Your public Facebook posts could help inform AI-generated results in Meta's new AI Mode. When you search on Facebook, the \"AI Mode\" option will appear alongside the usual search modes like \"People\" and \"Marketplace.\" It's one of several new AI features Meta is rolling out starting today, including photo presets that swap sports jerseys onto fans and suggestions for collage templates.\nInstead of \"just links,\" it gives users AI-generated results that pull from publicly-posted content across Meta's",
+    "title": "The White House Wants Anthropic to Block All Jailbreaks. That May Not Be Possible",
+    "url": "https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/",
+    "source": "Wired AI",
+    "publishedAt": "Wed, 17 Jun 2026 17:00:00 +0000",
+    "snippet": "Trump administration officials tell WIRED that if Anthropic wants to rerelease Fable 5, it will need to ensure the model's guardrails can't be circumvented. Security experts say that can't be done.",
     "tier": 1
   },
   {
-    "title": "All the news about Anthropic&#8217;s new AI fight with the White House",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
-    "source": "The Verge AI",
-    "publishedAt": "2026-06-15T19:04:53.000Z",
-    "snippet": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and Mythos 5. When they launched on June 9th, Anthropic said “Fable 5’s capabilities exceed those of any model we’ve ever made generally available,” and that Claude Mythos 5 had the same underlying model, “but with the safeguards lifted in some areas.”\nAccording to reports, the order ca",
-    "tier": 1
-  },
-  {
-    "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
-    "source": "The Verge AI",
-    "publishedAt": "2026-06-15T18:10:27.000Z",
-    "snippet": "At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend. The American company said it had little choice after the White House demanded it block access for all foreign nationals, including its own employees. Abroad, the incident offered a sobering reminder that the US not only dominates frontier AI - its government also wields power over who gets to use it. \nThe Trump administration's action was swift, sweeping, and imposed with little warn",
-    "tier": 1
-  },
-  {
-    "title": "Big Tech’s desperate last push at AI regulation",
-    "url": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
-    "source": "The Verge AI",
-    "publishedAt": "2026-06-15T17:44:10.000Z",
-    "snippet": "U.S. Sen. Marsha Blackburn (R-TN) and Majority Leader Chuck Schumer (D-NY) arrive for a news conference with bipartisan senators on passage of the Online Privacy Protection Act at the Capitol on July 30, 2024 in Washington, DC. | Kent Nishimura/Getty Images.\t\n\nFor months, Big Tech's Washington lobbyists have chased after the holy grail of pro-AI legislation: preemption. This would be a comprehensive federal law, passed in Congress and signed by the president, applying one set of AI rules across ",
-    "tier": 1
-  },
-  {
-    "title": "Skydio CEO Adam Bry on why Silicon Valley shouldn’t draw red lines for drone use",
-    "url": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military",
-    "source": "The Verge AI",
-    "publishedAt": "2026-06-15T14:00:00.000Z",
-    "snippet": "Today, I’m talking with Adam Bry, who is CEO of Skydio, the leading US maker of autonomous drones. Before we recorded this episode, I actually got to remotely operate one of Skydio’s drones in the Bay Area from Adam’s laptop in our podcast studio in New York and fly an indoor drone around our office. You can check out the full video of that on our YouTube channel.\nBeyond flying drones around the country, Adam and I talked about why Skydio is so focused on the enterprise market — I asked him a lo",
+    "title": "The Gemini-Powered Google Home Speaker Is Finally Here",
+    "url": "https://www.wired.com/story/the-gemini-powered-google-home-speaker-is-finally-here/",
+    "source": "Wired AI",
+    "publishedAt": "Wed, 17 Jun 2026 13:00:00 +0000",
+    "snippet": "Arriving six years after Google’s last smart speaker, the new HomePod-style device was redesigned to play host to Gemini’s chatbot.",
     "tier": 1
   },
   {
@@ -453,6 +485,14 @@
     "source": "Wired AI",
     "publishedAt": "Mon, 15 Jun 2026 21:33:46 +0000",
     "snippet": "In an internal memo seen by WIRED, Bosworth promised employees more stability, better communication, and the return of workplace perks as the company seeks to improve morale.",
+    "tier": 1
+  },
+  {
+    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "url": "https://openai.com/index/ai-chemist-improves-reaction",
+    "source": "OpenAI Blog",
+    "publishedAt": "Wed, 17 Jun 2026 10:00:00 GMT",
+    "snippet": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
     "tier": 1
   },
   {
@@ -757,46 +797,6 @@
     "source": "arXiv AI (cs.AI)",
     "publishedAt": "Wed, 17 Jun 2026 00:00:00 -0400",
     "snippet": "arXiv:2606.17888v1 Announce Type: new \nAbstract: Chain-of-Thought (CoT) reasoning has extended from purely linguistic domains to multimodal scenarios; however, existing approaches often treat visual inputs as homogeneous or auxiliary signals, failing to capture the intricate and sample-specific dependencies between text and images in mathematical problem-solving. This gives rise to two core issues: first, the supervisory signals for visual content are generalized and coarse-grained, lacking adap",
-    "tier": 1
-  },
-  {
-    "title": "Learn to Quantify Social Interaction with Constraints for Pedestrian Walking",
-    "url": "https://arxiv.org/abs/2606.17897",
-    "source": "arXiv AI (cs.AI)",
-    "publishedAt": "Wed, 17 Jun 2026 00:00:00 -0400",
-    "snippet": "arXiv:2606.17897v1 Announce Type: new \nAbstract: Long-term human path forecasting in crowds is critical for autonomous moving platforms (like autonomous driving cars and social robots) to avoid collision and make high-quality planning. Although the current research take into account social interactions for prediction, they don't reveal the exact kinds of social interactions happened among people and how the social interactions affect the decision-making process of pedestrians, which further limi",
-    "tier": 1
-  },
-  {
-    "title": "DiagFlowBench: Evaluating How Language Models Handle Off-Procedure Inputs in Grounded Diagnostic Dialogue",
-    "url": "https://arxiv.org/abs/2606.17904",
-    "source": "arXiv AI (cs.AI)",
-    "publishedAt": "Wed, 17 Jun 2026 00:00:00 -0400",
-    "snippet": "arXiv:2606.17904v1 Announce Type: new \nAbstract: Language models increasingly serve as advisory systems in maintenance operations. To prevent hallucination, recent systems ground these models in procedural documentation to constrain them to approved steps. In practice, however, operator queries frequently stray from this path, requiring models to recognise out-of-scope inputs mid-conversation, a dynamic that current benchmarks rarely prioritise. We introduce DiagFlowBench, a dataset of 50 indust",
-    "tier": 1
-  },
-  {
-    "title": "PreAct: Computer-Using Agents that Get Faster on Repeated Tasks",
-    "url": "https://arxiv.org/abs/2606.17929",
-    "source": "arXiv AI (cs.AI)",
-    "publishedAt": "Wed, 17 Jun 2026 00:00:00 -0400",
-    "snippet": "arXiv:2606.17929v1 Announce Type: new \nAbstract: Computer-using agents drive real software through the screen -- clicking and typing -- but they solve every task from scratch: asked to repeat a task, an agent re-reads the screen, re-reasons every tap, and pays the full cost again. We present PreAct, which lets such an agent get faster on tasks it has done before. The first time it succeeds, PreAct compiles the run into a small state-machine program-states that check the screen, transitions that ",
-    "tier": 1
-  },
-  {
-    "title": "How Inference Compute Shapes Frontier LLM Evaluation",
-    "url": "https://arxiv.org/abs/2606.17930",
-    "source": "arXiv AI (cs.AI)",
-    "publishedAt": "Wed, 17 Jun 2026 00:00:00 -0400",
-    "snippet": "arXiv:2606.17930v1 Announce Type: new \nAbstract: AI evaluations are shifting toward harder tasks that benefit from longer trajectories involving tool use and iterative problem solving. As a result, performance is increasingly sensitive to the amount and allocation of compute available at test time (\"inference compute\"). Yet many evaluations still report performance at a single restrictive budget, meaning that low scores may reflect the evaluation setup rather than the model's underlying capabili",
-    "tier": 1
-  },
-  {
-    "title": "Small Initialization Matters for Large Language Models",
-    "url": "https://arxiv.org/abs/2606.17945",
-    "source": "arXiv AI (cs.AI)",
-    "publishedAt": "Wed, 17 Jun 2026 00:00:00 -0400",
-    "snippet": "arXiv:2606.17945v1 Announce Type: new \nAbstract: Large language models provide a tractable system for asking how intelligence itself emerges, rather than only how LLMs can be engineered. Although progress is usually attributed to scale, data and architecture, we show that parameter initialization is a gene-like determinant of training and, in particular, of model capacity. Reducing the initialization scale consistently improves pretraining, with the largest gains on reasoning-demanding tasks. We",
     "tier": 1
   }
 ]
