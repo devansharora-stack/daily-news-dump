@@ -34,4 +34,10 @@ export const config = {
   b2bOutputDir: resolve(ROOT, "b2b-digests"),
   b2bSentHistoryPath: resolve(ROOT, "b2b-digests/sent-history.json"),
   b2bModel: process.env.B2B_MODEL || "claude-opus-4-6",
+
+  // Gemini / Vertex AI
+  gcpProjectId: process.env.GCP_PROJECT_ID,
+  gcpLocation: process.env.GCP_LOCATION || "us-central1",
+  gcpCredentialsPath: process.env.GOOGLE_APPLICATION_CREDENTIALS,
+  geminiModel: process.env.GEMINI_MODEL || "gemini-2.5-flash",
 };

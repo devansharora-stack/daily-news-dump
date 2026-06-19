@@ -3,39 +3,61 @@ import { resolve } from "node:path";
 import { config } from "../config.js";
 import { logger } from "../logger.js";
 
-export function saveB2BDigest(result, today) {
-  if (!existsSync(config.b2bOutputDir)) {
-    mkdirSync(config.b2bOutputDir, { recursive: true });
+const schedulePath = resolve(config.b2bOutputDir, "week-schedule.json");
+
+function ensureDir() {
+  if (!existsSync(config.b2bOutputDir)) mkdirSync(config.b2bOutputDir, { recursive: true });
+}
+
+export function saveWeekSchedule(schedule, weekOf) {
+  ensureDir();
+  const data = { weekOf, ...schedule };
+  writeFileSync(schedulePath, JSON.stringify(data, null, 2));
+  logger.info(`B2B: Week schedule saved for week of ${weekOf}`);
+  return schedulePath;
+}
+
+export function loadWeekSchedule() {
+  if (!existsSync(schedulePath)) return null;
+  return JSON.parse(readFileSync(schedulePath, "utf-8"));
+}
+
+export function updateScheduleKeyNotes(day, keyNotes, question) {
+  const schedule = loadWeekSchedule();
+  if (!schedule) return;
+
+  for (const topic of ["topicA", "topicB"]) {
+    const res = schedule[topic].resources.find((r) => r.day === day);
+    if (res) {
+      res.keyNotes = keyNotes;
+      res.question = question;
+      break;
+    }
   }
 
-  // Save today's digest
-  const digestPath = resolve(config.b2bOutputDir, `${today}.json`);
-  const digest = {
-    date: today,
-    headline: result.headline,
-    source: result.source,
-    url: result.url,
-    topTake: result.topTake,
-    freshOrEvergreen: result.freshOrEvergreen,
-  };
-  writeFileSync(digestPath, JSON.stringify(digest, null, 2));
-  logger.info(`B2B: Digest saved to ${digestPath}`);
+  writeFileSync(schedulePath, JSON.stringify(schedule, null, 2));
+}
 
-  // Update sent history
+export function saveDailyDigest(content, dateStr) {
+  ensureDir();
+  const digestPath = resolve(config.b2bOutputDir, `${dateStr}.json`);
+  writeFileSync(digestPath, JSON.stringify(content, null, 2));
+  logger.info(`B2B: Daily digest saved to ${digestPath}`);
+  return digestPath;
+}
+
+export function updateSentHistory(urls) {
   let history = { sent: [] };
   if (existsSync(config.b2bSentHistoryPath)) {
     history = JSON.parse(readFileSync(config.b2bSentHistoryPath, "utf-8"));
   }
 
-  history.sent.push({
-    url: result.url,
-    dateSent: today,
-    title: result.headline,
-    freshOrEvergreen: result.freshOrEvergreen,
-  });
+  for (const entry of urls) {
+    if (!history.sent.some((s) => s.url === entry.url)) {
+      history.sent.push(entry);
+    }
+  }
 
   writeFileSync(config.b2bSentHistoryPath, JSON.stringify(history, null, 2));
   logger.info(`B2B: Sent history updated (${history.sent.length} total entries)`);
-
-  return digestPath;
 }

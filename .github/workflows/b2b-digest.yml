@@ -1,18 +1,29 @@
-name: Daily B2B Marketing Resource
+name: B2B Marketing Weekly Sprint
 
 on:
   schedule:
-    # Run at 3 PM ET (7 PM UTC) — 1 hour after AI digest
-    - cron: "0 19 * * *"
+    # Sunday 2 AM UTC (7:30 AM IST) — weekly planner: fetch articles + plan the week
+    - cron: "0 2 * * 0"
+    # Daily 3:30 AM UTC (9 AM IST) — daily runner: generate key notes/recaps
+    - cron: "30 3 * * *"
   workflow_dispatch:
+    inputs:
+      mode:
+        description: "Which mode to run"
+        required: true
+        default: "daily"
+        type: choice
+        options:
+          - daily
+          - plan-week
 
 permissions:
   contents: write
 
 jobs:
-  generate-b2b-digest:
+  b2b-sprint:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
 
     steps:
       - uses: actions/checkout@v4
@@ -25,20 +36,40 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Run B2B pipeline
+      - name: Determine mode
+        id: mode
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "step=${{ github.event.inputs.mode }}" >> $GITHUB_OUTPUT
+          elif [ "$(date -u +%u)" = "7" ]; then
+            echo "step=plan-week" >> $GITHUB_OUTPUT
+          else
+            echo "step=daily" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Run weekly planner
+        if: steps.mode.outputs.step == 'plan-week'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_FOUNDRY_API_KEY: ${{ secrets.ANTHROPIC_FOUNDRY_API_KEY }}
+          ANTHROPIC_FOUNDRY_RESOURCE: ${{ secrets.ANTHROPIC_FOUNDRY_RESOURCE }}
+        run: npm run b2b:plan
+
+      - name: Run daily digest
+        if: steps.mode.outputs.step == 'daily'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ANTHROPIC_FOUNDRY_API_KEY: ${{ secrets.ANTHROPIC_FOUNDRY_API_KEY }}
           ANTHROPIC_FOUNDRY_RESOURCE: ${{ secrets.ANTHROPIC_FOUNDRY_RESOURCE }}
         run: npm run b2b
 
-      - name: Commit B2B digest to repo
+      - name: Commit to repo
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git pull --rebase
           DATE=$(date +%Y-%m-%d)
           git add -f b2b-digests/ data/
-          git diff --staged --quiet && echo "No new B2B digest to commit" && exit 0
-          git commit -m "B2B resource: ${DATE}"
+          git diff --staged --quiet && echo "No new B2B content to commit" && exit 0
+          git commit -m "B2B sprint: ${DATE} (${{ steps.mode.outputs.step }})"
           git push

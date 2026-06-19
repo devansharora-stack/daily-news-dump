@@ -10,12 +10,11 @@
     "publish": "node src/index.js --step=publish",
     "dry-run": "node src/index.js --dry-run",
     "b2b": "node src/b2b-index.js",
-    "b2b:fetch": "node src/b2b-index.js --step=fetch",
-    "b2b:select": "node src/b2b-index.js --step=select",
-    "b2b:publish": "node src/b2b-index.js --step=publish"
+    "b2b:plan": "node src/b2b-index.js --step=plan-week"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.39.0",
+    "@google-cloud/vertexai": "^1.12.0",
     "cheerio": "^1.0.0",
     "p-limit": "^6.2.0",
     "playwright": "^1.58.2",

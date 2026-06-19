@@ -6,3 +6,4 @@ data/
 digests/
 b2b-digests/
 .DS_Store
+gcp-service-account.json
