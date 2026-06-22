@@ -27,4 +27,17 @@ export const config = {
   foundryResource: process.env.ANTHROPIC_FOUNDRY_RESOURCE,
   maxRawItems: parseInt(process.env.MAX_RAW_ITEMS || "100", 10),
   maxCuratedItems: parseInt(process.env.MAX_CURATED_ITEMS || "30", 10),
+
+  // B2B pipeline
+  b2bSourcesPath: resolve(ROOT, "config/b2b-sources.json"),
+  b2bEvergreenPath: resolve(ROOT, "config/b2b-evergreen.json"),
+  b2bOutputDir: resolve(ROOT, "b2b-digests"),
+  b2bSentHistoryPath: resolve(ROOT, "b2b-digests/sent-history.json"),
+  b2bModel: process.env.B2B_MODEL || "claude-opus-4-6",
+
+  // Gemini / Vertex AI
+  gcpProjectId: process.env.GCP_PROJECT_ID,
+  gcpLocation: process.env.GCP_LOCATION || "us-central1",
+  gcpCredentialsPath: process.env.GOOGLE_APPLICATION_CREDENTIALS,
+  geminiModel: process.env.GEMINI_MODEL || "gemini-2.5-flash",
 };

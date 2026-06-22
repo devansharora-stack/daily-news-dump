@@ -1,0 +1,35 @@
+{
+  "rss": [
+    { "name": "HubSpot Marketing", "url": "https://blog.hubspot.com/marketing/rss.xml" },
+    { "name": "Forrester Blog", "url": "https://www.forrester.com/blogs/feed" },
+    { "name": "Salesforce Blog", "url": "https://www.salesforce.com/blog/feed/" },
+    { "name": "Martech.org", "url": "https://martech.org/feed/" },
+    { "name": "Search Engine Journal", "url": "https://www.searchenginejournal.com/feed/" },
+    { "name": "Moz Blog", "url": "https://moz.com/blog/feed" },
+    { "name": "Adweek", "url": "https://www.adweek.com/feed/" },
+    { "name": "Social Media Examiner", "url": "https://www.socialmediaexaminer.com/feed/" },
+    { "name": "Harvard Business Review", "url": "https://hbr.org/feed" },
+    { "name": "MIT Technology Review", "url": "https://www.technologyreview.com/feed/" }
+  ],
+  "web": [
+    { "name": "RankWriters B2B Cases", "url": "https://www.rankwriters.com/b2b-marketing-case-studies" },
+    { "name": "Content Marketing Institute", "url": "https://contentmarketinginstitute.com/articles/" }
+  ],
+  "search": [
+    { "name": "McKinsey B2B", "query": "site:mckinsey.com B2B marketing case study", "type": "google_news" },
+    { "name": "BCG B2B", "query": "site:bcg.com B2B marketing", "type": "google_news" },
+    { "name": "Gartner Marketing", "query": "site:gartner.com marketing strategy", "type": "google_news" },
+    { "name": "CXL B2B", "query": "site:cxl.com B2B", "type": "google_news" },
+    { "name": "Demand Gen Report", "query": "site:demandgenreport.com", "type": "google_news" },
+    { "name": "B2B Marketing Net", "query": "site:b2bmarketing.net case study", "type": "google_news" },
+    { "name": "HubSpot B2B Cases", "query": "site:hubspot.com B2B case study", "type": "google_news" },
+    { "name": "Forrester B2B", "query": "site:forrester.com B2B marketing", "type": "google_news" },
+    { "name": "LinkedIn Business B2B", "query": "site:linkedin.com/business B2B marketing", "type": "google_news" },
+    { "name": "B2B Case Study Results", "query": "B2B marketing case study results", "type": "google_news" },
+    { "name": "B2B ABM Revenue", "query": "B2B ABM case study revenue impact", "type": "google_news" },
+    { "name": "B2B SaaS Demand Gen", "query": "B2B SaaS demand generation case study", "type": "google_news" },
+    { "name": "Enterprise Marketing Transform", "query": "enterprise marketing transformation case study", "type": "google_news" },
+    { "name": "B2B GTM Strategy", "query": "B2B go-to-market strategy breakdown", "type": "google_news" }
+  ],
+  "web_playwright": []
+}

@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-06-17",
+  "entries": [
+    {
+      "title": "How Snowflake Built a $100M Pipeline with Account-Based Marketing",
+      "url": "https://www.demandgenreport.com/resources/case-studies/snowflake-abm-strategy",
+      "source": "Demand Gen Report",
+      "category": "ABM",
+      "snippet": "Snowflake's account-based marketing program targeted 500 enterprise accounts with personalized multi-channel campaigns, generating over $100M in qualified pipeline within 18 months."
+    },
+    {
+      "title": "How HubSpot Grew to $1B ARR with Inbound Marketing",
+      "url": "https://blog.hubspot.com/marketing/hubspot-inbound-marketing-story",
+      "source": "HubSpot",
+      "category": "Content Marketing",
+      "snippet": "HubSpot pioneered inbound marketing as both a strategy and product, growing from startup to $1B ARR by giving away free tools and educational content that attracted millions of marketers."
+    },
+    {
+      "title": "Slack's Product-Led Growth Strategy: From 0 to $27B Acquisition",
+      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/product-led-growth",
+      "source": "McKinsey",
+      "category": "Product-Led Growth",
+      "snippet": "Slack grew by letting individual users adopt the product freely within organizations, then converting organic usage into enterprise contracts — a bottom-up GTM strategy that led to Salesforce's $27.7B acquisition."
+    },
+    {
+      "title": "How Gong Built a Category with Data-Driven Content Marketing",
+      "url": "https://www.gong.io/blog/content-marketing-strategy/",
+      "source": "Gong",
+      "category": "Content Marketing",
+      "snippet": "Gong used its own revenue intelligence data to publish original research that competitors couldn't replicate, turning proprietary data into a content marketing moat that drove category leadership."
+    },
+    {
+      "title": "How Notion Cracked Enterprise Sales with a Product-Led Flywheel",
+      "url": "https://www.forrester.com/blogs/notion-enterprise-plg/",
+      "source": "Forrester",
+      "category": "Product-Led Growth",
+      "snippet": "Notion grew to $10B by letting individual users pull the product into enterprises, then layering a sales team on top only after organic adoption hit critical mass within target accounts."
+    },
+    {
+      "title": "Adobe's ABM Transformation: From Mass Marketing to Precision Targeting",
+      "url": "https://business.linkedin.com/marketing-solutions/blog/account-based-marketing/adobe-abm-case-study",
+      "source": "LinkedIn Marketing",
+      "category": "ABM",
+      "snippet": "Adobe restructured its entire B2B marketing organization around ABM, moving from broad demand gen to account-level orchestration and seeing a 3x increase in engagement rates with target accounts."
+    },
+    {
+      "title": "How Atlassian Scaled to $3B Revenue with Zero Traditional Sales",
+      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/atlassian-growth",
+      "source": "McKinsey",
+      "category": "Product-Led Growth",
+      "snippet": "Atlassian built a $3B+ business with no outbound sales team, relying on free tiers, self-serve pricing, and community-driven adoption to land and expand within enterprises globally."
+    },
+    {
+      "title": "The Rippling GTM Playbook: How Parker Conrad Built a $13B Compound Startup",
+      "url": "https://www.saastr.com/rippling-gtm-strategy/",
+      "source": "SaaStr",
+      "category": "GTM Strategy",
+      "snippet": "Rippling's compound startup strategy bundles HR, IT, and finance products to increase deal sizes and reduce churn, with a multi-product GTM motion that creates natural cross-sell within accounts."
+    },
+    {
+      "title": "How Salesforce Created the SaaS Marketing Playbook",
+      "url": "https://hbr.org/2024/salesforce-marketing-transformation",
+      "source": "Harvard Business Review",
+      "category": "GTM Strategy",
+      "snippet": "Salesforce pioneered the modern SaaS go-to-market playbook: free trials, customer success teams, annual conferences, and ecosystem-driven growth that defined how B2B software is sold today."
+    },
+    {
+      "title": "How ZoomInfo Built a Data-Driven Demand Generation Engine",
+      "url": "https://www.demandgenreport.com/resources/case-studies/zoominfo-demand-gen",
+      "source": "Demand Gen Report",
+      "category": "Demand Generation",
+      "snippet": "ZoomInfo used its own intent data platform to power its demand gen engine, targeting accounts showing buying signals and achieving 40% higher conversion rates than traditional lead scoring."
+    }
+  ]
+}

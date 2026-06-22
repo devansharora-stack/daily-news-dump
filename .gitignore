@@ -4,4 +4,6 @@ config/google-credentials.json
 config/google-token.json
 data/
 digests/
+b2b-digests/
 .DS_Store
+gcp-service-account.json
