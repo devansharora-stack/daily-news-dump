@@ -1,0 +1,205 @@
+[
+  {
+    "headline": "How Agentic AI Supercharges Startups and Threatens Incumbents",
+    "source": "Harvard Business Review",
+    "url": "https://hbr.org/2026/07/how-agentic-ai-supercharges-startups-and-threatens-incumbents",
+    "theme": "Agentic AI",
+    "summary": "HBR examines how agentic AI is lowering barriers to entry for startups while creating existential threats for incumbents who can't adapt fast enough. The piece highlights the structural advantage that AI-native companies have in building autonomous workflows from scratch versus retrofitting legacy operations. Essential reading for executives evaluating their competitive moat in an agentic world."
+  },
+  {
+    "headline": "How to Design Agentic Systems Around the Implicit Rules that Govern Your Company",
+    "source": "Harvard Business Review",
+    "url": "https://hbr.org/2026/06/how-to-design-agentic-systems-around-the-implicit-rules-that-govern-your-company",
+    "theme": "Agentic AI",
+    "summary": "HBR argues that the biggest failure point for agentic AI deployments is not technology but the unwritten rules, norms, and cultural logic that govern how companies actually operate. Agents designed around formal processes break down when they encounter informal decision-making. This is a practical framework for CXOs trying to move agents from pilot to production."
+  },
+  {
+    "headline": "The Strongest Teams of AI Agents Will Be Built Using Different Models",
+    "source": "Harvard Business Review",
+    "url": "https://hbr.org/2026/06/the-strongest-teams-of-ai-agents-will-be-built-using-different-models",
+    "theme": "Agentic AI",
+    "summary": "HBR makes the case that enterprise agent architectures should use heterogeneous models—different LLMs for different tasks within the same workflow—rather than relying on a single provider. This has significant implications for vendor strategy, procurement, and avoiding lock-in as companies scale agentic deployments."
+  },
+  {
+    "headline": "The Next Enterprise AI Challenge Is Agent Sprawl",
+    "source": "BankInfoSecurity",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOUotWGUxTVRnMTAtbWpLVTlmME5QUDBjUWRqR0dLYnBlZHltdTlzZ0EzTnE0c2RsRk1QTFAzQzExQWQ3akFjeE1IclljVTFHSHQ0djk0aTFxRE5jdWFCcUNFdTgzNndpMUtxQzY5NkZXUThDN1NEdHJKOFByUkNrLTRlYzhZVFI4WWc?oc=5",
+    "theme": "Agentic AI",
+    "summary": "As enterprises rapidly deploy AI agents across departments, a new governance challenge emerges: agent sprawl. Similar to shadow IT and cloud sprawl before it, uncoordinated agent deployments create security risks, redundant costs, and conflicting autonomous actions. This is an early signal of the 'Token Anxiety' phenomenon as organizations struggle with the operational complexity of running agents at scale."
+  },
+  {
+    "headline": "AI Coding Agents Fail at Teamwork",
+    "source": "Stanford HAI",
+    "url": "https://hai.stanford.edu/news/ai-coding-agents-fail-at-teamwork",
+    "theme": "Agentic AI",
+    "summary": "Stanford research finds that two AI coding models working together actually perform worse than one working alone, exposing a critical gap in multi-agent collaboration capabilities. This finding directly challenges the 'agentic swarm' narrative being sold by vendors and should temper expectations for enterprises planning multi-agent architectures."
+  },
+  {
+    "headline": "Building Reliable Agentic AI Systems (Bayer Case Study)",
+    "source": "Martin Fowler / Hacker News",
+    "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+    "theme": "Enterprise ROI",
+    "summary": "Martin Fowler publishes a detailed case study on how Bayer built reliable agentic AI systems in production, covering the engineering patterns needed to move from prototype to enterprise-grade deployment. With 193 upvotes on Hacker News, this is one of the first credible, public accounts of a Fortune 500 company sharing what actually works in agentic AI at scale."
+  },
+  {
+    "headline": "Samsung Electronics Deploys ChatGPT Enterprise and Codex to Employees Worldwide",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "theme": "Enterprise ROI",
+    "summary": "Samsung Electronics has rolled out ChatGPT Enterprise and Codex to employees globally, marking one of OpenAI's largest enterprise deployments to date. This is notable because Samsung previously banned ChatGPT internally after data leaks in 2023—the reversal signals growing enterprise confidence in controlled AI deployments and represents a major reference customer win for OpenAI."
+  },
+  {
+    "headline": "Why Enterprise AI Fails at the Final 30%",
+    "source": "The European Business Review",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSmtad3BzX3hrbmxCbEFReTBMYnBpVmtQUFRhb3VUVFhkRzB0bm9PeHluYjRReVFHNnpSNzJsSUZMODg0VXhyaFZ5WWtlczBfS1NsWENVQlZtMW9TY3pSOVUtSVhrQ0t6RjFQeTBJcXdVa0tQZEEtSHZ2VzJZVDZsS09oblhZQQ?oc=5",
+    "theme": "AI Strategy",
+    "summary": "Analysis of why enterprise AI projects consistently stall after achieving ~70% of their intended value—the 'last mile' problem of integration, change management, and process redesign. This is a textbook example of Pilot Purgatory: companies demonstrate AI capabilities in controlled settings but fail to operationalize them across the organization."
+  },
+  {
+    "headline": "Don't Let AI Slop Muck Up Your Company's Processes",
+    "source": "Harvard Business Review",
+    "url": "https://hbr.org/2026/06/dont-let-ai-slop-muck-up-your-companys-processes",
+    "theme": "AI Risk",
+    "summary": "HBR warns about the growing problem of low-quality AI-generated content ('AI slop') degrading internal business processes—from bloated reports to meaningless emails to poorly generated code entering production. This is the Hallucination Tax manifesting not as dramatic failures but as a slow erosion of organizational quality and signal-to-noise ratio."
+  },
+  {
+    "headline": "A Surge of AI-Generated Lawsuits Is Causing Servicers Pain",
+    "source": "National Mortgage News",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMkVoRlNiYi1PNXMxcmhObkpXR09NY0swWENhcHFBU1pEdkdudXBTMFh5X1VOVllBZUR3c2xHcjNMTldlNDBJS1hieUluZzVxMW1wRURFR3JYYUFsTWlwUERIQzlEeXp5bjBZaVZrTGVkVExybXpFOXE5OHJmUEI2MzA4cEFLRkhrbEFkWE5xVElWaUZ3Y2h4dV81X1FYU0k0R0E?oc=5",
+    "theme": "AI Risk",
+    "summary": "Mortgage servicers are being flooded with AI-generated lawsuits—mass-produced legal filings created using generative AI that are overwhelming compliance and legal teams. This represents a novel business risk: AI dramatically lowering the cost of litigation for plaintiffs while imposing real defense costs on companies, regardless of the merits of the claims."
+  },
+  {
+    "headline": "Read This Before You Vibe-Code Another App: Hidden Security Risks",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+    "theme": "AI Risk",
+    "summary": "The Verge profiles multiple cases where 'vibe-coded' applications—built rapidly using AI coding assistants—shipped with serious security vulnerabilities including SQL injection risks. One creator didn't discover the flaw for months after going live. This is a concrete example of the Hallucination Tax: AI-generated code that works functionally but carries hidden security debt."
+  },
+  {
+    "headline": "AI Hiring Tools Can Yield Racial Bias and Systemic Rejection",
+    "source": "Stanford HAI",
+    "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
+    "theme": "AI Ethics & Trust",
+    "summary": "The first large-scale study of AI hiring algorithms deployed in real-world settings finds concerning patterns of racial bias and systemic candidate rejection. For any enterprise using automated screening tools, this research creates significant legal and reputational exposure, especially as regulators in the EU and several US states tighten rules on AI in employment decisions."
+  },
+  {
+    "headline": "Reading Today's Headlines Through AI: A Real-Time Audit of Six Commercial Chatbots",
+    "source": "Stanford HAI",
+    "url": "https://hai.stanford.edu/news/reading-todays-headlines-through-ai-a-real-time-audit-of-six-commercial-chatbots",
+    "theme": "AI Ethics & Trust",
+    "summary": "Stanford researchers audited six major commercial chatbots on current news accuracy and found substantial regional disparities, dependence on distinct information ecosystems, and acute fragility under imperfect prompts. For enterprises relying on chatbots for customer-facing information or internal knowledge retrieval, this highlights systematic reliability gaps that vary by geography and topic."
+  },
+  {
+    "headline": "AI Regulation Is a Mess, and Anthropic Is Caught in the Crosshairs",
+    "source": "CNN",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1neXNmOTd6N0V5LVlxS0pFVnVUVHpEMzNXSE5aSkE0aWJCMDc1N3BuVXFRX091UWFWR2MzVEw0MW5aQzh5TjRPTVYwVjQtUHYzT2RTLW1kRi11am80cHFfTGREZUtwdEw3RlBR?oc=5",
+    "theme": "Regulatory",
+    "summary": "CNN examines how the fragmented US AI regulatory landscape is creating real business uncertainty, using Anthropic as the primary case study. The company faces pressure from the Trump administration while simultaneously navigating state-level regulations and international compliance requirements. The story illustrates how leading AI companies are becoming political targets regardless of their safety positioning."
+  },
+  {
+    "headline": "When the Trump Administration Cracks Down on Anthropic, Who Benefits?",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+    "theme": "Regulatory",
+    "summary": "TechCrunch analyzes the competitive implications of the Trump administration's latest regulatory moves against Anthropic, exploring which AI companies stand to gain market share and government contracts. The piece suggests that regulatory action against one major player could reshape the entire AI vendor landscape for enterprise buyers."
+  },
+  {
+    "headline": "An AI Proxy War Could Reshape Congress — Before Congress Reshapes AI",
+    "source": "NPR",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTWc4eXZZZFdNcUhTSUg2N2hXakQzTWNBU3dicWRDcm9fS0xfZXVvZWc5MEYwWGRqdzZpLXdiTk5rbWt3Z2NTMWVhLW9kSThXRl9fSnlWUkt5Yk1Uakw0S2VyV0c4MzktZkM0UFdzLW1vM2tzWmFrOFVzei1ndGhhOXpjbHFoT3ZtUVpPRU5lWWQxV0N0bmtwbXlSUkhwYVRaRmc?oc=5",
+    "theme": "Regulatory",
+    "summary": "NPR reports that AI industry lobbying has become a proxy war in Congress, with competing factions trying to shape regulation before legislators act. The implication for business leaders: the regulatory environment for AI is being actively contested in ways that could produce sudden, dramatic policy shifts depending on which faction prevails in the midterms."
+  },
+  {
+    "headline": "Three Ways Trump Could Get a Stake in AI Firms for the US",
+    "source": "Yahoo Finance / Reuters",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS0ZYTXFDUnRQT09aZk9jTEZDTzZuWVZ6ZVhFMEZHLUhZbUN4eURtTU5mdnN0dEd4dnJjN3NiM3A2VnR6bVAzOW5SX2JjWkR3Zl9Fdm9qaWwzTy1VU1lkNTg5MmM3RHl0ZXdJbnduMW0tYnJuUTk3eHRCU1ZsTFMwdjVONnVJaTJSU0cwVi1DeldkNi1EZi1OX0ltRmk?oc=5",
+    "theme": "Regulatory",
+    "summary": "Reuters explores three mechanisms the Trump administration is considering to acquire government equity stakes in AI companies, including through infrastructure deals and national security agreements. This would represent an unprecedented level of government involvement in the AI industry and could fundamentally change the ownership and governance dynamics for leading AI firms."
+  },
+  {
+    "headline": "States Are Embracing AI to Help Manage Safety-Net Programs",
+    "source": "Axios",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mczZoUDlDTGs4Z1RCcC1nQkRrYmdiamsyUEhrMjcxQWhPb2VjNWZ0Q29FNWQxcjJtQkZlelNQUjdvdXRXUFpiSC1yQTJtcTBZNUxGTDV6WUR2RkE5TF9mZUd1eGktZE9YNXg1emVTNVUxTThUWXQxN0tKSQ?oc=5",
+    "theme": "Regulatory",
+    "summary": "State governments across the US are deploying AI to manage benefits programs like Medicaid and food assistance, creating a massive new public-sector AI market. This trend represents both opportunity for enterprise AI vendors and significant risk—AI errors in safety-net programs carry political and legal consequences that could trigger backlash and regulation."
+  },
+  {
+    "headline": "India's Sarvam Raises $234M to Power Sovereign, Multilingual AI",
+    "source": "Slator",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01WHgzTU1JWUd1OFpJa3o5X1lmUVNMaEF5b0RHak5JTGNlOWdWWm9nSjBTNzhDWE9MeThCWndGZTY0RUVQNkJqMzlsT0xPWk5JaV9nYkdiRDlBY2Y0UHk3ZTVISzhwNWw3TDFkdW5PQUJ3UQ?oc=5",
+    "theme": "Funding & M&A",
+    "summary": "Indian AI startup Sarvam has raised $234 million to build sovereign, multilingual AI models for the Indian market. This is one of the largest AI funding rounds outside the US/China and reflects the growing global movement toward national AI sovereignty—countries and regions building their own foundation models rather than depending on American providers."
+  },
+  {
+    "headline": "Japan Tech Stocks Soar on Report of $65 Billion AI Investment Plan",
+    "source": "Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT0FRV2dxZGtyMW9aZWZVTGxrcWNCMGpNVmN3UjV2d1lYVm5jV3FNWFh6clQxWGpfNi1LZDFwUzZVUG9tNWRkZUxsUWhVWjdlclVwWk1sUnFpOFNQMWJxeF9DWFBGNHFnUEZRUHIwRndUQXZCbUZjNm4yd0l2X0U2QzRqaUJHck1xUkV4YmszdnFoNFc1d0xkTXpBYUR2eER5aGlFR01SdzI1Z0twZ1d4VzUyalZucFFsa2c?oc=5",
+    "theme": "Funding & M&A",
+    "summary": "Japanese tech stocks surged on reports of a $65 billion national AI investment plan, signaling Japan's aggressive entry into the AI infrastructure race. For global enterprises, this means Japan is positioning itself as a major AI hub—potentially creating new partnerships, supply chain options, and market opportunities outside the US-China axis."
+  },
+  {
+    "headline": "Nobel Laureate John Jumper Leaves DeepMind for Anthropic",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+    "theme": "Funding & M&A",
+    "summary": "John Jumper, who won the Nobel Prize for his AlphaFold work at Google DeepMind, is departing for Anthropic—and he's reportedly not the only senior departure from Google's AI lab. This talent drain from Google to a direct competitor signals a meaningful shift in where top AI researchers see the most promising future, and may affect Google's competitive positioning in frontier AI."
+  },
+  {
+    "headline": "Chinese AI Stocks Rally on Demand Optimism and Policy Support",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVpGWGVJdndrQ21CZklZbThXbFJwZXZYM3RJSV9QYVhEYzF3Si1OUWJVNXlLNVNZbGRmNVBsWGlCbnkzOVVwWFRXSVpPbGtianp0cEpXN3hHdDJrLXlwUkNGb2k3Mkl0NWhybnNYTTNxeWhPb3NlUHduMG10dHhjclMxdDk0dlhNRjZTejJ4V19yb2R1dGZCR0Y3UUhjSTN5Z2dtNzJ5eXZVV0V6Qmd1cnRB?oc=5",
+    "theme": "Funding & M&A",
+    "summary": "Bloomberg reports Chinese AI stocks are rallying on both increasing domestic demand and explicit government policy support for the sector. With Beijing intensifying its tech competition with the US, this signals that Chinese AI companies will have growing state-backed resources—creating both competition and potential market opportunities for global enterprises navigating the bifurcated AI landscape."
+  },
+  {
+    "headline": "Former Nvidia Leaders' EverGreen Fund Backs AI Startups Linked to Chipmaker",
+    "source": "citybiz",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaTFuTzNEQUstSlNIcldxbzNGYkQwWUd0YjRrRmF1NHVqRndFakpJQTY0WktKd20tN3pxMjJkT2szaE1hSGlFZnRqcVNPdUp4aGg4RXdlbGFRc0tIWlVILTNPU01xaXc4cnlFVGhLcExadW1pdVRHNm1oUDJqZzVQQjFjTldraHp3ajV3NVc0ajBrcE1FZi1CSXRYQU5iTXR6aXg5QVdCdzBJNWla?oc=5",
+    "theme": "Funding & M&A",
+    "summary": "Former Nvidia executives have launched EverGreen, a venture fund specifically backing AI startups with ties to the Nvidia ecosystem. This deepens the 'Nvidia as kingmaker' dynamic in AI—startups in the fund gain preferential access to Nvidia's technology and network, potentially widening the AI Value Gap between companies inside and outside this orbit."
+  },
+  {
+    "headline": "How Gen AI Is Disrupting B2B Buying Decisions",
+    "source": "Harvard Business Review",
+    "url": "https://hbr.org/2026/06/how-gen-ai-is-disrupting-b2b-buying-decisions",
+    "theme": "AI Strategy",
+    "summary": "HBR examines how B2B buyers are increasingly using AI tools to research, compare, and shortlist vendors—fundamentally changing how enterprise sales works. For any company selling to businesses, this means your product positioning is increasingly being filtered through AI intermediaries rather than human sales relationships, requiring a rethinking of go-to-market strategy."
+  },
+  {
+    "headline": "Lessons from Chinese AI Firms on Owning Customers' Habits",
+    "source": "Harvard Business Review",
+    "url": "https://hbr.org/2026/06/lessons-from-chinese-ai-firms-on-owning-customers-habits",
+    "theme": "AI Strategy",
+    "summary": "HBR analyzes how Chinese AI companies like those behind DeepSeek and Baidu's Ernie have successfully embedded AI into daily user habits through super-app integration strategies. The lessons are directly applicable to Western enterprises seeking to make AI sticky rather than experimental—ownership of user habits, not just feature superiority, determines long-term competitive advantage."
+  },
+  {
+    "headline": "Tencent Tests AI Assistant in WeChat as It Looks to Catch Up with Rivals",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/06/22/tencent-ai-assistant-wechat-china.html",
+    "theme": "AI Strategy",
+    "summary": "Tencent is integrating an AI assistant into WeChat, China's dominant super-app with over 1.3 billion users, representing one of the largest potential AI distribution plays globally. For enterprise strategists, this demonstrates how platform companies with existing user bases can rapidly achieve AI distribution at scale—a competitive advantage that pure-play AI startups cannot match."
+  },
+  {
+    "headline": "Help Employees Get Better—Not Just Faster—with AI",
+    "source": "Harvard Business Review",
+    "url": "https://hbr.org/2026/06/help-employees-get-better-not-just-faster-with-ai",
+    "theme": "AI Workforce Impact",
+    "summary": "HBR argues that most companies are deploying AI purely for speed and efficiency gains while missing the larger opportunity: using AI to actually improve employee skills and judgment. This reframes the AI workforce conversation from replacement to augmentation and offers a concrete counter-narrative to the 'AI will take all jobs' fear that complicates enterprise adoption."
+  },
+  {
+    "headline": "New Approach to Scaling Laws Could Save Millions in AI Training Costs",
+    "source": "Stanford HAI",
+    "url": "https://hai.stanford.edu/news/new-approach-to-scaling-laws-could-change-how-ai-models-are-trained",
+    "theme": "Research to Business",
+    "summary": "Stanford researchers have developed new scaling law methodologies borrowed from measurement science and education that dramatically reduce the computational cost of predicting large model performance. This could save millions of dollars in training costs by allowing companies to make better decisions about when and how to scale models—directly impacting the economics of building foundation models."
+  },
+  {
+    "headline": "The Atlantic Created a Searchable Database of Music Used to Train AI",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+    "theme": "AI Ethics & Trust",
+    "summary": "The Atlantic uncovered and made searchable four music datasets used for AI training, containing up to 12 million and 9 million tracks respectively. Google and Stability AI are among those who have potentially used this data. For any company building or deploying generative AI with media outputs, this increases transparency around training data provenance and heightens copyright litigation risk."
+  }
+]
