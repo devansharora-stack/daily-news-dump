@@ -18,6 +18,7 @@ import {
   saveDailyDigest,
   updateSentHistory,
 } from "./b2b/output.js";
+import { sendB2BDigestToChat } from "./b2b/chat.js";
 
 const args = process.argv.slice(2);
 const stepArg = args.find((a) => a.startsWith("--step="));
@@ -105,6 +106,7 @@ async function runDaily() {
   }
 
   saveDailyDigest(digest, today);
+  await sendB2BDigestToChat(digest);
 
   const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
   logger.info(`B2B Daily Runner finished in ${elapsed}s`);

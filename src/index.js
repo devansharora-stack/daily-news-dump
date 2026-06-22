@@ -5,6 +5,7 @@ import { logger } from "./logger.js";
 import { fetchAllSources } from "./fetchers/index.js";
 import { curateItems } from "./curation/curate.js";
 import { saveDigestLocally } from "./output/local.js";
+import { sendDigestToChat } from "./output/chat.js";
 
 const args = process.argv.slice(2);
 const stepArg = args.find((a) => a.startsWith("--step="));
@@ -65,6 +66,7 @@ async function runPublish(curated) {
   }
 
   const { pdfPath } = await saveDigestLocally(curated, today);
+  await sendDigestToChat(curated, today);
 
   logger.info("=== Pipeline complete ===");
   logger.info(`Digest: ${pdfPath}`);

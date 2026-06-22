@@ -72,6 +72,7 @@ jobs:
           GOOGLE_APPLICATION_CREDENTIALS: ${{ runner.temp }}/gcp-sa.json
           GCP_PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
           GCP_LOCATION: us-central1
+          B2B_GOOGLE_CHAT_WEBHOOK_URL: ${{ secrets.B2B_GOOGLE_CHAT_WEBHOOK_URL }}
         run: npm run b2b
 
       - name: Commit to repo
