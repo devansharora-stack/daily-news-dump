@@ -1,0 +1,17 @@
+{
+  "date": "2026-06-22",
+  "type": "resource",
+  "topic": "AI-Driven Marketing Operations and Strategy",
+  "dayLabel": "Day 1 of 3",
+  "headline": "Automation doesn’t eliminate vague objectives",
+  "source": "Martech.org",
+  "url": "https://martech.org/automation-doesnt-eliminate-vague-objectives/",
+  "keyNotes": [
+    "Surprisingly, even the smartest automated marketing tools, which manage things like ads and customer interactions, will only do *exactly* what you ask, not necessarily what your business truly needs to succeed.",
+    "Giving automation a vague goal, like just \"higher ROAS\" (meaning 'Return on Ad Spend' or how much money you get back from your ads), can make a metric look good, but it might just target people who would have bought anyway, not actually growing your customer base.",
+    "To make automation truly useful, you need to define clear \"sidelines\" or boundaries, like deciding you'll accept a lower \"ROAS\" (return on ad spend) from 8x to 5x if it means getting many more new customers, and knowing when to stop.",
+    "Before turning on new automated features, especially in regulated industries like insurance, it's crucial to decide what the system *shouldn't* do, such as preventing it from rewriting approved ad messages or using brand terms incorrectly.",
+    "The real job for people isn't to manage every tiny change automation makes, but to set the overall rules, like what counts as a true business win or loss, and what tradeoffs are acceptable."
+  ],
+  "question": "The article highlights that for any task, whether done by a person or a machine, you need to define both what a \"win\" looks like and what an unacceptable \"loss\" is, even if some metrics seem positive. When you set goals in your own work, how often do you explicitly decide what you *won't* accept or where you'll draw the line, and how might doing so change your approach?"
+}
