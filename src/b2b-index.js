@@ -215,16 +215,23 @@ function getNextMonday(dateStr) {
 }
 
 // --- Entry point ---
+// Force exit on success: the Vertex AI client leaves handles open that keep
+// the event loop alive, hanging the CI job until it times out (which would
+// also skip the commit step, losing the generated schedule/digest).
 if (step === "plan-week") {
-  runPlanWeek().catch((e) => {
-    logger.error(`B2B Plan Week failed: ${e.message}`);
-    logger.error(e.stack);
-    process.exit(1);
-  });
+  runPlanWeek()
+    .then(() => process.exit(0))
+    .catch((e) => {
+      logger.error(`B2B Plan Week failed: ${e.message}`);
+      logger.error(e.stack);
+      process.exit(1);
+    });
 } else {
-  runDaily().catch((e) => {
-    logger.error(`B2B Daily Runner failed: ${e.message}`);
-    logger.error(e.stack);
-    process.exit(1);
-  });
+  runDaily()
+    .then(() => process.exit(0))
+    .catch((e) => {
+      logger.error(`B2B Daily Runner failed: ${e.message}`);
+      logger.error(e.stack);
+      process.exit(1);
+    });
 }

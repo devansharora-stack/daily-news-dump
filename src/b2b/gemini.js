@@ -21,8 +21,8 @@ function getModel(useGrounding = false) {
   if (useGrounding) {
     return client.getGenerativeModel({
       model: config.geminiModel,
-      generationConfig: { temperature: 0.3, maxOutputTokens: 4096 },
-      tools: [{ googleSearchRetrieval: { dynamicRetrievalConfig: { mode: "MODE_DYNAMIC" } } }],
+      generationConfig: { temperature: 0.3, maxOutputTokens: 8192 },
+      tools: [{ googleSearch: {} }],
     });
   }
 
