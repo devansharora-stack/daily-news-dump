@@ -78,9 +78,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase
           DATE=$(date +%Y-%m-%d)
           git add -f b2b-digests/ data/
           git diff --staged --quiet && echo "No new B2B content to commit" && exit 0
           git commit -m "B2B sprint: ${DATE} (${{ steps.mode.outputs.step }})"
+          git pull --rebase
           git push
