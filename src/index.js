@@ -81,6 +81,9 @@ async function runAll() {
 
     const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
     logger.info(`Pipeline finished in ${elapsed}s`);
+    // Force exit: the headless browser used for PDF rendering can leave handles
+    // open that keep the event loop alive, hanging the CI job until it times out.
+    process.exit(0);
   } catch (err) {
     logger.error(`Pipeline failed: ${err.message}`);
     logger.error(err.stack);
