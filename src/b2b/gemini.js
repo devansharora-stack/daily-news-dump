@@ -1,61 +1,91 @@
-import { VertexAI } from "@google-cloud/vertexai";
+import { GoogleGenAI } from "@google/genai";
 import { config } from "../config.js";
 import { logger } from "../logger.js";
 
-let vertexClient = null;
+let genaiClient = null;
 
 function getClient() {
-  if (!vertexClient) {
+  if (!genaiClient) {
     if (!config.gcpProjectId) throw new Error("GCP_PROJECT_ID is required for Gemini");
-    vertexClient = new VertexAI({
+    genaiClient = new GoogleGenAI({
+      vertexai: true,
       project: config.gcpProjectId,
       location: config.gcpLocation,
     });
   }
-  return vertexClient;
+  return genaiClient;
 }
 
-function getModel(useGrounding = false) {
-  const client = getClient();
-
-  if (useGrounding) {
-    return client.getGenerativeModel({
-      model: config.geminiModel,
-      generationConfig: { temperature: 0.3, maxOutputTokens: 8192 },
-      tools: [{ googleSearch: {} }],
-    });
-  }
-
-  return client.getGenerativeModel({
-    model: config.geminiModel,
-    generationConfig: { temperature: 0.3, maxOutputTokens: 4096, responseMimeType: "application/json" },
-  });
-}
-
+// Tolerant parser: handles fenced output and recovers complete objects from a
+// truncated array (grounded responses can be cut off mid-array by the token cap).
 function parseJsonFromGemini(text) {
-  let jsonStr = text.trim();
-  // Strip markdown fences
-  const fenceMatch = jsonStr.match(/```(?:json)?\s*\n([\s\S]*?)\n\s*```/);
+  let jsonStr = (text || "").trim();
+
+  const fenceMatch = jsonStr.match(/```(?:json)?\s*([\s\S]*?)```/i);
   if (fenceMatch) jsonStr = fenceMatch[1].trim();
-  // Find the first { or [ and last } or ]
+
   const start = jsonStr.search(/[{[]/);
+  if (start === -1) throw new Error("No JSON found in Gemini response: " + (text || "").slice(0, 200));
+
   const lastBrace = jsonStr.lastIndexOf("}");
   const lastBracket = jsonStr.lastIndexOf("]");
   const end = Math.max(lastBrace, lastBracket);
-  if (start === -1 || end === -1) throw new Error("No JSON found in Gemini response: " + text.slice(0, 200));
-  jsonStr = jsonStr.slice(start, end + 1);
-  return JSON.parse(jsonStr);
+  const candidate = end > start ? jsonStr.slice(start, end + 1) : jsonStr.slice(start);
+
+  try {
+    return JSON.parse(candidate);
+  } catch {
+    // Recover from a truncated array by collecting complete top-level objects.
+    const objects = [];
+    let depth = 0;
+    let objStart = -1;
+    for (let i = 0; i < jsonStr.length; i++) {
+      const ch = jsonStr[i];
+      if (ch === "{") {
+        if (depth === 0) objStart = i;
+        depth++;
+      } else if (ch === "}") {
+        depth--;
+        if (depth === 0 && objStart !== -1) {
+          try {
+            objects.push(JSON.parse(jsonStr.slice(objStart, i + 1)));
+          } catch {
+            // skip malformed object
+          }
+          objStart = -1;
+        }
+      }
+    }
+    if (objects.length > 0) return objects;
+    throw new Error("Unparseable Gemini JSON: " + candidate.slice(0, 200));
+  }
+}
+
+async function generate({ prompt, grounded = false }) {
+  const ai = getClient();
+  const genConfig = { temperature: 0.3, maxOutputTokens: 8192 };
+  if (grounded) {
+    genConfig.tools = [{ googleSearch: {} }];
+  } else {
+    genConfig.responseMimeType = "application/json";
+  }
+
+  const response = await ai.models.generateContent({
+    model: config.geminiModel,
+    contents: prompt,
+    config: genConfig,
+  });
+
+  return response.text;
 }
 
 // --- Grounded article search (supplements RSS pipeline) ---
 export async function fetchGroundedArticles(topics = []) {
-  const model = getModel(true);
-
   const topicList = topics.length > 0
     ? topics.join(", ")
     : "B2B marketing strategy, demand generation, account-based marketing, content marketing, go-to-market, B2B case studies";
 
-  const prompt = `Find 10-15 recent, high-quality B2B marketing articles published in the last 7 days. Focus on these topics: ${topicList}.
+  const prompt = `Find 8 recent, high-quality B2B marketing articles published in the last 7 days. Focus on these topics: ${topicList}.
 
 Requirements for each article:
 - Must be a case study, strategy deep-dive, research report, or expert analysis
@@ -63,28 +93,29 @@ Requirements for each article:
 - Must be substantial (not a listicle or news brief)
 - Must include real company examples or real data
 
-Return valid JSON only, no other text:
+Return valid JSON only, no other text. Keep each URL as the plain canonical article URL and each description to one short sentence:
 [
-  {"title": "article title", "url": "full URL", "source": "publisher name", "snippet": "2-3 sentence description of what the article covers"}
+  {"title": "article title", "url": "https://...", "source": "publisher name", "snippet": "one short sentence"}
 ]`;
 
   logger.info("B2B Gemini: Searching for grounded articles...");
 
   try {
-    const result = await model.generateContent(prompt);
-    const text = result.response.candidates[0].content.parts[0].text;
+    const text = await generate({ prompt, grounded: true });
     const articles = parseJsonFromGemini(text);
 
     logger.info(`B2B Gemini: Found ${articles.length} grounded articles`);
 
-    return articles.map((a) => ({
-      title: a.title,
-      url: a.url,
-      source: a.source,
-      snippet: a.snippet,
-      tier: 3,
-      fetchedVia: "gemini-grounding",
-    }));
+    return articles
+      .filter((a) => a && a.url && a.title)
+      .map((a) => ({
+        title: a.title,
+        url: a.url,
+        source: a.source,
+        snippet: a.snippet,
+        tier: 3,
+        fetchedVia: "gemini-grounding",
+      }));
   } catch (err) {
     logger.warn(`B2B Gemini: Grounded search failed — ${err.message}`);
     return [];
@@ -93,8 +124,6 @@ Return valid JSON only, no other text:
 
 // --- Key Notes + Question generator ---
 export async function geminiKeyNotesAndQuestion(article) {
-  const model = getModel(false);
-
   const content = article.fullText || article.snippet || "";
 
   logger.info(`B2B Gemini: Generating key notes for "${article.headline}"...`);
@@ -132,15 +161,12 @@ ${content}
 Return valid JSON only, no other text:
 {"keyNotes": ["bullet 1", "bullet 2", "bullet 3", "bullet 4"], "question": "your question here"}`;
 
-  const result = await model.generateContent(prompt);
-  const text = result.response.candidates[0].content.parts[0].text;
+  const text = await generate({ prompt });
   return parseJsonFromGemini(text);
 }
 
 // --- Topic Recap (Thursday) ---
 export async function geminiTopicRecap(topicName, resources) {
-  const model = getModel(false);
-
   const resourceSummary = resources
     .map(
       (r, i) =>
@@ -177,15 +203,12 @@ ${resourceSummary}
 Return valid JSON only, no other text:
 {"intro": "warm 1-2 sentence context", "bullets": ["first we saw...", "then we learned...", "the big picture..."]}`;
 
-  const result = await model.generateContent(prompt);
-  const text = result.response.candidates[0].content.parts[0].text;
+  const text = await generate({ prompt });
   return parseJsonFromGemini(text);
 }
 
 // --- Week Recap (Sunday) ---
 export async function geminiWeekRecap(topicAName, topicBName, allResources) {
-  const model = getModel(false);
-
   const resourceSummary = allResources
     .map(
       (r, i) =>
@@ -218,7 +241,6 @@ ${resourceSummary}
 Return valid JSON only, no other text:
 {"intro": "1-2 sentence warm intro", "bullets": ["highlight 1", "highlight 2", "highlight 3"], "closing": "This week you learned..."}`;
 
-  const result = await model.generateContent(prompt);
-  const text = result.response.candidates[0].content.parts[0].text;
+  const text = await generate({ prompt });
   return parseJsonFromGemini(text);
 }
