@@ -77,7 +77,7 @@ export async function curateItems(rawItems) {
 
   const response = await client.messages.create({
     model: "claude-opus-4-6",
-    max_tokens: 8000,
+    max_tokens: 16000,
     messages: [
       {
         role: "user",
@@ -87,19 +87,30 @@ export async function curateItems(rawItems) {
     system: SYSTEM_PROMPT,
   });
 
-  const text = response.content[0].text.trim();
+  if (response.stop_reason === "max_tokens") {
+    logger.error("Curation response hit max_tokens and was truncated");
+    throw new Error("Curation produced truncated JSON (hit max_tokens)");
+  }
 
-  // Extract JSON from response (handle potential markdown fences)
-  let jsonStr = text;
-  const fenceMatch = text.match(/```(?:json)?\s*([\s\S]*?)```/);
-  if (fenceMatch) jsonStr = fenceMatch[1].trim();
+  let jsonStr = response.content[0].text.trim();
+
+  // Strip a leading ```json / ``` fence and any trailing ``` — tolerant of a
+  // missing closing fence (the truncation case that broke the 2026-06-22 run).
+  jsonStr = jsonStr.replace(/^```(?:json)?\s*/i, "").replace(/\s*```$/, "").trim();
+
+  // Fall back to slicing from the first "[" to the last "]" if anything remains.
+  const firstBracket = jsonStr.indexOf("[");
+  const lastBracket = jsonStr.lastIndexOf("]");
+  if (firstBracket !== -1 && lastBracket > firstBracket) {
+    jsonStr = jsonStr.slice(firstBracket, lastBracket + 1);
+  }
 
   let curated;
   try {
     curated = JSON.parse(jsonStr);
   } catch (err) {
     logger.error(`Failed to parse curation response: ${err.message}`);
-    logger.error(`Raw response: ${text.slice(0, 500)}`);
+    logger.error(`Raw response: ${jsonStr.slice(0, 500)}`);
     throw new Error("Curation produced invalid JSON");
   }
 
