@@ -1,0 +1,17 @@
+{
+  "date": "2026-06-23",
+  "type": "resource",
+  "topic": "AI-Driven Marketing Operations and Strategy",
+  "dayLabel": "Day 2 of 3",
+  "headline": "Google Dethrones OpenAI As Agencies’ Preferred AI Partner",
+  "source": "Forrester Blog",
+  "url": "https://www.forrester.com/blogs/google-dethrones-openai-as-agencies-preferred-ai-partner/",
+  "keyNotes": [
+    "Surprisingly, Google has become the top choice for marketing agencies using artificial intelligence (AI) since 2024, beating out well-known companies like OpenAI and Adobe.",
+    "Agencies aren't just looking for the 'smartest' AI tools anymore; instead, they want a complete system that brings together all parts of marketing, like customer information, creative ideas, and advertising campaigns, which the article calls 'marketing orchestration'.",
+    "Google's strength comes from its ability to connect many different marketing tools and services, from understanding who customers are to creating ads and showing them online, making the whole process much smoother.",
+    "Other big tech companies are also adapting: Adobe is trying to do more than just creative work, while Anthropic is focusing on being a trustworthy and secure AI partner, especially for regulated businesses.",
+    "Even though OpenAI is known for being innovative, it might become just a hidden technology that powers other companies' marketing systems if it doesn't find a way to directly offer its own advertising solutions."
+  ],
+  "question": "The article highlights that marketing agencies are now choosing complete systems that connect all their work, rather than just the 'best' individual tools. In your own work or industry, where do you see the most value: in using a collection of specialized, top-performing tools, or in a single, integrated system that might not have the absolute 'best' individual parts but makes everything work together seamlessly?"
+}
