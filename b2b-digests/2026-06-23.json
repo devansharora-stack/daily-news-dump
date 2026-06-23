@@ -7,11 +7,10 @@
   "source": "Forrester Blog",
   "url": "https://www.forrester.com/blogs/google-dethrones-openai-as-agencies-preferred-ai-partner/",
   "keyNotes": [
-    "Surprisingly, Google has become the top choice for marketing agencies using artificial intelligence (AI) since 2024, beating out well-known companies like OpenAI and Adobe.",
-    "Agencies aren't just looking for the 'smartest' AI tools anymore; instead, they want a complete system that brings together all parts of marketing, like customer information, creative ideas, and advertising campaigns, which the article calls 'marketing orchestration'.",
-    "Google's strength comes from its ability to connect many different marketing tools and services, from understanding who customers are to creating ads and showing them online, making the whole process much smoother.",
-    "Other big tech companies are also adapting: Adobe is trying to do more than just creative work, while Anthropic is focusing on being a trustworthy and secure AI partner, especially for regulated businesses.",
-    "Even though OpenAI is known for being innovative, it might become just a hidden technology that powers other companies' marketing systems if it doesn't find a way to directly offer its own advertising solutions."
+    "Google has become the top choice for marketing agencies using artificial intelligence (AI), surpassing companies like OpenAI for the first time since 2024. This is a big shift from previous years.",
+    "Marketing agencies are no longer just picking the smartest individual artificial intelligence (AI) tools; instead, they are choosing partners that can connect all the different parts of their marketing work, like data, creative ideas, and how they reach customers.",
+    "Google is preferred because it offers a wide range of tools that work together seamlessly, covering everything from understanding who customers are (audience data) to creating ads (creative tooling) and showing them to people (activation channels).",
+    "Other major technology companies are also adapting to this trend: Adobe is expanding beyond its creative tools, and Microsoft is trying to become more relevant to marketing leaders (CMOs) by connecting its cloud services with AI."
   ],
-  "question": "The article highlights that marketing agencies are now choosing complete systems that connect all their work, rather than just the 'best' individual tools. In your own work or industry, where do you see the most value: in using a collection of specialized, top-performing tools, or in a single, integrated system that might not have the absolute 'best' individual parts but makes everything work together seamlessly?"
+  "question": "The article highlights that marketing agencies are now choosing partners who can connect all parts of their work, from understanding customers to showing ads, rather than just picking the 'smartest' individual tools. In your own work, where do you see opportunities to connect different tasks or systems to create a more complete and effective workflow, instead of relying on separate, isolated tools?"
 }
