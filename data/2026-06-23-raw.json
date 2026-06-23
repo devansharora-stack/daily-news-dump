@@ -1,6 +1,94 @@
 [
   {
-    "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+    "title": "AI Built a Nuke and Still Lost",
+    "url": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Tue, 23 Jun 2026 08:16:45 +0000",
+    "snippet": "Article URL: https://www.lwilko.com/blog/i-gave-an-ai-a-civilization\nComments URL: https://news.ycombinator.com/item?id=48641927\nPoints: 82\n# Comments: 90",
+    "tier": 1
+  },
+  {
+    "title": "OpenAI DayBreak – GPT-5.5-Cyber",
+    "url": "https://openai.com/index/daybreak-securing-the-world/",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Tue, 23 Jun 2026 01:36:08 +0000",
+    "snippet": "Article URL: https://openai.com/index/daybreak-securing-the-world/\nComments URL: https://news.ycombinator.com/item?id=48639063\nPoints: 152\n# Comments: 110",
+    "tier": 1
+  },
+  {
+    "title": "Meta pauses AI training program tracking employee keystrokes after internal leak",
+    "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Mon, 22 Jun 2026 21:43:22 +0000",
+    "snippet": "Article URL: https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6\nComments URL: https://news.ycombinator.com/item?id=48636632\nPoints: 97\n# Comments: 24",
+    "tier": 1
+  },
+  {
+    "title": "Steam Machine game testing",
+    "url": "https://www.lttlabs.com/articles/2026/06/22/the-newell-nucleus-steam-machine-ltt-companion-article",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Mon, 22 Jun 2026 17:17:29 +0000",
+    "snippet": "Related ongoing thread:\nSteam Machine - https://news.ycombinator.com/item?id=48632884\nComments URL: https://news.ycombinator.com/item?id=48632989\nPoints: 57\n# Comments: 1",
+    "tier": 1
+  },
+  {
+    "title": "Steam Machine launches today",
+    "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Mon, 22 Jun 2026 17:09:51 +0000",
+    "snippet": "https://store.steampowered.com/sale/steammachine\nhttps://www.lttlabs.com/articles/2026/06/22/the-newell-nucle...\nhttps://www.youtube.com/watch?v=66QzlDewigE\nComments URL: https://news.ycombinator.com/item?id=48632884\nPoints: 1748\n# Comments: 1485",
+    "tier": 1
+  },
+  {
+    "title": "Inventing the Future, One Lisp Machine at a Time",
+    "url": "https://www.patrickdomanico.com/bpm/2026/06/16/inventing-the-future-one-lisp-machine-at-a-time/",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Mon, 22 Jun 2026 15:24:40 +0000",
+    "snippet": "Article URL: https://www.patrickdomanico.com/bpm/2026/06/16/inventing-the-future-one-lisp-machine-at-a-time/\nComments URL: https://news.ycombinator.com/item?id=48631511\nPoints: 61\n# Comments: 1",
+    "tier": 1
+  },
+  {
+    "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+    "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Sun, 21 Jun 2026 22:55:23 +0000",
+    "snippet": "Article URL: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions\nComments URL: https://news.ycombinator.com/item?id=48623434\nPoints: 208\n# Comments: 49",
+    "tier": 1
+  },
+  {
+    "title": "I Canceled My French Tutor and Built an LLM Tool That Does It Better",
+    "url": "https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Sun, 21 Jun 2026 22:46:43 +0000",
+    "snippet": "Article URL: https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built\nComments URL: https://news.ycombinator.com/item?id=48623371\nPoints: 59\n# Comments: 25",
+    "tier": 1
+  },
+  {
+    "title": "Apertus – Open Foundation Model for Sovereign AI",
+    "url": "https://apertvs.ai/",
+    "source": "Hacker News (Top)",
+    "publishedAt": "Sun, 21 Jun 2026 21:29:43 +0000",
+    "snippet": "Article URL: https://apertvs.ai/\nComments URL: https://news.ycombinator.com/item?id=48622778\nPoints: 526\n# Comments: 181",
+    "tier": 1
+  },
+  {
+    "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
+    "url": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Tue, 23 Jun 2026 14:00:00 +0000",
+    "snippet": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 - the ultimate founder bootcamp - before Early Bird rates end on June 26 at 11:59 p.m. PT. Register here.",
+    "tier": 1
+  },
+  {
+    "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+    "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Tue, 23 Jun 2026 13:00:00 +0000",
+    "snippet": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok.",
+    "tier": 1
+  },
+  {
+    "title": "The running list: Major tech layoffs in 2026 where employers cited AI",
     "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
     "source": "TechCrunch AI",
     "publishedAt": "Tue, 23 Jun 2026 01:27:55 +0000",
@@ -88,6 +176,30 @@
     "tier": 1
   },
   {
+    "title": "The Download: the future of chipmaking and Anthropic’s government clash",
+    "url": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Tue, 23 Jun 2026 12:10:00 +0000",
+    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The $400 million machine powering the future of chipmaking It’s a bit of a schlep to get to the top of ASML’s newest machine. It’s about the size of a double-decker…",
+    "tier": 1
+  },
+  {
+    "title": "Elephant alert! AI warning systems aim to avoid deadly clashes",
+    "url": "https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Tue, 23 Jun 2026 09:00:00 +0000",
+    "snippet": "India is home to about 60% of the world’s wild Asian elephants, and around 80% of the animals’ habitat lies outside protected areas, according to the Ministry of Environment, Forest, and Climate Change. That brings people and wildlife into close contact, and clashes can turn lethal: There have been some 3,000 human casualties in the…",
+    "tier": 1
+  },
+  {
+    "title": "The $400 million machine powering the future of chipmaking",
+    "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Tue, 23 Jun 2026 09:00:00 +0000",
+    "snippet": "Jos Benschop is climbing a ladder to get to the top of his newest machine.  It’s a bit of a schlep. The contraption is the size of a double-decker bus—more than 150 tons of gleaming precision-milled aluminum covered in thousands of snaking tubes, colored cables, and pressurized tanks. From the ground, it looks like a…",
+    "tier": 1
+  },
+  {
     "title": "Three things to watch amid Anthropic’s latest feud with the government",
     "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
     "source": "MIT Technology Review",
@@ -109,6 +221,22 @@
     "source": "MIT Technology Review",
     "publishedAt": "Mon, 22 Jun 2026 08:00:00 +0000",
     "snippet": "It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave. It smells weird. And I am increasingly aware of the pressure from millions of tons of seawater just above my…",
+    "tier": 1
+  },
+  {
+    "title": "Sony’s AI Camera Assistant is exactly as bad as it looks",
+    "url": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
+    "source": "The Verge AI",
+    "publishedAt": "2026-06-23T13:25:42.000Z",
+    "snippet": "I’m sorry Sony, your AI isn’t very good at photography.\t\n\nWhen Sony announced the Xperia 1 VIII last month, it promoted the phone by sharing some of the worst photos taken on a Sony camera in years. These weren't just any photos, though: they were taken with Sony's new AI Camera Assistant. After a week with the Xperia 1 VIII, I'm here to tell you that the AI assistant is exactly as bad as Sony made it look.\nAfter Sony first showed me the AI Camera Assistant during a press briefing for the Xperia",
+    "tier": 1
+  },
+  {
+    "title": "Meta launches cheaper smart glasses without Ray-Ban",
+    "url": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
+    "source": "The Verge AI",
+    "publishedAt": "2026-06-23T13:00:00.000Z",
+    "snippet": "For the past three years, \"Meta\" and \"Ray-Ban\" have been synonymous in the smart glasses space. Not anymore. Yesterday, I slipped on several pairs of Meta Glasses - no Ray-Bans - in three different styles and seven colors. One style, I was told several times by various enthusiastic Meta spokespeople, is a collaboration with socialite and reality TV star Kylie Jenner.\nMeta could've struck out on its own from the get-go, but teaming up with EssilorLuxottica and the Ray-Ban brand was a savvy move i",
     "tier": 1
   },
   {
@@ -176,11 +304,11 @@
     "tier": 1
   },
   {
-    "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
-    "url": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
-    "source": "Wired AI",
-    "publishedAt": "Sun, 21 Jun 2026 10:30:00 +0000",
-    "snippet": "Sure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results.",
+    "title": "How Omio is building the future of conversational travel",
+    "url": "https://openai.com/index/omio",
+    "source": "OpenAI Blog",
+    "publishedAt": "Tue, 23 Jun 2026 00:00:00 GMT",
+    "snippet": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
     "tier": 1
   },
   {
@@ -669,134 +797,6 @@
     "source": "arXiv AI (cs.AI)",
     "publishedAt": "Tue, 23 Jun 2026 00:00:00 -0400",
     "snippet": "arXiv:2606.21089v1 Announce Type: new \nAbstract: Industrial LLM teams often ship behavior updates by repeatedly DPO-training a base model on sequences of related preference-data campaigns. The dominant failure mode in this regime is not always classical catastrophic forgetting: a pipeline may preserve previously learned behaviors while still failing to accumulate reusable methodological knowledge about how to train the next campaign. We call this failure mode scientific amnesia. This paper turns",
-    "tier": 1
-  },
-  {
-    "title": "Self-Improvement Can Self-Regress: The Rise-and-Collapse Failure Mode of LLM Self-Training",
-    "url": "https://arxiv.org/abs/2606.21090",
-    "source": "arXiv AI (cs.AI)",
-    "publishedAt": "Tue, 23 Jun 2026 00:00:00 -0400",
-    "snippet": "arXiv:2606.21090v1 Announce Type: new \nAbstract: Self-improvement can self-regress. In REINFORCE post-training for code, a model can quickly improve on its optimized metric and then collapse within the same training campaign. We study this in a controlled multi-seed testbed using Qwen-2.5-3B and Qwen-2.5-7B, trained on competitive-programming tasks with binary CodeGrader reward across 10 sequential 20-step campaigns. Across campaigns, pass@1 shows a robust rise-then-collapse pattern: it peaks wi",
-    "tier": 1
-  },
-  {
-    "title": "Answer Engineering: Local Trajectory Editing for Protocol-Constrained Decision Making in Large Language Models",
-    "url": "https://arxiv.org/abs/2606.21121",
-    "source": "arXiv AI (cs.AI)",
-    "publishedAt": "Tue, 23 Jun 2026 00:00:00 -0400",
-    "snippet": "arXiv:2606.21121v1 Announce Type: new \nAbstract: Large language models can produce confident but protocol-invalid answers in domains where procedural compliance is critical. This paper presents Answer Engineering, a deterministic runtime and authoring layer that applies localized rule-guided interventions to the visible reasoning trajectory during standard autoregressive generation, without retraining, modifying model weights, or performing global search. The method is evaluated on a controlled ",
-    "tier": 1
-  },
-  {
-    "title": "PulseCX: Breaking the Closed-World Assumption in Real-Time CX",
-    "url": "https://arxiv.org/abs/2606.21124",
-    "source": "arXiv AI (cs.AI)",
-    "publishedAt": "Tue, 23 Jun 2026 00:00:00 -0400",
-    "snippet": "arXiv:2606.21124v1 Announce Type: new \nAbstract: Conversational AI agents in Customer Experience (CX) typically suffer from a Closed-World Constraint, ignoring high-velocity external shifts like viral trends or outages. Ad-hoc web search attempts to bridge this gap but often introduce prohibitive latency and context poisoning. We introduce PulseCX, a framework that decouples knowledge acquisition from consumption. Adopting a structure-first paradigm, PulseCX employs an asynchronous agent to line",
-    "tier": 1
-  },
-  {
-    "title": "Learning Burst-Aware Early Warning Models for Capacity Stress under AI Workload Surges in Hyperscale Data Centers",
-    "url": "https://arxiv.org/abs/2606.21130",
-    "source": "arXiv AI (cs.AI)",
-    "publishedAt": "Tue, 23 Jun 2026 00:00:00 -0400",
-    "snippet": "arXiv:2606.21130v1 Announce Type: new \nAbstract: The rapid growth of large-scale AI workloads, particularly Large Language Model (LLM) training and inference, is fundamentally reshaping the operational dynamics of hyperscale data centers. Unlike traditional cloud workloads, AI-driven jobs exhibit bursty, high-intensity, and rapidly shifting resource demands, often leading to sudden capacity stress that cannot be effectively handled by reactive threshold-based mechanisms. In this paper, we propos",
-    "tier": 1
-  },
-  {
-    "title": "Trip+: Benchmarking Agents in Personalized Interactive Travel Planning",
-    "url": "https://arxiv.org/abs/2606.21169",
-    "source": "arXiv AI (cs.AI)",
-    "publishedAt": "Tue, 23 Jun 2026 00:00:00 -0400",
-    "snippet": "arXiv:2606.21169v1 Announce Type: new \nAbstract: Interactive travel planning has become a popular use case for language models. Agents are deployed to manage evolving preferences and unexpected disruptions over multiple turns. Such settings require models to make complex, profile-conditioned planning decisions. However, existing benchmarks often evaluate feasibility, personalization, or interaction in relatively isolated settings. We therefore introduce Trip+ to measure the ability of agents to ",
-    "tier": 1
-  },
-  {
-    "title": "Whistleblowing and the machine -- towards a considered position",
-    "url": "https://arxiv.org/abs/2606.21201",
-    "source": "arXiv AI (cs.AI)",
-    "publishedAt": "Tue, 23 Jun 2026 00:00:00 -0400",
-    "snippet": "arXiv:2606.21201v1 Announce Type: new \nAbstract: Artificial intelligent agents and autonomous systems are embedded in our environments. They are both a commercial product and a personal tool that generates a lot of data and can draw conclusions from it: machines generate and keep secrets. But should machines protect all secrets? It has been shown that artificial agents are able to whistleblow and it has been argued that digital multi-agent environments should allow for agents in them to whistleb",
-    "tier": 1
-  },
-  {
-    "title": "ARCO: Adaptive Rubric with Co-Evolution for Multi-Step LLM-Based Agents",
-    "url": "https://arxiv.org/abs/2606.21262",
-    "source": "arXiv AI (cs.AI)",
-    "publishedAt": "Tue, 23 Jun 2026 00:00:00 -0400",
-    "snippet": "arXiv:2606.21262v1 Announce Type: new \nAbstract: Reinforcement learning for multi-step LLM agents often relies on scalar rewards that indicate success but cannot explain why a trajectory is good or bad. Rubric-based rewards improve interpretability through natural-language criteria, but existing methods score at the trajectory level and freeze the scorer behind a closed-source judge, leaving step-level credit assignment unresolved and the judge itself static. We propose ARCO (Adaptive Rubric CO-",
-    "tier": 1
-  },
-  {
-    "title": "Towards Dys-XAI: Influence-Based Explanations for Dysarthria Severity Assessment",
-    "url": "https://arxiv.org/abs/2606.21306",
-    "source": "arXiv AI (cs.AI)",
-    "publishedAt": "Tue, 23 Jun 2026 00:00:00 -0400",
-    "snippet": "arXiv:2606.21306v1 Announce Type: new \nAbstract: Dysarthria severity assessment is essential for therapy planning and longitudinal monitoring, yet manual perceptual rating is time-consuming and variable across clinicians. Although deep learning models achieve strong performance, their black-box nature limits clinical adoption. Existing speech explainability methods typically provide acoustic feature importance scores that are difficult for end-users to interpret. We propose an influence-based, i",
-    "tier": 1
-  },
-  {
-    "title": "Social World Model for Lifelong Social Intelligence",
-    "url": "https://arxiv.org/abs/2606.21315",
-    "source": "arXiv AI (cs.AI)",
-    "publishedAt": "Tue, 23 Jun 2026 00:00:00 -0400",
-    "snippet": "arXiv:2606.21315v1 Announce Type: new \nAbstract: Social intelligence is a core competency for language agents, yet current research primarily focuses on static capability evaluation rather than how these skills are continuously shaped and accumulated. This gap calls for a shift toward sustainable learning paradigms. Currently, two methodological pain points exist: social interaction trajectories lack unified structured representations to form iterable learning signals, and capability improvement",
-    "tier": 1
-  },
-  {
-    "title": "Mind the Noise: Sensitivity of Transformer-based Interaction-Aware Trajectory Prediction Models to Noisy Data",
-    "url": "https://arxiv.org/abs/2606.21344",
-    "source": "arXiv AI (cs.AI)",
-    "publishedAt": "Tue, 23 Jun 2026 00:00:00 -0400",
-    "snippet": "arXiv:2606.21344v1 Announce Type: new \nAbstract: Trajectory prediction allows autonomous vehicles to anticipate the future behavior of surrounding objects (or agents) and, accordingly, maximize the safety and efficiency of their driving. State-of-the-art Transformed-based interaction-aware trajectory prediction models, which rely on attention mechanisms to capture multi-agent interactions and maximize prediction accuracy, are commonly trained and evaluated on long-range high-quality datasets. Th",
-    "tier": 1
-  },
-  {
-    "title": "Calibration Is Not Control: Why LLM-Agent Oversight Needs Intervention",
-    "url": "https://arxiv.org/abs/2606.21399",
-    "source": "arXiv AI (cs.AI)",
-    "publishedAt": "Tue, 23 Jun 2026 00:00:00 -0400",
-    "snippet": "arXiv:2606.21399v1 Announce Type: new \nAbstract: Runtime oversight for LLM agents is commonly framed as scalar risk prediction: estimate failure likelihood, confidence, or uncertainty, then intervene once the score crosses a threshold. We argue that this framing targets the wrong object for control. The relevant question is not how likely the agent is to fail if it continues, but whether an available intervention would improve the outcome. Two trajectory prefixes can have the same risk estimate ",
-    "tier": 1
-  },
-  {
-    "title": "Don't Blindly Trust It: How Unreliable Feedback Breaks Tool-Using LLM Agents",
-    "url": "https://arxiv.org/abs/2606.21409",
-    "source": "arXiv AI (cs.AI)",
-    "publishedAt": "Tue, 23 Jun 2026 00:00:00 -0400",
-    "snippet": "arXiv:2606.21409v1 Announce Type: new \nAbstract: Tool-augmented agents are typically evaluated by their gains under reliable external feedback. Yet these gains leave open a key counterfactual: when feedback is unreliable, would the agent be better off receiving no task evidence? We study this question with a controlled matched-loop comparison that fixes the agent loop, prompt, action space, and decoding, while varying only the returned observation: faithful, misleading, or absent. Across questio",
-    "tier": 1
-  },
-  {
-    "title": "AutoRAS: Learning Robust Agentic Systems with Primitive Representations",
-    "url": "https://arxiv.org/abs/2606.21445",
-    "source": "arXiv AI (cs.AI)",
-    "publishedAt": "Tue, 23 Jun 2026 00:00:00 -0400",
-    "snippet": "arXiv:2606.21445v1 Announce Type: new \nAbstract: The automated design of agentic systems offers a promising pathway for scaling large language models (LLMs) beyond single-agent reasoning. While prior work has advanced task performance through handcrafted or automatically generated multi-agent workflows, robustness is often treated as an afterthought, leaving systems vulnerable to external adversaries and internal failures. We propose AutoRAS, a framework for the Automated design of Robust Agenti",
-    "tier": 1
-  },
-  {
-    "title": "Towards Transparent Mental Health Insights: An Explainable AI Model for Career-Related Depression and Anxiety Among University Students Using Structured Data",
-    "url": "https://arxiv.org/abs/2606.21474",
-    "source": "arXiv AI (cs.AI)",
-    "publishedAt": "Tue, 23 Jun 2026 00:00:00 -0400",
-    "snippet": "arXiv:2606.21474v1 Announce Type: new \nAbstract: Career anxiety and depression among university students present a growing challenge to mental health and academic achievement. This study proposes an Explainable AI (XAI) framework using multimodal data and Federated Learning (FL) to identify early indicators of career-related mental health problems in a privacy-preserving and culturally responsive manner. The framework combines structured behavioral data and facial emotion features from interview",
-    "tier": 1
-  },
-  {
-    "title": "Balancing Performance and Diversity in GRPO Autoregressive Text-to-Image Post-Training",
-    "url": "https://arxiv.org/abs/2606.21498",
-    "source": "arXiv AI (cs.AI)",
-    "publishedAt": "Tue, 23 Jun 2026 00:00:00 -0400",
-    "snippet": "arXiv:2606.21498v1 Announce Type: new \nAbstract: Autoregressive text-to-image (T2I) generation has recently advanced rapidly, yet aligning generated images with human preferences remains challenging. GRPO-style online reinforcement learning provides an effective framework; however, existing methods typically treat reference-policy divergence as fixed, despite its direct impact on policy optimization. We study this overlooked factor within a unified f-divergence framework, encompassing forward KL",
-    "tier": 1
-  },
-  {
-    "title": "AI Alignment From Social Choice Perspectives",
-    "url": "https://arxiv.org/abs/2606.21550",
-    "source": "arXiv AI (cs.AI)",
-    "publishedAt": "Tue, 23 Jun 2026 00:00:00 -0400",
-    "snippet": "arXiv:2606.21550v1 Announce Type: new \nAbstract: Alignment from human feedback uses human judgments about model outputs to steer the behavior of language models after pretraining. When those judgments reflect conflicting views of desirable behavior, the learned objective becomes an aggregate determination of what the model should prefer. We survey recent work that has studied this aggregation problem through the lens of social choice theory. We illustrate how the social choice perspective helps ",
     "tier": 1
   }
 ]

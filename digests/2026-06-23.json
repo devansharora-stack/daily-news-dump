@@ -1,177 +1,177 @@
 [
   {
-    "headline": "The running list: major tech layoffs in 2026 where employers cited AI",
+    "headline": "The running list: Major tech layoffs in 2026 where employers cited AI",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
     "theme": "AI Workforce Impact",
-    "summary": "TechCrunch maintains a running tracker of significant tech layoffs in 2026 where companies explicitly named AI as a factor. This is a critical reference for any executive trying to understand the pace and scale of AI-driven workforce restructuring across the industry."
+    "summary": "TechCrunch maintains a running tracker of significant tech layoffs in 2026 where companies explicitly cited AI as a factor. This is a critical reference for any executive assessing how AI-driven restructuring is accelerating across the industry and which roles are most vulnerable."
   },
   {
-    "headline": "Meta pauses employee-tracking program following internal data leak",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
-    "theme": "AI Risk",
-    "summary": "Meta halted a program that collected employee keystroke data to train AI models after that data was accidentally exposed internally. The incident highlights the risks of using worker surveillance data for AI training — a practice other large employers may be considering — and raises serious questions about employee trust and data governance."
+    "headline": "Meta pauses AI training program tracking employee keystrokes after internal leak",
+    "source": "Business Insider / Wired",
+    "url": "https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/",
+    "theme": "AI Ethics & Trust",
+    "summary": "Meta paused a controversial program that collected employee keystroke data to train AI models after an internal leak exposed the data across the company. Employees had previously raised concerns about the initiative. This is a cautionary tale for any enterprise considering using employee activity data for AI training — the legal, trust, and retention risks are significant."
   },
   {
     "headline": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia's $20B not-acqui-hire deal",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
     "theme": "Funding & M&A",
-    "summary": "Groq raised $650M and is rebuilding its leadership team after Nvidia's $20B not-acqui-hire deal stripped the company of key talent. The move signals Groq is pivoting hard into the neocloud business and suggests the AI chip competitive landscape continues to consolidate around Nvidia while challengers fight for survival."
+    "summary": "Groq raised $650M and is rebuilding its executive team after Nvidia's $20B not-acqui-hire deal stripped much of its talent. The company is pivoting toward its neocloud business. This illustrates how Nvidia's dominance reshapes the AI chip competitive landscape — and how challengers must adapt post-disruption."
   },
   {
     "headline": "SpaceX inks $150M/month compute deal with Reflection AI through 2029",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
     "theme": "Funding & M&A",
-    "summary": "Reflection AI will pay SpaceX $150 million per month — roughly $5.4B over the contract term through 2029 — for access to Nvidia GB300 chips at SpaceX's Colossus 2 data center in Memphis. This is one of the largest compute deals ever disclosed and underscores how AI infrastructure is becoming a capital-intensive arms race with new entrants like SpaceX as data center operators."
+    "summary": "Reflection AI will pay SpaceX $150 million per month — roughly $5.4B over the contract term through 2029 — for access to Nvidia GB300 chips at SpaceX's Colossus 2 data center near Memphis. This signals SpaceX's serious entry into the AI compute infrastructure business and the extraordinary scale of capital flowing into AI training capacity."
   },
   {
     "headline": "Google DeepMind bets $75M on AI's future in Hollywood with A24 deal",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
     "theme": "Funding & M&A",
-    "summary": "Google DeepMind is investing $75M in a partnership with indie film studio A24 to build AI filmmaking tools. The deal represents a significant move by a major AI lab into creative industries and could reshape content production economics in entertainment."
+    "summary": "Google DeepMind and indie film studio A24 announced a $75M partnership to build AI filmmaking tools. This marks one of the largest direct investments by an AI lab into creative industries, signaling that AI-generated content is moving from experiment to production-grade tooling for entertainment."
   },
   {
     "headline": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide",
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
     "theme": "Enterprise ROI",
-    "summary": "Samsung Electronics rolled out ChatGPT Enterprise and Codex across its global workforce, marking one of OpenAI's largest enterprise deployments to date. This is notable because Samsung famously banned ChatGPT in 2023 after data leaks — the reversal signals growing corporate confidence in enterprise AI security controls and the competitive pressure to adopt."
-  },
-  {
-    "headline": "The AI world is getting 'loopy' — continuous agent swarms running in the background",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
-    "theme": "Agentic AI",
-    "summary": "A new paradigm called 'loops' takes agentic AI beyond single-task agents by authorizing swarms of agents to work continuously in the background without human prompting. This represents a significant escalation in autonomy and raises questions about oversight, cost management, and the risk of uncontrolled agent behavior at enterprise scale."
+    "summary": "Samsung Electronics rolled out ChatGPT Enterprise and Codex to employees globally, marking one of OpenAI's largest enterprise deployments to date. This is notable given Samsung's earlier ban on ChatGPT in 2023 after data leaks — the reversal signals growing enterprise comfort with managed AI deployments and raises the bar for competitors evaluating their own AI tooling strategies."
   },
   {
     "headline": "When the Trump administration cracks down on Anthropic, who benefits?",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
     "theme": "Regulatory",
-    "summary": "The Trump administration has taken action against Anthropic over its advanced AI model Mythos, raising questions about which competitors stand to gain and how government intervention reshapes the AI competitive landscape. The crackdown could redirect enterprise customers and government contracts to rival labs."
+    "summary": "The Trump administration's moves against Anthropic — reportedly related to its Mythos model — are reshaping competitive dynamics in the AI industry. The crackdown raises questions about which AI companies benefit from selective enforcement and whether safety-focused labs face disproportionate regulatory risk compared to less cautious competitors."
   },
   {
     "headline": "Three things to watch amid Anthropic's latest feud with the government",
     "source": "MIT Technology Review",
     "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
     "theme": "Regulatory",
-    "summary": "Anthropic's model Mythos has triggered a confrontation with the US government that began in April and is escalating. MIT Technology Review outlines three key dimensions business leaders should track: the precedent for capability-based regulation, impacts on Anthropic's commercial partnerships, and broader chilling effects on frontier AI development."
+    "summary": "MIT Technology Review details how Anthropic's Mythos model triggered a government confrontation in April, with three key dimensions to watch: the precedent for AI capability restrictions, the chilling effect on safety research disclosure, and downstream impacts on enterprise customers who depend on Anthropic's models. Any company building on Anthropic's stack should be monitoring this closely."
   },
   {
-    "headline": "OpenAI launches 'Patch the Planet' and GPT-5.5-Cyber to find and fix open source vulnerabilities",
-    "source": "OpenAI Blog",
+    "headline": "OpenAI launches Daybreak: GPT-5.5-Cyber and 'Patch the Planet' open source security initiative",
+    "source": "OpenAI Blog / Wired",
     "url": "https://openai.com/index/daybreak-securing-the-world",
-    "theme": "AI Strategy",
-    "summary": "OpenAI unveiled Daybreak, a cybersecurity initiative including a new GPT-5.5-Cyber model and Codex Security tools designed to help organizations find and patch software vulnerabilities at scale. The 'Patch the Planet' program targets open-source maintainers specifically, positioning OpenAI as a cybersecurity player and directly competing with Anthropic's capabilities in this space."
+    "theme": "Model & Platform",
+    "summary": "OpenAI unveiled its Daybreak cybersecurity initiative, including GPT-5.5-Cyber for vulnerability detection, Codex Security tools, and a 'Patch the Planet' program to help open-source maintainers fix bugs at scale. This positions OpenAI as a major player in AI-assisted cybersecurity and could shift how enterprises approach vulnerability management."
   },
   {
-    "headline": "Nvidia says its AI data center design runs hotter to use a lot less water",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+    "headline": "Apertus – Open Foundation Model for Sovereign AI",
+    "source": "Hacker News",
+    "url": "https://apertvs.ai/",
+    "theme": "Model & Platform",
+    "summary": "Apertus, an open foundation model designed for sovereign AI deployments, gained massive attention with 526 upvotes on Hacker News. The model addresses growing demand from governments and enterprises for AI systems that can be deployed without dependency on US-based cloud providers — a direct response to geopolitical AI supply chain concerns."
+  },
+  {
+    "headline": "The $400 million machine powering the future of chipmaking",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
     "theme": "AI Strategy",
-    "summary": "Nvidia announced that its Rubin-generation fully liquid-cooled data center reference design eliminates nearly all water usage inside the facility. However, the claim doesn't address water consumption from fossil fuel power plants supplying these centers — a distinction that matters as public opposition to data center construction grows and could affect permitting timelines."
+    "summary": "MIT Technology Review profiles ASML's latest $400M lithography machine — a 150-ton precision instrument that is the bottleneck for next-generation chip fabrication. With AI chip demand surging, ASML's machines remain the single most critical chokepoint in the global semiconductor supply chain, giving the Dutch company extraordinary strategic leverage."
+  },
+  {
+    "headline": "The AI world is getting 'loopy' — continuous agent swarms working in the background",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+    "theme": "Agentic AI",
+    "summary": "TechCrunch reports on the emergence of 'loops' — swarms of AI agents authorized to work continuously and autonomously in the background, going beyond single-task agentic AI. This represents the next evolution in enterprise automation but introduces new risks around oversight, cost control, and agent sprawl that organizations are not yet equipped to manage."
+  },
+  {
+    "headline": "Fika Jobs raises $4M for AI-agent-powered video hiring platform",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+    "theme": "Agentic AI",
+    "summary": "Stockholm-based Fika Jobs raised $4M for a platform where AI agents conduct video interviews of job candidates, blending LinkedIn-style profiles with TikTok-format video. This represents the growing trend of AI agents replacing human judgment in high-stakes business processes like hiring, with significant implications for bias, compliance, and candidate experience."
+  },
+  {
+    "headline": "Agent Behavior Mining: Governing generative AI agents in business processes",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2606.20669",
+    "theme": "Agentic AI",
+    "summary": "Researchers introduce 'Agent Behavior Mining' to address the governance gap when deploying generative AI agents in business processes. The paper identifies an 'invisible autonomy risk' — non-deterministic AI agents may deviate from standardized processes in ways that are difficult to detect, creating compliance and quality control challenges for enterprises deploying agentic workflows at scale."
+  },
+  {
+    "headline": "Confidence Laundering in Agent Systems: Why uncertainty gets lost at interfaces",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2606.20662",
+    "theme": "AI Risk",
+    "summary": "Researchers identify 'confidence laundering' — a phenomenon where multi-agent AI systems lose uncertainty information at handoff points between components, turning ambiguous upstream outputs into falsely confident downstream decisions. For enterprises deploying chained AI agents, this means errors can compound invisibly, creating a hidden hallucination tax at system scale."
+  },
+  {
+    "headline": "Nvidia says its Rubin data center design eliminates water use but doesn't solve the full problem",
+    "source": "The Verge / TechCrunch",
+    "url": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+    "theme": "AI Risk",
+    "summary": "Nvidia announced that its Rubin-generation liquid-cooled data center reference design eliminates water usage inside the facility. However, critics note this doesn't address the largest source of AI's water consumption: the fossil fuel power plants generating electricity for these facilities. As public opposition to data centers grows, this distinction matters for infrastructure planning and ESG reporting."
+  },
+  {
+    "headline": "AI is cursing renters with impossible homes — virtual staging creates false expectations",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+    "theme": "AI Risk",
+    "summary": "AI-powered virtual staging in real estate listings is creating dramatically misleading apartment images, wasting renters' time and eroding trust in the market. This is a concrete example of the hallucination tax playing out in a consumer-facing industry, where AI-generated content creates real economic friction and potential legal liability for property platforms."
+  },
+  {
+    "headline": "Read this before you vibe-code another app — security risks of AI-generated code",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+    "theme": "AI Risk",
+    "summary": "An investigation reveals that 'vibe coding' — rapidly building apps with AI assistants — routinely produces hidden security vulnerabilities like SQL injection risks that go undetected for months. As enterprises accelerate AI-assisted development, the hidden cost of security debt in AI-generated code is a growing concern for CISOs and engineering leaders."
   },
   {
     "headline": "Some electricians think building data centers is for sellouts",
     "source": "Wired",
     "url": "https://www.wired.com/story/data-center-buildout-electricians-selling-out/",
     "theme": "AI Strategy",
-    "summary": "As Big Tech pours billions into data center construction, growing opposition from skilled tradespeople and local communities is emerging as a potential bottleneck. Some electricians are questioning whether the work is worth it, signaling that workforce resistance could constrain the pace of AI infrastructure buildout."
+    "summary": "As Big Tech pours billions into data center construction, some skilled tradespeople are pushing back, questioning whether the work is worthwhile despite premium pay. Growing national opposition to data center facilities — combined with labor market dynamics — could become a practical bottleneck for AI infrastructure buildout, adding to timelines and costs."
   },
   {
-    "headline": "AI is cursing renters with the promise of impossible homes via virtual staging",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
-    "theme": "AI Risk",
-    "summary": "AI-generated virtual staging in real estate listings is creating misleading apartment photos that look nothing like the actual units, wasting renters' time and eroding trust. This is a real-world example of the 'hallucination tax' — where AI-generated content introduces hidden costs through deception and friction in a major consumer market."
-  },
-  {
-    "headline": "Read this before you vibe-code another app: security risks of AI-generated code",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
-    "theme": "AI Risk",
-    "summary": "A growing number of 'vibe-coded' apps — built quickly using AI code generation — are shipping with serious security vulnerabilities like SQL injection risks that go undetected for months. For enterprises, this highlights the hidden security debt accumulating from shadow AI coding practices and the need for AI code review governance."
-  },
-  {
-    "headline": "World Cup scams are getting harder to spot thanks to AI",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/",
-    "theme": "AI Risk",
-    "summary": "AI is enabling World Cup-related scams — from fake tickets to cloned websites — that are far more convincing than previous generations of fraud. This illustrates how generative AI is lowering the cost and raising the quality of social engineering attacks, with implications for any consumer-facing business."
-  },
-  {
-    "headline": "Autonomous system post-trains a 30B model with no humans in the loop, matching human performance",
+    "headline": "A-Evolve-Training: Autonomous post-training of a 30B model with no human in the loop",
     "source": "arXiv",
     "url": "https://arxiv.org/abs/2606.20657",
     "theme": "Research to Business",
-    "summary": "Researchers report an autonomous system that ran the entire post-training loop for a 30B-parameter model — proposing changes, launching runs, evaluating results — over multiple weeks with zero human intervention, achieving a score of 0.86 vs. the top human submission's 0.87. This suggests AI model development itself is becoming automatable, with profound implications for the cost and speed of AI R&D."
+    "summary": "Researchers demonstrate an autonomous system that post-trains a 30B parameter model across multiple weeks with zero human intervention, achieving 0.86 vs. the top human submission's 0.87 on Nvidia's reasoning benchmark. This suggests the labor-intensive process of model fine-tuning — currently requiring weeks of expert human work — could be largely automated, with major implications for AI development costs and speed."
   },
   {
-    "headline": "Agent Behavior Mining: Governance framework for generative AI agents in business processes",
-    "source": "arXiv",
-    "url": "https://arxiv.org/abs/2606.20669",
-    "theme": "Agentic AI",
-    "summary": "Researchers introduce 'Agent Behavior Mining' to address the governance gap when deploying generative AI agents in business processes. The paper identifies an 'invisible autonomy risk' — where non-deterministic agent behavior undermines the standardization that business process management requires — and proposes methods to audit and constrain agent actions at runtime."
-  },
-  {
-    "headline": "Confidence Laundering in Agent Systems: How uncertainty becomes overconfidence",
-    "source": "arXiv",
-    "url": "https://arxiv.org/abs/2606.20662",
-    "theme": "Agentic AI",
-    "summary": "Researchers identify 'confidence laundering' — a failure mode where multi-agent AI systems strip uncertainty from intermediate outputs, turning fragile upstream decisions into false downstream certainty. This is a critical risk for enterprises deploying agent chains, as local ambiguity can silently become system-level error amplification."
-  },
-  {
-    "headline": "The AI Evaluability Gap: Organizations lack evidence to govern AI risk or value",
-    "source": "arXiv",
-    "url": "https://arxiv.org/abs/2606.21015",
-    "theme": "AI Ethics & Trust",
-    "summary": "Researchers define the 'AI Evaluability Gap' — the condition where organizations lack sufficient evidence to make high-confidence governance decisions about either AI risk or AI value. The paper argues this is a category error in current governance frameworks that conflate compliance with actual evaluability, directly relevant to boards trying to oversee AI deployments."
-  },
-  {
-    "headline": "Simulated customers never walk away: LLM user simulators don't match real purchase behavior",
+    "headline": "Simulated Customers Never Walk Away: LLM user simulators don't match real purchase behavior",
     "source": "arXiv",
     "url": "https://arxiv.org/abs/2606.20708",
     "theme": "Research to Business",
-    "summary": "Research reveals that LLM-based customer simulators — increasingly used to train and benchmark conversational AI — systematically fail to replicate real purchasing decisions because simulated users never abandon conversations. Companies relying on synthetic testing may be overestimating their AI's real-world sales effectiveness, a concrete example of the GenAI Paradox."
+    "summary": "Research finds that LLM-simulated customers used in conversational AI testing and benchmarks behave fundamentally differently from real purchasers — simulated users never abandon conversations the way real customers do. For companies using LLM simulations to test sales, support, or e-commerce agents, this means their test results may be systematically over-optimistic, masking real-world failure modes."
   },
   {
-    "headline": "Self-improvement can self-regress: LLM self-training shows consistent rise-then-collapse pattern",
+    "headline": "The AI Evaluability Gap: Organizations lack sufficient evidence for AI governance decisions",
     "source": "arXiv",
-    "url": "https://arxiv.org/abs/2606.21090",
-    "theme": "Research to Business",
-    "summary": "A controlled study of REINFORCE post-training on Qwen models reveals a 'rise-then-collapse' failure mode where AI models improve on target metrics before suddenly degrading within the same training campaign. This finding has direct implications for any enterprise running continuous AI model improvement — gains may be fragile and require careful monitoring."
+    "url": "https://arxiv.org/abs/2606.21015",
+    "theme": "AI Ethics & Trust",
+    "summary": "Researchers define the 'AI Evaluability Gap' — the condition where organizations lack sufficient evidence to make confident governance decisions about AI risk or value. The paper argues most enterprises are making deployment and compliance decisions based on inadequate data, creating hidden liability. This directly addresses the GenAI Paradox of broad adoption without measurable impact."
+  },
+  {
+    "headline": "How Omio is building conversational travel with OpenAI — a case study in AI-native transformation",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/omio",
+    "theme": "Enterprise ROI",
+    "summary": "European travel platform Omio shares its approach to becoming an AI-native company using OpenAI, including conversational booking experiences and accelerated product development. While published by OpenAI, this case study offers a concrete example of how a mid-size company is restructuring around AI — useful benchmarking for executives evaluating their own AI transformation timelines."
+  },
+  {
+    "headline": "Meta launches cheaper smart glasses without Ray-Ban partnership",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
+    "theme": "AI Strategy",
+    "summary": "Meta is launching its own branded smart glasses — without Ray-Ban — at lower price points and in multiple styles, including a Kylie Jenner collaboration. After three years of the Ray-Ban Meta partnership proving the market, Meta is now competing with its own partner, signaling confidence that AI-powered wearables are ready for mass consumer adoption."
   },
   {
     "headline": "Beyond Siri: Practical AI features coming to iPhone in iOS 27",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
-    "theme": "Model & Platform",
-    "summary": "Apple's iOS 27 brings AI capabilities well beyond Siri's overhaul, embedding intelligence across the operating system. For business leaders, this signals that AI is becoming an infrastructure layer in the world's most widely deployed mobile platform, affecting enterprise mobility strategy and app development priorities."
-  },
-  {
-    "headline": "Nvidia wants to cut data center water use, but that's not the same as fixing AI's water problem",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
-    "theme": "AI Ethics & Trust",
-    "summary": "While Nvidia's new cooling technology eliminates water use inside data centers, the biggest water consumption comes from fossil fuel power plants that supply these facilities. For executives planning AI infrastructure investments, this distinction matters as ESG scrutiny and community opposition to data centers intensify."
-  },
-  {
-    "headline": "Learning Burst-Aware Early Warning Models for Capacity Stress under AI Workload Surges",
-    "source": "arXiv",
-    "url": "https://arxiv.org/abs/2606.21130",
     "theme": "AI Strategy",
-    "summary": "Researchers propose early warning systems for hyperscale data centers that predict capacity stress from bursty AI workloads — particularly LLM training and inference — which behave fundamentally differently from traditional cloud workloads. This directly addresses 'token anxiety': the operational challenge of managing unpredictable, high-intensity AI compute demands."
-  },
-  {
-    "headline": "Calibration Is Not Control: Why LLM-Agent Oversight Needs Intervention, Not Just Risk Scores",
-    "source": "arXiv",
-    "url": "https://arxiv.org/abs/2606.21399",
-    "theme": "Agentic AI",
-    "summary": "Researchers argue that current approaches to monitoring AI agents — based on risk scores and thresholds — are fundamentally insufficient for control. The key question isn't whether an agent will fail, but whether an available intervention would improve the outcome. This reframes how enterprises should think about AI agent oversight and safety architectures."
+    "summary": "Apple's iOS 27 brings AI capabilities beyond the Siri overhaul announced at WWDC, embedding intelligence across system-level features. For enterprise leaders, Apple's AI integration approach — baked into the OS rather than standalone apps — will shape how hundreds of millions of users interact with AI daily, influencing enterprise mobility and app strategy."
   }
 ]
