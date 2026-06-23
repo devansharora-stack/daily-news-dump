@@ -56,7 +56,8 @@ export async function curateItems(rawItems) {
     throw new Error("ANTHROPIC_API_KEY / ANTHROPIC_FOUNDRY_API_KEY is required for curation");
   }
 
-  const clientOpts = { apiKey: config.anthropicApiKey };
+  // maxRetries bumped from the SDK default of 2 to ride out transient 5xx/429 blips.
+  const clientOpts = { apiKey: config.anthropicApiKey, maxRetries: 5 };
 
   // Azure AI Foundry support
   if (config.foundryResource) {

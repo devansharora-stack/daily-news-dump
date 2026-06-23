@@ -133,7 +133,9 @@ OUTPUT FORMAT: Return valid JSON only, no other text:
 {"intro": "1-2 sentence warm intro", "bullets": ["highlight 1", "highlight 2", "highlight 3"], "closing": "This week you learned..."}`;
 
 function createClient() {
-  const clientOpts = { apiKey: config.anthropicApiKey };
+  // maxRetries bumped from the SDK default of 2 to ride out transient 5xx/429
+  // blips — the weekly planner runs only once a week and gates the whole week.
+  const clientOpts = { apiKey: config.anthropicApiKey, maxRetries: 5 };
   if (config.foundryResource) {
     clientOpts.baseURL = `https://${config.foundryResource}.services.ai.azure.com/anthropic`;
   }
