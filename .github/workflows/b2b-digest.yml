@@ -1,11 +1,10 @@
 name: B2B Marketing Weekly Sprint
 
 on:
-  schedule:
-    # Sunday 2 AM UTC (7:30 AM IST) — weekly planner: fetch articles + plan the week
-    - cron: "0 2 * * 0"
-    # Daily 3:30 AM UTC (9 AM IST) — daily runner: generate key notes/recaps
-    - cron: "30 3 * * *"
+  # Triggered by an external scheduler (cron-job.org) via the workflow_dispatch
+  # API: daily runner at 03:30 UTC (9 AM IST) with mode=daily, weekly planner
+  # Sundays at 02:00 UTC (7:30 AM IST) with mode=plan-week. GitHub's native cron
+  # was unreliable (queued and delayed by hours), so schedule triggers were removed.
   workflow_dispatch:
     inputs:
       mode:

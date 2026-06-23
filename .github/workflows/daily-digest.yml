@@ -1,10 +1,10 @@
 name: Daily AI Digest
 
 on:
-  schedule:
-    # Run at 9 AM IST (3:30 AM UTC) every day
-    - cron: "30 3 * * *"
-  workflow_dispatch: # Allow manual trigger from GitHub UI
+  # Triggered by an external scheduler (cron-job.org) via the workflow_dispatch
+  # API at 03:30 UTC / 9 AM IST. GitHub's native cron was unreliable (queued and
+  # delayed by hours), so the schedule trigger was removed.
+  workflow_dispatch: # External scheduler + manual trigger from GitHub UI
 
 permissions:
   contents: write
