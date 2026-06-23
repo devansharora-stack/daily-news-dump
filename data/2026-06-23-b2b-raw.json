@@ -1,0 +1,914 @@
+[
+  {
+    "title": "Quantum Security Is No Longer Optional: A Practical Blueprint For Successful Implementation",
+    "url": "https://www.forrester.com/blogs/quantum-security-is-no-longer-optional-a-practical-blueprint-for-successful-implementation/",
+    "source": "Forrester Blog",
+    "publishedAt": "Tue, 23 Jun 2026 14:33:44 +0000",
+    "snippet": "As quantum computing advances continue and government and industry associations issue guidance around quantum security migration requirements and timelines, it’s time to get to work. But the urgency isn’t just about being compliant. First, beginning quantum security initiatives protects against current and future threats. Second, implementing quantum security is a huge undertaking, requiring cross-functional collaboration […]",
+    "tier": 1
+  },
+  {
+    "title": "The AI Orchestration Layer In Banking Is The New Battleground",
+    "url": "https://www.forrester.com/blogs/the-ai-orchestration-layer-in-banking-is-the-new-battleground/",
+    "source": "Forrester Blog",
+    "publishedAt": "Tue, 23 Jun 2026 12:43:15 +0000",
+    "snippet": "AI orchestration is becoming banking’s control layer. Discover how agentic AI moves from interaction to execution — and the implications for strategy and architecture.",
+    "tier": 1
+  },
+  {
+    "title": "The Canary In The CDP Mine: Databricks CustomerLake Is The Litmus Test For Agentic Marketing",
+    "url": "https://www.forrester.com/blogs/the-canary-in-the-cdp-mine-databricks-customerlake-is-the-litmus-test-for-agentic-marketing/",
+    "source": "Forrester Blog",
+    "publishedAt": "Mon, 22 Jun 2026 19:01:14 +0000",
+    "snippet": "Databricks announced CustomerLake, a new customer data platform (CDP) offering, at its Data + AI Summit last week. Though widely anticipated, the announcement generated quite a bit of unabashed excitement and clever commentary. The enthusiasm is relatable; it’s not every day the martech industry gets a new entrant. A CDP Announcement That Isn’t Really About […]",
+    "tier": 1
+  },
+  {
+    "title": "AI Forces A Redesign Of How Marketing And Agencies Work",
+    "url": "https://www.forrester.com/blogs/ai-forces-a-redesign-of-how-marketing-and-agencies-work/",
+    "source": "Forrester Blog",
+    "publishedAt": "Mon, 22 Jun 2026 15:00:07 +0000",
+    "snippet": "As CMOs take on greater responsibility for AI-driven business outcomes, they must lead changes in how marketing is structured, executed, and measured. This is exposing a gap between what CMOs need and what traditional agencies deliver, creating an opportunity for a new class of partner focused on transformation, not just execution.",
+    "tier": 1
+  },
+  {
+    "title": "The IT Singularity Is Here: Announcing Forrester’s 2026 Technology Events",
+    "url": "https://www.forrester.com/blogs/the-it-singularity-is-here-announcing-forresters-2026-technology-events/",
+    "source": "Forrester Blog",
+    "publishedAt": "Mon, 22 Jun 2026 12:30:02 +0000",
+    "snippet": "The IT singularity is already here — and traditional IT operating models can’t keep up with an always-on, AI-driven world. Learn how technology leaders are adapting now and what it takes to turn disruption into real business advantage at Forrester’s 2026 Technology & Innovation Forums.",
+    "tier": 1
+  },
+  {
+    "title": "Nuvei Makes Its B2B Cross-Border Payment Move: The Payoneer Acquisition",
+    "url": "https://www.forrester.com/blogs/nuvei-makes-its-b2b-cross-border-payment-move-the-payoneer-acquisition/",
+    "source": "Forrester Blog",
+    "publishedAt": "Mon, 22 Jun 2026 09:53:36 +0000",
+    "snippet": "Nuvei’s planned $2.75 billion acquisition of Payoneer signals a broader shift in B2B cross-border payments. The market is moving from fragmented point solutions toward integrated finance operating platforms that combine collections, payouts, multicurrency accounts, foreign exchange (FX), settlement, compliance, and embedded financial services. The deal combines Nuvei’s strengths in merchant payment acceptance, local acquiring, card […]",
+    "tier": 1
+  },
+  {
+    "title": "#TogetherTuesday: How employee volunteering in education fuels Salesforce culture",
+    "url": "https://www.salesforce.com/blog/employee-volunteering-education/",
+    "source": "Salesforce Blog",
+    "publishedAt": "Tue, 23 Jun 2026 14:14:13 +0000",
+    "snippet": "Explore how employee volunteering and giving is shaping a brighter future for the next generation.",
+    "tier": 1
+  },
+  {
+    "title": "Hi! Welcome Your New Virtual Assistant To Your Small Team",
+    "url": "https://www.salesforce.com/blog/small-business/virtual-assistant-for-smbs/",
+    "source": "Salesforce Blog",
+    "publishedAt": "Tue, 23 Jun 2026 13:00:00 +0000",
+    "snippet": "Welcome your new AI virtual assistant to the team with these tips and tools.",
+    "tier": 1
+  },
+  {
+    "title": "How to Design an AI-Native Architecture with Salesforce Headless 360",
+    "url": "https://www.salesforce.com/blog/design-ai-native-architecture-salesforce-headless-360/",
+    "source": "Salesforce Blog",
+    "publishedAt": "Mon, 22 Jun 2026 16:50:26 +0000",
+    "snippet": "Work through the assumptions, decisions, and trade-offs behind designing a fintech AI agent built with Salesforce Headless 360.",
+    "tier": 1
+  },
+  {
+    "title": "Smarter Staffing, Better Coaching: Introducing Agentforce Contact Center Workforce Engagement Management",
+    "url": "https://www.salesforce.com/blog/workforce-engagement-management-agentforce-contact-center/",
+    "source": "Salesforce Blog",
+    "publishedAt": "Mon, 22 Jun 2026 13:00:00 +0000",
+    "snippet": "Help supervisors optimize capacity, develop service rep skills, and gain visibility into every customer interaction — unifying workforce management for AI agents and human service reps.",
+    "tier": 1
+  },
+  {
+    "title": "Best Invoicing Solutions For Small Business",
+    "url": "https://www.salesforce.com/blog/small-business/best-invoicing-solutions-for-smbs/",
+    "source": "Salesforce Blog",
+    "publishedAt": "Mon, 22 Jun 2026 13:00:00 +0000",
+    "snippet": "The right invoicing tools can help you get paid faster — here's what to look for and where to start.",
+    "tier": 1
+  },
+  {
+    "title": "The real AI opportunity is creating new value",
+    "url": "https://martech.org/the-real-ai-opportunity-is-creating-new-value/",
+    "source": "Martech.org",
+    "publishedAt": "Tue, 23 Jun 2026 13:08:00 +0000",
+    "snippet": "Cost savings are only the beginning. Learn how organizations move from AI-driven efficiency to entirely new sources of growth.\nThe post The real AI opportunity is creating new value appeared first on MarTech.",
+    "tier": 1
+  },
+  {
+    "title": "GEO is following the same path as early SEO",
+    "url": "https://martech.org/geo-is-following-the-same-path-as-early-seo/",
+    "source": "Martech.org",
+    "publishedAt": "Tue, 23 Jun 2026 12:42:00 +0000",
+    "snippet": "SEO's history offers clues about which GEO tactics may endure, which may disappear, and why sustainable approaches matter most.\nThe post GEO is following the same path as early SEO appeared first on MarTech.",
+    "tier": 1
+  },
+  {
+    "title": "Advertisers may finally see who really touches their bid requests",
+    "url": "https://martech.org/advertisers-may-finally-see-who-really-touches-their-bid-requests/",
+    "source": "Martech.org",
+    "publishedAt": "Tue, 23 Jun 2026 12:32:00 +0000",
+    "snippet": "IAB Tech Lab's proposed SupplyChain v1.1 update could give advertisers a clearer view of every company that touches a programmatic bid request.\nThe post Advertisers may finally see who really touches their bid requests appeared first on MarTech.",
+    "tier": 1
+  },
+  {
+    "title": "Ready or not, welcome to the era of the agentic CDP",
+    "url": "https://martech.org/ready-or-not-welcome-to-the-era-of-the-agentic-cdp/",
+    "source": "Martech.org",
+    "publishedAt": "Mon, 22 Jun 2026 12:22:00 +0000",
+    "snippet": "Trying to navigating the shifts in the CDP market can feel dizzying. Here's what we learned from last week's agentic CDP news.\nThe post Ready or not, welcome to the era of the agentic CDP appeared first on MarTech.",
+    "tier": 1
+  },
+  {
+    "title": "How to blend AI chatbots with high-touch sales",
+    "url": "https://martech.org/how-to-blend-ai-chatbots-with-high-touch-sales/",
+    "source": "Martech.org",
+    "publishedAt": "Mon, 22 Jun 2026 12:18:00 +0000",
+    "snippet": "Learn how to balance AI chatbot efficiency with the high-touch needs of enterprise sales to engage VIP prospects without losing the human touch.\nThe post How to blend AI chatbots with high-touch sales appeared first on MarTech.",
+    "tier": 1
+  },
+  {
+    "title": "Build your AI skills with a useful home project",
+    "url": "https://martech.org/build-your-ai-skills-with-a-useful-home-project/",
+    "source": "Martech.org",
+    "publishedAt": "Mon, 22 Jun 2026 12:06:00 +0000",
+    "snippet": "Don't wait for your company to figure out AI. Use personal projects to gain practical experience and uncover skills you can apply at work.\nThe post Build your AI skills with a useful home project appeared first on MarTech.",
+    "tier": 1
+  },
+  {
+    "title": "ChatGPT Is Secretly Googling Things: This Tool Shows You Exactly What",
+    "url": "https://www.searchenginejournal.com/chatgpt-is-secretly-googling-things-this-tool-shows-you-exactly-what/578014/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Tue, 23 Jun 2026 13:30:43 +0000",
+    "snippet": "Optimizing for AI search means optimizing for queries your customers never typed. QueryFan surfaces exactly what ChatGPT and Gemini searched when answering their questions. \nThe post ChatGPT Is Secretly Googling Things: This Tool Shows You Exactly What appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "How To Define & Report SEO KPIs That Actually Move The C-Suite via @sejournal, @AdamHeitzman",
+    "url": "https://www.searchenginejournal.com/how-to-define-report-seo-kpis-that-actually-move-the-c-suite/576233/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Tue, 23 Jun 2026 11:00:35 +0000",
+    "snippet": "Stop reporting rankings and traffic. Start showing pipeline, CAC, and ROI that executives actually care about.\nThe post How To Define & Report SEO KPIs That Actually Move The C-Suite appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "AI-Recommended Brands Saw 2.5x More Site Visits: Similarweb via @sejournal, @MattGSouthern",
+    "url": "https://www.searchenginejournal.com/ai-recommended-brands-saw-2-5x-more-site-visits-similarweb/580241/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Tue, 23 Jun 2026 10:11:34 +0000",
+    "snippet": "A Similarweb report links AI recommendations to more site visits and deeper engagement, with most downstream traffic arriving via branded search.\nThe post AI-Recommended Brands Saw 2.5x More Site Visits: Similarweb appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "Google Cautions Against Markdown Versions Of Websites For AI SEO via @sejournal, @martinibuster",
+    "url": "https://www.searchenginejournal.com/google-cautions-against-markdown-versions-of-websites-for-ai-seo/580235/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Tue, 23 Jun 2026 10:04:38 +0000",
+    "snippet": "Google's John Mueller and Martin Splitt cautioned against parallelizing content with markdown for AI SEO.\nThe post Google Cautions Against Markdown Versions Of Websites For AI SEO appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "4 Warning Signs Your Marketing Team Is Next For AI Cuts via @sejournal, @gregjarboe",
+    "url": "https://www.searchenginejournal.com/4-warning-signs-your-marketing-team-is-next-for-ai-cuts/580024/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Tue, 23 Jun 2026 09:15:43 +0000",
+    "snippet": "Over 1,300 companies already show all four signals of AI-driven headcount cuts. Here is how to protect your marketing budget before Q4 planning ends.\nThe post 4 Warning Signs Your Marketing Team Is Next For AI Cuts appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "Google Loses Two Top AI Researchers To OpenAI & Anthropic via @sejournal, @MattGSouthern",
+    "url": "https://www.searchenginejournal.com/google-loses-two-top-ai-researchers-to-openai-anthropic/580201/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Mon, 22 Jun 2026 23:52:22 +0000",
+    "snippet": "Two senior Google AI researchers, Gemini co-lead Noam Shazeer and AlphaFold's John Jumper, are leaving for OpenAI and Anthropic within the same week. \nThe post Google Loses Two Top AI Researchers To OpenAI & Anthropic appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "Google And Shopify Back Cloudflare’s AI Bot Gatekeeping Initiative via @sejournal, @martinibuster",
+    "url": "https://www.searchenginejournal.com/google-and-shopify-back-cloudflares-ai-bot-gatekeeping-initiative/580182/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Mon, 22 Jun 2026 23:14:36 +0000",
+    "snippet": "Google, Shopify, and browser makers are backing new PACT protocol \"on Cloudflare's network\" for gatekeeping AI agents.\nThe post Google And Shopify Back Cloudflare’s AI Bot Gatekeeping Initiative appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "AI Chatbot Use Hits 49%, But Skepticism Stays High via @sejournal, @MattGSouthern",
+    "url": "https://www.searchenginejournal.com/ai-chatbot-use-hits-49-but-skepticism-stays-high/580184/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Mon, 22 Jun 2026 22:50:40 +0000",
+    "snippet": "About half of U.S. adults use AI chatbots, and 60% read AI Overviews, but more predict AI will hurt society than help it. \nThe post AI Chatbot Use Hits 49%, But Skepticism Stays High appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "Google Says SEO Tools Lack Access To Its Internal Metrics via @sejournal, @MattGSouthern",
+    "url": "https://www.searchenginejournal.com/google-says-seo-tools-lack-access-to-its-internal-metrics/580176/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Mon, 22 Jun 2026 19:58:25 +0000",
+    "snippet": "Google's new messaging to CMOs reiterates that GEO is still SEO and states that third-party tools have no access to its internal metrics. \nThe post Google Says SEO Tools Lack Access To Its Internal Metrics appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "A German Court Made Google Liable For What Its AI Says About You via @sejournal, @slobodanmanic",
+    "url": "https://www.searchenginejournal.com/a-german-court-made-google-liable-for-what-its-ai-says-about-you/579295/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Mon, 22 Jun 2026 13:00:47 +0000",
+    "snippet": "A Munich court found AI Overviews are Google's own speech, not search results – that changes who pays when the answer about you is wrong.\nThe post A German Court Made Google Liable For What Its AI Says About You appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "Google Says X-Frame-Options Matters For SEO via @sejournal, @martinibuster",
+    "url": "https://www.searchenginejournal.com/google-says-x-frame-options-matters-for-seo/580126/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Mon, 22 Jun 2026 11:35:18 +0000",
+    "snippet": "Google's John Mueller singled out X-Frame-Options as the only security header tied to SEO.\nThe post Google Says X-Frame-Options Matters For SEO appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "After 20 Years Online, The Kitchn Is Launching a Print Magazine",
+    "url": "https://www.adweek.com/media/the-kitchn-membership-print-magazine/",
+    "source": "Adweek",
+    "publishedAt": "Tue, 23 Jun 2026 11:07:45 +0000",
+    "snippet": "The debut is part of a new paid membership program from the Apartment Therapy brand, part of a push to monetize its most engaged audience.",
+    "tier": 1
+  },
+  {
+    "title": "Palantir and Zeta Global Ink 7-Year Deal, Targeting $100M in Annual Revenue",
+    "url": "https://www.adweek.com/media/palantir-and-zeta-global-ink-7-year-deal-targeting-100m-in-annual-revenue/",
+    "source": "Adweek",
+    "publishedAt": "Tue, 23 Jun 2026 09:41:32 +0000",
+    "snippet": "The marketing cloud company is eyeing a transition from adtech vendor to AI infrastructure player.",
+    "tier": 1
+  },
+  {
+    "title": "Amazon&#8217;s New Date for Prime Day 2026 Throws a Wrench Into Brands&#8217; Plans",
+    "url": "https://www.adweek.com/commerce/amazons-new-date-for-prime-day-2026-throws-a-wrench-into-brands-plans/",
+    "source": "Adweek",
+    "publishedAt": "Tue, 23 Jun 2026 06:00:00 +0000",
+    "snippet": "The sales bonanza has surpassed Black Friday in size but was challenging for brands this year.",
+    "tier": 1
+  },
+  {
+    "title": "Omnicom’s Flywheel Found a Way to Inject Brands Into Amazon, Walmart, and Target&#8217;s AI Assistants",
+    "url": "https://www.adweek.com/commerce/omnicoms-flywheel-found-a-way-to-inject-brands-into-amazon-walmart-and-targets-ai-assistants/",
+    "source": "Adweek",
+    "publishedAt": "Tue, 23 Jun 2026 06:00:00 +0000",
+    "snippet": "A new tool helps marketers appear in AI-driven recommendations.",
+    "tier": 1
+  },
+  {
+    "title": "Instacart Wants to Co-Create Ads With Brands",
+    "url": "https://www.adweek.com/commerce/instacart-wants-to-co-create-ads-with-brands/",
+    "source": "Adweek",
+    "publishedAt": "Tue, 23 Jun 2026 03:00:00 +0000",
+    "snippet": "For its first Super Bowl ad in 2025, Instacart recruited brand mascots like the Pillsbury Doughboy, Chester Cheetah, and the Jolly Green Giant to help bring its message to the […]",
+    "tier": 1
+  },
+  {
+    "title": "Meta Bets on AI Creative Tool and Creator Infrastructure to Justify its $145B Capex",
+    "url": "https://www.adweek.com/media/meta-bets-on-ai-creative-tool-and-creator-infrastructure-to-justify-its-145b-capex/",
+    "source": "Adweek",
+    "publishedAt": "Tue, 23 Jun 2026 03:00:00 +0000",
+    "snippet": "At Cannes Lions, the company unveiled a performance-to-creative feedback loop tool.",
+    "tier": 1
+  },
+  {
+    "title": "EXCLUSIVE: Brands Can Now Buy Albertsons Conversational Search Ads Through Criteo",
+    "url": "https://www.adweek.com/commerce/exclusive-brands-can-now-buy-albertsons-conversational-search-ads-through-criteo/",
+    "source": "Adweek",
+    "publishedAt": "Tue, 23 Jun 2026 01:00:00 +0000",
+    "snippet": "The grocery chain launched shopping assistants last year with OpenAI and Google.",
+    "tier": 1
+  },
+  {
+    "title": "Alexa Is Becoming a Shopping Agent for Advertisers Outside Amazon",
+    "url": "https://www.adweek.com/commerce/alexa-is-becoming-a-shopping-agent-for-advertisers-outside-amazon/",
+    "source": "Adweek",
+    "publishedAt": "Tue, 23 Jun 2026 01:00:00 +0000",
+    "snippet": "The online retailer is partnering with Ticketmaster and Papa John’s to automate purchases.",
+    "tier": 1
+  },
+  {
+    "title": "How the NFL Is Building Connections Outside the Field With 72andSunny",
+    "url": "https://www.adweek.com/brand-marketing/how-the-nfl-is-building-connections-outside-the-field-with-72andsunny/",
+    "source": "Adweek",
+    "publishedAt": "Mon, 22 Jun 2026 21:11:42 +0000",
+    "snippet": "At Cannes Lions, the NFL and 72andSunny revealed how tentpoles like The Super Bowl bring in new audiences.",
+    "tier": 1
+  },
+  {
+    "title": "Cannes Lions 2026 Gallery: The Buzziest Events, Biggest Names, and Hottest Parties",
+    "url": "https://www.adweek.com/agencies/cannes-lions-2026-gallery-events-celebrities-panels-activations-parties/",
+    "source": "Adweek",
+    "publishedAt": "Mon, 22 Jun 2026 19:27:38 +0000",
+    "snippet": "ADWEEK takes you inside the best moments from the Croisette, the Palais, and beyond.",
+    "tier": 1
+  },
+  {
+    "title": "The Future of AI and Selling: How One Workflow Closed a $12K Deal",
+    "url": "https://www.socialmediaexaminer.com/the-future-of-ai-and-selling-how-one-workflow-closed-a-12k-deal/",
+    "source": "Social Media Examiner",
+    "publishedAt": "Tue, 23 Jun 2026 10:00:00 +0000",
+    "snippet": "Do you sell digital marketing services and assets? Wondering how AI can help you close a client in the first meeting? In this article, you'll discover an AI workflow to research a prospect, match their brand, and build a working prototype before the first meeting—proving your value upfront. A Different Way to Pitch Your Services […]\nThe post The Future of AI and Selling: How One Workflow Closed a $12K Deal appeared first on Social Media Examiner.",
+    "tier": 1
+  },
+  {
+    "title": "The Download: the future of chipmaking and Anthropic’s government clash",
+    "url": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Tue, 23 Jun 2026 12:10:00 +0000",
+    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The $400 million machine powering the future of chipmaking It’s a bit of a schlep to get to the top of ASML’s newest machine. It’s about the size of a double-decker…",
+    "tier": 1
+  },
+  {
+    "title": "Elephant alert! AI warning systems aim to avoid deadly clashes",
+    "url": "https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Tue, 23 Jun 2026 09:00:00 +0000",
+    "snippet": "India is home to about 60% of the world’s wild Asian elephants, and around 80% of the animals’ habitat lies outside protected areas, according to the Ministry of Environment, Forest, and Climate Change. That brings people and wildlife into close contact, and clashes can turn lethal: There have been some 3,000 human casualties in the…",
+    "tier": 1
+  },
+  {
+    "title": "The $400 million machine powering the future of chipmaking",
+    "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Tue, 23 Jun 2026 09:00:00 +0000",
+    "snippet": "Jos Benschop is climbing a ladder to get to the top of his newest machine.  It’s a bit of a schlep. The contraption is the size of a double-decker bus—more than 150 tons of gleaming precision-milled aluminum covered in thousands of snaking tubes, colored cables, and pressurized tanks. From the ground, it looks like a…",
+    "tier": 1
+  },
+  {
+    "title": "Three things to watch amid Anthropic’s latest feud with the government",
+    "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Mon, 22 Jun 2026 18:00:00 +0000",
+    "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI model called Mythos…",
+    "tier": 1
+  },
+  {
+    "title": "The Download: record-breaking subsea tunnels and flexible data centers",
+    "url": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Mon, 22 Jun 2026 12:10:00 +0000",
+    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the world’s deepest and longest subsea road tunnel —Niall Firth I’m currently around 1,000 feet beneath the North Sea, in a dark, dank cave. It smells weird. And I’m increasingly…",
+    "tier": 1
+  },
+  {
+    "title": "Inside the world’s deepest and longest subsea road tunnel",
+    "url": "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Mon, 22 Jun 2026 08:00:00 +0000",
+    "snippet": "It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave. It smells weird. And I am increasingly aware of the pressure from millions of tons of seawater just above my…",
+    "tier": 1
+  },
+  {
+    "title": "4 Types of SEO: Everything You Need to Know",
+    "url": "https://rankwriters.com/four-types-of-seo-everything-you-need-to-know/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-06-23T15:22:03.276Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "The Surprising Impact of Refreshing Content",
+    "url": "https://rankwriters.com/the-surprising-impact-of-refreshing-content/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-06-23T15:22:03.276Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Get Found Locally: The Ultimate Guide to Local SEO Success",
+    "url": "https://rankwriters.com/get-found-locally-the-ultimate-guide-to-local-seo-success/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-06-23T15:22:03.276Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Navigating the SEO Landscape: Your Guide to Finding the Right Consulting Firm",
+    "url": "https://rankwriters.com/navigating-the-seo-landscape-your-guide-to-finding-the-right-consulting-firm/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-06-23T15:22:03.276Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Buyer’s Guide: Best AI Content Marketing Agencies for B2B 2026",
+    "url": "https://rankwriters.com/buyers-guide-best-ai-content-marketing-agencies-for-b2b-2026/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-06-23T15:22:03.277Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Top 11 B2B Marketing Case Studies 2025",
+    "url": "https://rankwriters.com",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-06-23T15:22:03.281Z",
+    "snippet": "Published September 8, 2025 · Updated December 27, 2025 | By: Lisha",
+    "tier": 2
+  },
+  {
+    "title": "SEO Content Audit Tool",
+    "url": "https://rankwriters.com/seo-grading-tool/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-06-23T15:22:03.281Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Keyword Research Tool",
+    "url": "https://rankwriters.com/keyword-analysis-tool/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-06-23T15:22:03.281Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "National Law Firm",
+    "url": "https://rankwriters.com/case-study-seo-law-firm/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-06-23T15:22:03.282Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Financial Services",
+    "url": "https://rankwriters.com/best-seo-for-b2b-a-case-study/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-06-23T15:22:03.282Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "B2B Financial App",
+    "url": "https://rankwriters.com/case-study-b2b-financial-app-skyrockets-in-search/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-06-23T15:22:03.282Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Marketers & Fractionals",
+    "url": "https://rankwriters.com/seo-for-marketers/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-06-23T15:22:03.282Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Insurance Agencies",
+    "url": "https://rankwriters.com/seo-for-insurance-agencies/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-06-23T15:22:03.283Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Mortgage Lenders",
+    "url": "https://rankwriters.com/seo-for-mortgage-lenders/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-06-23T15:22:03.283Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Plastic Surgeons",
+    "url": "https://rankwriters.com/seo-for-plastic-surgeons/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-06-23T15:22:03.283Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Content Marketing Institute Team",
+    "url": "https://contentmarketinginstitute.com/author/content-marketing-institute-team",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-06-23T15:22:03.185Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Content Marketing Strategy",
+    "url": "https://contentmarketinginstitute.com/strategy-planning/content-marketing-strategy",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-06-23T15:22:03.191Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Demand Generation",
+    "url": "https://contentmarketinginstitute.com/strategy-planning/demand-generation",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-06-23T15:22:03.191Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Audience Building",
+    "url": "https://contentmarketinginstitute.com/strategy-planning/audience-building",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-06-23T15:22:03.191Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Content Operations",
+    "url": "https://contentmarketinginstitute.com/strategy-planning/content-operations",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-06-23T15:22:03.191Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "AI in Marketing",
+    "url": "https://contentmarketinginstitute.com/strategy-planning/ai-in-marketing",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-06-23T15:22:03.191Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Social Media Content",
+    "url": "https://contentmarketinginstitute.com/content-creation-distribution/social-media-content",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-06-23T15:22:03.191Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Video & Visual Content",
+    "url": "https://contentmarketinginstitute.com/content-creation-distribution/video-visual-content",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-06-23T15:22:03.191Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "AI Content Creation & Tools",
+    "url": "https://contentmarketinginstitute.com/content-creation-distribution/ai-content-creation-tools",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-06-23T15:22:03.191Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Content Distribution & Promotion",
+    "url": "https://contentmarketinginstitute.com/content-creation-distribution/content-distribution-promotion",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-06-23T15:22:03.191Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Content Marketing Analytics Data",
+    "url": "https://contentmarketinginstitute.com/measurement-optimization/analytics-data",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-06-23T15:22:03.191Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "SEO for Content",
+    "url": "https://contentmarketinginstitute.com/measurement-optimization/seo-for-content",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-06-23T15:22:03.191Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Content Optimization",
+    "url": "https://contentmarketinginstitute.com/measurement-optimization/content-optimization",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-06-23T15:22:03.191Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Content Marketing University",
+    "url": "https://www.contentmarketinguniversity.com/?utm_medium=referral&utm_source=cmi&utm_campaign=navigation",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-06-23T15:22:03.192Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Content Marketing Certification",
+    "url": "https://contentmarketinguniversity.com/content-marketing-certification/?utm_medium=referral&utm_source=cmi&utm_campaign=navigation",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-06-23T15:22:03.192Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Global management consulting | McKinsey & Company",
+    "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9ueEdNUGF3dEdDT29sQzBBTWJqZFVCRFNRUW00N3VsaExhQmEzbmFkTTBqbVJfbmF6S0dBLUhB?oc=5",
+    "source": "McKinsey & Company",
+    "publishedAt": "Fri, 22 Mar 2013 13:44:24 GMT",
+    "snippet": "Global management consulting | McKinsey & Company&nbsp;&nbsp;McKinsey & Company",
+    "tier": 3
+  },
+  {
+    "title": "Contact Us | Manila Office, Philippines| BCG",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5MNEdybTkxSkdBLVNhR0VIZEZQRy0wS3VoeWVRMTlyVERvZmQ1NkJ0ZmxBSGJsdUtVeFN3UVVlbS0tdWFTaWItUUZR?oc=5",
+    "source": "Boston Consulting Group",
+    "publishedAt": "Sat, 18 Jul 2020 18:00:00 GMT",
+    "snippet": "Contact Us | Manila Office, Philippines| BCG&nbsp;&nbsp;Boston Consulting Group",
+    "tier": 3
+  },
+  {
+    "title": "The Era of Token-Based Competition Is Here. Is Your AI Strategy Ready?",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcmdEYWFvaDVWVnVJanQ5WnFYVWNaSGktREJxaTJkX0lzTWViR1lYbHVqTmE5Q3J0X3pYS1Q5ZjU1ZU8yUE1odVBrWFkwMlRMeXhGZ3kwT19jVzRLNm1semRGWW9wczRfdHNhR2hPaXZuMFA5TGdTeU5EekJSU2ZWb01hTjRqT2ZwcmQtcG8xMA?oc=5",
+    "source": "Boston Consulting Group",
+    "publishedAt": "Tue, 23 Jun 2026 04:41:01 GMT",
+    "snippet": "The Era of Token-Based Competition Is Here. Is Your AI Strategy Ready?&nbsp;&nbsp;Boston Consulting Group",
+    "tier": 3
+  },
+  {
+    "title": "Frontline Ops AI by BCG X - AI Scheduler | BCG",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55MDlmZXVVdlBZUDF2bjJNZFBNTGh1Y3VQZnlZdFVNQmttVnNkTXdnOVU0T09YLU5nZTdmTVZudXVuZzBCV2hHZjUyVkhLYkFpMWFMeHZ1MVdfM29zUWY5U24wWEY?oc=5",
+    "source": "Boston Consulting Group",
+    "publishedAt": "Tue, 23 Jun 2026 03:38:06 GMT",
+    "snippet": "Frontline Ops AI by BCG X - AI Scheduler | BCG&nbsp;&nbsp;Boston Consulting Group",
+    "tier": 3
+  },
+  {
+    "title": "How Economic Resilience Will Shape Growth in the Gulf States",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQXJ6WFg5OGRpMGsyeDRDeWRmZ1BFMFZuanotWTR5NTgyd2d0VmRsYk16RkNlMEFhYkpKLW5zUjdJMV81RS1pR0p4TlJXYllsUGtDUmxrbXowdHlTR0I2ak9fdjE1X09BZHlLRW5KUTZ4eENvbVpMRDdRWkYzS0hMXw?oc=5",
+    "source": "Boston Consulting Group",
+    "publishedAt": "Tue, 23 Jun 2026 11:05:56 GMT",
+    "snippet": "How Economic Resilience Will Shape Growth in the Gulf States&nbsp;&nbsp;Boston Consulting Group",
+    "tier": 3
+  },
+  {
+    "title": "Trading Consulting for Orbit: A BCGer’s Leap into Space",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdGxUMzZjelNIWllzVXBEMzE3b1pZbE5HZzJONV93LXJiTC0xTkxVUV9fWmxGdDFpQ3I1RklvdmhYWHpRVlYzeFlMSjZTYVNjbkY0cDBuRkVnWGlPMEhMNzRaQ0Ftdjg1NmRrRHkwZ0d6SEgwZjROTFRKajJCN3c0NEZBNWFtSXlvUE1wT1VrZw?oc=5",
+    "source": "Boston Consulting Group",
+    "publishedAt": "Tue, 23 Jun 2026 12:12:08 GMT",
+    "snippet": "Trading Consulting for Orbit: A BCGer’s Leap into Space&nbsp;&nbsp;Boston Consulting Group",
+    "tier": 3
+  },
+  {
+    "title": "Betting on Grocery Store Tech Finally Makes Sense",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSElTXzh0SUkyY3ZEYjBBUEhOLVVMVDdMaUV1c09PZGQ0YTFDZ09Sa21IblROVG9EbmJRVjlENWp4ZmcxcVJhaFYxeUJoaFFTc2xmWnRSTW1TMTRRMW8zTEZZUlc3NWI1azNqUlBab2JOVEJ2MVJzanI1NDJ2c1p5WEtjNGdSZWpQM2syRzBNc0NFZzVLMjBacQ?oc=5",
+    "source": "Boston Consulting Group",
+    "publishedAt": "Tue, 23 Jun 2026 11:05:57 GMT",
+    "snippet": "Betting on Grocery Store Tech Finally Makes Sense&nbsp;&nbsp;Boston Consulting Group",
+    "tier": 3
+  },
+  {
+    "title": "AI for CEOs: Amplifying Time and Judgment at the Top",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mMXhNU01rdGowQ2MyNHd6cnl2RGNsVWhHMmdmeTd3Ym02RlRVaXdOZ1NLZFZVal80bG1VcDQtbzNMR1lKc00yYnN1Mk1RaGZlUkhfaURBY0lfU29OVmc?oc=5",
+    "source": "Boston Consulting Group",
+    "publishedAt": "Tue, 23 Jun 2026 10:42:02 GMT",
+    "snippet": "AI for CEOs: Amplifying Time and Judgment at the Top&nbsp;&nbsp;Boston Consulting Group",
+    "tier": 3
+  },
+  {
+    "title": "BCG in Singapore",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03Y2x1N0wxd0ZTaGhVNGc2amxxZzJsQUs0SjZsZ2dsUFZ0aVlGbG5PRENKOEFaR29naDFpa2dzdnYwN1BiTHNkNWR0TW84ZWpaWGVJamg3LTg?oc=5",
+    "source": "Boston Consulting Group",
+    "publishedAt": "Sat, 18 Jul 2020 19:22:06 GMT",
+    "snippet": "BCG in Singapore&nbsp;&nbsp;Boston Consulting Group",
+    "tier": 3
+  },
+  {
+    "title": "BCG in France",
+    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE4tczVhUGExZmZ5akZjUmNaSjNlQno4X3drbVlKV3N6M2NvMTNPNi12MG1ZNnZ6NkRFTjBWYkkwdw?oc=5",
+    "source": "Boston Consulting Group",
+    "publishedAt": "Wed, 19 Oct 2022 15:32:30 GMT",
+    "snippet": "BCG in France&nbsp;&nbsp;Boston Consulting Group",
+    "tier": 3
+  },
+  {
+    "title": "Conferences Marketing Manager in Stamford, Connecticut, United States of America",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tbDBtSVRKQVpFa2loZEVxbGhpZlpHcG9NYmFkX21xSHdBNzRxSFlZcmxjMVlxS2VQbm5ma1ptd0NrcURwczRUUmJrNDBvN2hrQXpucFNEbjZoWjFWNkhCVTlfaXlMOUV4eUd5X2FlT3JGaVpYRTNJSWoxNA?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Tue, 23 Jun 2026 08:16:01 GMT",
+    "snippet": "Conferences Marketing Manager in Stamford, Connecticut, United States of America&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "Revenue Marketing Senior Specialist in Irving, Texas, United States of America",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORjdZZmYtOUJscE83MDYtVFNibmlEa294bXl3UGxFbnJNWEpRV1pTcE9Wd3I0OF9nejFZaDZCcWt4X2RyMFlBTi1vcjJUWEZQT001MFVCeUh0RU50WVZuVGlrcFlDZEp0STlZTlBPUWxVcmZJLWI0OEVaRlJuSV9tZGRwUQ?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Tue, 23 Jun 2026 08:16:01 GMT",
+    "snippet": "Revenue Marketing Senior Specialist in Irving, Texas, United States of America&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "Sr Database Marketing Specialist, Conferences in Irving, Texas, United States of America",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX2VCeVhRLTlEcmFKazdTaWNJZ1dXZW4wRnd2NUZHMHVvMFR4Y0VtUEpxTnBiVjhXNnNyR01VNUlJY2p3MXI5TVQ4T3JqLTJVbk5HRlMyaGVaWFNNLVFRTnViQVNNb2dxRkk5M2lBOHNzSzF6Q0h2dWx5Uy1teVR3Y1VlREd0M3M1S3A4NzRZdw?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Tue, 23 Jun 2026 08:16:01 GMT",
+    "snippet": "Sr Database Marketing Specialist, Conferences in Irving, Texas, United States of America&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "Manager, Associate Conference Engagement in Irving, Texas, United States of America",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQanh5ZERCX0ZOaGdqdWg0UlJqTFQ0VXVQTkFMXy1WN2w0QnZ0aER0QUN1Ml94cWtkZThUNnpNREpzb1ZiUDBuU1ItSmRZZ1pPc2dSdllKMTN0cVFuV2ZvTnNzaUFBQVFjR1BaeW5ldmZZRC1VOGxKZDVSNWI1R2RlMFlJM01zTjJH?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Tue, 23 Jun 2026 08:16:00 GMT",
+    "snippet": "Manager, Associate Conference Engagement in Irving, Texas, United States of America&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "Gartner Predicts Neocloud Providers Will Capture 20% of the $267 Billion AI Cloud Market by 2030",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbmdYTVl4RVltZEpIWmpVTVNJUGNVSWx0RkdXWV9YanRVcXZhRTBOYm0tdE9TcU8wa3p2NUdhcVUzdzJFeVo1U2R1SFlCa085WjJ1SEF2eldXYkRpRmVSaDljRUxNNDQyV3MzamNQb0lGcW9PcGNFeERWN0VRRE1iSURxS2gyWTA1RTA4U1NOblhkMGVOR2FqTElhNUpHc3g3NXVUZ0xNYU0xSG1CeWVyM3RPa0YyS0FVbTExSnNMa05CcThFQjJPUVlubi1UNUJqdGFvN3ZoZzJEZXJ1Uk8wQ0w1ZUc5dEVTOVVaV0F1MGVHUjJfV2szWDFhUFpmYlZJ?oc=5",
+    "source": "Gartner",
+    "publishedAt": "Tue, 23 Jun 2026 07:33:18 GMT",
+    "snippet": "Gartner Predicts Neocloud Providers Will Capture 20% of the $267 Billion AI Cloud Market by 2030&nbsp;&nbsp;Gartner",
+    "tier": 3
+  },
+  {
+    "title": "Managing Partner in Tokyo, Tokyo, Japan",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hSU9EMlMzcHpwamVmaUtGVDZjZ3diSFg0MGdxUkVKSzdCaGU0bnE2bENJejdZTFk2NGVBSHV0ZEx3Y0dhX1NEdDBWZ2hsVWlVZndOVHN5TXI5MEpIZ2ZkX0dxQVFkc05Ub1E?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Tue, 23 Jun 2026 10:35:11 GMT",
+    "snippet": "Managing Partner in Tokyo, Tokyo, Japan&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "Senior Conference Planner, Housing in Egham, Surrey, United Kingdom",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaV9GeDl6NlV4dUY5dmd0N0dZa0JkZ2JMZVZuUnpORFBJTFRXYThMWlNtMk9ZUG92N0NDTF9ubDBaa1dHaGNNdE8tbUtiQ3NLcnNtcUJQZV9QRHdpVDVzNmk2YW5yM0VfSndPZ3dnM0RISUgxODA2WTBMVWl2Y0p2WA?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Tue, 23 Jun 2026 08:16:01 GMT",
+    "snippet": "Senior Conference Planner, Housing in Egham, Surrey, United Kingdom&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "Gartner CSO & Sales Leader Conference 2027 in London",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVbGJXTlgxQ0VjSDBlOXU4dGVsWFRPM2JrNG5JcFlobDh1ZldVWU5DeWNFU3dRVEx6dnA1SU1xcFBVZS1YRE5jMWZMcGdBd05ydS13TjVNRHlwMTZ3VDZtRGNqZWQ?oc=5",
+    "source": "Gartner",
+    "publishedAt": "Mon, 22 Jun 2026 18:10:12 GMT",
+    "snippet": "Gartner CSO & Sales Leader Conference 2027 in London&nbsp;&nbsp;Gartner",
+    "tier": 3
+  },
+  {
+    "title": "Top Domotz Alternatives & Competitors 2026",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tdS1KTkx3M1FhZkdwcjdVOFNwT3ZsS1E2SVBQUUxoYzluTjZTMWtPTzNEVHYzYnduQjYtTDlMekZHWkFRS2NnSy1vdGVUS3A4NkNYd1VHTGxyNm1ucnhzYzlhVUZMcVE0Zmk5ckRXWTdFYWpJN0xsa013?oc=5",
+    "source": "Gartner",
+    "publishedAt": "Tue, 23 Jun 2026 14:40:20 GMT",
+    "snippet": "Top Domotz Alternatives & Competitors 2026&nbsp;&nbsp;Gartner",
+    "tier": 3
+  },
+  {
+    "title": "Recruiter - Executive Services in Irving, Texas, United States of America",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Eb3llZFBEZDdoRE1PS3NyRS1McWcwbzJvMGRzUnFHV254ekRKSGprWWVKeVJBcGlCa3FPVFlCUGx3ZVI4emRlWmNvSGpqdWJ1N2dzc0txZUVwQWNKWlBFS3NPMlByNUdXM2k0U1BtTFBrZktMY2ZCOW13?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Tue, 23 Jun 2026 08:16:01 GMT",
+    "snippet": "Recruiter - Executive Services in Irving, Texas, United States of America&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "Auditor, Audit & Controls in Gurgaon, Haryāna, India",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81M25pX2FackM3WkNJU0hYVkt0SGxYVGlLVmJtd2VGOUl3Rm9SM2l4NlpPdk43Nl9nT0FVUlA4MjZRbnlmQmRTd2I2Q3hHSmhYVTZhdmZVUFdxTjFaZWZDX05yaTVraVljWXpkYlNQVU9zUQ?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Tue, 23 Jun 2026 08:16:01 GMT",
+    "snippet": "Auditor, Audit & Controls in Gurgaon, Haryāna, India&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "AdRoll To Explore AI-Native GTM Workflows At B2BMX Summer Camp 2026",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeTc2Vk1JSEtBSklZNy1FMWpIa0hNZTZla3d6SXdEUEV0NEt6OVZPMG1ld2RSZGlGS1RRQXdIYjYtVXdKOUFBUUljUU4zZzFWX1FpVEd0V0dibVkzRXJGS1h5eF85TjNCa0c4UFYtUWgzRUcxSGJyMTI1Tk9fdEVkQVVSQVNjMUgwbHdiUkF3ZF9DRVFyZ0tENTM2TTZVN0dYY3o5RlNfbzBRamFkZlBDaA?oc=5",
+    "source": "Demand Gen Report",
+    "publishedAt": "Mon, 22 Jun 2026 19:02:28 GMT",
+    "snippet": "AdRoll To Explore AI-Native GTM Workflows At B2BMX Summer Camp 2026&nbsp;&nbsp;Demand Gen Report",
+    "tier": 3
+  },
+  {
+    "title": "Majority of GTM Leaders Say Speed to Revenue Is a Top Priority: Seismic",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWEdGQmUyRGhfalhUQkVJOEV0clVjNzdDeVprVFk3SHQySDVHekRNRDdMejV6cFlpLXRSUWU1Mk5ja21Mc3psaDc0b0REUVRZWV90V29EM3RxUTVxejhqaGZhcC1jV0Z3YThKdVo2cm8waHAxbFQ1QlZTcmhpZDZGZmNZMS1sNnB5NThFbTlsaEllMEQyU1V3SXBRUzAxalpfRXc4bHM2WTRYd0ZKekN6bmpJaWNZRDZLTjFDWkVveWlJN1o5U0p1a1YtMzd2SlE?oc=5",
+    "source": "Demand Gen Report",
+    "publishedAt": "Mon, 22 Jun 2026 16:01:27 GMT",
+    "snippet": "Majority of GTM Leaders Say Speed to Revenue Is a Top Priority: Seismic&nbsp;&nbsp;Demand Gen Report",
+    "tier": 3
+  },
+  {
+    "title": "Agentic Commerce Is Coming. Marketers Need to Start Winning at the Discovery Layer",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNzBVLUxKa2hwMWxoa0s1WFU5eVBxQl9Gb0w1aGwyRDRzdkEtOUVJUlZ1Z29rdzZKMTlFd19TSmxpRmY4Q2o1a1lPanBieUx3NUVIMHJqYzctcmlRYTRPNzZkNWc5YzJDNkMyNzZDanUxcFJUZDdBWDYybXp0bXprbmR1UUNLZFdhTkVPcWdWZXB2NUl2SUtrOEpaRmozdWhqbkxiWUZHTy1NczkxU0xiZ2Rfd2toSENMVUktUDg5VEVtSUEtMzBQUG9UaWhiUTY1UFE?oc=5",
+    "source": "Demand Gen Report",
+    "publishedAt": "Tue, 23 Jun 2026 11:02:10 GMT",
+    "snippet": "Agentic Commerce Is Coming. Marketers Need to Start Winning at the Discovery Layer&nbsp;&nbsp;Demand Gen Report",
+    "tier": 3
+  },
+  {
+    "title": "搜索顶级代理商和服务提供商 | HubSpot",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaFhhNTNqQnF1dTZ5X3FOOVN5eFJLRFdBX3M2c0V2bU0xaXc5b0VHNkRGSmU1bDN5Z3ZKeTdsVWdRdk13bDJGeDdULURmekRBS1JfOTItRllNUjNGY0RKTGVfTUp4WmVmNHZ3QmtfNHBvOGdDLU9sVE1XTmlHQkxXZWtBXzBwMjBKYmlGd2VTZ1d5UkEyczhXSThsQTAtNl9pb09xZ2IyWjVDb0UyUW1MR2pWYWsyTXhqSmNQYmhyTVJWdHFxV1Nsa3RaQ0NST3pTZnR6VHJjNi1OYkR3UkJaVEZxQ1hIVGpvSHc?oc=5",
+    "source": "HubSpot Marketplace",
+    "publishedAt": "Tue, 23 Jun 2026 01:36:55 GMT",
+    "snippet": "搜索顶级代理商和服务提供商 | HubSpot&nbsp;&nbsp;HubSpot Marketplace",
+    "tier": 3
+  },
+  {
+    "title": "AEO Revenue Playbook: 3 Plays to Convert AI Visibility Into Pipeline",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XbC1EWlEzQlA2dE1WR01aZkx4Q2JveUpVN3gzNUlkd2lTMmlyeHZKWUt5dGpzaktZNHJMODByOVVKbVliVXRnaFUyM0lvemtXSEkyY0pyQ3hJWUprZHI0Uw?oc=5",
+    "source": "HubSpot",
+    "publishedAt": "Mon, 22 Jun 2026 21:13:38 GMT",
+    "snippet": "AEO Revenue Playbook: 3 Plays to Convert AI Visibility Into Pipeline&nbsp;&nbsp;HubSpot",
+    "tier": 3
+  },
+  {
+    "title": "AI Forces A Redesign Of How Marketing And Agencies Work",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaUVzRDZMLWx6aG9uMGVtSUJLVUZfMVhzRS1jdmxhTWN0T3ZTd2c3bG1CV0pxNVNoWXR0SUNDNG9uMzVyZW80Zk1JaldQaFI1bUl5N2tneEZ4Um9HLW5IRGNmT1diT3NVUG84WEs5LS1OVm5VSHNOd3I0bGcySXYzRVhZaERrY2lLR1JuUUw1NkpCQQ?oc=5",
+    "source": "Forrester",
+    "publishedAt": "Mon, 22 Jun 2026 16:15:04 GMT",
+    "snippet": "AI Forces A Redesign Of How Marketing And Agencies Work&nbsp;&nbsp;Forrester",
+    "tier": 3
+  },
+  {
+    "title": "The Canary in the CDP Mine: Databricks CustomerLake Is The Litmus Test For Agentic Marketing",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQk00X2Z1c3dNV2kzcTdJTzJqV2NLTzdJZjd6YzdjWEJ3RG5OSmRrcHFPNGlYUXUxWndxRTBwT3N0ZnZpaG55U2lmWGlNVnlpaGg5MHRKaFZMdGo3ekdOdzJMcmE1TlpVTXg2cG5PdWEwQ2FVbXpOZjJYVVIyazU2bDRIakNYSjltUXFCTUw1Z09weXl6MzFzcXJMaXBHZXNDbnhONDc0c3FxX1dyanFidzJPclg0NDJ1T1pUdTY5WHlLQQ?oc=5",
+    "source": "Forrester",
+    "publishedAt": "Mon, 22 Jun 2026 19:19:58 GMT",
+    "snippet": "The Canary in the CDP Mine: Databricks CustomerLake Is The Litmus Test For Agentic Marketing&nbsp;&nbsp;Forrester",
+    "tier": 3
+  },
+  {
+    "title": "The AI Orchestration Layer In Banking Is The New Battleground",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmllaE13cmtNR3h2Z05URTUyaXd3X0pGOUQtZno5NFltYUpTc1VoRnlNZWZkWVhtNnRYNDl2cTEwR2ZIbkpESlZYYkYwVmh2enVhdmx4Y1NWVlozekU0TWJxRUtHc3M5LTAwRHp5dF9RWUNFdjRnaEdFZ05LbnlMaTUyeURzUXRZZ245SVVyd1VNVWNleHREdDZB?oc=5",
+    "source": "Forrester",
+    "publishedAt": "Tue, 23 Jun 2026 12:50:45 GMT",
+    "snippet": "The AI Orchestration Layer In Banking Is The New Battleground&nbsp;&nbsp;Forrester",
+    "tier": 3
+  },
+  {
+    "title": "Cannes Lions 2026 Grand Prix Winners in Audio & Radio, Creative B2B, Creative Brand, Health & Wellness, Outdoor, Pharma, Print & Publishing, and the Grand Prix for Good",
+    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPQVVQcmk2UldsMnJYWmVOd3Zjbk4ySEFIUGNSdXBGY0VESEpmdmJhTE5xN2hvVi1NSnpvRjZxdnJId2VveW4tUXlBMHEteDVjbjRQdU0ydXBDWXlsd0V6TkhoaXkzeWc3YVN6UWtVR2l4WWdkc2ktY1JmT0MwRXZmRDhpekg1dVFVWG44aUlhMHFhQ3d0OG9tZ3pfTHRDNG8xQi1RZ0N1Nm1peldZQmtTLWw2aWVHeEtObEpIN1NOaUl2MmpDc09EOWRkVVJFd1p4TENIWEVQamZmRWM3YS01N2EtaHVNQ1dZQVFIX09MOG1MT05ta0lNczNEWEJ4M2pnbTNrdXlmWk9MSmxXUnVaX2VhNWpVTlYwRkViNVZTTQ?oc=5",
+    "source": "Little Black Book | LBBOnline",
+    "publishedAt": "Tue, 23 Jun 2026 02:16:49 GMT",
+    "snippet": "Cannes Lions 2026 Grand Prix Winners in Audio & Radio, Creative B2B, Creative Brand, Health & Wellness, Outdoor, Pharma, Print & Publishing, and the Grand Prix for Good&nbsp;&nbsp;Little Black Book | LBBOnline",
+    "tier": 3
+  },
+  {
+    "title": "WONTECH’s Billion-Baht Blueprint: How Korea’s Aesthetic Titan Won Thailand",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbFFqeTdtUEhTS3hsc3RJSkZ0aHE5cXVCSTBldTVCMkdlZkYycExTSG81ZnRuWDVENFNwRkg3cFBUcTBRZXFfZHVpLTM5MUdZYkRLR0poQVFRSDJ0c1BkSlBWOXlyemNDekQ1MEtyWlV6dDJIb0VTY3ZnWkVPLVoxdlN4WW4ySC1lNk5NcWtLdHcwaDcxNW9sa1Rkc3dxYWtNZllFbVR2dw?oc=5",
+    "source": "BriefGlance",
+    "publishedAt": "Mon, 22 Jun 2026 22:48:00 GMT",
+    "snippet": "WONTECH’s Billion-Baht Blueprint: How Korea’s Aesthetic Titan Won Thailand&nbsp;&nbsp;BriefGlance",
+    "tier": 3
+  },
+  {
+    "title": "The 2026 B2B Marketing Edge",
+    "url": "https://www.anteriad.com/resources/the-2026-b2b-marketing-edge",
+    "source": "Anteriad",
+    "snippet": "This report deep dives into strategies used by successful B2B marketers across data, buying groups, attribution, and campaign agility, featuring survey data and expert tips.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "B2B Lead Generation Case Study: 312% Lift (2026)",
+    "url": "https://tomba.io/blog/b2b-lead-generation-case-study",
+    "source": "Tomba Blog",
+    "snippet": "A real-world case study details how a 12-person B2B SaaS sales team achieved a 312% pipeline lift in 90 days by improving data quality and follow-up processes.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "7 Go-to-Market Strategy Pillars for B2B SaaS Success",
+    "url": "https://saashero.io/go-to-market-strategy-pillars-b2b-saas/",
+    "source": "SaaS Hero",
+    "snippet": "This article outlines seven essential go-to-market strategy pillars for B2B SaaS companies, covering ICP targeting, value proposition, pricing, and demand generation motions with measurable outcomes.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "The Demand Engine: Why B2B Awareness Is About Relevance, Not Reach",
+    "url": "https://www.b2bmarketing.net/articles/demand-engine-b2b-awareness-relevance-not-reach",
+    "source": "B2B Marketing",
+    "snippet": "This expert analysis explores how B2B awareness has shifted from broad reach to relevance, influenced by AI Overviews and creator trust, citing Semrush and LTK data.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "What the 2026 ABM Benchmark Survey Reveals About B2B Growth Strategy",
+    "url": "https://www.b2bmarketing.net/articles/what-2026-abm-benchmark-survey-reveals-about-b2b-growth-strategy",
+    "source": "B2B Marketing",
+    "snippet": "A 2026 ABM benchmark survey reveals that Account-Based Marketing is now a core growth engine for B2B organizations, with 47% integrating it with demand generation.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "B2B Marketers Facing Challenges with GEO",
+    "url": "https://www.marketingcharts.com/b2b/b2b-marketers-facing-challenges-with-geo-273577",
+    "source": "Marketing Charts",
+    "snippet": "A report highlights that B2B tech marketers prioritize AI visibility and Generative Engine Optimization (GEO) but face challenges in coordination, measurement, and resources.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "Case Study: How Growth Pushed 4Sight Utility Engineers to Formalize Marketing",
+    "url": "https://www.theonlyagency.com/insights/case-study-4sight-utility-engineers",
+    "source": "THE ONLY AGENCY",
+    "snippet": "This case study details how 4Sight Utility Engineers formalized their marketing function to support business growth, moving from ad-hoc activities to a strategic approach.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "AI Sales Plays for B2B Marketing: How to Turn Signals into Pipeline That Closes",
+    "url": "https://hginsights.com/blog/ai-sales-plays-b2b-marketing-signals-pipeline",
+    "source": "HG Insights",
+    "snippet": "This expert analysis explains how AI-driven sales plays, triggered by real-time buyer behavior and technographic changes, can solve attribution problems and increase win rates in B2B marketing.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  }
+]
