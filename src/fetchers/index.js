@@ -6,6 +6,7 @@ import { fetchRssSources } from "./rss.js";
 import { fetchWebSources } from "./web.js";
 import { fetchPlaywrightSources } from "./web-playwright.js";
 import { fetchSearchSources } from "./search.js";
+import { loadSentNewsKeys, newsKey } from "../output/sent-history.js";
 
 export async function fetchAllSources() {
   const sourcesPath = resolve(config.root, "config/sources.json");
@@ -42,7 +43,12 @@ export async function fetchAllSources() {
     `Fetched ${allItems.length} total items, ${deduped.length} after dedup (RSS: ${rssItems.length}, Web: ${webItems.length}, Playwright: ${playwrightItems.length}, Search: ${searchItems.length})`
   );
 
+  // Drop stories already sent in recent digests so each day's digest is fresh
+  const sentKeys = loadSentNewsKeys();
+  const fresh = deduped.filter((item) => !sentKeys.has(newsKey(item.url)));
+  logger.info(`Filtered ${deduped.length - fresh.length} already-sent stories (${fresh.length} fresh)`);
+
   // Cap at maxRawItems, preferring higher-tier sources
-  const sorted = deduped.sort((a, b) => a.tier - b.tier);
+  const sorted = fresh.sort((a, b) => a.tier - b.tier);
   return sorted.slice(0, config.maxRawItems);
 }

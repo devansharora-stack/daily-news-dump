@@ -22,6 +22,7 @@ if (existsSync(envPath)) {
 export const config = {
   root: ROOT,
   dataDir: resolve(ROOT, "data"),
+  newsSentHistoryPath: resolve(ROOT, "data/news-sent-history.json"),
 
   anthropicApiKey: process.env.ANTHROPIC_FOUNDRY_API_KEY || process.env.ANTHROPIC_API_KEY,
   foundryResource: process.env.ANTHROPIC_FOUNDRY_RESOURCE,
