@@ -1,0 +1,184 @@
+[
+  {
+    "headline": "The running list: major tech layoffs in 2026 where employers cited AI",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "theme": "AI Workforce Impact",
+    "summary": "TechCrunch maintains a running tracker of significant tech layoffs in 2026 where companies explicitly cited AI as a factor. This growing list documents the accelerating pattern of AI-driven workforce restructuring across the tech sector, providing concrete evidence of how automation is reshaping headcount decisions at major employers."
+  },
+  {
+    "headline": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
+    "theme": "AI Risk",
+    "summary": "Meta has paused a controversial program that collected employee keystroke data to train AI models after the data was accidentally exposed internally. The incident reveals the tension between using worker activity as AI training data and maintaining employee trust, raising questions about internal surveillance programs at major tech companies."
+  },
+  {
+    "headline": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/",
+    "theme": "AI Ethics & Trust",
+    "summary": "Meta employees could access each other's keystroke data collected as part of an AI training initiative, raising serious privacy and workplace surveillance concerns. Employees had previously objected to the program, and the data exposure validates those concerns — a cautionary tale for any company harvesting internal worker data for AI models."
+  },
+  {
+    "headline": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia's $20B not-acqui-hire deal",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+    "theme": "Funding & M&A",
+    "summary": "Groq raised $650M in fresh funding and is rebuilding its executive team after Nvidia's $20B not-acqui-hire deal stripped key talent. The company is pivoting toward its neocloud business, illustrating how the AI chip wars are reshaping through talent acquisitions disguised as corporate deals and the massive capital required to compete with Nvidia."
+  },
+  {
+    "headline": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+    "theme": "Funding & M&A",
+    "summary": "Reflection AI will pay SpaceX $150 million per month through 2029 for access to Nvidia GB300 chips at SpaceX's Colossus 2 data center near Memphis. The deal totals roughly $5.4B, underscoring both the astronomical cost of frontier AI compute and SpaceX's emergence as a major data center operator competing with traditional cloud providers."
+  },
+  {
+    "headline": "Google DeepMind bets $75M on AI's future in Hollywood with A24 deal",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+    "theme": "Funding & M&A",
+    "summary": "Google DeepMind is investing $75M in a partnership with indie studio A24 to build AI filmmaking tools. The deal signals Big Tech's push to embed generative AI directly into creative production workflows, potentially disrupting traditional content creation economics in entertainment."
+  },
+  {
+    "headline": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+    "theme": "Funding & M&A",
+    "summary": "Stockholm-based Fika Jobs raised $4M for a hiring platform combining AI interview agents with short-form video profiles. The concept of AI agents conducting initial candidate interviews represents a concrete example of how agentic AI is beginning to automate high-touch HR functions that were previously considered human-only."
+  },
+  {
+    "headline": "Why corporate AI super PACs spent $27 million on a local election",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
+    "theme": "Regulatory",
+    "summary": "Corporate AI super PACs poured $27 million into a single local New York election, revealing the scale at which the AI industry is now investing in political influence at every level of government. This spending signals how seriously AI companies view regulatory threats and their willingness to shape the political landscape to protect business interests."
+  },
+  {
+    "headline": "OpenAI launches new initiative to help find and patch open source bugs",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+    "theme": "AI Strategy",
+    "summary": "OpenAI launched 'Patch the Planet' alongside an improved GPT-5.5-Cyber model to help open-source maintainers find and fix security vulnerabilities at scale. The initiative positions OpenAI as a cybersecurity player while addressing growing concerns about AI models' potential to be used for offensive hacking — a strategic move to build goodwill with the developer community."
+  },
+  {
+    "headline": "Helping build shared standards for advanced AI",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "theme": "Regulatory",
+    "summary": "OpenAI announced support for building shared AI safety standards through the Appia Foundation, including evaluation frameworks and global cooperation protocols. This signals the industry's growing engagement with standardization efforts as regulatory frameworks solidify worldwide — companies should monitor emerging standards that could become compliance requirements."
+  },
+  {
+    "headline": "Anthropic's Claude Tag is learning your company, one Slack message at a time",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+    "theme": "AI Strategy",
+    "summary": "Anthropic launched Claude Tag, an always-on AI teammate embedded in Slack that continuously absorbs organizational context and institutional knowledge. Beyond productivity, this is a strategic land-grab for enterprise data — once Claude learns a company's workflows and tribal knowledge, switching costs become enormous, creating deep vendor lock-in."
+  },
+  {
+    "headline": "The AI world is getting 'loopy'",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+    "theme": "Agentic AI",
+    "summary": "A new paradigm called 'loops' extends agentic AI by authorizing swarms of agents to work continuously in the background without human intervention. This evolution beyond simple agents raises critical questions about cost control (token anxiety), oversight, and the operational risks of autonomous AI systems running indefinitely."
+  },
+  {
+    "headline": "India's MoEngage bets that the future of marketing is millions of AI agents",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+    "theme": "Agentic AI",
+    "summary": "MoEngage completed an all-cash acquisition to gain technology that assigns individual AI agents to each customer for personalized marketing. The vision of deploying millions of simultaneous agents represents the extreme end of agentic AI in marketing — but also raises questions about scalability costs and whether this constitutes genuine agentic capability or agentwashing."
+  },
+  {
+    "headline": "Nvidia says its AI data center design runs hotter to use a lot less water",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+    "theme": "AI Strategy",
+    "summary": "Nvidia claims its Rubin-generation fully liquid-cooled data center reference design eliminates nearly all water usage inside the facility. However, critics note it doesn't address water consumed by fossil fuel power plants supplying these centers — a distinction executives should understand as ESG scrutiny of AI infrastructure intensifies and community opposition to data centers grows."
+  },
+  {
+    "headline": "Some Electricians Think Building Data Centers Is for Sellouts",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/data-center-buildout-electricians-selling-out/",
+    "theme": "AI Strategy",
+    "summary": "As Big Tech invests billions in data center construction, some skilled tradespeople are questioning whether the work is worth it amid growing national opposition to these facilities. This grassroots resistance from the very workers needed to build AI infrastructure could create labor bottlenecks and further complicate the already strained data center buildout timeline."
+  },
+  {
+    "headline": "AI is cursing renters with the promise of impossible homes",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+    "theme": "AI Risk",
+    "summary": "AI-generated virtual staging in real estate listings is creating deceptive apartment photos that bear no resemblance to actual units, wasting renters' time and eroding trust. This is a concrete example of the hallucination tax — AI-generated content creating real economic costs through misleading information at scale, with potential legal and regulatory implications for the real estate industry."
+  },
+  {
+    "headline": "Read this before you vibe-code another app",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+    "theme": "AI Risk",
+    "summary": "A growing number of 'vibe-coded' applications — built rapidly using AI code generation — are shipping with serious security vulnerabilities like SQL injection risks that go undetected for months. This represents a systemic hallucination tax: the hidden cost of AI-generated code that looks functional but contains exploitable flaws, creating enterprise security risks at scale."
+  },
+  {
+    "headline": "Something's off with Midjourney's pivot to body scanners",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
+    "theme": "AI Risk",
+    "summary": "Midjourney, known for AI image generation, announced a medical ultrasound scanner claiming to rival MRI quality — but The Verge reports the claims lack supporting evidence. This pivot from consumer AI art to regulated medical devices raises serious questions about AI companies entering healthcare without adequate clinical validation."
+  },
+  {
+    "headline": "Hollywood is bending the knee to OpenAI",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
+    "theme": "AI Ethics & Trust",
+    "summary": "Multiple major studios including Netflix, A24, and Warner Bros. reportedly passed on distributing 'Artificial,' a biographical drama critical of OpenAI's Sam Altman, after Amazon MGM unexpectedly pulled out. The chilling effect on critical storytelling about Big Tech illustrates the growing power AI companies wield over adjacent industries."
+  },
+  {
+    "headline": "Meta launches cheaper smart glasses without Ray-Ban",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
+    "theme": "AI Strategy",
+    "summary": "Meta is launching its own branded smart glasses without Ray-Ban in multiple styles at lower price points, including a Kylie Jenner collaboration. After proving the market with Ray-Ban partnership, Meta is now building its own brand to control the hardware layer for AI-powered wearables — a strategic move to own the next computing platform beyond smartphones."
+  },
+  {
+    "headline": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/gpt-5-immunology-mystery",
+    "theme": "Enterprise ROI",
+    "summary": "GPT-5 Pro helped an immunologist crack a 3-year-old mystery about T cell behavior, offering insights relevant to cancer and autoimmune research. This is a concrete case study of AI accelerating scientific discovery — the kind of ROI example that justifies enterprise AI investment in research-intensive industries."
+  },
+  {
+    "headline": "A-Evolve-Training: Autonomous Post-Training of a 30B Model",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2606.20657",
+    "theme": "Research to Business",
+    "summary": "Researchers demonstrated an autonomous system that post-trains a 30B parameter model with no human in the loop, achieving performance (0.86) nearly matching top human submissions (0.87) across four rounds over multiple weeks. This could dramatically reduce the cost and timeline of model development, potentially commoditizing what is currently weeks of expensive human ML engineering work."
+  },
+  {
+    "headline": "Agent Behavior Mining: Generative AI Agent Governance in Business Processes",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2606.20669",
+    "theme": "Agentic AI",
+    "summary": "Researchers introduce 'Agent Behavior Mining' to address an invisible autonomy risk: when organizations deploy generative AI agents in business processes, their non-deterministic behavior challenges traditional process management controls. The paper proposes governance frameworks for monitoring and controlling AI agent behavior in enterprise workflows — directly relevant as companies scale agentic deployments."
+  },
+  {
+    "headline": "The AI Evaluability Gap: The Missing Layer for Managing Risk and Sustaining Value",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2606.21015",
+    "theme": "AI Strategy",
+    "summary": "Researchers formalize the 'AI Evaluability Gap' — the condition where organizations lack sufficient evidence to make confident governance decisions about AI risk or value. The paper argues this represents a category error in current AI governance, directly addressing why many enterprises struggle to demonstrate ROI or manage risk from their AI deployments."
+  },
+  {
+    "headline": "Simulated Customers Never Walk Away: Decision Fidelity of LLM User Simulators Measured Against Real Purchase Outcomes",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2606.20708",
+    "theme": "Research to Business",
+    "summary": "Research reveals a structural blind spot in LLM-based customer simulators: simulated customers never abandon purchases the way real ones do, making AI-tested conversational commerce systems unreliable predictors of actual business outcomes. Companies relying on synthetic user testing for sales chatbots and customer service agents may be overestimating their systems' real-world effectiveness."
+  },
+  {
+    "headline": "Confidence Laundering in Agent Systems: Why Uncertainty Needs a Latent Carrier",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2606.20662",
+    "theme": "Agentic AI",
+    "summary": "Researchers identify 'confidence laundering' in multi-agent AI systems — where uncertain upstream decisions get passed to downstream agents as clean, confident outputs, amplifying errors system-wide. As enterprises deploy chains of AI agents, this hidden risk means local ambiguity can cascade into system-level failures, a critical architecture concern for agentic deployments."
+  }
+]
