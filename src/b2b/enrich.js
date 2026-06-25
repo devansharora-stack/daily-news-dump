@@ -4,8 +4,13 @@ import { logger } from "../logger.js";
 
 const limit = pLimit(3);
 
+const DEAD_STATUS = new Set([404, 410, 451]);
+
 async function fetchArticleText(url) {
-  const res = await fetch(url, {
+  // Return the response (don't throw on HTTP status) so the caller can tell a
+  // hard 404 (dead) apart from a 403 bot-block (real page) — only fetch() itself
+  // rejecting indicates a network/DNS failure.
+  return await fetch(url, {
     headers: {
       "User-Agent":
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -13,8 +18,6 @@ async function fetchArticleText(url) {
     },
     signal: AbortSignal.timeout(20000),
   });
-  if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  return res.text();
 }
 
 function extractArticleBody(html) {
@@ -60,20 +63,33 @@ export async function enrichArticles(items) {
     items.map((item) =>
       limit(async () => {
         try {
-          const html = await fetchArticleText(item.url);
-          const fullText = extractArticleBody(html);
-          const wordCount = fullText ? fullText.split(/\s+/).length : 0;
+          const res = await fetchArticleText(item.url);
+          // Only a hard 404/410/451 means the page doesn't exist. 403/429/5xx are
+          // bot-blocks or transient on a real page — keep them (they open in a browser).
+          const urlDead = DEAD_STATUS.has(res.status);
 
-          if (wordCount > 100) {
-            logger.info(`  ${item.source}: enriched (${wordCount} words)`);
-          } else {
-            logger.info(`  ${item.source}: insufficient text, using snippet`);
+          let fullText = null;
+          let wordCount = 0;
+          if (res.ok) {
+            fullText = extractArticleBody(await res.text());
+            wordCount = fullText ? fullText.split(/\s+/).length : 0;
           }
 
-          return { ...item, fullText: wordCount > 100 ? fullText : null, wordCount };
+          if (urlDead) {
+            logger.info(`  ${item.source}: HTTP ${res.status} — marking URL dead`);
+          } else if (wordCount > 100) {
+            logger.info(`  ${item.source}: enriched (${wordCount} words)`);
+          } else {
+            logger.info(`  ${item.source}: HTTP ${res.status}, using snippet`);
+          }
+
+          return { ...item, fullText: wordCount > 100 ? fullText : null, wordCount, urlDead };
         } catch (err) {
-          logger.info(`  ${item.source}: fetch failed (${err.message}), using snippet`);
-          return { ...item, fullText: null, wordCount: 0 };
+          // fetch() rejected: timeout/abort → keep (slow but likely real);
+          // DNS/connection failure → the host is unreachable, mark dead.
+          const urlDead = !(err.name === "TimeoutError" || err.name === "AbortError");
+          logger.info(`  ${item.source}: fetch failed (${err.message})${urlDead ? " — marking URL dead" : ", using snippet"}`);
+          return { ...item, fullText: null, wordCount: 0, urlDead };
         }
       })
     )

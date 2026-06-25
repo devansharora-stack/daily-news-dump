@@ -2,6 +2,7 @@ import Anthropic from "@anthropic-ai/sdk";
 import { readFileSync, existsSync } from "node:fs";
 import { config } from "../config.js";
 import { logger } from "../logger.js";
+import { isUrlAlive } from "./url-check.js";
 
 // --- PROMPT: Weekly Planner (Sunday night) ---
 const WEEKLY_PLANNER_PROMPT = `You are a B2B marketing learning curator. Your job is to plan a week of structured learning for a team that wants to understand how real B2B marketing works.
@@ -156,8 +157,9 @@ export async function planWeek(enrichedItems, sentUrls) {
 
   const client = createClient();
 
-  // Filter out sent URLs
-  const available = enrichedItems.filter((item) => !sentUrls.has(item.url));
+  // Filter out sent URLs and articles whose URL was found dead during enrichment
+  // (catches hallucinated URLs from grounded search before Claude can pick them).
+  const available = enrichedItems.filter((item) => !sentUrls.has(item.url) && !item.urlDead);
 
   if (available.length < 6) {
     logger.warn(`B2B: Only ${available.length} fresh articles available. Supplementing with evergreen.`);
@@ -206,6 +208,42 @@ export async function planWeek(enrichedItems, sentUrls) {
   });
 
   const plan = parseJsonResponse(response.content[0].text);
+
+  // Final safety net: verify each picked URL is live; if one is dead (e.g. an
+  // evergreen entry or anything that slipped past enrich), swap in the next
+  // unused candidate that has real content and a working URL — so we keep a
+  // quality case study but never ship a broken link.
+  const usedIndexes = new Set(
+    [...plan.topicA.resources, ...plan.topicB.resources].map((r) => r.index)
+  );
+
+  async function backfillDeadPicks(resources) {
+    const out = [];
+    for (const pick of resources) {
+      if (await isUrlAlive(candidates[pick.index].url)) {
+        out.push(pick);
+        continue;
+      }
+      logger.warn(`B2B: "${candidates[pick.index].title}" has a dead URL — backfilling`);
+      let replacement = pick;
+      for (let i = 0; i < candidates.length; i++) {
+        if (usedIndexes.has(i) || candidates[i].urlDead) continue;
+        if (!(candidates[i].fullText || candidates[i].snippet)) continue;
+        if (await isUrlAlive(candidates[i].url)) {
+          usedIndexes.add(i);
+          replacement = { index: i, day: pick.day };
+          logger.info(`B2B: backfilled ${pick.day} with "${candidates[i].title}"`);
+          break;
+        }
+      }
+      if (replacement === pick) logger.warn(`B2B: no live replacement found for ${pick.day}`);
+      out.push(replacement);
+    }
+    return out;
+  }
+
+  plan.topicA.resources = await backfillDeadPicks(plan.topicA.resources);
+  plan.topicB.resources = await backfillDeadPicks(plan.topicB.resources);
 
   // Build the schedule with full article data
   const schedule = {
