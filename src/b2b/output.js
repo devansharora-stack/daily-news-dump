@@ -39,8 +39,13 @@ export function updateScheduleKeyNotes(day, keyNotes, question) {
 }
 
 export function saveDailyDigest(content, dateStr) {
-  ensureDir();
-  const digestPath = resolve(config.b2bOutputDir, `${dateStr}.json`);
+  // Written under daily/ (not the old top-level b2b-digests/<date>.json path) so
+  // the orphaned Apps Script sendB2BDaily trigger — which we can't delete — gets a
+  // 404 and stops reposting a duplicate card. CI delivery posts from memory and is
+  // unaffected; this file is just the archived record.
+  const dailyDir = resolve(config.b2bOutputDir, "daily");
+  mkdirSync(dailyDir, { recursive: true });
+  const digestPath = resolve(dailyDir, `${dateStr}.json`);
   writeFileSync(digestPath, JSON.stringify(content, null, 2));
   logger.info(`B2B: Daily digest saved to ${digestPath}`);
   return digestPath;
