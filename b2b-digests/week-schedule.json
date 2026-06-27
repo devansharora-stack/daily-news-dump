@@ -69,7 +69,14 @@
         "source": "HG Insights",
         "url": "https://hginsights.com/blog/ai-sales-plays-b2b-marketing-signals-pipeline",
         "fullText": "This expert analysis explains how AI-driven sales plays, triggered by real-time buyer behavior and technographic changes, can solve attribution problems and increase win rates in B2B marketing.",
-        "day": "saturday"
+        "day": "saturday",
+        "keyNotes": [
+          "Surprisingly, businesses can use Artificial Intelligence (AI) to guide their selling efforts, especially when these strategies react to what potential customers are doing at that very moment.",
+          "These smart selling strategies can also be activated by changes in the technology a potential customer's company uses, like if they switch to a new software.",
+          "One big benefit of these AI-powered selling approaches is that they help businesses figure out exactly which marketing efforts actually led to a sale, which is often a tricky puzzle to solve.",
+          "Ultimately, by using these AI-guided methods, companies can get better at successfully closing deals with other businesses, meaning they win more sales."
+        ],
+        "question": "The article suggests that understanding what potential customers are doing right now, or what new technologies they're adopting, can help businesses make smarter selling decisions. In your own work, if you had instant access to similar 'signals' about the people you serve, what kind of problems could you solve or what new opportunities might you uncover?"
       }
     ]
   }
