@@ -1,0 +1,54 @@
+{
+  "date": "2026-06-28",
+  "type": "recap-week",
+  "topicA": "AI Visibility and Generative Engine Optimization for B2B",
+  "topicB": "B2B Demand Generation and Pipeline Growth",
+  "recap": {
+    "intro": "This week you explored two exciting areas of B2B marketing: how AI is changing visibility and how to effectively grow your sales pipeline.",
+    "bullets": [
+      "ChatGPT secretly 'Googles' things, meaning your business needs to rank high in these hidden searches to be mentioned by AI.",
+      "Brands recommended by AI saw 2.5 times more website visits, showing the power of being visible where AI looks.",
+      "Account-Based Marketing (ABM) is now a core strategy for B2B companies to grow, often combined with demand generation.",
+      "Improving the accuracy of contact information and being persistent with multiple messages can dramatically increase your sales leads."
+    ],
+    "closing": "This week you learned that adapting to new AI-driven visibility and refining your demand generation strategies are essential for B2B success."
+  },
+  "resources": [
+    {
+      "headline": "GEO is following the same path as early SEO",
+      "source": "Martech.org",
+      "url": "https://martech.org/geo-is-following-the-same-path-as-early-seo/",
+      "topic": "AI Visibility and Generative Engine Optimization for B2B"
+    },
+    {
+      "headline": "AI-Recommended Brands Saw 2.5x More Site Visits: Similarweb via @sejournal, @MattGSouthern",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/ai-recommended-brands-saw-2-5x-more-site-visits-similarweb/580241/",
+      "topic": "AI Visibility and Generative Engine Optimization for B2B"
+    },
+    {
+      "headline": "ChatGPT Is Secretly Googling Things: This Tool Shows You Exactly What",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/chatgpt-is-secretly-googling-things-this-tool-shows-you-exactly-what/578014/",
+      "topic": "AI Visibility and Generative Engine Optimization for B2B"
+    },
+    {
+      "headline": "What the 2026 ABM Benchmark Survey Reveals About B2B Growth Strategy",
+      "source": "B2B Marketing",
+      "url": "https://www.b2bmarketing.net/articles/what-2026-abm-benchmark-survey-reveals-about-b2b-growth-strategy",
+      "topic": "B2B Demand Generation and Pipeline Growth"
+    },
+    {
+      "headline": "B2B Lead Generation Case Study: 312% Lift (2026)",
+      "source": "Tomba Blog",
+      "url": "https://tomba.io/blog/b2b-lead-generation-case-study",
+      "topic": "B2B Demand Generation and Pipeline Growth"
+    },
+    {
+      "headline": "AI Sales Plays for B2B Marketing: How to Turn Signals into Pipeline That Closes",
+      "source": "HG Insights",
+      "url": "https://hginsights.com/blog/ai-sales-plays-b2b-marketing-signals-pipeline",
+      "topic": "B2B Demand Generation and Pipeline Growth"
+    }
+  ]
+}
