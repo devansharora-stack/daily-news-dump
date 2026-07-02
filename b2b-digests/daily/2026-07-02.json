@@ -1,0 +1,43 @@
+{
+  "date": "2026-07-02",
+  "type": "recap-and-resource",
+  "recapTopic": "Go-To-Market Strategy",
+  "recap": {
+    "intro": "Hey everyone! This week, we got into Go-To-Market (GTM) strategies, which is basically your company's master plan for getting a product or service into customers' hands and making sales. It's all about making sure even the coolest products don't just sit on a shelf!",
+    "bullets": [
+      "First, we saw that a GTM strategy isn't just about ads or sales; it's a super important, big-picture plan for *any* company, even big ones, to make sure their awesome products actually get to customers and sell. Many companies, even with great products, fail because they don't have this clear plan, which covers everything from understanding customers to pricing and how you'll reach them.",
+      "Building on that, we learned that GTM isn't a general marketing plan; it's a super specific playbook for launching *one* product, like how Figma got 87% of its new users invited by colleagues because their product was built for collaboration. We also saw that for a GTM plan to really work, all your teams – sales, marketing, product – have to be on the same page, especially in B2B where the person using the product might not be the one paying for it.",
+      "Finally, we discovered that B2B buyers are often 69% of the way through their decision *before* they even talk to a salesperson, meaning companies need to provide helpful info super early, even in places like Reddit or LinkedIn, which is part of what we called the 'dark funnel.' And get this: AI is already summarizing brands online, so companies need to keep an eye on what AI is saying about them, because it's changing how customers research products."
+    ]
+  },
+  "recapResources": [
+    {
+      "headline": "What Is a Go-To-Market Strategy? A CEO's Framework for Commercial Execution",
+      "source": "AABDCEGYPT",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcmb7Cy88xXhEoWDs00WQx_gDNf-zFjmREe5SMxf5YiK0G7LMK8YFfHSoSwNdscC-N2yRWvB_BARdWhWbxnvMSTKmsgEnlcFBSYMWSOP23WWkwopxTPNeyOAwRTawEwt1BnFV2ZwUtVOiYJdsDZEX7MiMKXbGTzkvcaBz5qhANuw=="
+    },
+    {
+      "headline": "Go-to-market strategy examples: 8 real B2B launch plays",
+      "source": "ContentGrip",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqd2-lH96nfTgr7edb7ILeRMUghMo5pNBy_Mhh0QbB6Tbhunn0AcKOxhsA4t9OuHfL_fBx8yjBddjtVb-F1lGuZTJgDXpGALdLHKIS1mHFWh2YvdE_3UZp-SHchshbqvpqDapSilCEozw12sSAMBrB3V9iOhxf"
+    },
+    {
+      "headline": "Four B2B Marketing Trends Shaping How Buyers Decide",
+      "source": "Noble Studios",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUlpyrmsT_db2cNvUEg4F78egi3WY_u4aj1hE9ZB4JMhzTnlxYnkAYFc70hcUHnVn2EA9TGxumkBGHj6At3ejRjEep-z7cnUH9EZd2nyzMgHCaVhB7e9o5JfHp4CFKU5tBkV9YLsDJIPYnI7oKQg=="
+    }
+  ],
+  "topic": "B2B Demand Generation and Buyer Enablement",
+  "dayLabel": "Day 1 of 3 — Intro",
+  "headline": "The 2026 B2B Marketing Edge",
+  "source": "Anteriad",
+  "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF73AVcLQjsTA4vSmzl3CjrxDSXcbXe3wAd-JfYzWvQLYHe-H9IK_5yWkNxAgCFKAHJMUaT8-G1eRBmjUhSfbKxIv6xK2rthwRWlYqAUO56UnERlxhGKnLq9XES7bpmu-6hpw6-Vk-W",
+  "keyNotes": [
+    "Surprisingly, only 40% of marketers say they're using the right information to attract customers, but these \"Data Heroes\" are much more successful, with 43% greatly exceeding their goals compared to just 18% of others.",
+    "Even though most companies haven't fully adopted them, the 38% of marketers who use \"buying groups\"—meaning they understand and target all the people involved in a purchase decision—report better teamwork between sales and marketing and more successful deals.",
+    "A small but mighty group (18%) of marketers who precisely track how their marketing efforts lead to actual sales, known as \"Attribution Leaders,\" are far more likely to hit their targets, with 45% significantly exceeding goals compared to 24% of those who don't track as well.",
+    "Almost half of marketers (41%) who frequently change where they spend their money based on what's performing best are more successful, highlighting that being flexible with your budget helps improve results.",
+    "Despite economic challenges, most marketing departments (63%) are actually seeing their budgets increase for 2026, and nearly half (47%) feel confident in how those spending decisions are made."
+  ],
+  "question": "The article points out that many marketers struggle with basic issues like poor data quality or teams not working together well. Given that 'control is the competitive advantage,' where in your own work could you gain more control over your information or how your team collaborates to make a significant positive impact?"
+}
