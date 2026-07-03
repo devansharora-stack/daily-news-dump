@@ -70,7 +70,14 @@
         "source": "HubSpot",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XbC1EWlEzQlA2dE1WR01aZkx4Q2JveUpVN3gzNUlkd2lTMmlyeHZKWUt5dGpzaktZNHJMODByOVVKbVliVXRnaFUyM0lvemtXSEkyY0pyQ3hJWUprZHI0Uw?oc=5",
         "fullText": "AEO Revenue Playbook: 3 Plays to Convert AI Visibility Into Pipeline&nbsp;&nbsp;HubSpot",
-        "day": "friday"
+        "day": "friday",
+        "keyNotes": [
+          "This guide, called a \"Revenue Playbook,\" offers a strategy for businesses to increase their income by focusing on specific ways to make money.",
+          "It specifically outlines three distinct methods, or \"plays,\" that companies can use to achieve this goal of generating more business.",
+          "The core purpose is to transform how easily a company is found or recognized through Artificial Intelligence (AI) into a list of potential customers, which marketers call a \"pipeline.\"",
+          "Essentially, it teaches businesses how to use their presence in AI-driven systems to generate new sales opportunities and bring in more potential buyers."
+        ],
+        "question": "This guide talks about turning how easily your company is found through Artificial Intelligence (AI) into a list of potential customers. Thinking about your own work, what's one practical step you could take to make sure your company is more easily seen by these AI systems, ultimately helping to bring in new business?"
       },
       {
         "headline": "Google Says AI Visibility Hinges On Content People Actually Want To Read via @sejournal, @martinibuster",
