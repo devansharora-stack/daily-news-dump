@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-07",
+  "type": "resource",
+  "topic": "B2B Content Strategy in the AI Search Era",
+  "dayLabel": "Day 2 of 3",
+  "headline": "Google Put AI Visibility Inside The SEO Tool On Purpose via @sejournal, @slobodanmanic",
+  "source": "Search Engine Journal",
+  "url": "https://www.searchenginejournal.com/google-put-ai-visibility-inside-the-seo-tool-on-purpose/577889/",
+  "keyNotes": [
+    "Google has added a new report to its existing tool (called Search Console) that shows how often your content appears in its AI features, like AI Overviews. This means Google believes getting found by AI is part of regular search, not a completely separate marketing effort.",
+    "This new report only tells you how many times your content *showed up* (called 'impressions') in Google's AI features, but it doesn't tell you if anyone actually *clicked* on it or visited your website. So, it shows you that you were present, but not if it led to any real action.",
+    "Google is making this report free and easy to access in a tool many businesses already use, which might make people focus only on Google's AI results. However, there are many other AI tools out there (like ChatGPT or Claude) that Google's report won't cover, meaning you could miss a lot of your overall AI presence if you only look at Google.",
+    "The article suggests that if someone has been trying to sell you a whole new marketing strategy called 'generative engine optimization' (GEO) with its own budget and tools, Google is essentially saying that's not necessary. They believe getting found by AI is the same work as getting found by regular search."
+  ],
+  "question": "The article highlights that Google's new report shows how often your content appears in AI results, but not if anyone actually clicked on it or took action. If you were trying to decide where to spend your marketing efforts, how would you balance the importance of simply 'showing up' in these new AI features versus knowing if those appearances actually lead to people engaging with your business?"
+}
