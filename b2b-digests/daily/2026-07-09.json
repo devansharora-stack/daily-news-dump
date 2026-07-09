@@ -1,0 +1,43 @@
+{
+  "date": "2026-07-09",
+  "type": "recap-and-resource",
+  "recapTopic": "B2B Content Strategy in the AI Search Era",
+  "recap": {
+    "intro": "Hey everyone! This week, we dove into how B2B content strategy is changing big time because of AI, especially with search engines getting smarter.",
+    "bullets": [
+      "First, we saw that getting noticed by AI isn't about fancy tricks. Instead, it's all about creating genuinely new and useful information that others don't have, like real customer success stories or original studies your company did. This unique content helps you build trust and authority over time, which is super important for AI and people alike!",
+      "Building on that, we learned that Google is now showing you how often your content appears in its AI features, like AI Overviews, right in its regular Search Console tool. This means Google thinks getting found by AI is just part of normal search, not a whole new marketing thing. But remember, this report only tells you if your content *showed up*, not if anyone actually *clicked* on it, and it doesn't cover other AI tools like ChatGPT.",
+      "Finally, the big picture is that even though AI might give answers directly without people clicking (the 'zero-click era'), your own website is still super important for building connections. To make sure AI shows your brand's true identity, we need clear rules for our content (content governance) and to use things like 'structured data' to help AI understand our stuff better. Ultimately, it's about creating content that both humans and AI can trust."
+    ]
+  },
+  "recapResources": [
+    {
+      "headline": "AEO Changes What Content Is Worth Creating",
+      "source": "Forrester",
+      "url": "https://www.forrester.com/blogs/aeo-changes-what-content-is-worth-creating/"
+    },
+    {
+      "headline": "Google Put AI Visibility Inside The SEO Tool On Purpose via @sejournal, @slobodanmanic",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/google-put-ai-visibility-inside-the-seo-tool-on-purpose/577889/"
+    },
+    {
+      "headline": "SEO for Content",
+      "source": "Content Marketing Institute",
+      "url": "https://contentmarketinginstitute.com/measurement-optimization/seo-for-content"
+    }
+  ],
+  "topic": "B2B Go-To-Market Evolution",
+  "dayLabel": "Day 1 of 3 — Intro",
+  "headline": "B2B Social Media Influencers Have More Influence Than Ever",
+  "source": "Forrester",
+  "url": "https://www.forrester.com/blogs/b2b-social-media-influencers-have-more-influence-than-ever/",
+  "keyNotes": [
+    "Surprisingly, when people in businesses are looking for information to make big purchases, social media is now almost as important as talking to an AI assistant.",
+    "The average business buying team now has 13 members, and many of these are younger people who grew up with digital tools and use social media to research and check out products.",
+    "Social media isn't just for making people aware of a product; it's also vital for building trust and helping buyers confirm their decisions throughout their entire process.",
+    "Instead of just paying someone to promote your product once, the most successful companies build long-term partnerships with influencers, letting them create content naturally and focusing on shared goals rather than just quick sales.",
+    "It's not just about how many followers an influencer has; sometimes, people with smaller, very dedicated audiences (called \"micro and nano influencers\") can be more effective because their followers trust them deeply, especially for complex decisions."
+  ],
+  "question": "Considering that the average business buying team now has 13 members who increasingly rely on social media for trusted information, how might your own organization rethink how it builds trust and shares important messages, especially if it means embracing authenticity and giving up some control over the exact wording?"
+}
