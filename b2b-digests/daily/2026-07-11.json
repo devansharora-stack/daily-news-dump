@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-11",
+  "type": "resource",
+  "topic": "B2B Go-To-Market Evolution",
+  "dayLabel": "Day 3 of 3",
+  "headline": "The Rise of the “Claude Cowboy” in RevOps",
+  "source": "Forrester Blog",
+  "url": "https://www.forrester.com/blogs/the-rise-of-the-claude-cowboy-in-revops/",
+  "keyNotes": [
+    "A new kind of problem-solver, called a \"Claude Cowboy,\" is emerging in business operations (RevOps, the team that helps sales and marketing work together). These individuals use smart computer tools, like artificial intelligence (AI), to quickly solve business problems because official teams often can't keep up with demand.",
+    "These \"Claude Cowboys\" aren't the problem themselves; instead, they signal a growing issue where business teams need answers and insights much faster than the central operations team (RevOps) can provide, often due to limited staff.",
+    "One key benefit is that these AI-savvy individuals help operations teams (RevOps) shift their focus from simply creating reports to understanding *why* things happen, like why a customer deal might be stuck or how buying decisions are made.",
+    "A major risk is that these AI tools can quickly create different, conflicting answers about important business numbers (like sales predictions or customer behavior) that all look polished and credible, making it much harder to know which information is truly accurate."
+  ],
+  "question": "The article states that with new tools, the question shifts from \"Can this be built?\" to \"Should this exist?\" In your own work, when you find a quick way to get an answer or build a solution using new tools, how do you decide if it *should* be used, especially if it might create conflicting information or make accountability unclear?"
+}
