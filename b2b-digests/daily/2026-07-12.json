@@ -1,0 +1,54 @@
+{
+  "date": "2026-07-12",
+  "type": "recap-week",
+  "topicA": "B2B Content Strategy in the AI Search Era",
+  "topicB": "B2B Go-To-Market Evolution",
+  "recap": {
+    "intro": "This week you explored two areas of B2B marketing: how AI is changing content strategy and the evolution of how businesses sell to each other.",
+    "bullets": [
+      "The real opportunity with AI search is creating genuinely new and useful information that others don't have, like original studies or expert insights.",
+      "Social media is now almost as important as AI assistants for business buyers researching big purchases, especially with younger buying teams.",
+      "Your own website is still incredibly important in the 'zero-click era,' as AI can't kill websites that build connections.",
+      "The old ways businesses sell are no longer working, requiring a complete rethinking of 'go-to-market' strategies due to customers being harder to find."
+    ],
+    "closing": "This week you learned that staying authentic and adaptable in a rapidly changing digital landscape is key to B2B marketing success."
+  },
+  "resources": [
+    {
+      "headline": "AEO Changes What Content Is Worth Creating",
+      "source": "Forrester",
+      "url": "https://www.forrester.com/blogs/aeo-changes-what-content-is-worth-creating/",
+      "topic": "B2B Content Strategy in the AI Search Era"
+    },
+    {
+      "headline": "Google Put AI Visibility Inside The SEO Tool On Purpose via @sejournal, @slobodanmanic",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/google-put-ai-visibility-inside-the-seo-tool-on-purpose/577889/",
+      "topic": "B2B Content Strategy in the AI Search Era"
+    },
+    {
+      "headline": "SEO for Content",
+      "source": "Content Marketing Institute",
+      "url": "https://contentmarketinginstitute.com/measurement-optimization/seo-for-content",
+      "topic": "B2B Content Strategy in the AI Search Era"
+    },
+    {
+      "headline": "B2B Social Media Influencers Have More Influence Than Ever",
+      "source": "Forrester",
+      "url": "https://www.forrester.com/blogs/b2b-social-media-influencers-have-more-influence-than-ever/",
+      "topic": "B2B Go-To-Market Evolution"
+    },
+    {
+      "headline": "Get Ready For The GTM Singularity At Forrester's B2B Forum EMEA",
+      "source": "Forrester",
+      "url": "https://www.forrester.com/blogs/get-ready-for-the-gtm-singularity-at-forresters-b2b-forum-emea/",
+      "topic": "B2B Go-To-Market Evolution"
+    },
+    {
+      "headline": "The Rise of the “Claude Cowboy” in RevOps",
+      "source": "Forrester Blog",
+      "url": "https://www.forrester.com/blogs/the-rise-of-the-claude-cowboy-in-revops/",
+      "topic": "B2B Go-To-Market Evolution"
+    }
+  ]
+}
