@@ -1,0 +1,450 @@
+[
+  {
+    "title": "AI Helped IKEA Create €1.3 Billion In New Revenue (But Not How You Think)",
+    "url": "https://www.forrester.com/blogs/ai-helped-ikea-create-e1-3-billion-in-new-revenue-but-not-how-you-think/",
+    "source": "Forrester Blog",
+    "publishedAt": "Fri, 10 Jul 2026 17:52:00 +0000",
+    "snippet": "For the past two years, many AI stories have followed the same script: Automate work, reduce headcount, and cut costs. IKEA chose a different path, and its results offer an important lesson for leaders navigating the AI era. Even though this story is years old, it holds key insight into grappling with the workforce impacts of AI. What Happened At IKEA? […]",
+    "tier": 1
+  },
+  {
+    "title": "AI Cost Management: How Prepared Are You?",
+    "url": "https://www.forrester.com/blogs/ai-cost-management-how-prepared-are-you/",
+    "source": "Forrester Blog",
+    "publishedAt": "Fri, 10 Jul 2026 16:08:30 +0000",
+    "snippet": "As AI adoption accelerates, many organizations are discovering that spending is rising faster than their ability to control it. Building the right cost management capabilities is becoming essential to scaling AI without sacrificing financial discipline.",
+    "tier": 1
+  },
+  {
+    "title": "Budget Planning 2027: Portfolio Marketing And Product Management Must Be Primed For AI-Era Innovation",
+    "url": "https://www.forrester.com/blogs/budget-planning-2027-portfolio-marketing-and-product-management-must-be-primed-for-ai-era-innovation/",
+    "source": "Forrester Blog",
+    "publishedAt": "Fri, 10 Jul 2026 14:55:00 +0000",
+    "snippet": "AI is accelerating the pace of product innovation and forcing portfolio marketing and product management leaders to rethink how they allocate resources, measure value, and bring offerings to market. To keep pace, Forrester’s new report, Budget Planning Guide 2027: Portfolio Marketing And Product Leaders Must Keep Pace With AI-Driven Innovation, emphasizes the imperative to shift […]",
+    "tier": 1
+  },
+  {
+    "title": "The New AI Trust Architecture: 5 Requirements for Agent-to-Agent Communication",
+    "url": "https://www.salesforce.com/blog/new-ai-trust-architecture/",
+    "source": "Salesforce Blog",
+    "publishedAt": "Fri, 10 Jul 2026 16:40:00 +0000",
+    "snippet": "In London in 1832, clerks from thirty-one competing banks gathered every afternoon on Lombard Street to settle accounts. Each bank had already mastered the basics — tracking debits, crediting accounts, settling balances. The…",
+    "tier": 1
+  },
+  {
+    "title": "The WebMCP Tools You Expose To Agents Can Be Used To Hijack Them via @sejournal, @slobodanmanic",
+    "url": "https://www.searchenginejournal.com/the-webmcp-tools-you-expose-to-agents-can-be-used-to-hijack-them/579204/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Sun, 12 Jul 2026 12:00:52 +0000",
+    "snippet": "WebMCP gives AI agents named tools to call, and a clean route for prompt injection. Here's what Chrome says to lock down first.\nThe post The WebMCP Tools You Expose To Agents Can Be Used To Hijack Them appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "AI Visibility Rankings Aren’t Stable – New Research Shows It’s Mostly Statistical Noise via @sejournal, @MattGSouthern",
+    "url": "https://www.searchenginejournal.com/ai-visibility-rankings-arent-stable-new-research-shows-its-mostly-statistical-noise/581905/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Sat, 11 Jul 2026 12:30:19 +0000",
+    "snippet": "AI visibility numbers move between runs, so a single reading can mislead. A new paper offers a stopping rule for when rankings are finally trustworthy. \nThe post AI Visibility Rankings Aren’t Stable – New Research Shows It’s Mostly Statistical Noise appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "Google Says Canonical Re-Evaluation Can Take Up to Two Weeks via @sejournal, @MattGSouthern",
+    "url": "https://www.searchenginejournal.com/google-says-canonical-re-evaluation-can-take-up-to-two-weeks/582053/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Fri, 10 Jul 2026 20:18:28 +0000",
+    "snippet": "Google updated its canonicalization troubleshooting guide with new guidance on how long pages can stay in a duplicate cluster after you fix the content.\nThe post Google Says Canonical Re-Evaluation Can Take Up to Two Weeks appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "WordPress 7.0.1 Maintenance Release Contains 31 Bug Fixes via @sejournal, @martinibuster",
+    "url": "https://www.searchenginejournal.com/wordpress-7-0-1-maintenance-release-contains-31-bug-fixes/582045/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Fri, 10 Jul 2026 20:07:46 +0000",
+    "snippet": "The WordPress 7.0.1 maintenance release improves PHP compatibility and contains a bug fix to a security-related function.\nThe post WordPress 7.0.1 Maintenance Release Contains 31 Bug Fixes appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "Google Business Profiles Showing Empty Review Dashboards via @sejournal, @MattGSouthern",
+    "url": "https://www.searchenginejournal.com/google-business-profiles-showing-empty-review-dashboards/582015/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Fri, 10 Jul 2026 18:08:16 +0000",
+    "snippet": "Some Google Business Profile dashboards show “no reviews yet” even though public review counts remain visible on the live listing.\nThe post Google Business Profiles Showing Empty Review Dashboards appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "Anthropic Confronts the Hard Questions About AI Responsibility",
+    "url": "https://www.adweek.com/creativity/anthropic-confronts-the-hard-questions-about-ai-responsibility/",
+    "source": "Adweek",
+    "publishedAt": "Fri, 10 Jul 2026 16:54:33 +0000",
+    "snippet": "A new film is the latest from the company’s “Keep Thinking” campaign",
+    "tier": 1
+  },
+  {
+    "title": "Ticker: Uncertainty Grips CNN Ahead of Paramount Acquisition",
+    "url": "https://www.adweek.com/tvnewser/ticker-uncertainty-grips-cnn-ahead-of-paramount-acquisition/",
+    "source": "Adweek",
+    "publishedAt": "Fri, 10 Jul 2026 16:13:14 +0000",
+    "snippet": "CNN CEO Mark Thompson is reportedly unsure of what to expect.",
+    "tier": 1
+  },
+  {
+    "title": "4 Types of SEO: Everything You Need to Know",
+    "url": "https://rankwriters.com/four-types-of-seo-everything-you-need-to-know/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-07-12T14:01:06.859Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "The Surprising Impact of Refreshing Content",
+    "url": "https://rankwriters.com/the-surprising-impact-of-refreshing-content/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-07-12T14:01:06.859Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Get Found Locally: The Ultimate Guide to Local SEO Success",
+    "url": "https://rankwriters.com/get-found-locally-the-ultimate-guide-to-local-seo-success/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-07-12T14:01:06.860Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Navigating the SEO Landscape: Your Guide to Finding the Right Consulting Firm",
+    "url": "https://rankwriters.com/navigating-the-seo-landscape-your-guide-to-finding-the-right-consulting-firm/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-07-12T14:01:06.860Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Buyer’s Guide: Best AI Content Marketing Agencies for B2B 2026",
+    "url": "https://rankwriters.com/buyers-guide-best-ai-content-marketing-agencies-for-b2b-2026/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-07-12T14:01:06.860Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Top 11 B2B Marketing Case Studies 2025",
+    "url": "https://rankwriters.com",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-07-12T14:01:06.864Z",
+    "snippet": "Published September 8, 2025 · Updated December 27, 2025 | By: Lisha",
+    "tier": 2
+  },
+  {
+    "title": "SEO Content Audit Tool",
+    "url": "https://rankwriters.com/seo-grading-tool/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-07-12T14:01:06.864Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Keyword Research Tool",
+    "url": "https://rankwriters.com/keyword-analysis-tool/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-07-12T14:01:06.865Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "National Law Firm",
+    "url": "https://rankwriters.com/case-study-seo-law-firm/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-07-12T14:01:06.865Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Financial Services",
+    "url": "https://rankwriters.com/best-seo-for-b2b-a-case-study/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-07-12T14:01:06.865Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "B2B Financial App",
+    "url": "https://rankwriters.com/case-study-b2b-financial-app-skyrockets-in-search/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-07-12T14:01:06.865Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Marketers & Fractionals",
+    "url": "https://rankwriters.com/seo-for-marketers/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-07-12T14:01:06.865Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Insurance Agencies",
+    "url": "https://rankwriters.com/seo-for-insurance-agencies/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-07-12T14:01:06.865Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Mortgage Lenders",
+    "url": "https://rankwriters.com/seo-for-mortgage-lenders/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-07-12T14:01:06.866Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Plastic Surgeons",
+    "url": "https://rankwriters.com/seo-for-plastic-surgeons/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-07-12T14:01:06.866Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Content Marketing Institute Team",
+    "url": "https://contentmarketinginstitute.com/author/content-marketing-institute-team",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-07-12T14:01:04.827Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Content Marketing Strategy",
+    "url": "https://contentmarketinginstitute.com/strategy-planning/content-marketing-strategy",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-07-12T14:01:04.833Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Demand Generation",
+    "url": "https://contentmarketinginstitute.com/strategy-planning/demand-generation",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-07-12T14:01:04.833Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Audience Building",
+    "url": "https://contentmarketinginstitute.com/strategy-planning/audience-building",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-07-12T14:01:04.833Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Content Operations",
+    "url": "https://contentmarketinginstitute.com/strategy-planning/content-operations",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-07-12T14:01:04.833Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "AI in Marketing",
+    "url": "https://contentmarketinginstitute.com/strategy-planning/ai-in-marketing",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-07-12T14:01:04.833Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Social Media Content",
+    "url": "https://contentmarketinginstitute.com/content-creation-distribution/social-media-content",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-07-12T14:01:04.833Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Video & Visual Content",
+    "url": "https://contentmarketinginstitute.com/content-creation-distribution/video-visual-content",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-07-12T14:01:04.834Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "AI Content Creation & Tools",
+    "url": "https://contentmarketinginstitute.com/content-creation-distribution/ai-content-creation-tools",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-07-12T14:01:04.834Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Content Distribution & Promotion",
+    "url": "https://contentmarketinginstitute.com/content-creation-distribution/content-distribution-promotion",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-07-12T14:01:04.834Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Content Marketing Analytics Data",
+    "url": "https://contentmarketinginstitute.com/measurement-optimization/analytics-data",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-07-12T14:01:04.834Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Content Optimization",
+    "url": "https://contentmarketinginstitute.com/measurement-optimization/content-optimization",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-07-12T14:01:04.834Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Content Marketing University",
+    "url": "https://www.contentmarketinguniversity.com/?utm_medium=referral&utm_source=cmi&utm_campaign=navigation",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-07-12T14:01:04.834Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Content Marketing Certification",
+    "url": "https://contentmarketinguniversity.com/content-marketing-certification/?utm_medium=referral&utm_source=cmi&utm_campaign=navigation",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-07-12T14:01:04.834Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Global management consulting | McKinsey & Company",
+    "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9ueEdNUGF3dEdDT29sQzBBTWJqZFVCRFNRUW00N3VsaExhQmEzbmFkTTBqbVJfbmF6S0dBLUhB?oc=5",
+    "source": "McKinsey & Company",
+    "publishedAt": "Fri, 22 Mar 2013 13:44:24 GMT",
+    "snippet": "Global management consulting | McKinsey & Company&nbsp;&nbsp;McKinsey & Company",
+    "tier": 3
+  },
+  {
+    "title": "Frontline Ops AI by BCG X - AI Scheduler | BCG",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55MDlmZXVVdlBZUDF2bjJNZFBNTGh1Y3VQZnlZdFVNQmttVnNkTXdnOVU0T09YLU5nZTdmTVZudXVuZzBCV2hHZjUyVkhLYkFpMWFMeHZ1MVdfM29zUWY5U24wWEY?oc=5",
+    "source": "Boston Consulting Group",
+    "publishedAt": "Sun, 12 Jul 2026 05:02:38 GMT",
+    "snippet": "Frontline Ops AI by BCG X - AI Scheduler | BCG&nbsp;&nbsp;Boston Consulting Group",
+    "tier": 3
+  },
+  {
+    "title": "Grocery Industry",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpamZEVXlEYWVfX2FCMXdMRW9kTTg4NjVZTDhhOGtaeERfazFGcHlzdFRPZk5OTEJMXzNVNW5RMWNqQ3F6cGdHODhnZkI4dHI1QXZ2ZEE1S29FS2NwTl9RM0xFZHo?oc=5",
+    "source": "Boston Consulting Group",
+    "publishedAt": "Sun, 12 Jul 2026 03:20:27 GMT",
+    "snippet": "Grocery Industry&nbsp;&nbsp;Boston Consulting Group",
+    "tier": 3
+  },
+  {
+    "title": "Sr Principal Analyst, ServiceNow Contract Negotiations and Licensing",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUHhoRk9mTzhiTHBwRjBkY2VmR1VuekN0azExNGZhMlZSWHRfMmwwNG1OdmxFOUJhZUZzWUVKT05ReURaY1FWYmE4Z1dmWWpoREhxTDVUenYzYXBfTVpETmVOc2dTTTR0bFpHQ0hmMmRUZHhLd215akhxQjdKNnNxcGY3d3BiNUZzNXhjOWkzckVzSjBPWTUwX2tpLS1VMFotam1FaXNKelptbXF3QWc?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Sun, 12 Jul 2026 08:57:22 GMT",
+    "snippet": "Sr Principal Analyst, ServiceNow Contract Negotiations and Licensing&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "Executive Partner (APPS/SWEL)",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96elpaUWJtRHNSX211dXBRMEtCeXB1RXF6cFhES241clc3MF9McHVYQTNZWlZGa1NhOGxyZDB3YmgzOHhEVUFBVVllVzJXZFNCM05oVVFDWTdPNDJ5ZE9tdEc0YVlTNS1nQVp2SUJOTFZiTTUyaHNJMg?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Sun, 12 Jul 2026 08:57:22 GMT",
+    "snippet": "Executive Partner (APPS/SWEL)&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "Executive Partner - Retail in Dubai, UAE, United Arab Emirates",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwUm0wTGM0eW5CeVRpMGdITktvX0RPZDRpU1I3LUpFSkZlaUN0blRtUFNaS2ZLLTNCOTVHWkc1Z2xuRlpfNk1rckZfRExFeGFROUN1TnVkbjJoZGJ4SXVzYVc4TG5hTkdVbDd4TE1MMHhpWU54?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Sun, 12 Jul 2026 08:57:21 GMT",
+    "snippet": "Executive Partner - Retail in Dubai, UAE, United Arab Emirates&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "Senior Account Executive, Global Enterprise Italy in Milan, Milano, Italy",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNai16QV9OUTRrV3MtV19KdXZILTd2WjdVblI2bTRiMm1yVkdZWjFiNnk5c2xPR1JfY3IwemRPUkFMRS15T2llbXlzWUNIOVhPYU1HeWoyVGdKSi1Kak05VXkxNGtlMXBiYTZZNkNYU00yMnUxMWJjX044RTZzTW44eVBVS0FOWWxlZGdNTWtFMXNmenZs?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Sun, 12 Jul 2026 08:57:21 GMT",
+    "snippet": "Senior Account Executive, Global Enterprise Italy in Milan, Milano, Italy&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "Top 10 B2B Lead Generation Companies in the USA for 2026",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZzY3UlAzY1Zzek5SVlpDUzdxbUdwc2V5TVNtNTlsel9peXRjX1gxLU1GcWFXR1FIU0JudVdoNVpDSExyZFJiWVBYREh2bUxhSFFhN3FwWkNVQUtHcmhfeENnTEJSYVVHZENRanpURmpBZDdiZEg5T3RKQ184VkpGWDk4SzJEa1VWQ2V6bFE2cEVkRWlWdDdj?oc=5",
+    "source": "openPR.com",
+    "publishedAt": "Sun, 12 Jul 2026 10:54:07 GMT",
+    "snippet": "Top 10 B2B Lead Generation Companies in the USA for 2026&nbsp;&nbsp;openPR.com",
+    "tier": 3
+  },
+  {
+    "title": "Marketing with AI Weekly Roundup: ChatGPT Work Ships Finished Files, Claude Cowork Goes Mobile, and Google Ads Makes AI Your Default",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd3XxGOAGWLTYI7uGFaqdGnzBraPBzf_k9J7M2Q1khf7lazrjb9QwrIId7lpa_MsPlz-2w2jH3oO43k96CocDoELCzPwaI8ziq3fpxWfprxYI7I0e9NGJO6N5Me2aJH00yEN3qTNiA_LuFbhEgnl8um5uIU4LQLgJEQPpDMXKbaw1UuQuKHztQTw==",
+    "source": "Marketing with AI Weekly Roundup",
+    "snippet": "This weekly roundup provides expert analysis on recent developments in AI marketing, including updates on ChatGPT, Claude Cowork, and Google Ads.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "B2B Marketing Case Studies: 15 Winning Examples 2026",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoA6H1M9Ivlu0TpBnNU8OwE8WeOqInWhTCHeh9ey7d8-Ugg1MCsCXazHyx9cDSH09A_Ehwq5owOgnzQWP79ha2_08e44HBE5Vtch2AeS-QPy4MSuW3uNZ_t5SLhlnrB0azn14DhPPWAaK6C4O_HMp5YnCKXY0IpE4PDVmckykicurSR9RrAPyMVA==",
+    "source": "REACH2more",
+    "snippet": "This article presents 15 impactful B2B marketing case studies from industry leaders, showcasing innovative strategies and measurable outcomes.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "What Is Go-to-Market (GTM)? 2026 Playbook",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELf6PS_cz8rXjS4uVE76-OfUeiM3M1D_GEHh-2O7PZTEdIt-KLvNbm_V_Lk_5V-FseQHKDI-VRUtMthVSY-T3Dl0qHX7r6W7PvkLR494gvdbJv-iYOcUObVF8zM40sFpuR-xU=",
+    "source": "Puppydog Blog",
+    "snippet": "This playbook defines Go-to-Market strategy, its six pillars, and how it differs from a marketing plan for B2B companies in 2026.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "10 Real-Life Case Study Examples + Free Template (2026)",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8mpDgj1eRvSUh-BLSY4XKKUtCslURNYG_CbhY3UB7TdLJcNkiFr-03JmH5MPnB-2OD4oD_eJlM8YoWy-kTGEcr8rvgRv-b4XnlF9ywaEKUD6mV8vQR-hciOV1e_hcvWQWKq7METYYzlgKkv-MTQ==",
+    "source": "Shopify Australia",
+    "snippet": "This article explores 10 real-life case study examples and provides a template for creating effective case studies in B2B marketing.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "Unlock B2B Marketing Attribution: Focus on Education, Data and Martech",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbKnk2G7QUEdVqZODVgKisQHrRKcqqsz37srUN5o3TLOt4dX4VKwbhxvkP93CA6YHXIeJBaOhumWlHdXuuXBqYViu5A-FFaXPenU7Y4P1EOf1vRpmpIugufLRKo9Sw9lmwyf_fO4fq",
+    "source": "Gartner",
+    "snippet": "Gartner research provides insights on improving B2B marketing attribution through education, data quality, and martech utilization.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "B2B SaaS: What 3 Competitors Just Did — July 2026",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaqKC06zuxV_-ghrKCOMROMjwPzraHgBiBcGzfHxQofZfVksx7xqHMTjk-v2R4WlVkMMHCNWGKQxsne7p-HvKhPGgusSWyOm70EyLtRdb-AnIikU53zwGCLAzQKlIkqnZtfGUpk5Oh_9FtjLIGBdeL95vGO9jL",
+    "source": "IndustryLens",
+    "snippet": "This signal spotlight analyzes recent strategic shifts and market positioning of three B2B SaaS competitors in July 2026.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "Industrial B2B Growth: Why Omnipresent Visibility Beats Google SEO",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFU0nJV2EFz54OJjEZJtetizBChPTB7LL7Y5Ph3e2H5aWVj5Z8ji7ALukbtibgJCXdnxqEgAFRuggjsosqPoS7LcUgHSQaXqWID2ib3XEzPRxBpcfgx4S-bJi7LGxETZMJ3h-ZLbybahHH3aIFjfnrnDT1xWm66EwWSR0mO6CCAnH_JIOSzEw==",
+    "source": "c3digitus",
+    "snippet": "This expert analysis discusses how omnipresent visibility and AI Engine Optimization are crucial for industrial B2B growth in 2026.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "40 Sales Statistics to Watch for in 2026",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0_wpf2lCDFZUHiDmnnxahzt0a7-2TL7p6kFJ0dgzXUZA-NDIAKpj6XO7itq34r91Qmv71r_taYWOTkqCF-3MqehTfipQWfRqYfKfa43CwRW9wqDoPYCiQT5cTvmKRlgeXv6SiWFvwfpy4Dmaqq4ls4U0qpbEN4p886oJyOHgKyKllYX4=",
+    "source": "Tim Dixon",
+    "snippet": "This article provides 40 sales statistics for 2026, offering insights into B2B buyer behavior and effective engagement strategies.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  }
+]
