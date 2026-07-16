@@ -55,7 +55,14 @@
         "source": "Gartner",
         "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbKnk2G7QUEdVqZODVgKisQHrRKcqqsz37srUN5o3TLOt4dX4VKwbhxvkP93CA6YHXIeJBaOhumWlHdXuuXBqYViu5A-FFaXPenU7Y4P1EOf1vRpmpIugufLRKo9Sw9lmwyf_fO4fq",
         "fullText": "Gartner research provides insights on improving B2B marketing attribution through education, data quality, and martech utilization.",
-        "day": "thursday"
+        "day": "thursday",
+        "keyNotes": [
+          "Gartner, a research company, has found ways to help businesses understand which marketing efforts actually lead to sales when they are selling to other businesses (this is called \"B2B marketing attribution\").",
+          "One key insight for improving this understanding of what marketing works is through \"education,\" meaning teaching people how to track and analyze these efforts.",
+          "Another crucial factor is ensuring \"data quality,\" which means having accurate and reliable information to properly measure marketing's impact on sales.",
+          "Finally, effectively using \"martech\" – which stands for marketing technology – is also highlighted as a way to get better at figuring out which marketing activities drive sales."
+        ],
+        "question": "The article suggests that improving how businesses understand which marketing efforts lead to sales (this is called 'B2B marketing attribution') relies on better 'education,' 'data quality,' and using 'martech' (marketing technology). Thinking about your own professional goals, what specific 'education' or improvements in 'data quality' could help you better understand what truly drives your success, even if you don't use 'martech'?"
       },
       {
         "headline": "10 Real-Life Case Study Examples + Free Template (2026)",

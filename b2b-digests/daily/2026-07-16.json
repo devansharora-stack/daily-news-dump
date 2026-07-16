@@ -1,0 +1,42 @@
+{
+  "date": "2026-07-16",
+  "type": "recap-and-resource",
+  "recapTopic": "Go-To-Market Strategy for B2B",
+  "recap": {
+    "intro": "Hey everyone! This week, we dove into Go-to-Market (GTM) strategy, which is basically your company's master plan for getting a product to customers and making money from it.",
+    "bullets": [
+      "First, we saw that Go-to-Market (GTM) isn't just one simple idea; it's actually three layers: a long-term strategy about who you're selling to, a short-term plan for a launch, and an ongoing 'motion' for how customers actually buy from you. We learned it's a big, cross-team effort, and you need to figure out things like your 'Ideal Customer Profile' (who your best customer is) and how to show your product's value super fast.",
+      "Building on that, we learned from IndustryLens how a company called 'B2b Saas' is totally changing the game by delivering their services to big companies much faster than before. They're ditching lots of small tools for one big, automated system, which means customers now expect this kind of speed and easy integration from everyone. This really raises the bar, making older, slower ways of doing things look old-fashioned.",
+      "Finally, the big picture is that even with a great GTM, many companies still miss the mark by focusing on just releasing new stuff instead of what customers really care about: 'customer outcomes' like saving money or boosting sales. We saw that a surprising 62% of marketing leaders admit their product launch processes are pretty basic, and this won't cut it in the AI era. So, we need to start experimenting with smart computer programs like 'market intelligence agents' (which analyze market data) to totally rethink how we innovate and connect with customers."
+    ]
+  },
+  "recapResources": [
+    {
+      "headline": "What Is Go-to-Market (GTM)? 2026 Playbook",
+      "source": "Puppydog Blog",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELf6PS_cz8rXjS4uVE76-OfUeiM3M1D_GEHh-2O7PZTEdIt-KLvNbm_V_Lk_5V-FseQHKDI-VRUtMthVSY-T3Dl0qHX7r6W7PvkLR494gvdbJv-iYOcUObVF8zM40sFpuR-xU="
+    },
+    {
+      "headline": "B2B SaaS: What 3 Competitors Just Did — July 2026",
+      "source": "IndustryLens",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaqKC06zuxV_-ghrKCOMROMjwPzraHgBiBcGzfHxQofZfVksx7xqHMTjk-v2R4WlVkMMHCNWGKQxsne7p-HvKhPGgusSWyOm70EyLtRdb-AnIikU53zwGCLAzQKlIkqnZtfGUpk5Oh_9FtjLIGBdeL95vGO9jL"
+    },
+    {
+      "headline": "Budget Planning 2027: Portfolio Marketing And Product Management Must Be Primed For AI-Era Innovation",
+      "source": "Forrester Blog",
+      "url": "https://www.forrester.com/blogs/budget-planning-2027-portfolio-marketing-and-product-management-must-be-primed-for-ai-era-innovation/"
+    }
+  ],
+  "topic": "B2B Marketing Measurement and Attribution",
+  "dayLabel": "Day 1 of 3 — Intro",
+  "headline": "Unlock B2B Marketing Attribution: Focus on Education, Data and Martech",
+  "source": "Gartner",
+  "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbKnk2G7QUEdVqZODVgKisQHrRKcqqsz37srUN5o3TLOt4dX4VKwbhxvkP93CA6YHXIeJBaOhumWlHdXuuXBqYViu5A-FFaXPenU7Y4P1EOf1vRpmpIugufLRKo9Sw9lmwyf_fO4fq",
+  "keyNotes": [
+    "Gartner, a research company, has found ways to help businesses understand which marketing efforts actually lead to sales when they are selling to other businesses (this is called \"B2B marketing attribution\").",
+    "One key insight for improving this understanding of what marketing works is through \"education,\" meaning teaching people how to track and analyze these efforts.",
+    "Another crucial factor is ensuring \"data quality,\" which means having accurate and reliable information to properly measure marketing's impact on sales.",
+    "Finally, effectively using \"martech\" – which stands for marketing technology – is also highlighted as a way to get better at figuring out which marketing activities drive sales."
+  ],
+  "question": "The article suggests that improving how businesses understand which marketing efforts lead to sales (this is called 'B2B marketing attribution') relies on better 'education,' 'data quality,' and using 'martech' (marketing technology). Thinking about your own professional goals, what specific 'education' or improvements in 'data quality' could help you better understand what truly drives your success, even if you don't use 'martech'?"
+}
