@@ -1,0 +1,17 @@
+{
+  "date": "2026-07-18",
+  "type": "resource",
+  "topic": "B2B Marketing Measurement and Attribution",
+  "dayLabel": "Day 3 of 3",
+  "headline": "AI Visibility Rankings Aren’t Stable – New Research Shows It’s Mostly Statistical Noise via @sejournal, @MattGSouthern",
+  "source": "Search Engine Journal",
+  "url": "https://www.searchenginejournal.com/ai-visibility-rankings-arent-stable-new-research-shows-its-mostly-statistical-noise/581905/",
+  "keyNotes": [
+    "Surprisingly, the numbers you see about how often your business shows up when people ask AI questions (called \"AI visibility\") aren't always trustworthy. This is because AI models often give different answers each time, making the numbers jump around randomly.",
+    "For example, even if one company appeared 9.5% of the time and another 6.0% when asking AI about running gear, the article says this 3.5-point difference might not mean one is truly better; it could just be random chance within the expected range of variation.",
+    "To know if an AI ranking is real and not just random noise, two things need to happen: the order of companies must stop changing, and the top companies need to be clearly far apart, not just slightly different.",
+    "Don't trust a single number on a report about your AI visibility; a good report should show you a range of possibilities or tell you when there isn't enough information to make a reliable judgment.",
+    "Different AI tools, like Gemini or SearchGPT, need different amounts of information to give you reliable rankings, so what works for one might not work for another."
+  ],
+  "question": "The article highlights that sometimes, even after many questions, the data might not be enough to confidently say who is truly ahead in AI rankings. How might you apply this idea of needing \"enough reliable data\" before making big decisions in your own work, even if it's not about marketing?"
+}
