@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-21",
+  "type": "resource",
+  "topic": "AI Search Visibility and Answer Engine Optimization",
+  "dayLabel": "Day 2 of 3",
+  "headline": "How To Measure AI Search Visibility via @sejournal, @slobodanmanic",
+  "source": "Search Engine Journal",
+  "url": "https://www.searchenginejournal.com/how-to-measure-ai-search-visibility/579893/",
+  "keyNotes": [
+    "Many tools that measure how often AI mentions your brand are actually counting the wrong thing, even though it looks like the familiar \"rank tracking\" (seeing how high your website appears in search results). This traditional way of measuring doesn't fit how AI works and doesn't show what truly helps your business.",
+    "A big problem is that the \"prompts\" (the questions or commands people type into AI) used to test these tools are often just guesses and don't reflect what real customers actually ask. This means the data collected might not be about what your actual audience cares about.",
+    "AI itself is making it harder to understand search data because AI systems constantly search the web to get answers, which inflates the number of times your content appears in search results (\"impressions\") without necessarily leading to more people clicking on your site. This creates a \"crocodile mouth\" effect where impressions go up but clicks don't.",
+    "Just because an AI mentions your brand as a source (a \"citation\") doesn't mean it's actually telling users to choose you (a \"recommendation\"). For instance, one study found that 69% of the time, even when an AI cited a brand's own promotional article, it still recommended competitors instead."
+  ],
+  "question": "The article points out that an AI mentioning your brand as a source (a \"citation\") is very different from it actually telling people to choose your product or service (a \"recommendation\"). In your own work, where might you be mistaking a simple mention or visibility for a genuine endorsement, and what would it take to shift from just being seen to truly being recommended?"
+}
