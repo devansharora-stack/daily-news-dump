@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-22",
+  "type": "resource",
+  "topic": "AI Search Visibility and Answer Engine Optimization",
+  "dayLabel": "Day 3 of 3",
+  "headline": "Google Puts A Number On AI Search Clicks, Without The Data via @sejournal, @MattGSouthern",
+  "source": "Search Engine Journal",
+  "url": "https://www.searchenginejournal.com/google-puts-a-number-on-ai-search-clicks-without-the-data/582755/",
+  "keyNotes": [
+    "Google says its new AI features in search are already sending \"billions of clicks\" to websites every week, which is a huge number they shared to show that AI isn't stopping people from visiting sites.",
+    "Even though Google shared these big numbers, they didn't provide any specific details like how they got the numbers or how many total searches happen, making it hard to understand what these \"billions\" really mean.",
+    "If you own a website, Google is starting to offer new reports about how your site appears in AI search results, but these reports only show how many times your content was *seen* (called \"impressions\") and not how many times people *clicked* on it.",
+    "This means that individual website owners can't check Google's claim of \"billions of clicks\" from AI against their own site's performance, because they don't get the click data for their own pages from AI features."
+  ],
+  "question": "Google claims its AI features send billions of clicks to websites weekly, but doesn't provide individual businesses with the specific click data for their own sites. If you were running a business, how would you decide whether to invest more time and resources into optimizing for these AI features when you can only see how often your content is *shown*, but not how often it's *clicked*?"
+}
