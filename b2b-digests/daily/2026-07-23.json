@@ -1,0 +1,43 @@
+{
+  "date": "2026-07-23",
+  "type": "recap-and-resource",
+  "recapTopic": "AI Search Visibility and Answer Engine Optimization",
+  "recap": {
+    "intro": "Hey everyone! This week, we got super curious about how AI, like ChatGPT or Gemini, is totally changing how people find stuff online and how brands get noticed.",
+    "bullets": [
+      "First, we saw that these 'answer engines' aren't just showing you what's popular; they're like digital billboards, actively creating interest and demand for brands. They influence what people think really early on, guiding them to ask specific questions, like 'Is Marcus by Goldman Sachs worth it?' This means getting your brand mentioned positively isn't just one team's job; it needs everyone, from your SEO folks to your social media crew, working together, especially since these engines pay close attention to what real people are saying on social media.",
+      "Building on that, we then learned that figuring out if AI is actually helping your brand is trickier than it looks. Many tools that claim to measure how often AI mentions you are actually using old-school 'rank tracking' methods (seeing how high your website appears in search results) that don't really fit how AI works. Plus, the questions (or 'prompts') used to test these tools are often just guesses, not what real customers actually ask. We also found out that AI itself can make it seem like your content is being seen a lot more ('impressions') because it's constantly searching the web, but this doesn't always mean more people are clicking on your site – it's like a 'crocodile mouth' effect. And here's a big one: just because AI mentions your brand as a source (a 'citation') doesn't mean it's telling users to choose you; one study even found that 69% of the time, AI cited a brand but still recommended competitors!",
+      "Finally, the big picture is that even though Google says its new AI features are sending 'billions of clicks' to websites every week, it's super hard for us to actually check that. They shared these huge numbers without giving us any details on how they got them. And for us website owners, while Google is starting to show us reports on how our sites appear in AI search results, these reports only tell us how many times our content was *seen* (called 'impressions'), not how many times people actually *clicked* on it. So, we can't really confirm those 'billions of clicks' against what's happening on our own sites."
+    ]
+  },
+  "recapResources": [
+    {
+      "headline": "Answer Engines’ Next Act: From Visibility To Growth",
+      "source": "Forrester Blog",
+      "url": "https://www.forrester.com/blogs/answer-engines-next-act-from-visibility-to-growth/"
+    },
+    {
+      "headline": "How To Measure AI Search Visibility via @sejournal, @slobodanmanic",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/how-to-measure-ai-search-visibility/579893/"
+    },
+    {
+      "headline": "Google Puts A Number On AI Search Clicks, Without The Data via @sejournal, @MattGSouthern",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/google-puts-a-number-on-ai-search-clicks-without-the-data/582755/"
+    }
+  ],
+  "topic": "AI Readiness and Enterprise Transformation",
+  "dayLabel": "Day 1 of 3 — Intro",
+  "headline": "AI Won’t Save Your Transformation",
+  "source": "Forrester Blog",
+  "url": "https://www.forrester.com/blogs/ai-wont-save-your-transformation/",
+  "keyNotes": [
+    "AI won't magically fix a company's big changes, often called \"transformation.\" The article says AI just makes bad plans fail faster, meaning you still need a solid strategy (a clear plan for how your business will compete and grow) first.",
+    "Even with AI, you still need to clearly define what success looks like and how you'll measure it. The article states that without measurable goals (outcomes), your strategy (your plan) is just a wish, not something you can actually work towards.",
+    "Despite all the new technology, getting people on board and managing changes is still the hardest part of any big company shift. The article highlights that \"people move slowly\" compared to technology, so managing how employees adapt and learn new skills is critical.",
+    "AI doesn't make big company changes easier; instead, it makes them less forgiving. The article explains that AI speeds up decisions and execution, meaning mistakes or unclear plans will cause problems much faster and with higher penalties.",
+    "A major barrier stopping companies from using AI isn't just about data, but about trust. The article's survey found that security, risk, and a lack of trust in these new automated systems are the top three reasons companies hesitate to adopt AI."
+  ],
+  "question": "The article emphasizes that AI speeds up everything, making \"bad strategy fail faster\" and transformation \"less forgiving.\" Thinking about your own work, where might increased speed, whether from new tools or just faster expectations, expose weaknesses in your current plans or how people adapt to change, and what steps could you take now to build more resilience?"
+}
