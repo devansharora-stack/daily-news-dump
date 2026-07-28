@@ -56,4 +56,5 @@ jobs:
           git add -f digests/ data/
           git diff --staged --quiet && echo "No new digest to commit" && exit 0
           git commit -m "Daily digest: ${DATE}"
+          git pull --rebase
           git push
