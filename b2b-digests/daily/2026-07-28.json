@@ -1,0 +1,17 @@
+{
+  "date": "2026-07-28",
+  "type": "resource",
+  "topic": "AI Search Visibility and Answer Engine Optimization",
+  "dayLabel": "Day 2 of 3",
+  "headline": "How To Measure AI Search Visibility via @sejournal, @slobodanmanic",
+  "source": "Search Engine Journal",
+  "url": "https://www.searchenginejournal.com/how-to-measure-ai-search-visibility/579893/",
+  "keyNotes": [
+    "The way many companies measure how often they appear in AI search results (called \"AI search visibility\") is often a \"vanity metric,\" meaning it looks impressive but doesn't actually show real business success.",
+    "Many tools that measure how often an AI mentions your business when someone asks it a question (this is called \"prompt tracking\") are actually measuring the wrong thing, because they simply copy how we used to track website rankings, which doesn't work for AI.",
+    "You might see a lot more \"impressions\" (meaning your content appears in search results) because AI systems are constantly searching the web, but this doesn't mean more people are actually visiting your site (\"clicks\") since machines don't click through.",
+    "Being mentioned by an AI as a source (a \"citation\") is very different from the AI actually telling someone to choose your business (a \"recommendation\"). In fact, one study found that even when an AI cited a company's own promotional article, it recommended competitors 69% of the time.",
+    "If your business is mentioned by one AI search engine, it's unlikely to be mentioned by others, as 91% of cited sources only appear in a single AI system."
+  ],
+  "question": "The article highlights that an AI mentioning your company as a source (a \"citation\") is not the same as it telling users to choose your product or service (a \"recommendation\"). How might this difference impact how you, in your own work, think about getting your company's information or products seen and chosen by potential customers, especially if you rely on others to spread the word?"
+}
