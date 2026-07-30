@@ -1,0 +1,42 @@
+{
+  "date": "2026-07-30",
+  "type": "recap-and-resource",
+  "recapTopic": "AI Search Visibility and Answer Engine Optimization",
+  "recap": {
+    "intro": "Hey everyone! This week, we dove into something super important for anyone trying to get their brand noticed online: how AI search engines work and how to make sure your stuff shows up there.",
+    "bullets": [
+      "First, we saw that AI search engines, like ChatGPT or Gemini, aren't just for finding info; they're like digital billboards that actually create interest and demand for brands. They can really influence what people think and prefer early on, even guiding them to ask specific questions like 'Is Marcus by Goldman Sachs worth it?'",
+      "Building on that, we learned that just showing up in AI search results, or 'AI search visibility,' can be a bit of a trick. Many ways we try to measure this are like 'vanity metrics' – they look good but don't show real success. For example, even if an AI mentions your business as a source, it might still recommend a competitor 69% of the time, and if one AI mentions you, it's super unlikely (91%!) that another one will.",
+      "Finally, we looked at how Google is talking about its new AI search features, claiming they're sending billions of clicks to websites every week. But here's the catch: they only show website owners how many times their content was *seen* (impressions) from AI, not actual clicks. Plus, these 'billions' are for everyone combined, so you can't really tell if *your* site is getting those clicks, and Google hasn't shared how they even got those numbers."
+    ]
+  },
+  "recapResources": [
+    {
+      "headline": "Answer Engines’ Next Act: From Visibility To Growth",
+      "source": "Forrester Blog",
+      "url": "https://www.forrester.com/blogs/answer-engines-next-act-from-visibility-to-growth/"
+    },
+    {
+      "headline": "How To Measure AI Search Visibility via @sejournal, @slobodanmanic",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/how-to-measure-ai-search-visibility/579893/"
+    },
+    {
+      "headline": "Google Puts A Number On AI Search Clicks, Without The Data via @sejournal, @MattGSouthern",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/google-puts-a-number-on-ai-search-clicks-without-the-data/582755/"
+    }
+  ],
+  "topic": "AI Readiness and Enterprise Transformation",
+  "dayLabel": "Day 1 of 3 — Intro",
+  "headline": "AI Won’t Save Your Transformation",
+  "source": "Forrester Blog",
+  "url": "https://www.forrester.com/blogs/ai-wont-save-your-transformation/",
+  "keyNotes": [
+    "AI isn't a magic solution for a company's big changes; it's just a powerful tool. Companies still need to figure out their unique plan for how they'll stand out, whether that's by being cheaper, faster, or offering a better experience, because AI itself is not a strategy.",
+    "Even with exciting new AI tools, it's more important than ever to clearly define what \"success\" looks like for any big company change. Without clear, measurable goals, your efforts might just look like experimentation instead of creating real business value, especially as the number of possible initiatives expands with AI.",
+    "Despite all the advanced technology, making big company changes (which the article calls \"transformation\") is still mostly about people. The article states that technology changes quickly, but people move slowly, meaning managing how employees adapt, learn new skills, and handle resistance is crucial for any transformation.",
+    "A major hurdle for companies wanting to use AI isn't just the technology itself, but a lack of \"trust.\" The article's survey found that security, risk, and not trusting AI systems are the top three barriers to adopting AI, making it a primary challenge to address."
+  ],
+  "question": "The article highlights that even with powerful tools like AI, \"transformation remains a people-first endeavor\" and that a lack of \"trust\" is a major barrier to adopting new systems. In your own experience with big changes at work, what specific \"people problem\" or issue of trust was the hardest to overcome, and what did you learn about getting people on board?"
+}
