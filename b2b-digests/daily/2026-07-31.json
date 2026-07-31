@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-31",
+  "type": "resource",
+  "topic": "AI Readiness and Enterprise Transformation",
+  "dayLabel": "Day 2 of 3",
+  "headline": "Salesforce’s woes underline marketing’s agentic AI problems",
+  "source": "Martech.org",
+  "url": "https://martech.org/salesforces-woes-underline-marketings-agentic-ai-problems/",
+  "keyNotes": [
+    "Even a giant company like Salesforce, which launched a new AI tool called Agentforce in 2024, has struggled, with only 34% of its customers using it and the company losing over $200 billion in market value.",
+    "The main problem isn't that companies don't want to use smart computer programs (called 'AI agents') to automate tasks; it's that their existing information (data) isn't organized or clean enough for these programs to work properly.",
+    "Many businesses are finding that they spend just as much time getting their information ready for these new AI tools as they do actually using the tools themselves.",
+    "Experts believe that for businesses to truly benefit from advanced computer programs that can do tasks on their own (known as 'agentic AI'), they first need to focus on making sure their customer information is accurate, connected, and well-managed."
+  ],
+  "question": "The article highlights that even with powerful new AI tools, the biggest hurdle is often having messy or disconnected information. In your own work, what kind of information do you rely on daily, and how well-organized is it for a smart computer program to understand and use effectively?"
+}
