@@ -1,0 +1,54 @@
+{
+  "date": "2026-08-02",
+  "type": "recap-week",
+  "topicA": "AI Search Visibility and Answer Engine Optimization",
+  "topicB": "AI Readiness and Enterprise Transformation",
+  "recap": {
+    "intro": "Welcome back, future B2B marketing leaders! This week you explored two fascinating areas of B2B marketing: how AI is changing search visibility and how businesses are getting ready for and transforming with AI.",
+    "bullets": [
+      "Answer engines are now like \"billboards\" that actively create interest and demand for brands, influencing decisions early on.",
+      "AI is a powerful tool, but it's not a magic solution for company changes; clear goals and a strategy are still crucial.",
+      "Measuring AI search visibility is complex because being cited by an AI doesn't always mean a recommendation, and click data is hard to track.",
+      "Many businesses struggle with AI because their existing data isn't organized or clean enough for these new tools to work effectively."
+    ],
+    "closing": "This week you learned that successful B2B AI adoption requires more than just technology; it demands strategic planning, clean data, and a new way of measuring impact."
+  },
+  "resources": [
+    {
+      "headline": "Answer Engines’ Next Act: From Visibility To Growth",
+      "source": "Forrester Blog",
+      "url": "https://www.forrester.com/blogs/answer-engines-next-act-from-visibility-to-growth/",
+      "topic": "AI Search Visibility and Answer Engine Optimization"
+    },
+    {
+      "headline": "How To Measure AI Search Visibility via @sejournal, @slobodanmanic",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/how-to-measure-ai-search-visibility/579893/",
+      "topic": "AI Search Visibility and Answer Engine Optimization"
+    },
+    {
+      "headline": "Google Puts A Number On AI Search Clicks, Without The Data via @sejournal, @MattGSouthern",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/google-puts-a-number-on-ai-search-clicks-without-the-data/582755/",
+      "topic": "AI Search Visibility and Answer Engine Optimization"
+    },
+    {
+      "headline": "AI Won’t Save Your Transformation",
+      "source": "Forrester Blog",
+      "url": "https://www.forrester.com/blogs/ai-wont-save-your-transformation/",
+      "topic": "AI Readiness and Enterprise Transformation"
+    },
+    {
+      "headline": "Salesforce’s woes underline marketing’s agentic AI problems",
+      "source": "Martech.org",
+      "url": "https://martech.org/salesforces-woes-underline-marketings-agentic-ai-problems/",
+      "topic": "AI Readiness and Enterprise Transformation"
+    },
+    {
+      "headline": "B2B growth leaders are three times more likely to double AI investment, and agentic workflows are why",
+      "source": "MarketScale",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRTNnWDBLNkJaZTg1YWI4RXJfSFYzQnE4UE9scWFfN2QxZV9VZTM4cUVjLTNPQ2tLY3MxYmdqeDA2bG1kRmZnbHc0Rm5maXRGZGVfOU1nU0tGaXk4UTNZZDRYMTdaSVNoWUhPVUpBckdxM1VwVXNXelUwVTg4RUlqRzZDT1AtdUU4dXR0TGdHMktBYldJT2JITWlSRjREcnF5OWZDYzBsTDkwTUlHZjhqVFVCcUxxUzA1VHNPUW5DWllIZkZGc21UdXJ3MkZadEJEMmVUcHdlYk1zUXM1TzdBcUpNdlRMWlI2dXc?oc=5",
+      "topic": "AI Readiness and Enterprise Transformation"
+    }
+  ]
+}
