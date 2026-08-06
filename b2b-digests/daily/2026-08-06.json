@@ -1,0 +1,42 @@
+{
+  "date": "2026-08-06",
+  "type": "recap-and-resource",
+  "recapTopic": "B2B Thought Leadership and Content Strategy",
+  "recap": {
+    "intro": "Hey everyone! This week, we dove into how businesses can really stand out and connect with customers by sharing their smart ideas and expertise, which we call B2B thought leadership and content strategy.",
+    "bullets": [
+      "First, we saw that what's popular isn't always what works best. For example, even though email is a super popular way to get new potential customers (lead generation), it's actually not very effective. But creating valuable content that shows off your expertise – that's thought leadership – is surprisingly the most effective way to attract new customers, especially in tech and manufacturing, even if only about one in six marketers in manufacturing are using it! Top business leaders, like CEOs, spend over an hour a week reading this kind of deep-dive content, showing just how much they value it, and it's way more efficient than spending two-thirds of your marketing budget trying to reach the tiny 5% of people ready to buy right now.",
+      "Building on that, we learned that AI is totally changing the game for how people find information online. Now, searching is more like a conversation, and AI rewards companies that are genuinely trustworthy (have strong brand authority) instead of just using specific keywords. This means the old ways of getting found online are becoming less effective. AI is also shaking up marketing jobs, creating a \"new reality\" and even a \"missing generation\" of skills. So, we need to totally rethink our content plan (content strategy) to make sure it can survive and thrive with AI, focusing on building a strong foundation rather than just pumping out tons of content, especially since AI can highlight \"unhealthy content\" and create \"content chaos\" if we're not careful.",
+      "Finally, the big picture is that just making great content isn't enough anymore. We can't just keep creating new stuff without looking back; old content needs maintenance, or it becomes \"content debt.\" How you get your content to people (your \"distribution strategy\") is just as important as making it, because if you don't share it well, your audience won't grow. Even with AI, having content on your own website (\"owned content\") is still super powerful because you control it completely, and understanding \"Top Strategies to Get Your Content Cited by AI\" is key to getting seen. And while numbers and analytics are helpful, remember that \"What Data Can't Tell You (But a Conversation Can)\" – real talks with people still give you the deepest insights."
+    ]
+  },
+  "recapResources": [
+    {
+      "headline": "B2B thought leadership effectiveness: what the data says in 2026",
+      "source": "Considered Content",
+      "url": "https://consideredcontent.com/b2b-thought-leadership-effectiveness-what-the-data-says-in-2026/"
+    },
+    {
+      "headline": "AI in Marketing",
+      "source": "Content Marketing Institute",
+      "url": "https://contentmarketinginstitute.com/strategy-planning/ai-in-marketing"
+    },
+    {
+      "headline": "Content Marketing Strategy",
+      "source": "Content Marketing Institute",
+      "url": "https://contentmarketinginstitute.com/strategy-planning/content-marketing-strategy"
+    }
+  ],
+  "topic": "How AI is Reshaping B2B Buying and Marketing Operations",
+  "dayLabel": "Day 1 of 3 — Intro",
+  "headline": "How Adobe Adapted To ChatGPT And Gemini Reshaping B2B Buying",
+  "source": "Forrester Blog",
+  "url": "https://www.forrester.com/blogs/how-adobe-adapted-to-chatgpt-and-gemini-reshaping-b2b-buying/",
+  "keyNotes": [
+    "The most surprising change in how businesses buy things is that AI tools like ChatGPT and Gemini have become the top way buyers get information, even more so than company websites or talking to sales experts. This means AI is now a 'middleman' between companies and their potential customers.",
+    "When faced with this big shift in how buyers find information, Adobe couldn't simply purchase a new software solution because the problem wasn't just about technology; it was about how buyers were fundamentally changing their behavior.",
+    "Instead, Adobe tackled this challenge by changing how its own teams operated, setting up new ways to oversee AI-related visibility, continuously review progress, measure results, and share what they learned across different departments. They essentially made their own website a testing ground.",
+    "The article emphasizes that Adobe's success wasn't about using AI itself, but about its willingness to adapt its entire organization when the way customers found information changed so dramatically. They didn't wait for a guide; they created one."
+  ],
+  "question": "The article mentions that AI tools are now the main 'middleman' between businesses and their customers. How might this shift in how people find information change the way your own organization needs to understand and connect with the people it serves, even if you're not in marketing?"
+}
