@@ -1,0 +1,17 @@
+{
+  "date": "2026-08-07",
+  "type": "resource",
+  "topic": "How AI is Reshaping B2B Buying and Marketing Operations",
+  "dayLabel": "Day 2 of 3",
+  "headline": "What Optimizely Customer Zero Teaches About Agentic AI Governance",
+  "source": "Forrester Blog",
+  "url": "https://www.forrester.com/blogs/what-optimizely-customer-zero-teaches-about-agentic-ai-governance/",
+  "keyNotes": [
+    "It turns out that when companies try to use advanced AI tools, the biggest challenge isn't the AI itself, but often hidden problems in how work moves through the company, like too much time spent on preparing things or passing tasks between people.",
+    "The article highlights that simply having smart AI tools, which it calls \"agents,\" isn't enough; real success comes when these tools are part of a carefully planned \"workflow\" (a step-by-step process) that helps the entire marketing \"system\" (the way marketing operates) function smoothly.",
+    "Optimizely, a company mentioned in the article, discovered that designing how work flows from one step to the next is just as crucial as the AI tools' abilities, because this \"workflow design\" makes the work \"repeatable and governable\" (meaning it can be done consistently and managed properly).",
+    "A surprising lesson from the article is that improving how a company works is a never-ending journey; as soon as one problem area, or \"constraint,\" is fixed, another one typically shows up, requiring constant attention to keep things running well.",
+    "For advanced AI in marketing to truly deliver results, the article stresses that technology leaders and marketing leaders must work hand-in-hand to design these systems, blending the tech side's logical approach with the marketing side's understanding of what customers want."
+  ],
+  "question": "The article highlights that before bringing in new tools or automation, it's vital to map out how work truly gets done, especially focusing on areas like 'preparation, coordination, data gathering, and handoffs.' Thinking about your own daily tasks, where do you notice these kinds of activities causing the most friction or delays, and what might that tell you about where to focus your efforts for improvement, even without new technology?"
+}
