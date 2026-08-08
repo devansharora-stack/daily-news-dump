@@ -1,0 +1,16 @@
+{
+  "date": "2026-08-08",
+  "type": "resource",
+  "topic": "How AI is Reshaping B2B Buying and Marketing Operations",
+  "dayLabel": "Day 3 of 3",
+  "headline": "What Opting Out Of Google’s AI Search Features Means Now via @sejournal, @MattGSouthern",
+  "source": "Search Engine Journal",
+  "url": "https://www.searchenginejournal.com/what-opting-out-of-googles-ai-search-features-means-now/584321/",
+  "keyNotes": [
+    "Google is now giving website owners a new button in a tool called Search Console (which helps manage how a website appears in Google) that lets them choose if their content shows up in Google's new AI-powered search results, like \"AI Overviews.\" This is a brand new option, partly because regulators (government bodies that oversee industries) in the UK required Google to offer it.",
+    "The tricky part is that choosing to remove your content from Google's AI features isn't straightforward, because some regular search results, like \"Top Stories\" (which show popular news), can now appear *inside* these AI features. This means opting out of AI could accidentally remove you from those traditional news spots too.",
+    "For instance, data shows that nearly 1 in 6 (or 15.5%) of popular news searches in the U.S. now have these \"Top Stories\" appearing within Google's AI summaries, making the decision to opt out more complicated than it seems.",
+    "This new setting is very specific: it only affects Google's AI features and won't change how your website appears in regular search results or how Google uses your content to train its AI models."
+  ],
+  "question": "The article mentions that choosing to remove your content from Google's AI features might also mean losing visibility in traditional spots like \"Top Stories\" if they appear inside AI summaries. If you were running a business, how would you weigh the importance of controlling where your content appears in AI versus potentially missing out on reaching a wider audience through these traditional, but now embedded, features?"
+}
