@@ -1,0 +1,54 @@
+{
+  "date": "2026-08-09",
+  "type": "recap-week",
+  "topicA": "B2B Thought Leadership and Content Strategy",
+  "topicB": "How AI is Reshaping B2B Buying and Marketing Operations",
+  "recap": {
+    "intro": "This week you explored two areas of B2B marketing: how to create impactful thought leadership and content, and the transformative role of AI in B2B buying and marketing operations.",
+    "bullets": [
+      "Thought leadership, though often underutilized, is surprisingly the most effective way to attract new customers in some industries, and top executives spend significant time reading it.",
+      "AI tools like ChatGPT and Gemini have become the primary way B2B buyers gather information, even more so than company websites, fundamentally changing the buying process.",
+      "The biggest challenge in implementing advanced AI isn't the technology itself, but rather fixing hidden inefficiencies in internal workflows and processes.",
+      "AI is dramatically reshaping online search by rewarding overall brand trustworthiness over specific keywords, meaning companies need to rethink their entire content strategy."
+    ],
+    "closing": "This week you learned that adapting to new technologies and buyer behaviors, especially with AI, requires a deep understanding of both content effectiveness and organizational agility."
+  },
+  "resources": [
+    {
+      "headline": "B2B thought leadership effectiveness: what the data says in 2026",
+      "source": "Considered Content",
+      "url": "https://consideredcontent.com/b2b-thought-leadership-effectiveness-what-the-data-says-in-2026/",
+      "topic": "B2B Thought Leadership and Content Strategy"
+    },
+    {
+      "headline": "AI in Marketing",
+      "source": "Content Marketing Institute",
+      "url": "https://contentmarketinginstitute.com/strategy-planning/ai-in-marketing",
+      "topic": "B2B Thought Leadership and Content Strategy"
+    },
+    {
+      "headline": "Content Marketing Strategy",
+      "source": "Content Marketing Institute",
+      "url": "https://contentmarketinginstitute.com/strategy-planning/content-marketing-strategy",
+      "topic": "B2B Thought Leadership and Content Strategy"
+    },
+    {
+      "headline": "How Adobe Adapted To ChatGPT And Gemini Reshaping B2B Buying",
+      "source": "Forrester Blog",
+      "url": "https://www.forrester.com/blogs/how-adobe-adapted-to-chatgpt-and-gemini-reshaping-b2b-buying/",
+      "topic": "How AI is Reshaping B2B Buying and Marketing Operations"
+    },
+    {
+      "headline": "What Optimizely Customer Zero Teaches About Agentic AI Governance",
+      "source": "Forrester Blog",
+      "url": "https://www.forrester.com/blogs/what-optimizely-customer-zero-teaches-about-agentic-ai-governance/",
+      "topic": "How AI is Reshaping B2B Buying and Marketing Operations"
+    },
+    {
+      "headline": "What Opting Out Of Google’s AI Search Features Means Now via @sejournal, @MattGSouthern",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/what-opting-out-of-googles-ai-search-features-means-now/584321/",
+      "topic": "How AI is Reshaping B2B Buying and Marketing Operations"
+    }
+  ]
+}
