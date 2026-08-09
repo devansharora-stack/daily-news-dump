@@ -1,0 +1,522 @@
+[
+  {
+    "title": "Snowflake Summit 2026: The Race Has Shifted From Building AI To Operating It",
+    "url": "https://www.forrester.com/blogs/snowflake-summit-2026-the-race-has-shifted-from-building-ai-to-operating-it/",
+    "source": "Forrester Blog",
+    "publishedAt": "Fri, 07 Aug 2026 20:53:40 +0000",
+    "snippet": "The biggest takeaway from Snowflake Summit 2026 wasn’t another AI announcement; it was a fundamental shift in what enterprises should expect from a data platform for AI. The conversation has moved beyond building models and copilots to operationalizing agentic AI at scale. It requires more than AI infrastructure; it demands a lakehouse capable of delivering […]",
+    "tier": 1
+  },
+  {
+    "title": "Four AI Escapes Just Redefined “Responsible AI”",
+    "url": "https://www.forrester.com/blogs/four-ai-escapes-just-redefined-responsible-ai/",
+    "source": "Forrester Blog",
+    "publishedAt": "Fri, 07 Aug 2026 19:35:52 +0000",
+    "snippet": "In nine days this month, OpenAI and Anthropic disclosed that their own models escaped safety evaluations and reached production systems at four other companies. No model malfunctioned — the governance did. Responsible AI now has to govern what agents do, not only what models decide, and that takes a responsible AI deployment policy.",
+    "tier": 1
+  },
+  {
+    "title": "Meet Kate Winick: Forrester’s New Principal Analyst Covering Social Media",
+    "url": "https://www.forrester.com/blogs/meet-kate-winick-forresters-new-principal-analyst-covering-social-media/",
+    "source": "Forrester Blog",
+    "publishedAt": "Fri, 07 Aug 2026 19:01:57 +0000",
+    "snippet": "In 2015, I wrote an op-ed for Ad Age declaring the end of social media … as it was originally framed around community building. Back then, I asserted, “Social media marketing is now advertising. It’s largely a media planning and buying exercise.” For most brands, that statement pretty much held up. What’s also not changed […]",
+    "tier": 1
+  },
+  {
+    "title": "How Pacsun Wins Gen Z Customers: Agentic Commerce and Omnichannel Fluidity",
+    "url": "https://www.salesforce.com/blog/pacsun-customer-story/",
+    "source": "Salesforce Blog",
+    "publishedAt": "Fri, 07 Aug 2026 17:59:33 +0000",
+    "snippet": "Pacsun has long been synonymous with the California lifestyle and an effortlessly cool aesthetic that blends surf, skate, and street culture. But for retailers targeting digitally-native, highly social Gen Z and Gen Alpha…",
+    "tier": 1
+  },
+  {
+    "title": "Here are the marketing skills AI is making more valuable",
+    "url": "https://martech.org/here-are-the-marketing-skills-ai-is-making-more-valuable/",
+    "source": "Martech.org",
+    "publishedAt": "Fri, 07 Aug 2026 14:45:51 +0000",
+    "snippet": "As AI takes on more execution, there is more need for marketers who bring judgment, strategy and the skills to direct the technology.\nThe post Here are the marketing skills AI is making more valuable appeared first on MarTech.",
+    "tier": 1
+  },
+  {
+    "title": "AI’s Impact Is Outrunning Measurement: The Trust And Attribution Gap Facing Brands via @sejournal, @gregjarboe",
+    "url": "https://www.searchenginejournal.com/ais-impact-is-outrunning-measurement-the-trust-and-attribution-gap-facing-brands/584141/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Sat, 08 Aug 2026 12:00:30 +0000",
+    "snippet": "AI's impact outpaced our ability to measure it in H1 2026. Indig's citation data, agent share shifts, and the intelligence-versus-agency split explain what changes next.\nThe post AI’s Impact Is Outrunning Measurement: The Trust And Attribution Gap Facing Brands appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "AI Search Only Feels New If Your SEO Was Shallow via @sejournal, @slobodanmanic",
+    "url": "https://www.searchenginejournal.com/ai-search-only-feels-new-if-your-seo-was-shallow/584115/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Fri, 07 Aug 2026 19:00:31 +0000",
+    "snippet": "AI search only feels like a new sport to the people who were never really training. Here's what actually changed, and what didn't.\nThe post AI Search Only Feels New If Your SEO Was Shallow appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "Gen Z Now Treats Claude And OpenAI Like Consumer Brands, But Trust Is Still An Issue via @sejournal, @gregjarboe",
+    "url": "https://www.searchenginejournal.com/gen-z-now-treats-claude-and-openai-like-consumer-brands-but-trust-is-still-an-issue/584449/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Fri, 07 Aug 2026 14:30:16 +0000",
+    "snippet": "YouGov data shows Claude and OpenAI doubling Gen Z consideration while U.S. trust in AI assistants sits at 28%, a gap that reshapes GEO plans.\nThe post Gen Z Now Treats Claude And OpenAI Like Consumer Brands, But Trust Is Still An Issue appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "Ticker: David Ellison Believes CNN Plays a Role in Paramount-WBD Merger Delay",
+    "url": "https://www.adweek.com/tvnewser/ticker-david-ellison-believes-cnn-plays-a-role-in-paramount-wbd-merger-delay/",
+    "source": "Adweek",
+    "publishedAt": "Fri, 07 Aug 2026 17:56:12 +0000",
+    "snippet": "A court date has been set in 2027 for the cases seeking to block the Paramount Skydance-Warner Bros. Discovery merger",
+    "tier": 1
+  },
+  {
+    "title": "What the Nielsen and DoubleVerify Merger Means for the Ad Industry, According to Experts",
+    "url": "https://www.adweek.com/convergent-tv/what-the-nielsen-and-doubleverify-merger-means-for-the-ad-industry/",
+    "source": "Adweek",
+    "publishedAt": "Fri, 07 Aug 2026 16:19:20 +0000",
+    "snippet": "As Nielsen prepares to acquire DoubleVerify, ad industry experts weigh in on everything from cost to transparency.",
+    "tier": 1
+  },
+  {
+    "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+    "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Fri, 07 Aug 2026 14:20:00 +0000",
+    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spread in right-wing circles. The theory claimed that, under…",
+    "tier": 1
+  },
+  {
+    "title": "4 Types of SEO: Everything You Need to Know",
+    "url": "https://rankwriters.com/four-types-of-seo-everything-you-need-to-know/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-08-09T14:00:58.298Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "The Surprising Impact of Refreshing Content",
+    "url": "https://rankwriters.com/the-surprising-impact-of-refreshing-content/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-08-09T14:00:58.298Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Get Found Locally: The Ultimate Guide to Local SEO Success",
+    "url": "https://rankwriters.com/get-found-locally-the-ultimate-guide-to-local-seo-success/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-08-09T14:00:58.298Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Navigating the SEO Landscape: Your Guide to Finding the Right Consulting Firm",
+    "url": "https://rankwriters.com/navigating-the-seo-landscape-your-guide-to-finding-the-right-consulting-firm/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-08-09T14:00:58.298Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Buyer’s Guide: Best AI Content Marketing Agencies for B2B 2026",
+    "url": "https://rankwriters.com/buyers-guide-best-ai-content-marketing-agencies-for-b2b-2026/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-08-09T14:00:58.298Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Top 11 B2B Marketing Case Studies 2025",
+    "url": "https://rankwriters.com",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-08-09T14:00:58.302Z",
+    "snippet": "Published September 8, 2025 · Updated December 27, 2025 | By: Lisha",
+    "tier": 2
+  },
+  {
+    "title": "SEO Content Audit Tool",
+    "url": "https://rankwriters.com/seo-grading-tool/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-08-09T14:00:58.302Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Keyword Research Tool",
+    "url": "https://rankwriters.com/keyword-analysis-tool/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-08-09T14:00:58.302Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "National Law Firm",
+    "url": "https://rankwriters.com/case-study-seo-law-firm/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-08-09T14:00:58.302Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Financial Services",
+    "url": "https://rankwriters.com/best-seo-for-b2b-a-case-study/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-08-09T14:00:58.303Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "B2B Financial App",
+    "url": "https://rankwriters.com/case-study-b2b-financial-app-skyrockets-in-search/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-08-09T14:00:58.303Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Marketers & Fractionals",
+    "url": "https://rankwriters.com/seo-for-marketers/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-08-09T14:00:58.303Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Insurance Agencies",
+    "url": "https://rankwriters.com/seo-for-insurance-agencies/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-08-09T14:00:58.303Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Mortgage Lenders",
+    "url": "https://rankwriters.com/seo-for-mortgage-lenders/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-08-09T14:00:58.303Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Plastic Surgeons",
+    "url": "https://rankwriters.com/seo-for-plastic-surgeons/",
+    "source": "RankWriters B2B Cases",
+    "publishedAt": "2026-08-09T14:00:58.303Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Content Marketing Institute Team",
+    "url": "https://contentmarketinginstitute.com/author/content-marketing-institute-team",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-08-09T14:00:56.565Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Demand Generation",
+    "url": "https://contentmarketinginstitute.com/strategy-planning/demand-generation",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-08-09T14:00:56.571Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Audience Building",
+    "url": "https://contentmarketinginstitute.com/strategy-planning/audience-building",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-08-09T14:00:56.571Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Content Operations",
+    "url": "https://contentmarketinginstitute.com/strategy-planning/content-operations",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-08-09T14:00:56.571Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Social Media Content",
+    "url": "https://contentmarketinginstitute.com/content-creation-distribution/social-media-content",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-08-09T14:00:56.572Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Video & Visual Content",
+    "url": "https://contentmarketinginstitute.com/content-creation-distribution/video-visual-content",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-08-09T14:00:56.572Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "AI Content Creation & Tools",
+    "url": "https://contentmarketinginstitute.com/content-creation-distribution/ai-content-creation-tools",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-08-09T14:00:56.584Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Content Distribution & Promotion",
+    "url": "https://contentmarketinginstitute.com/content-creation-distribution/content-distribution-promotion",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-08-09T14:00:56.585Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Content Marketing Analytics Data",
+    "url": "https://contentmarketinginstitute.com/measurement-optimization/analytics-data",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-08-09T14:00:56.585Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Content Optimization",
+    "url": "https://contentmarketinginstitute.com/measurement-optimization/content-optimization",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-08-09T14:00:56.585Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Content Marketing University",
+    "url": "https://www.contentmarketinguniversity.com/?utm_medium=referral&utm_source=cmi&utm_campaign=navigation",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-08-09T14:00:56.585Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Content Marketing Certification",
+    "url": "https://contentmarketinguniversity.com/content-marketing-certification/?utm_medium=referral&utm_source=cmi&utm_campaign=navigation",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-08-09T14:00:56.585Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Director - IT Strategy Consulting - AI in Chicago, Illinois, United States of America",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd3BITEd6UlhEMFhDdjN1bUwyOVgwMi1yQjNsdWhGNDNoV0VvRlNGN2VZLVJNVjliMzhxT29DWW5TT0RycTFPdlhLdnloRE9pbk1VeUhKNTlqOEZJUzY0MkFGcUk1MFhUajR1MWtPMFZCUEt1LXg4ZjNDLUdwVXdvMm13?oc=5",
+    "source": "jobs.gartner.com",
+    "publishedAt": "Sat, 08 Aug 2026 15:01:18 GMT",
+    "snippet": "Director - IT Strategy Consulting - AI in Chicago, Illinois, United States of America&nbsp;&nbsp;jobs.gartner.com",
+    "tier": 3
+  },
+  {
+    "title": "Senior Director Analyst - Audit Function Strategy Expert (Remote, United Kingdom)",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdHhZaF8wUGNGYXBsWmJGX0NObjFyN04zWmlVQ3MwV042V3FpYmViSzZqWmRrN3d0blRjMDJDTlNReWJzOUhtOXEwM28tdXBNZW1nakw3alJLRWk5NTNmVUQ5Ml9WNmo4S01GUVo4YjI1M21idlpPbEVhZFpoMk50UFdOWHJGZlo0MFJnZnBRMkRXWm1aVTNLT0FXZDYtU0VXQ01Bd3dQT3poaXMtZ3RxSXVLUG9OVHdhbEE?oc=5",
+    "source": "jobs.gartner.com",
+    "publishedAt": "Sat, 08 Aug 2026 15:01:21 GMT",
+    "snippet": "Senior Director Analyst - Audit Function Strategy Expert (Remote, United Kingdom)&nbsp;&nbsp;jobs.gartner.com",
+    "tier": 3
+  },
+  {
+    "title": "Manager, Global Conference Financial Strategy & Operations",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV243bE14Z2Q0YmtiZFA0SlBZM3VQdGt0RzlxTExURkhDZ1dEMmtLY2hDVDdNQ3pEeGEwRk1nNkM5ejVOMDQ3eHFlQnQ2aWxmS2VoeGZjQk5TdWhiSXdVOXJVMWpiamJYeFR6VVIxMFdfRUFSU21JX25WUGQyS2VfLVQzd1pBRldyMHZNOEFZOG9rc0ptZU9CZEt0QmxsUQ?oc=5",
+    "source": "jobs.gartner.com",
+    "publishedAt": "Sat, 08 Aug 2026 15:01:20 GMT",
+    "snippet": "Manager, Global Conference Financial Strategy & Operations&nbsp;&nbsp;jobs.gartner.com",
+    "tier": 3
+  },
+  {
+    "title": "Docebo (365Talents) Enterprise Software and Services Reviews",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JdEJCcmJYSnBpZGo2WEhoZFZqUEx2Q0N2T0c0T1RCQWNDNHZZa1k0alRSWGkxOXh2TkhoM0JnWDYzTlVMOEQ2aVFNT1JKUnF6b3JDTHBrZXhRMmgtYUtnalBJRldCcm8?oc=5",
+    "source": "Gartner",
+    "publishedAt": "Sat, 08 Aug 2026 19:26:11 GMT",
+    "snippet": "Docebo (365Talents) Enterprise Software and Services Reviews&nbsp;&nbsp;Gartner",
+    "tier": 3
+  },
+  {
+    "title": "Director, Recruiting",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qLWFGcFJKWnlWZGE3c3h6U2R6VUlDRlBYZlRTQ0VsamVRVWdXUXVzWWlvbEdGWmJ5YUZrYkY2X1E2eXREMldUY3dENjFNVGJWMEF6Wl9hdjNIZVM1aHU4M0IwTVV5WU55Ty1yV2lB?oc=5",
+    "source": "jobs.gartner.com",
+    "publishedAt": "Sat, 08 Aug 2026 15:01:20 GMT",
+    "snippet": "Director, Recruiting&nbsp;&nbsp;jobs.gartner.com",
+    "tier": 3
+  },
+  {
+    "title": "Sr. Director, Analyst - Cybersecurity & Emerging Technologies for CIO & AI Leaders (Remote US)",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNzh3MVp1T1RFYlM3d2FIYVV1NlBka3NVTkFXRnJ6TmlOY2lCUFpEQ2N5dGxsZEF5MjBqUkY0N3pDekh5RTFjdFBDTjdUT0Q2TF9BeHViOWpObFByT1N0ZHdOUmRIYWRtU1cwdUZ4X3dZYUtBMFM5cmJVdk11aDdOdkpXMndrMFFLZDQ2TUVodDl3MVJlYTl0cU9iZnM1WUNWZjJxRHA4VFBOVVdjNVFyMUtMTkxuTmdZS3B3SVBMOFRzVWdf?oc=5",
+    "source": "jobs.gartner.com",
+    "publishedAt": "Sat, 08 Aug 2026 15:52:22 GMT",
+    "snippet": "Sr. Director, Analyst - Cybersecurity & Emerging Technologies for CIO & AI Leaders (Remote US)&nbsp;&nbsp;jobs.gartner.com",
+    "tier": 3
+  },
+  {
+    "title": "Integrow Enterprise Software and Services Reviews",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDd2c4bFlsSlQwR0lWTEJzT2ZpQzJnZTE2S0Nna2phWnhpaExRU2FsazZ6ZWt1dzlybGdzRDk2OGhhdEVyRVVmOEVpQW1iZmd1STFUWkI4cUVXcEE?oc=5",
+    "source": "Gartner",
+    "publishedAt": "Sat, 08 Aug 2026 19:28:25 GMT",
+    "snippet": "Integrow Enterprise Software and Services Reviews&nbsp;&nbsp;Gartner",
+    "tier": 3
+  },
+  {
+    "title": "Director Analyst, Privacy and Information Governance Expert (Remote United Kingdom))",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVWkzUE52eFoxLUVCVWVBc3BNZmtkcHlkTHVyN1lSZXFnd0M0dlRaNnNEYmFIWG8zYjVSSVhrWUtSRWdMbGhWd3NLTUE0R2F4cTNPVGhOcE4xYzRmLUhJUnFCQjR6b1pHcnIxeGRaaWFsT1JldzF6ZmlGbmNWVTJPMS1WX28wTk93dWttRXVGWmtZUENFM2l3VDloMjl6TzEwcXBHM2t4MlV0djV6MnRoMlotc0NscG80ZEdrcmdFRQ?oc=5",
+    "source": "jobs.gartner.com",
+    "publishedAt": "Sat, 08 Aug 2026 15:01:20 GMT",
+    "snippet": "Director Analyst, Privacy and Information Governance Expert (Remote United Kingdom))&nbsp;&nbsp;jobs.gartner.com",
+    "tier": 3
+  },
+  {
+    "title": "Connectwise (Axcient) Enterprise Software and Services Reviews",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84QWdsQU9GbTJxU3VncWFTSWRpaVFLQU54LUpGOTNKQ29QZS11d09EUUphN1ZmendOUFl5RGcxdnhMaG85ZXg3VVN6c2M1VmFqUkFNQjV1Q1FBczUzTHZycHk0UTJWSGxFeVE?oc=5",
+    "source": "Gartner",
+    "publishedAt": "Sat, 08 Aug 2026 19:28:24 GMT",
+    "snippet": "Connectwise (Axcient) Enterprise Software and Services Reviews&nbsp;&nbsp;Gartner",
+    "tier": 3
+  },
+  {
+    "title": "Sr. Director - Analyst, Emerging Technologies for Higher Education and Research",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSF9XWFo1eWxJU1AtcnlhNUo1VURUY2V6c0RWd1hVT2dFak4tX1RORDFpUGtZRnNuTVF6THF5REppMG1zX3JwWFhSWE9GNXRMbGxhZjVnd3R4eUY4OHZWaXVxS1ZaNVl0QjZYRjNjQ2prbC10WDBVekgzX3hmT1dYY3M0U014RjJjeFN3ZmZyUmZJTi1jREx6a21WcUlvY1RCbVBJZXBqSkVfSUhZeVdUTTRzV1JFdk9X?oc=5",
+    "source": "jobs.gartner.com",
+    "publishedAt": "Sat, 08 Aug 2026 15:01:19 GMT",
+    "snippet": "Sr. Director - Analyst, Emerging Technologies for Higher Education and Research&nbsp;&nbsp;jobs.gartner.com",
+    "tier": 3
+  },
+  {
+    "title": "Director, Analyst: Privacy and Information Governance Expert (Remote-US)",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVVoxMkhhdTVaZDVVV01rWXBRdXdqeEdBY1htU3lzc2x3X0xJQUh6ZXJZYWdiZ1haNkltX1AxalQ1dXZYYlZ5SlVTZXIySklqN2xYM2dmQVdVNEw3eURYZ2hjZzFmNzl2aE5TTTIwaXJOZFd6RlNKX0VlcHRfRHBpTHBNWGp4VFNVUmtvNzVDYVNTdEFoSU5FQ2VETEZMSFY3M1JtZ1hfZ3hzV2tmNFJN?oc=5",
+    "source": "jobs.gartner.com",
+    "publishedAt": "Sat, 08 Aug 2026 15:01:21 GMT",
+    "snippet": "Director, Analyst: Privacy and Information Governance Expert (Remote-US)&nbsp;&nbsp;jobs.gartner.com",
+    "tier": 3
+  },
+  {
+    "title": "Lead Site Reliability Engineer (SRE) in Gurgaon, Haryāna, India",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdjhQYWhjdlE2OWZ5ekZUcWhiVXZjVU1VSmwxUU93ZjY5TW0xT1pDLXF3cDFEb1JPR3I5WlF1M3pHaHRhMmtDTVlDcjBIVlNhdGhHdXZ2X0l0aTlhVXkwaUVXZUI1Y2FmQ3ZLLWZjS2wza2ZPVGlGbzVWcjBVd3JmbnV3?oc=5",
+    "source": "jobs.gartner.com",
+    "publishedAt": "Sat, 08 Aug 2026 14:43:17 GMT",
+    "snippet": "Lead Site Reliability Engineer (SRE) in Gurgaon, Haryāna, India&nbsp;&nbsp;jobs.gartner.com",
+    "tier": 3
+  },
+  {
+    "title": "Business Development Executive, MSE, GTS in Irving, Texas, United States of America",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQREZZRlc0VWtzeEJwR2VSX3FRS0F0a0Q1Sm1RU2JhN2ZWWWMycV9hVmFqV0djaFJkWFJ6SHB5VnlwbS1uVkVSYVFPUzRyN2FHNU94N2FIemVWbXFJX1ItQnFpemVINEpfbTA0Sk5pSU5IVEZmNWlpOHFYWVZvUXoxQ0g0SFdvWms?oc=5",
+    "source": "jobs.gartner.com",
+    "publishedAt": "Sat, 08 Aug 2026 15:01:21 GMT",
+    "snippet": "Business Development Executive, MSE, GTS in Irving, Texas, United States of America&nbsp;&nbsp;jobs.gartner.com",
+    "tier": 3
+  },
+  {
+    "title": "Principal Site Reliability Engineer (Fastly, Cloudflare/Akamai) in Chennai, Tamil Nādu, India",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbEUyUE5KUTJ4bHFXR2V2clNZaEF4ck9sc2NaRi1RbzlXRm5xUFVBM0NOWkYweDZfN04zeC0zMXg4cDQ5UTdCbC0yMUhYOGtXUUMzTjdTcWxNd3dKbEhMdHJ3cHNaRFlwRkFOSW8xRWVEbi1Wb0l2RkxfLU42MDFTNUJGXzVfXzE0b1V5alNWaWlhOUFmQ2xoQXV6eXh5RmJ5UGxZNw?oc=5",
+    "source": "jobs.gartner.com",
+    "publishedAt": "Sat, 08 Aug 2026 15:33:21 GMT",
+    "snippet": "Principal Site Reliability Engineer (Fastly, Cloudflare/Akamai) in Chennai, Tamil Nādu, India&nbsp;&nbsp;jobs.gartner.com",
+    "tier": 3
+  },
+  {
+    "title": "Cerca le migliori agenzie e i migliori provider di servizi | HubSpot",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWlhON1EzMmU4eVNfU1pkazJyTVNuRUtobU96VGk4cENMN3BlU3U3WWdnazMtQXhCTzJweUNKaHl3OWZYTjh2S1ByTF9SUlpkWGdJWFV3S01TdGVkZUQ2NGsyekxsUHhhS1hxZUlGTEdJNGlkbGxOaWdHV3FNMnJGdmNKUUd4dXk0VVowVHpuLS14M2hzNmhSVDFqVTQ2ZUtfYS1QWjZtY1BOUzZUbXFQMA?oc=5",
+    "source": "HubSpot Marketplace",
+    "publishedAt": "Sat, 08 Aug 2026 14:18:08 GMT",
+    "snippet": "Cerca le migliori agenzie e i migliori provider di servizi | HubSpot&nbsp;&nbsp;HubSpot Marketplace",
+    "tier": 3
+  },
+  {
+    "title": "搜尋頂尖代理商和服務供應商 | HubSpot",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaUdlcHlZaDJFdnh2UUJTdjB1a25VWEgxWDNmV1hoWTd4aWV2RjVvU2QxN3lMN25JMk5pdTV3V0FSY2VpM2w4RzNiZnVGdk5jVWlXS0JENVl6bVVyTHR5VGotNzlrQVZFQXJ6c2NTOXA1SEhFZDVQNGJkRzB1ZEwzenQwVVVZckFBYlk1QVN6TlVaVHdhMl9RS0NNUW9ucHZFWGx3MWp4LWNXNEJKZXc?oc=5",
+    "source": "HubSpot Marketplace",
+    "publishedAt": "Sun, 09 Aug 2026 08:24:18 GMT",
+    "snippet": "搜尋頂尖代理商和服務供應商 | HubSpot&nbsp;&nbsp;HubSpot Marketplace",
+    "tier": 3
+  },
+  {
+    "title": "Dominion's 53.8 GW data center backlog and a $66.8B merger make it the utility to watch in 2026",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVmhfX2pkY1MxNWVLTkpyQnJHX0ZiVUJ6ZWh3cXNIRGo1QVZaQnFDQXNWbzBjQlAza2hYcnl3YWNwTi1hNGhVRW9KSW5ITGlCeXJ2bUJuQWhsQXlyTU9ydG9HMjJVUmVsN292WjlOQkFsMmhyRGpJQXlEQ0NNcFNIOGI3dDhqTy1ZcEpONnVXaHZFOW4zNThXLTVjekRHV2NkNUZpcEEydkFSdGprT3BKdDg4eDNtYnNfazVKQWNvZUE2azhYYUZpek9qOXRCUmZqcko4?oc=5",
+    "source": "MarketScale",
+    "publishedAt": "Sun, 09 Aug 2026 11:36:00 GMT",
+    "snippet": "Dominion's 53.8 GW data center backlog and a $66.8B merger make it the utility to watch in 2026&nbsp;&nbsp;MarketScale",
+    "tier": 3
+  },
+  {
+    "title": "Most B2B demand gen teams have abandoned MQL volume as their primary success metric",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTXNZeHdsQmVFX1VsUnNCdGtzdl9KMGx4Xzc3U2tJaV9nRWtVMkNrSExyaVh0emQxNHVYaGZUUTFuMmJoMDh0eTJjQ2NNQ0NROVQ5cDRkVE1ObFlRazNKZGlmTEF2aVM4WWpYSEZCcW5EalkwX1BEcEhQYVdOMmVBRTVFdTBKcXFLcGVjU0M0Sld2TE90amdGel9IVU5BSDZiZDc4bGRDZ3ZjWGtGUnNxejl4NENMTktmbmJGOHBLWUxrWVRsdnlDZVRyUzRYVzBpRVRV?oc=5",
+    "source": "MarketScale",
+    "publishedAt": "Sat, 08 Aug 2026 22:26:31 GMT",
+    "snippet": "Most B2B demand gen teams have abandoned MQL volume as their primary success metric&nbsp;&nbsp;MarketScale",
+    "tier": 3
+  },
+  {
+    "title": "AI Is Changing Marketing Forever: What Every Marketer Needs to Learn in 2026",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdmdRZk9ZZFB5a29YWW1YNklRU1g4UnkwMzFrS0t1THQ1NkN3XzJrTVlKSzlfODlzb3V3dlVkcVBncmZNS3BsdXA5V2xTd042anFMZDZicC1NUGJ1Vzh0LXF4T3k1UUdIZ0J2eThfZnRWQ3NYWGRaN3RFUlhIeElKdmVwTnJTdHJxWnp6RmYxZGZPN04zZDdwN0RVcnJ3WFJFemJpcGR6NzhrUQ?oc=5",
+    "source": "MarkHub24",
+    "publishedAt": "Sun, 09 Aug 2026 04:23:14 GMT",
+    "snippet": "AI Is Changing Marketing Forever: What Every Marketer Needs to Learn in 2026&nbsp;&nbsp;MarkHub24",
+    "tier": 3
+  },
+  {
+    "title": "2026 State of Demand Generation Report",
+    "url": "https://energizemarketing.com/2026-state-of-demand-generation-report/",
+    "source": "Energize Marketing",
+    "snippet": "This report, based on a survey of over 300 tech marketing decision-makers, highlights the shift towards pipeline impact, account focus, and execution efficiency in B2B marketing.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "INFUSE and G2 Case Study Finds 93% Engagement Lift",
+    "url": "https://infuse.com/insights/infuse-and-g2-case-study-finds-93-engagement-lift/",
+    "source": "INFUSE",
+    "snippet": "A joint benchmark study by INFUSE and G2 reveals that combining in-market account identification with buying committee engagement leads to a 93% higher multi-touch engagement and more leads per account.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "Best ABM Case Studies for B2B SaaS Companies (2026)",
+    "url": "https://saasheros.com/blog/best-abm-case-studies-b2b-saas-companies-2026",
+    "source": "SaaSHero",
+    "snippet": "This article presents 10 B2B SaaS ABM case studies demonstrating real pipeline ROI through intent-triggered campaigns and multi-channel programs.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "Subtract to Grow - Amit Pande - Shift & Thrive - Go-to-Market Deep Dive - Episode # 108",
+    "url": "https://shiftandthrive.com/subtract-to-grow-amit-pande-shift-thrive-go-to-market-deep-dive-episode-108/",
+    "source": "Shift & Thrive",
+    "snippet": "Amit Pande, an experienced AI GTM and Product advisor, discusses how companies can reinvent their go-to-market strategy by subtracting what no longer serves the business and integrating teams around the customer.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "B2B Content Marketing: Strategy, Examples, Best Practices (2026)",
+    "url": "https://www.cognism.com/blog/b2b-content-marketing-strategy",
+    "source": "Cognism",
+    "snippet": "This deep-dive explores B2B content marketing strategy, its differences from B2C, and best practices for attracting, engaging, and converting businesses.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "The State of B2B Marketing. What's working & What's not.",
+    "url": "https://www.randybowden.com/blog/the-state-of-b2b-marketing-whats-working-whats-not",
+    "source": "Randy Bowden",
+    "snippet": "An unfiltered analysis of the current state of B2B marketing, discussing brand positioning, Answer Engine Optimization (AEO), and the impact of AI on content and hiring.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "What Makes Demand Generation Hard to Scale in Tech",
+    "url": "https://www.pedowitzgroup.com/blog/what-makes-demand-generation-hard-to-scale-in-tech",
+    "source": "The Pedowitz Group",
+    "snippet": "This article examines the operational bottlenecks that make demand generation hard to scale in mid-market tech companies, focusing on lead management, data quality, and sales-marketing misalignment.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "Boost your CX: 5 case studies illustrating how language transforms customer service",
+    "url": "https://phrase.com/blog/posts/boost-your-cx-5-case-studies-illustrating-how-language-transforms-customer-service/",
+    "source": "Phrase",
+    "snippet": "This article presents five global brand case studies showcasing how AI-powered localization, personalization, and language strategies enhance customer service and loyalty.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  }
+]
