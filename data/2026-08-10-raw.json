@@ -1,0 +1,802 @@
+[
+  {
+    "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+    "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Sun, 09 Aug 2026 20:35:17 +0000",
+    "snippet": "The AI-focused hedge fund is still making some big bets.",
+    "tier": 1
+  },
+  {
+    "title": "Anthropic is turning Claude Code’s auto mode on by default",
+    "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Sun, 09 Aug 2026 19:20:32 +0000",
+    "snippet": "Programming with Claude Code will soon require even less human oversight.",
+    "tier": 1
+  },
+  {
+    "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+    "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Sun, 09 Aug 2026 15:00:00 +0000",
+    "snippet": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
+    "tier": 1
+  },
+  {
+    "title": "The AI safety test is becoming a safety risk",
+    "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Sun, 09 Aug 2026 14:30:00 +0000",
+    "snippet": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+    "tier": 1
+  },
+  {
+    "title": "AI detectors are creating a new era of distrust",
+    "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+    "source": "The Verge AI",
+    "publishedAt": "2026-08-09T12:00:00.000Z",
+    "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nLong before ChatGPT became a thing, educators and editors frequently used anti-plagiarism tools to see if writers were being honest about their work. These tools work by comparing a written work against a database filled wit",
+    "tier": 1
+  },
+  {
+    "title": "An Amazon data center could have the worst polluting power plant in the country",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+    "source": "The Verge AI",
+    "publishedAt": "2026-08-08T17:53:34.000Z",
+    "snippet": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received significant investment from Amazon and, at least initially, would not be connected to the state's power grid. Instead, its 35 natural-gas turbines would primarily deliver its 7.65 gigawatts of electricity to the new data c",
+    "tier": 1
+  },
+  {
+    "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
+    "url": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
+    "source": "Wired AI",
+    "publishedAt": "Sun, 09 Aug 2026 10:30:00 +0000",
+    "snippet": "There are endless ways to record and transcribe your virtual meetings with AI. Here’s an option that’s free and open source.",
+    "tier": 1
+  },
+  {
+    "title": "These AI Barons Are Ready to Give Away Their Fortunes",
+    "url": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
+    "source": "Wired AI",
+    "publishedAt": "Sun, 09 Aug 2026 09:30:00 +0000",
+    "snippet": "A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?",
+    "tier": 1
+  },
+  {
+    "title": "How to Disable Gemini in Gmail and Google Docs",
+    "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
+    "source": "Wired AI",
+    "publishedAt": "Sat, 08 Aug 2026 10:00:00 +0000",
+    "snippet": "New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.",
+    "tier": 1
+  },
+  {
+    "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+    "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Sun, 09 Aug 2026 11:31:42 GMT",
+    "snippet": "The rogue AI attacks involving OpenAI, Anthropic and Meta all tied back to a small Israeli startup named Irregular.",
+    "tier": 1
+  },
+  {
+    "title": "Myspace eyes comeback as an 'antidote' to social media fatigue — but it may be a long shot",
+    "url": "https://www.cnbc.com/2026/08/09/myspace-comeback-rival-social-media-giants.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Sun, 09 Aug 2026 12:23:54 GMT",
+    "snippet": "\"Excitement about Myspace's relaunch reflects nostalgia for a more analog time, when algorithms were less dominant in our lives,\" an analyst told CNBC.",
+    "tier": 1
+  },
+  {
+    "title": "Verizon mobile service restored after outage for thousands of customers in the U.S.",
+    "url": "https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Sun, 09 Aug 2026 00:36:19 GMT",
+    "snippet": "Customers still having trouble with their service should restart their devices, the wireless carrier said. Verizon did not provide ⁠a reason for ⁠the outage.",
+    "tier": 1
+  },
+  {
+    "title": "Here’s how we played the massive rebound in AI stocks this week",
+    "url": "https://www.cnbc.com/2026/08/08/heres-how-we-played-the-massive-rebound-in-ai-stocks-this-week.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Sat, 08 Aug 2026 14:07:30 GMT",
+    "snippet": "AI stocks roared back to help lift two of the major averages to fresh records.",
+    "tier": 1
+  },
+  {
+    "title": "Share infographic",
+    "url": "https://www2.deloitte.com/content/dam/insights/articles/2025/us188546_tt-26/content-images/US188546_Figure1.png",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-08-10T03:31:10.241Z",
+    "snippet": "But rapid adoption is only the surface. Innovation is compounding; forces aren’t simply additive, but multiplicative. Think of it as a flywheel: Better technology enables more applications. More applications generate more data. More data attracts more investment. More investment builds better infrastructure. Better infrastructure reduces costs. Lower costs enable more experimentation. Each improvement simultaneously accelerates all the others.",
+    "tier": 2
+  },
+  {
+    "title": "Digital Media Trends",
+    "url": "https://www2.deloitte.com/us/en/insights/industry/technology/digital-media-trends-consumption-habits-survey.html?icid=disidenav_digital-media-trends-consumption-habits-survey",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-08-10T03:31:10.244Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "FSI Predictions",
+    "url": "https://www2.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-predictions.html?icid=disidenav_financial-services-industry-predictions",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-08-10T03:31:10.244Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Human Capital Trends",
+    "url": "https://www2.deloitte.com/us/en/insights/topics/talent/human-capital-trends.html?icid=disidenav_human-capital-trends",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-08-10T03:31:10.244Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "TMT Predictions",
+    "url": "https://www2.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions.html?icid=disidenav_technology-media-and-telecom-predictions",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-08-10T03:31:10.244Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Weekly Global Economic Outlook",
+    "url": "https://www2.deloitte.com/us/en/insights/topics/economy/global-economic-outlook/weekly-update.html?icid=disidenav_weekly-update",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-08-10T03:31:10.244Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Environmental, Social, & Governance",
+    "url": "https://www2.deloitte.com/us/en/insights/topics/environmental-social-governance.html?icid=disidenav_environmental-social-governance",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-08-10T03:31:10.244Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Deloitte Insights Magazine",
+    "url": "https://www2.deloitte.com/us/en/insights/deloitte-insights-magazine.html?icid=disidenav_deloitte-insights-magazine",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-08-10T03:31:10.245Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Top 10 Reading Guide",
+    "url": "https://www2.deloitte.com/us/en/insights/top-10-business-insights.html?icid=disidenav_top-10-business-insights",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-08-10T03:31:10.245Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Consumer Industry Center Home",
+    "url": "https://www2.deloitte.com/us/en/insights/research-centers/consumer-industry-center.html?icid=disidenav_consumer-industry-center",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-08-10T03:31:10.245Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Consumer Products",
+    "url": "https://www2.deloitte.com/us/en/insights/industry/consumer-products.html?icid=disidenav_consumer-products",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-08-10T03:31:10.245Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Hospitality & Airlines",
+    "url": "https://www2.deloitte.com/us/en/insights/research-centers/consumer-industry-center/hospitality.html?icid=disidenav_hospitality",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-08-10T03:31:10.245Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Retail, Wholesale & Distribution",
+    "url": "https://www2.deloitte.com/us/en/insights/industry/retail-distribution.html?icid=disidenav_retail-distribution",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-08-10T03:31:10.245Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Center for Integrated Research Home",
+    "url": "https://www2.deloitte.com/us/en/insights/research-centers/center-for-integrated-research.html?icid=disidenav_center-for-integrated-research",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-08-10T03:31:10.245Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Enterprise Growth & Innovation",
+    "url": "https://www2.deloitte.com/us/en/insights/research-centers/center-for-integrated-research/enterprise-growth-and-innovation.html?icid=disidenav_enterprise-growth-and-innovation",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-08-10T03:31:10.246Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Organizational decision making",
+    "url": "https://hbr.org/topic/subject/organizational-decision-making",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-08-10T03:31:10.589Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Corporate strategy",
+    "url": "https://hbr.org/topic/subject/corporate-strategy",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-08-10T03:31:10.589Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Crafting Strategy in the Age of AI",
+    "url": "https://hbr.org/2026/08/crafting-strategy-in-the-age-of-ai",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-08-10T03:31:10.589Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "AI and machine learning",
+    "url": "https://hbr.org/topic/subject/ai-and-machine-learning",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-08-10T03:31:10.594Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "AI Experiments Need Domain Experts. Here’s How to Support Them.",
+    "url": "https://hbr.org/2026/08/ai-experiments-need-domain-experts-heres-how-to-support-them",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-08-10T03:31:10.594Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "How to Recognize When Your Customers Want You to Act",
+    "url": "https://hbr.org/2026/08/how-to-recognize-when-your-customers-want-you-to-act",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-08-10T03:31:10.594Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Customer-centricity",
+    "url": "https://hbr.org/topic/subject/customer-centricity",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-08-10T03:31:10.595Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "How AI Is Accelerating Scientific Discovery",
+    "url": "https://hai.stanford.edu/news/how-ai-is-accelerating-scientific-discovery",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-08-10T03:31:19.142Z",
+    "snippet": "New AI tools generate hypotheses, design experiments, and find patterns in data—transforming how scientists make discoveries across every field.",
+    "tier": 2
+  },
+  {
+    "title": "Sciences (Social, Health, Biological, Physical)",
+    "url": "https://hai.stanford.edu/topics/sciences-social-health-biological-physical",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-08-10T03:31:19.142Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Open-Weight Models Aren’t Enough. We Need Truly Open Source AI Models for Science and Society.",
+    "url": "https://hai.stanford.edu/news/open-weight-models-arent-enough-we-need-truly-open-source-ai-models-for-science-and-society",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-08-10T03:31:19.142Z",
+    "snippet": "As Chinese AI closes the capability gap, Washington and Silicon Valley debate open-weight models. Stanford HAI's James Landay says it's the right conversation framed the wrong way.",
+    "tier": 2
+  },
+  {
+    "title": "The Complexities of Governing Mental Health AI",
+    "url": "https://hai.stanford.edu/news/the-complexities-of-governing-mental-health-ai",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-08-10T03:31:19.142Z",
+    "snippet": "Policymakers, academics, healthcare providers, AI developers, and patient advocates convened by Stanford HAI identify critical gaps in how we regulate AI tools used for therapy and emotional support.",
+    "tier": 2
+  },
+  {
+    "title": "How AI Is Helping States Cut Through Decades of Red Tape",
+    "url": "https://hai.stanford.edu/news/how-ai-is-helping-states-cut-through-decades-of-red-tape",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-08-10T03:31:19.142Z",
+    "snippet": "Stanford researchers scanned 500 million words of state law to reveal the stunning growth of reporting requirements, and are now giving governments a tool to clean them up.",
+    "tier": 2
+  },
+  {
+    "title": "Stanford Scientists Build an AI Lab Partner",
+    "url": "https://hai.stanford.edu/news/stanford-scientists-build-an-ai-lab-partner",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-08-10T03:31:19.142Z",
+    "snippet": "Biomni can analyze mountains of medical data, spot patterns humans might miss, and even design experiments—helping researchers make discoveries faster in the race to cure disease.",
+    "tier": 2
+  },
+  {
+    "title": "HAI Student Affinity Groups Take On Society’s Emerging Questions",
+    "url": "https://hai.stanford.edu/news/hai-student-affinity-groups-take-on-societys-emerging-questions",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-08-10T03:31:19.142Z",
+    "snippet": "Stanford students across disciplines are teaming up to tackle society’s pressing questions in the age of AI.",
+    "tier": 2
+  },
+  {
+    "title": "Why CTOs Must Get Hands-On With Enterprise AI",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVmRFRm42OWFpUk1panA1bFF6aFZFUTRuWnNkRTBYUnVoWlRSVDNPX0pic2VjdFplNnpHcHQ0YzI2cEUxOG9KblREWEx0Z3JwSF9NalNmWVBnT3ZIQS0zZEZrMDQzV21xUUZxcElheTJ5bXZ2a3FUZ2xKTmhMYUNfdVhkaw?oc=5",
+    "source": "BankInfoSecurity",
+    "publishedAt": "Mon, 10 Aug 2026 02:36:04 GMT",
+    "snippet": "Why CTOs Must Get Hands-On With Enterprise AI&nbsp;&nbsp;BankInfoSecurity",
+    "tier": 3
+  },
+  {
+    "title": "The next chapter of our AI momentum",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcFZsVmdKNHhSVnQ0VDZwRXY1VmZWQno1V3MwUzMxM2VJMW5UeFFmODZXa1VDcXVBS0dOMldjY0dwcTI1V05Pc0hHUzJWcGFzMnhVMnlVLW96U0J1ZjJFQWpQVENFdnRvd0dNUFpMU003dlFlbWhSQUJDNG9qX3ZkdmJFeWloYnQ4VmNVeQ?oc=5",
+    "source": "blog.google",
+    "publishedAt": "Sun, 09 Aug 2026 23:40:26 GMT",
+    "snippet": "The next chapter of our AI momentum&nbsp;&nbsp;blog.google",
+    "tier": 3
+  },
+  {
+    "title": "DigiTrans Launches DigiTrust Enterprise AI Evidence and Assurance Pilot Through AWS Marketplace",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVE5QU1ltaW5wWDNYbVVLNllXUXVsQ3ZtdEJEQ25IbUo3R0VEZXVqb0dEeno3REg0T0lGU2dlQU04WkhzZEVLbGVJU0dCczBCODF6Vkh4dVJkTmpWYk9nTXFLTmZsN2VBVDctZ3RZb1piaE1RdkxkSmx4X0NRb1MzQktkMHpleFdsOUtVUk5yOEd4OFNFbnBLTEx4a2J1d2ZpdlN0Y21MR2t2bGFSbUJJdUNzMVYxSG1iY1hYV3ZSSnVhMDJES2dLYzNTYktxQVNlNHBCNktwd2p0QQ?oc=5",
+    "source": "EIN Presswire",
+    "publishedAt": "Sun, 09 Aug 2026 14:58:00 GMT",
+    "snippet": "DigiTrans Launches DigiTrust Enterprise AI Evidence and Assurance Pilot Through AWS Marketplace&nbsp;&nbsp;EIN Presswire",
+    "tier": 3
+  },
+  {
+    "title": "The world's leading AI companies are all struggling to contain their latest models",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN0Q1NjhDZUhMYTd6ZzZFMndvNkFaNFpjQlU5Q0lCU2RZZFdYcW1RUk91WkoxeWVsVXBBX2I1a1EzMThrdHBEUmpraEFWYnpUZHFKYWZqc09zVk5TU1h1cEk0NUFhaWhVNlp4WF83WVlIeXF3OURTWXI5STdwcWdTenhneGtIMG01QzRrODVSRDF6cVg1UTdjakVRbEtfWkU?oc=5",
+    "source": "Business Insider",
+    "publishedAt": "Sun, 09 Aug 2026 15:24:00 GMT",
+    "snippet": "The world's leading AI companies are all struggling to contain their latest models&nbsp;&nbsp;Business Insider",
+    "tier": 3
+  },
+  {
+    "title": "Palantir vs. Salesforce: Two Visions of Enterprise AI, One Clear Winner",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVDQ2UzIwTlhvUGpCMUFjMzVOYWExeFZKRGdzVlNfZHA4NEVJS29vX3IyVnowNWs1M3RqXzJzcVdrbFZfWjNQQXU4RmVZUVZFUUp5dTJKc2xrbXV4ZENFT2RTTl9BS1BSeUg3SjhHdDlSMDQ3T3RsSWRic3BfZnZFYWtGWG5oQmJpa0Y0N3dadlZ0ZXJoc1piR29VdFc5RzBEUWJLemsyM3pMcWFDMmRGYW5B?oc=5",
+    "source": "24/7 Wall St.",
+    "publishedAt": "Sun, 09 Aug 2026 14:30:41 GMT",
+    "snippet": "Palantir vs. Salesforce: Two Visions of Enterprise AI, One Clear Winner&nbsp;&nbsp;24/7 Wall St.",
+    "tier": 3
+  },
+  {
+    "title": "Why every company wants an AI model router right now",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT1llbHk4eGl5c1BzN0Q1NHduT2hmNVZMWkZiSmx3d2xfWnkwb2JCX0pHa1Brb2l1b0tSd2gwV1NYWTkwRGFfa293SmUxNjhiUHJIMnd1d0xqV0V5TmNQSHZmUVRNdzZZQlBJRDBXM3BIZEh4V1ZiR1BrNFcyWWVtblhHV0JmQ0hBT3NPWg?oc=5",
+    "source": "Fortune",
+    "publishedAt": "Sun, 09 Aug 2026 12:30:00 GMT",
+    "snippet": "Why every company wants an AI model router right now&nbsp;&nbsp;Fortune",
+    "tier": 3
+  },
+  {
+    "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMU95TFhjeUdscnZoOElsdnRhRmV5eTNEZ0dpa3VRTmFCdEVmSTRNOGIyWjJOcTl1aFo3OENPNC1DTFJoWGk5YTJjSVhEQjd1ZzhFQVFteEI1R3dwb0ctbkNuREx2MkpMbHVMVnBfczV5eG1NQlZ2anZ6MXlDdnplS2ljSWVoVlBQaWhZS0JfdUQxNGZEY3VqLUZBTWY5MENKRUpKTnpn0gGrAUFVX3lxTE1uTHVPT3VwRk16aWFGZFFmdEI2akJOaXhmVmpjNkhzVDRkdUpoRDcyZS1HQ2NzZzAyRTJzcjJGTDIyNG5CYTMxY2NxNC1NS2hZQ2VRdUNZUVgweWNPZnBoQjJpd3BudHN5WFJFU2RrcU1EbU5OMEprNGlHQVJzRk1UbndLeUNOSjd0S0FiNjhUbjBkVXdaN2lkdlBTRWt1MjZ3WVh1SmtyNVdXcw?oc=5",
+    "source": "CNBC",
+    "publishedAt": "Sun, 09 Aug 2026 11:31:42 GMT",
+    "snippet": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta&nbsp;&nbsp;CNBC",
+    "tier": 3
+  },
+  {
+    "title": "AI adoption: A new imperative for business and logistics",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVjB2amMtWHVSSFl1STVnRi1FZjYwUVZ4RHpEMzZ6ZkQ4eWRVeXZRdmhkVzFyYkNvOV93MG5SR3pmMWcyOGhjRTlzdllxWUpVV1dncDFhTXJOMmJfOXZHalM5eDlxUjRUREdwNjZQM0dLS1BraGpiUy16QnM3UFkwckFhaw?oc=5",
+    "source": "InsiderPH",
+    "publishedAt": "Mon, 10 Aug 2026 00:07:49 GMT",
+    "snippet": "AI adoption: A new imperative for business and logistics&nbsp;&nbsp;InsiderPH",
+    "tier": 3
+  },
+  {
+    "title": "Sandisk: A Better Business Is Emerging From The AI Boom (NASDAQ:SNDK)",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNE5haTNwN01mdjBnVEdGdUY1OGplRmJQVUtZM1RsOXcxcnQzd05yYnpYQkE2QlhTeUp5NzBkdUhZTDZMLXY0UnRRRWU0VGJXUW9vdG0wLXpzZC1MRWpYOXNhUWpQTFJxc3RfTjJuZGJpazkzOXF4ejYwV2VGUU96T0N5UFlaYU5vZ2wyRnZhQl9NOGNmM2NvNEwxbw?oc=5",
+    "source": "Seeking Alpha",
+    "publishedAt": "Sun, 09 Aug 2026 07:48:44 GMT",
+    "snippet": "Sandisk: A Better Business Is Emerging From The AI Boom (NASDAQ:SNDK)&nbsp;&nbsp;Seeking Alpha",
+    "tier": 3
+  },
+  {
+    "title": "AI adoption to give way to enterprise-wide value creation: Report",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbXpaLXNUOGhSajlIMTNEbVdiLXBFamVMYlh1QXVNNG1QdWs2NS00QjdldXVSRmc2Q2NEbGRILWV5TXRLWU5GOTZaWnVNMm9RT0hqbENxWDhvZnRack1fUmlnQ19EdnFWV1R0blN4Q29tcDI2WUNlRzJfMlFlaGZXRDNuUjM2WHNvRDAxajBpX0VBMWdTcjRkQm1JQnRIZ1ZYZ2hzcFJJR3FVNXpOU0lnN1Zta2ppNFptZ2IySU1DQXBydDRDWS0waTNHcEdRbTk2aDMxVlJzTS1FUdIB2gFBVV95cUxQbXpaLXNUOGhSajlIMTNEbVdiLXBFamVMYlh1QXVNNG1QdWs2NS00QjdldXVSRmc2Q2NEbGRILWV5TXRLWU5GOTZaWnVNMm9RT0hqbENxWDhvZnRack1fUmlnQ19EdnFWV1R0blN4Q29tcDI2WUNlRzJfMlFlaGZXRDNuUjM2WHNvRDAxajBpX0VBMWdTcjRkQm1JQnRIZ1ZYZ2hzcFJJR3FVNXpOU0lnN1Zta2ppNFptZ2IySU1DQXBydDRDWS0waTNHcEdRbTk2aDMxVlJzTS1FUQ?oc=5",
+    "source": "ETEnterpriseai.com",
+    "publishedAt": "Sun, 09 Aug 2026 09:11:31 GMT",
+    "snippet": "AI adoption to give way to enterprise-wide value creation: Report&nbsp;&nbsp;ETEnterpriseai.com",
+    "tier": 3
+  },
+  {
+    "title": "Palantir (NASDAQ: PLTR) vs. Salesforce (NYSE: CRM): Competing AI Visions Produce a Clear Risk-Adjusted Winner",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQzZkYUs1WGI5Z1oxR0h1SzhTblgxWXVaTnJscFVmQzdrYkQ3OHp0NGNnTVVDOWRWVll6dFk5WmJzek9iVHFBRmVPbEVTTGZFdkU2VDluc0VzZ19NSWhVUThRdU9DdTJDVDNIV3FKX2hyaGtJUjdYYVh1UlEyUjNMV0Ywa0lkWEdKcFE3NnZqQ1hvYzl2NkRaVGZONzc2U2dlZWRnZzQtWlBLdVo5ZmlUbS1jby1hdU9sYXRJVmJnS2xwd0lPZzdxQi1scG5udk0zVlNXSkd3UkpVQzBQeTJCRl9YbEM?oc=5",
+    "source": "foreignpolicyjournal.com",
+    "publishedAt": "Sun, 09 Aug 2026 16:56:00 GMT",
+    "snippet": "Palantir (NASDAQ: PLTR) vs. Salesforce (NYSE: CRM): Competing AI Visions Produce a Clear Risk-Adjusted Winner&nbsp;&nbsp;foreignpolicyjournal.com",
+    "tier": 3
+  },
+  {
+    "title": "Autonomous IT boom fuelling LogicMonitor's APAC growth",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN1YyUWJpU3Z6Q0lPdFVxRzZXcE1PN3JKS3BSMGVMWFUtZ2NKOHRGWVN4eElQcWN5ZjNtclU1Z0FpU21abXpnWUNjSFN5LUI3Z2VFbGpFSEhkSGZqXzZjZmx0Q0p2STA1YTZGY0VMTUFEQkJnclVwNGxsM3MxVURSb2g4TEpFWUowU3hFVWxQX0Npc3M?oc=5",
+    "source": "securitybrief.com.au",
+    "publishedAt": "Sun, 09 Aug 2026 22:39:00 GMT",
+    "snippet": "Autonomous IT boom fuelling LogicMonitor's APAC growth&nbsp;&nbsp;securitybrief.com.au",
+    "tier": 3
+  },
+  {
+    "title": "Where is UK IT contractor demand heading before 2027?",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeV9SczBZMEgzb3o0TzE0Q013a3dNMGJBdkdEbC1VODRDNW9FYlpmeTVabmszc2tDRy13ZkUtRHhQVEtvNm9lQzNlQ0RKemZNZ044VllxbXZYWm5jRnFPVkJIQnZ6NG95cHk5WHU3bllCZHdxUHZ2OXdrNTJhU0dNSmJEZ2JDcXgyMWxKX1FsRQ?oc=5",
+    "source": "Contractor UK",
+    "publishedAt": "Sun, 09 Aug 2026 21:53:24 GMT",
+    "snippet": "Where is UK IT contractor demand heading before 2027?&nbsp;&nbsp;Contractor UK",
+    "tier": 3
+  },
+  {
+    "title": "AI transformation likely to accelerate as companies shift from adoption to enterprise-wide value creation: Report",
+    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNRmpKdC1UbkpLdHFNMWMySVMtTnlkWWVYUlZIRm9oNjdQTl9aNjdxVTg5Y3hEYWRycS1pTGY2cWRyRFJ1RHd3aGhNSENsc3FMd2l4LUpOVXRkOVBmX3RhbmQ2aDQ0NFdhZS1jWWlSMGdiZUw0MlNiUlR6YUNIbjRoS3JnVVVzVzBRWEZIRUpOeFRZZ0wtWFRPd0pRTWVReHdxTWxsM2c3OVFzend1blNkMU5XQmhvNnVfXzBGMEttdDZPekxvbW52MnVVWFhQMnhpdnlFdXozNGM1M0ZIZ3RTanhJVHhaWEpVVXJGem5qcnpLbHhyMmIzNEJiNVRnMmtwSVpUUVZZdjZmRXFjZVE4d3NvWVhYaklnOEdIQkYxM0U?oc=5",
+    "source": "The Economic Times",
+    "publishedAt": "Sun, 09 Aug 2026 15:54:13 GMT",
+    "snippet": "AI transformation likely to accelerate as companies shift from adoption to enterprise-wide value creation: Report&nbsp;&nbsp;The Economic Times",
+    "tier": 3
+  },
+  {
+    "title": "Japan Post Insurance signs Japan-first Salesforce AI agreement",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOFZkRVZhRF9PN3J0aEdCMnpxRGk1SWFyazBraHZ4cmhuc2tMWXVsTzVBY2thT0dvYkw1bG9LTmVXQzV2eWU2RHBEWVVHbUpTN01HQW9TdGc0UnpaQ1Y3TjNJQWJHUS01d1h3d0VqUXpxaFQ3dW5GWldWdFdwelFoeElTa0J0R0dHTnlDbnY5cVZSd3M4NTdJ?oc=5",
+    "source": "jp.ibtimes.com",
+    "publishedAt": "Sun, 09 Aug 2026 04:47:11 GMT",
+    "snippet": "Japan Post Insurance signs Japan-first Salesforce AI agreement&nbsp;&nbsp;jp.ibtimes.com",
+    "tier": 3
+  },
+  {
+    "title": "Tech: AI policy action will have to wait",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fd0p5ZFRrZ3pXWlVBN3Q2aTZQeEw5THh2RG9rU0FYeldjbXZJVzdPQzdfdnRGc0MtaWtDV3JGcWtBc3FFdmItZzZqZUVUSmJpUldVY0xOckpkcXdHOVdhUDUwbVlfa3J3aVE?oc=5",
+    "source": "Punchbowl News",
+    "publishedAt": "Sun, 09 Aug 2026 20:40:36 GMT",
+    "snippet": "Tech: AI policy action will have to wait&nbsp;&nbsp;Punchbowl News",
+    "tier": 3
+  },
+  {
+    "title": "CEPS Task Force on the Apply AI Strategy",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX0pabzBibWN2Q0Y2VEVBOFdlcmQ2cjA3Ym1vOVpsTEtiUG1qNWRyS3FaX1N5TmYyQXAtbE95TVZFTW85V01qMnkwOXd4amxfSFlNZm1ualRtNEFoZVIySGxhOFpJMURnc0JkUFhScG02V2tSbmRVUFJiZFdRS2lXVElXQ2c?oc=5",
+    "source": "ceps.eu",
+    "publishedAt": "Sun, 09 Aug 2026 22:19:51 GMT",
+    "snippet": "CEPS Task Force on the Apply AI Strategy&nbsp;&nbsp;ceps.eu",
+    "tier": 3
+  },
+  {
+    "title": "Opinion: Artificial intelligence is moving fast while Alaska policy stands still",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNVNiLVVlcUhlSk1LNDVyd2ZPWE1NQnh6NWhiN3JwSWZKRHdhLXRyUE5FTHlwUGNpU0Q4NXZaNEdSS1dvRFZwZ3lWaWt3cFl3Wi10bWRROURnLWEwU3c3bE9KdkdHdE1qZnlrTUNOb1k3NDBZV0kzYWYyb3REWExUQ2s5SEozbVB4a0I0QVVqeE5CaVp1N182SmhtYmIxWGYyZTZnSEpMUGx4el9IR2tNYWdnSVZwQXVObGVqVA?oc=5",
+    "source": "Anchorage Daily News",
+    "publishedAt": "Mon, 10 Aug 2026 03:06:52 GMT",
+    "snippet": "Opinion: Artificial intelligence is moving fast while Alaska policy stands still&nbsp;&nbsp;Anchorage Daily News",
+    "tier": 3
+  },
+  {
+    "title": "Japan eyes using cutting-edge AI under preemptive cyber defense policy",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yZ3hrcGlUZUNfYUd4Yl9INVNuYW04NXFfbFVkcnRxamV6STJDSFBpNVpUNGl5NjZBWldnaVNlaGRndWllalpZYXM0bVVXMk1sYnR0LS1qUDhnUQ?oc=5",
+    "source": "Japan Wire by Kyodo News",
+    "publishedAt": "Mon, 10 Aug 2026 00:57:00 GMT",
+    "snippet": "Japan eyes using cutting-edge AI under preemptive cyber defense policy&nbsp;&nbsp;Japan Wire by Kyodo News",
+    "tier": 3
+  },
+  {
+    "title": "Should we \"pace\" AI self-improvement?",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01eDB5MkJxUW9ya2xsaU1RR0Vsa0ZyMGtCTENHbnhVZXBYOEFxeEc3ZUIzRGZIQTllbURtUldhNGpidGlzV3N3TDMzRF85RWpXSFRTY3FwRnFsRVdod3FNLW5vYzdhSDkyVllURGJqV1d1Zw?oc=5",
+    "source": "Noahpinion",
+    "publishedAt": "Sun, 09 Aug 2026 18:15:22 GMT",
+    "snippet": "Should we \"pace\" AI self-improvement?&nbsp;&nbsp;Noahpinion",
+    "tier": 3
+  },
+  {
+    "title": "Times Opinion: Regulate AI now — before it’s too late",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY2pYQzlJaG96eTFPUDRIdmkwcG9Sd3JBLS1xWkhDV01OZXliZTFEeU1iendLOEhwX1dBRmlhWHYxYWtxT3JhMHJNdl9pRkhTZUNOVllhQ1NtcHVyaTY4X3pjbG1jQmQ4Q2ppMFZCZy11MzloOUpPd1NOa0w4ZThfeUhKR1dkYmVieVNncTdPa1hUVUFHb3VSemJfWnZzUk0?oc=5",
+    "source": "Chattanooga Times Free Press",
+    "publishedAt": "Sun, 09 Aug 2026 16:00:00 GMT",
+    "snippet": "Times Opinion: Regulate AI now — before it’s too late&nbsp;&nbsp;Chattanooga Times Free Press",
+    "tier": 3
+  },
+  {
+    "title": "San Antonio LLC & ACC—”Powering the AI Revolution” Panel & Reception",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX04zR3Nvby1aeTF3My1UeTVvV2E0bmtjRzhxZGc1NEx3WFV5ZXl0NmxaWGYxMDFBMXVnQzlVYmVuWVdfcDRrMEwybHdxdEtLU3I2VVdVa3ZZZjFPQWdadHFLdnpmcXZzLWd6eVJob2QzSTNTWTkwRUViX3VBcDYzcVhVRzFtOS1EQUdSeGVYM1ota3FmbkY4cjNDSVRZQQ?oc=5",
+    "source": "Texas Public Policy Foundation",
+    "publishedAt": "Sun, 09 Aug 2026 15:02:03 GMT",
+    "snippet": "San Antonio LLC & ACC—”Powering the AI Revolution” Panel & Reception&nbsp;&nbsp;Texas Public Policy Foundation",
+    "tier": 3
+  },
+  {
+    "title": "Anthropic names global affairs chief to tackle AI policy as Trump tensions persist",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSWpRalJna29pcmhYb25FSEFTMVllSWZhdjQ2YTZuUmxiZTB6cHE5WlQ0S3kzZkpta0NLODdjMndnQlpCU1dUZWkwdW9nWHhlZnlBallEYWtZUzJRX0hZYTF0Y3FFUUFyLUNuZnZ1dkpRcjg1MzJMM1NiMmFKUkl5TXlTTjVCdWM?oc=5",
+    "source": "AOL.com",
+    "publishedAt": "Sun, 09 Aug 2026 20:55:33 GMT",
+    "snippet": "Anthropic names global affairs chief to tackle AI policy as Trump tensions persist&nbsp;&nbsp;AOL.com",
+    "tier": 3
+  },
+  {
+    "title": "Broward schools launch AI hub as district expands use of technology in classrooms",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOEtfME9sTk5qUVNQNm9UNDZsM05qVnVwSUdDTG9MOEFRcXQtM2g4WEpmOFhNM1d0SE9JaXBhdmMwS1p5Njc4ZFBHY2xSX2w0UFNDYURMc3Itd2hjcmNBQlpNa29BcFFaRlhKRUEwMnBxdTFJQTR2aVhfbDhlQlRQSHAtMVhsTWNGcXdhZVhLTjR0eHNabGV4YlNMTzFIdDJNRlp2aTFsRjk3RkpDT2xpMGkxRExRczI2YTc5SllmNmNuTU8tVlE?oc=5",
+    "source": "Caribbean National Weekly",
+    "publishedAt": "Mon, 10 Aug 2026 00:59:22 GMT",
+    "snippet": "Broward schools launch AI hub as district expands use of technology in classrooms&nbsp;&nbsp;Caribbean National Weekly",
+    "tier": 3
+  },
+  {
+    "title": "Revenium Launches Tool to Stop Unapproved AI Calls at the Source",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeEpOdU9WX181MW96aHdwVE5BTnp3S3c1Z0c4a3dPSHMxb1hMZFUxbzBINWdHZThEN1lhSjQ2RFVBUlY0eHo5dXlKS2p6SDdQLUlYM002RWdoTHQ5alFRQk8xZU9rVXNsU1ZyVDBEcDBEUWZrYW1ybTNPZHBGOUNtV09YSWNPdC1JMWdDQjZVOEQ5VXpkdDFGUGpaWDRvT2JEVjMwT2hHcw?oc=5",
+    "source": "SD Times",
+    "publishedAt": "Sun, 09 Aug 2026 23:39:04 GMT",
+    "snippet": "Revenium Launches Tool to Stop Unapproved AI Calls at the Source&nbsp;&nbsp;SD Times",
+    "tier": 3
+  },
+  {
+    "title": "State of Texas: As Texans worry about AI, lawmakers push proposals on jobs and safety",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcmN0ZTJ1U0J0ZU5PeDREei1tTFlOYmRZeXoxUmI5ZWhlYm5xSnVDY0RLY1dWNkRUX09mMjE2YnJORkJYV09IYW1mU0VZTDg3d2NfVDQ2dEdLYTVQSk9rNGt2UDZaWnp3N0kwTTdTa0V6bl9MWDZ0WHY1azZodnIzeVA1UDdRZS1PcEhKZldOTFBIS1h4QnUzNzZ5QzFiVWQ0VWRDanVYNDZCdDJTcVdyNGoyNGloY1lkZjZOQ19R0gHDAUFVX3lxTFBHZzBMQS1Bb295ZjdLeUx6dWFENWRnVWtvdXpaZmR4amVFcmdyb21SS2FfT0FYTFlZcnlhRlJGUDRJbGJnVWJjN0lsNm5jdXlmaGZoT3VXZjd3dWtEekUxVnM1a1VEdEJiQXhGMUIyWlNON0VQeFRtcnNZVThQN0RHMWdrcWhWNDVrOEhfbW4wQUpndS1KY3FNSDhiandwUUNXa21QM3dPV0tVUVdZV3FpNUxkTnFIYzc3Ry1KNnFTNlg3bw?oc=5",
+    "source": "CW39 Houston",
+    "publishedAt": "Sun, 09 Aug 2026 17:05:09 GMT",
+    "snippet": "State of Texas: As Texans worry about AI, lawmakers push proposals on jobs and safety&nbsp;&nbsp;CW39 Houston",
+    "tier": 3
+  },
+  {
+    "title": "Why the real test of Canada’s AI strategy is in university classrooms",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ1NlYm1CU2RFZFM3NEVxUjdMcWotdHRBd2F0RFJmVEhkTDl5WTE3ZktVSTJrdHlsQ2dHMHdLNTAwWm5rY19IMHFpVUpjcDExcmVxSlllbHN0Ti1xNkkyZEJ0Y29RN0J1bFhFTjZpblkxdFNHNHNXR1NhUjlyRkhieG1DUDZfLVdpTkEwMk9yWVNaRFV3U2NpbnE5SGMxdUhpcHZuOWR3?oc=5",
+    "source": "The Conversation",
+    "publishedAt": "Sun, 09 Aug 2026 12:54:49 GMT",
+    "snippet": "Why the real test of Canada’s AI strategy is in university classrooms&nbsp;&nbsp;The Conversation",
+    "tier": 3
+  },
+  {
+    "title": "Trump Pushes Back on AI Rules as Congress Weighs Tighter Controls",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbXZ1bEtKc2FkTGpfZlc4UmdEck9MZ2FnaVppVmJiNnY2bDU5MUlvS0g1TndmTlBvOVFCaHNTTWw3RlZ1cnBwdGVzejZXeU5zTzdJWm9oaUhSb3I2VTdsMjZoRlRDSVlLSVpDVjlJcmdBVGw4RkJNcHozeWljbzYwcHI3OUZ3YXhLVDZlVm5fVkh1aEVSUEt4aHNRVUN5VEQw?oc=5",
+    "source": "pymnts.com",
+    "publishedAt": "Sun, 09 Aug 2026 03:44:24 GMT",
+    "snippet": "Trump Pushes Back on AI Rules as Congress Weighs Tighter Controls&nbsp;&nbsp;pymnts.com",
+    "tier": 3
+  },
+  {
+    "title": "AI Coding Tip 031 - Don't Write Prompts for a Model That Evolved",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ2VHdVF5STJkUmVnYWZ5aG1keTd1Z2xqUjJtU3g1MGFMdE5CMm9TZTFTY255NTlGY0tJdmRBTmtleVRQTVpnUTdDREctaHZobTdsUjQxcF8zT0pRU2FHT3dhVy1obkJTd0pWM2JnWThOWGtyS0w1dHJKNGZrdU5XdTIwUDVac2lNOFRfdQ?oc=5",
+    "source": "HackerNoon",
+    "publishedAt": "Mon, 10 Aug 2026 01:47:35 GMT",
+    "snippet": "AI Coding Tip 031 - Don't Write Prompts for a Model That Evolved&nbsp;&nbsp;HackerNoon",
+    "tier": 3
+  },
+  {
+    "title": "Canada’s unicorn moment: AI investment boom helps propel billion-dollar startups",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV0VGdTZsWUw5Wk82YlpzOFZTVlBoSlZDYXZoa2xhSEs4Z3B2eTdQRTVadUQzSEJQUDZWZ0xYNHQ4X2F1bDNuaVVodUVLTHNJVFJWUm9DQTlKeGdHVllqSTJDNmdvWi1TSk5DR0E5cGZfWlBRR25YOTNFUGNJQnZUWHc0YjVfZDVpTVNaTTRuWHg3eWQxeFgtUVNBYVhValI2cVYzRWxqdUZFZi1fb0pOQmZDSm9pOWlCMUE?oc=5",
+    "source": "Digital Journal",
+    "publishedAt": "Sun, 09 Aug 2026 19:21:42 GMT",
+    "snippet": "Canada’s unicorn moment: AI investment boom helps propel billion-dollar startups&nbsp;&nbsp;Digital Journal",
+    "tier": 3
+  },
+  {
+    "title": "SignalPulse:",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc0V1TW85N09ndmlVQ2dnd2tsLVFpRmEybWZmRTdUQWk0eGN1QkZnMmF1SG9RVmZjN2k3X0Zvc0hXWjZMbW56WFlSVWhVd1BNWUM1U25pQWxKNFNKX1BEMVpnY3Jzd0Nock1Tb2VpR3lMNTAxU010WXZGbkZSWUJGMnptUjBURUZPbG9sYTAwVGYxbmhsNzZiUG53?oc=5",
+    "source": "The Tech Buzz",
+    "publishedAt": "Mon, 10 Aug 2026 02:32:40 GMT",
+    "snippet": "SignalPulse:&nbsp;&nbsp;The Tech Buzz",
+    "tier": 3
+  },
+  {
+    "title": "AI Agents For Credit Managers",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Xak1VaUJMT3pTWTVMZ2tkbW9Tbmx3MkZVcFk4Wmt3V3l6R3RGYWg1a24yaHRYQUlmeWhIM202LVFGYzJPb01fZWFLeXZpX183Nm1jNE03UnBRekXSAVtBVV95cUxNV2pNVWlCTE96U1k1TGdrZG1vU25sdzJGVXBZOFprd1d5ekd0RmFoNWtuMmh0WEFJZnloSDNtNi1RRmMyT29NX2VhS3l2aV9fNzZtYzRNN1JwUXpF?oc=5",
+    "source": "Trend Hunter",
+    "publishedAt": "Sun, 09 Aug 2026 20:13:20 GMT",
+    "snippet": "AI Agents For Credit Managers&nbsp;&nbsp;Trend Hunter",
+    "tier": 3
+  },
+  {
+    "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQW13OFBLanRnQWNldExZUkRzVFdnaDByQThKVGREN3V0RVFmblo3QjZXeFRpeGhuNGFkTVNBajlrengwMGNPdWRLODN1d3lFVUI0RG5CU212cVdQWFd5bWZSeFNsTURpM3hGQmY5UnlNT2RNNE9zcVl2RE1NOWpEY0QxTEl6aVRzV1J5azhienNJekhtWE9xOURrcXdCRlg4ZV9oQkl1dzZObndBUVF4Tm80WXA1RTIzNVJnc2xn?oc=5",
+    "source": "TechCrunch",
+    "publishedAt": "Sun, 09 Aug 2026 20:35:17 GMT",
+    "snippet": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry&nbsp;&nbsp;TechCrunch",
+    "tier": 3
+  },
+  {
+    "title": "A pre-revenue AI crypto startup funneled $12 million into EV as bad crypto trades erased 97% of cash in six months",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVmVabUhjTTNpNmNQMjJ1RTV5SjZEX2lMemV6WGFZWVdETVg3aEszaHFCS0otZlpTOTlpRk5UN1poakJfTGlDNFAxRjB6ZzlLblpNbEZ6UDZsSjZCTlhvbE1RVlRFTkRXM1RCcjdQbWJadFVrajdzNDNnSEtSSFJEc1kwVU11NnRJc2k4Zkl2emx6V3k5OEFrYlpXcDdoQ1Y0ekFmUWVaUUxZV09SN1Z5eUljZ2IwTkZtaEcwR1h1cFB1THA4X0lHdkotNC1JVkdKVzRn?oc=5",
+    "source": "CryptoSlate",
+    "publishedAt": "Sun, 09 Aug 2026 23:05:47 GMT",
+    "snippet": "A pre-revenue AI crypto startup funneled $12 million into EV as bad crypto trades erased 97% of cash in six months&nbsp;&nbsp;CryptoSlate",
+    "tier": 3
+  },
+  {
+    "title": "Situational Awareness Invests $400M in Chip Startup Source Foundry Despite Hedge Fund’s Recent Setbacks",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ2RJV0ZfY050SHJ6T1gxNEVIalpoRFRRTjBHbEJfZ19kMWZnWU1kcDk2X0VzdnBoaG8wVVcwbGlmWVRLYWRzRmszcnVqNzNySnJYQlltYkpoeDYtLVQ5Mi1IbWpxUUVGVzExNEJOd3QyY1d2a28wSUdVOWZ1LUszUmlSQ3J4ZWlpdkU1MUIwS2k?oc=5",
+    "source": "CryptoRank",
+    "publishedAt": "Sun, 09 Aug 2026 21:41:21 GMT",
+    "snippet": "Situational Awareness Invests $400M in Chip Startup Source Foundry Despite Hedge Fund’s Recent Setbacks&nbsp;&nbsp;CryptoRank",
+    "tier": 3
+  },
+  {
+    "title": "Jeff Bezos Backed a $2.6 Billion AI Startup That's Partnering With Nvidia and Meta on New Chip Materials",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rUzRiYk5iWjh2OUFWN1hQbmRfc19lM21ZXzljV3k3b2dkNkRrdFMyVjhjVGRodVFvdm1ZRERFTE1HNTdReUM4UWZxbzZGSklSaGpMdGtaM01kaHc0WmR1c2R6UUNBYVhtcnFOQ0hMLXYtTE0?oc=5",
+    "source": "AOL.com",
+    "publishedAt": "Sun, 09 Aug 2026 16:42:36 GMT",
+    "snippet": "Jeff Bezos Backed a $2.6 Billion AI Startup That's Partnering With Nvidia and Meta on New Chip Materials&nbsp;&nbsp;AOL.com",
+    "tier": 3
+  },
+  {
+    "title": "Hadrian raises $1.37B for AI-powered defense factories",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xWS1UV0htaF9BNzdBdUIzaTJXTUY3bVc1RlQ4OXhhTnB5MFdmc1dzZGJiV1dYTHp0eUl5Nkg0TXVFak5aYkJpWFd5STFvaEFHSjJ2SjJtRW14RnRpR3MyQlo1ZGJOQnVEdk5Heg?oc=5",
+    "source": "eciks.org",
+    "publishedAt": "Sun, 09 Aug 2026 12:04:53 GMT",
+    "snippet": "Hadrian raises $1.37B for AI-powered defense factories&nbsp;&nbsp;eciks.org",
+    "tier": 3
+  },
+  {
+    "title": "Forbes 2026 Midas List: Top Venture Capital Investors Ranked",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fcGVEQ0g0VGFkMnVBQmlYNjNock5lN1FWdF9yM1Z1bmhCdnZFOXZUSlpoSWs0S3dHcTN5NGlMMnZHWXlnU2s2UUxZSQ?oc=5",
+    "source": "Forbes",
+    "publishedAt": "Sun, 09 Aug 2026 05:49:34 GMT",
+    "snippet": "Forbes 2026 Midas List: Top Venture Capital Investors Ranked&nbsp;&nbsp;Forbes",
+    "tier": 3
+  },
+  {
+    "title": "Moonshot AI Overhauls Structure Under Beijing Pressure, Delaying Hong Kong IPO",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVjhaV2RwWkVjbW00Ni1GLXNYVk1uWW1nU256RjVpOC01MHdVSDB4cFBiajlpcDdMenVlMi1JMFQtV29HWEtFa2NQV3FEREp0c0xMdTQ1RGp2d2xkX2VUNkZVXy14U2hNY3Y3ajZPRjhxRktnRFFJcWowQlMxcUVhSzNGR0NvYlVHWko4eHZWVkc4WnhEdDRpQXRkT2M3Vzl3RjN1VA?oc=5",
+    "source": "Seoul Economic Daily",
+    "publishedAt": "Sun, 09 Aug 2026 22:00:05 GMT",
+    "snippet": "Moonshot AI Overhauls Structure Under Beijing Pressure, Delaying Hong Kong IPO&nbsp;&nbsp;Seoul Economic Daily",
+    "tier": 3
+  },
+  {
+    "title": "Singapore at 61: AI Could Make SG Less Needed for Global Companies, and Challenge the Economic Model That Made It Rich",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSlRMRUhoX3dqVmk4blRhNXlNWmZzaGlVUzY0XzRGQWRuUThwMXl4X0d2MGVoNmxaYi1vbzZDUF9MczFDQmJJUVF2OVh1alBKYmhWWjB6M0xzWFFpQlFWVkJ6SGZZcGFSZlZhVTlZU2kxQ2ZMQURYSmpFamRaRHUwenJJODgxYVpISkhSRGZEZ0ZYOXR6LVZEV0RaZ2YtaXJzaEJ1TUNwQm10UXFOeXZsRndFVQ?oc=5",
+    "source": "Startup Fortune",
+    "publishedAt": "Sun, 09 Aug 2026 06:38:17 GMT",
+    "snippet": "Singapore at 61: AI Could Make SG Less Needed for Global Companies, and Challenge the Economic Model That Made It Rich&nbsp;&nbsp;Startup Fortune",
+    "tier": 3
+  },
+  {
+    "title": "Situational Awareness Bets $400M on Chip Startup Amid Turmoil",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdUxhRXZCcmx5Y0VBXzNLTENTM21KZWotckZnVzZWekJjc3p5RFVXOEI3NFp3dl9zMlhFNlVBQ0JFNEZtMElGcDlDRE0zUlVsem5qOTY2aHJjNE9kOFZnRVFQellCaldJbkQ4c3h6aGRZNGlVOVhnMHhnZEJmZE5WZmFOcDhoRVFZLWl4WkN0Nk96NWZadkExYw?oc=5",
+    "source": "The Tech Buzz",
+    "publishedAt": "Sun, 09 Aug 2026 21:10:00 GMT",
+    "snippet": "Situational Awareness Bets $400M on Chip Startup Amid Turmoil&nbsp;&nbsp;The Tech Buzz",
+    "tier": 3
+  },
+  {
+    "title": "Sapiom Raises $35M to Route AI Agents to Cheaper Models. Anthropic Is a Backer",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObC1jREUxNmlCOUFaOE5VSWtUY2hVOW1HZzRfaXBHM0FZeWhtSDBjMTd0UVYzOTFIbWRERnFRXzhOSG9DN0Z5UGp5QTBibFA5T0dfN2dYS2w4WDhjNHdZcUlUYThJZkhVd296Z1M3WFF5cTV3U08wZ1VaNHpsbmtGTDdR?oc=5",
+    "source": "Memeburn",
+    "publishedAt": "Sun, 09 Aug 2026 08:47:42 GMT",
+    "snippet": "Sapiom Raises $35M to Route AI Agents to Cheaper Models. Anthropic Is a Backer&nbsp;&nbsp;Memeburn",
+    "tier": 3
+  },
+  {
+    "title": "Sovereign AI: Why Canada’s next technology challenge is infrastructure",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdWdqLXFHRG0wemo0Y21udmdSNzVzQTZCcmtjQkxnNlhBNVF4MkJEWkJYanhSdk5QamRXdnB3TG1oTEJUcGh5dkNTTkM3ekdSUEJXVnd1Ti0tbjAySWtQODd3RFhOTm9sQ2lpRGV2QnV0aVpOdWJYNl8yWkh0V3I4YWVLb25ldmpGSEJBb1YySGZwVlh2Zlh1NFNpazE0dWdSNlEwZzRrS3N2aWJJ?oc=5",
+    "source": "Digital Journal",
+    "publishedAt": "Mon, 10 Aug 2026 01:38:37 GMT",
+    "snippet": "Sovereign AI: Why Canada’s next technology challenge is infrastructure&nbsp;&nbsp;Digital Journal",
+    "tier": 3
+  },
+  {
+    "title": "Hedge fund Situational Awareness invests $400 million in chip startup Source Foundry",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVjFWM3c0d0VTUHpMTXZ0VURrdV9TcS1LS045aG1mOGpkdTdidkxsazNnTTBTYWFhNTJibE15NnhPT3FsTDFHTmNoXzFwOHp0X0RKSG43U21qRU1KaEVCZ3V6UkZTeXJPLWRBN0liNkhmWDVZN0VYQUNOSEZ5aWVPVER4cHVXajliOHhmR2htcEtmaXc4ZGlpcUlyWlo4dUlqZ1BBcjQ5dEViMWZGLUFUVVBUQnNNOGkwZmVzMDVTa0VYbXM?oc=5",
+    "source": "디지털투데이",
+    "publishedAt": "Sun, 09 Aug 2026 21:28:13 GMT",
+    "snippet": "Hedge fund Situational Awareness invests $400 million in chip startup Source Foundry&nbsp;&nbsp;디지털투데이",
+    "tier": 3
+  },
+  {
+    "title": "Finding big money for AI and a smaller world for security at Black Hat USA 2026",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSGFsZlVTRWZQQl9XRXNuYWVOZk0tMzl5VnZkUXpkaUU0UVd5TVp1dVFxblJyV1cyaWhmX0FHQm5nUHNTZWNjTzYza3RTMlF2SVRlOXBHS3ZRN3lYLW0tR1RxWDVjeV9JT2Q4bVdaa2U1R3ZSaWctaXhZeGhQWDdOOG9NLXVwMDBxMUQ4UXdPb2tDZ3V6UlM1U3pyTXI3a1pm?oc=5",
+    "source": "SiliconANGLE",
+    "publishedAt": "Sun, 09 Aug 2026 21:16:01 GMT",
+    "snippet": "Finding big money for AI and a smaller world for security at Black Hat USA 2026&nbsp;&nbsp;SiliconANGLE",
+    "tier": 3
+  },
+  {
+    "title": "Progress Software (PRGS) Rolls Out Agentic AI Tools, Is The Stock Still A Bargain?",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQXy1YOXB2eVJrUW5oNGdxdjZXaGVySmVPY200Smc0ekRESGd1NHYwRGFmUk54VkxQNUpnMks5czRoR1RXeTVoUjBQanlRSXBWcVdxVEsxRk93b0lWbjBkMlJoOV9zVk5uZ0x2ZmlRU1AxSUFzY1pvWUZHajhtUDVIWU10VDlQMXZtVFlqUjc4d2hyc3U2cUs3cExDQnVoWlV6ZXRIa2ZyWmN3enBsYzdvbjlRcmt0S1BQMlhrNXZIUnhrYUd3WXBsT01NU0F5U2YwUWNWSXhZVdIB1wFBVV95cUxQXy1YOXB2eVJrUW5oNGdxdjZXaGVySmVPY200Smc0ekRESGd1NHYwRGFmUk54VkxQNUpnMks5czRoR1RXeTVoUjBQanlRSXBWcVdxVEsxRk93b0lWbjBkMlJoOV9zVk5uZ0x2ZmlRU1AxSUFzY1pvWUZHajhtUDVIWU10VDlQMXZtVFlqUjc4d2hyc3U2cUs3cExDQnVoWlV6ZXRIa2ZyWmN3enBsYzdvbjlRcmt0S1BQMlhrNXZIUnhrYUd3WXBsT01NU0F5U2YwUWNWSXhZVQ?oc=5",
+    "source": "simplywall.st",
+    "publishedAt": "Sun, 09 Aug 2026 18:34:16 GMT",
+    "snippet": "Progress Software (PRGS) Rolls Out Agentic AI Tools, Is The Stock Still A Bargain?&nbsp;&nbsp;simplywall.st",
+    "tier": 3
+  },
+  {
+    "title": "Allstate's new AI platform ALLIE aims to cut costs and drive growth through agentic AI capabilities",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tUGswQmRKdDR2QjdXSnVGd3BDSHI2Z256QUpFNG1ib2tJM3RqVXlNUk43ci1sSXE4ZEVfb1doZXdXbHlneVpXWE1vVmtHcW9TYU5GajA2eF9vVTlDS3FzY1gwZ0Z2Zy1EeWZtbi12bw?oc=5",
+    "source": "eciks.org",
+    "publishedAt": "Sun, 09 Aug 2026 23:02:05 GMT",
+    "snippet": "Allstate's new AI platform ALLIE aims to cut costs and drive growth through agentic AI capabilities&nbsp;&nbsp;eciks.org",
+    "tier": 3
+  },
+  {
+    "title": "AI projects are stalling. What’s missing is a decision-centric operating layer.",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaVBwWmJ0aldNM01UUkEwQkUwcmVsT2ZFWWVWMjRuVUN6VGRNcHlXZGI5aGR1TVF1TFh6cnBhUGt1QlF4V1NHbmV3X1RpenZfTmc3TDdMMWNpdUhXU0NQVzU3RXZVamliSFBWUW9XM0RIZ2Q3aWlmZ0JmdDBUT1lwalNubGxyTW54UFBrOGl3Nks2UjB0b2ZhSlhFU1pXUGtGUnFFX2dsRzY4NmpHTWlOWU5IOVJUUQ?oc=5",
+    "source": "TechCrunch",
+    "publishedAt": "Sun, 09 Aug 2026 14:30:00 GMT",
+    "snippet": "AI projects are stalling. What’s missing is a decision-centric operating layer.&nbsp;&nbsp;TechCrunch",
+    "tier": 3
+  },
+  {
+    "title": "AI for Sales: Use Cases, Agents and the Data Foundation They Require",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbnJFOGtSV2pPUUFTRlVsT1VqSzB2MG1Bbm9LemdvekZtUXlhRXEzbThXdHIzNVp1UWozUTRKYkpidXFUd2FvWU12R2hzd0VweWVjcG16LWVMVW4tVHYwM29lalhSelQ0R0NfNFJjVzFYZ3Q5Ym9KT2kwSjNYOEZURzNnTm8zUHI5NVJkVldPMFZYUkxkbXFtOWExaXBOLXJDZkhKYlBtcGVIak5yTW01UDZwX2dROXpFMi13OVdiUkJ1bm8?oc=5",
+    "source": "Snowflake",
+    "publishedAt": "Sun, 09 Aug 2026 10:16:44 GMT",
+    "snippet": "AI for Sales: Use Cases, Agents and the Data Foundation They Require&nbsp;&nbsp;Snowflake",
+    "tier": 3
+  },
+  {
+    "title": "AI-SPM vs. ASPM (and Why AINAPP Is What Comes Next)",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd29KVDRBTlBmNFFsSzNvUFpwZHVJaWJ2QVZ4YzRsc3JQSzk4cVc0d28yWDZEUFotel9UbTBTYi1UclV1aXFHVGtJZmpOclZoQS13YXFVSlZNMnJaR1ZreWVLQ3dqX0ZkajZhT2RVOGdxNXNCbFVnLVBwMVo3THJmX0ZzOFU?oc=5",
+    "source": "ox.security",
+    "publishedAt": "Sun, 09 Aug 2026 08:03:46 GMT",
+    "snippet": "AI-SPM vs. ASPM (and Why AINAPP Is What Comes Next)&nbsp;&nbsp;ox.security",
+    "tier": 3
+  },
+  {
+    "title": "Why Shopify Stock Could Be the Biggest Winner in Agentic AI Commerce",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRDVSQnQ4bVhLYmtpclJtM3hXbjZLMUxZbmVOT2xvY21tUmpaZVlwT2ZmUEJFZjZ2T0NlRXdhWmdvTk8yWmdDS2p2WTlsVEV5ZXNZbmxDQ2w0NGRFdTNVYlJzdlJCRTJiOWozcWlPeXl3WkoyempXUEhGTVc4OVpZLUVQM1QzMjZXY3kxdVZHQTRjbXM2MGpUVw?oc=5",
+    "source": "The Motley Fool",
+    "publishedAt": "Sun, 09 Aug 2026 17:15:00 GMT",
+    "snippet": "Why Shopify Stock Could Be the Biggest Winner in Agentic AI Commerce&nbsp;&nbsp;The Motley Fool",
+    "tier": 3
+  },
+  {
+    "title": "Superconductor's Arjun Singh on Multiplayer Agentic Engineering",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS213T0Q0ZHVnQkVzekFCMkJFRlpBc09LdV80VlZzZkcwb0RUOXVKNW9kcUVZQkJUMExCOElld2F3dFdGRmpLYXR0Q0tuXy1Ea3FtcDBxVWZiMUg1NG80ZXpBeGJUUUNDU3E0dHppUEl6dElZaFplSVQwQWF2RXMtdVFpSEJ2anRzbjVaUDAyS0t2M2xKVXFsc0xVbkwyeUR6ZnVjOHplM0V2dHpvNWZsdlRuem55MTQ5QVNaMW9FNUJNbGZ2?oc=5",
+    "source": "StartupHub.ai",
+    "publishedAt": "Sun, 09 Aug 2026 21:07:52 GMT",
+    "snippet": "Superconductor's Arjun Singh on Multiplayer Agentic Engineering&nbsp;&nbsp;StartupHub.ai",
+    "tier": 3
+  },
+  {
+    "title": "The OpenAI-Hugging Face Incident Was an Identity Failure Before It Was an AI Failure",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS0dWc2loUnlKLWQzdFRodzM5aGFPcDlOdTY4RUlRTUtpSXhEQmd5T1VkcTgxV0x0RDAwSldvRmNIRDYtT1laR2xjb2JQN0xSWHJvLXN0OHd4ZnUySjJLLTJqa2RiSDJEckZwWm1oVjFVUERHdlIyY1o0akJuM0Q1bGd3eDBaZjFVbF9Dbi1aSGRWVUFqNndzTE5SMjFPOFp6OTVhd3dpS2pnV3M?oc=5",
+    "source": "HackerNoon",
+    "publishedAt": "Sun, 09 Aug 2026 21:02:33 GMT",
+    "snippet": "The OpenAI-Hugging Face Incident Was an Identity Failure Before It Was an AI Failure&nbsp;&nbsp;HackerNoon",
+    "tier": 3
+  },
+  {
+    "title": "LinkedIn CEO on AI Jobs, Agentic Hiring and the AI Slop Problem",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbmE3M0E4Y2N1MW50Mm10RjVwbUdPdFJQZjI3OHloMzlPMXFfbVhGY2VGWXpYd01Ma1lubXdEYTdUdjVEcDFpUkNIT3NzbUk2a09zR25Cak5vd2Z3VUNSbUNPSlU1TUltS294ODk4MENOVkFRMS1GYVItdWJHZXNsZ2FkYjRKUHRESzlQWWh6N3lzWlFuX1g1S0o0ZXRuaUNYNWN1X2Z2RXZnSDlNNjlzU0hqZEo5X0JBQkgxd2RPVXpRanBMcHMwcEZBeVpJX3FTQXBHem9zQm91Zm_SAeABQVVfeXFMTnM5bmtpQ0Vac2dkdnVjQjFMMGpVd0RXdDBzQ2NnSDJweXBCZkhZeHhjNHdVWVRHLUdFdHhDNW5qUFF2RE9FcmdmVmNYTHZRc3d6bzEwZkdLNEtlNkN1aDRscmlBZmhBb2pLUGZ6bWdjSW9WanVqVFlqZGsyd0FudmpPaGl0bGQ1RzJjTjJpaHI4VzZ4SXV6UEZ4S2c2dldUM29DQ0FqVDRYNHpwYi1ZUlRDbmd0RUR1ZkJhMEhnMU5VcDlrcEdoc1RxZ3RXTXlqNVp4akdrNlJvSS1GRV9mYVc?oc=5",
+    "source": "The Economic Times",
+    "publishedAt": "Mon, 10 Aug 2026 01:43:47 GMT",
+    "snippet": "LinkedIn CEO on AI Jobs, Agentic Hiring and the AI Slop Problem&nbsp;&nbsp;The Economic Times",
+    "tier": 3
+  },
+  {
+    "title": "Why Upstart Stock Plunged 23% in July",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVWNqT1ExR1p0UmRPLXQ0UDdnUUNQUmNISWFRX3ZQbEN6SHoyZnM1SktVaTI4Uk5RN21ZUnNHNmJpRlV6ZllIejhWYlRVcjRFYk4wZHEzdms1Y2pCb2NleUtjMm90MGQwTmc4ZjlZZHFvZ0hfdi1HTDVTTHZBLTM5NWdWYXBPMDlRVExoYmh4VXMyMHVGZklaMG1OZGlWTjV5dTVwMGliTHc5ek56YzlZNjNWQ05pcHphWDlmaTZrVWw?oc=5",
+    "source": "The Globe and Mail",
+    "publishedAt": "Sun, 09 Aug 2026 21:32:14 GMT",
+    "snippet": "Why Upstart Stock Plunged 23% in July&nbsp;&nbsp;The Globe and Mail",
+    "tier": 3
+  },
+  {
+    "title": "Top LLM Observability and Evaluation Platforms in 2026: Langfuse, LangSmith, Braintrust, Arize, and More Compared",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOS1ZuUWRoQWhuUDRTWGxadkV2Z2kzWUFnZ01kSUtEc1JLdEJKLVIwZ01Qbm1Ga3I5QTVENk1NaUxXLThNRzZZejZ2WTJ1NVJ6bXJTTnZvcEhiX21JYi03bzNhai1GSmE0aW9YVndHamV4dzhNcXdrclRQbWFFRmpkNlFhZkZYU0VtRnhBUVBrb1dLZkJ0dkdoaW9FaXlTTVBzWmNnSGItRld4VFAtTWlMaUx6SGNuZjRJTXRvcVV2WFMyamtzVG9aYV9JeEpzZHpzUFFITElRY3BPZzJBd0hUeFpsWlV5c0ZT0gHoAUFVX3lxTE5LVm5RZGhBaG5QNFNYbFp2RXZnaTNZQWdnTWRJS0RzUkt0QkotUjBnTVBubUZrcjlBNUQ2TU1pTFctOE1HNll6NnZZMnU1UnptclNOdm9wSGJfbUliLTdvM2FqLUZKYTRpb1hWd0dqZXh3OE1xd2tyVFBtYUVGamQ2UWFmRlhTRW1GeEFRUGtvV0tmQnR2R2hpb0VpeVNNUHNaY2dIYi1GV3hUUC1NaUxpTHpIY25mNElNdG9xVXZYUzJqa3NUb1phX0l4SnNkenNQUUhMSVFjcE9nMkF3SFR4WmxaVXlzRlM?oc=5",
+    "source": "MarkTechPost",
+    "publishedAt": "Sun, 09 Aug 2026 18:15:30 GMT",
+    "snippet": "Top LLM Observability and Evaluation Platforms in 2026: Langfuse, LangSmith, Braintrust, Arize, and More Compared&nbsp;&nbsp;MarkTechPost",
+    "tier": 3
+  },
+  {
+    "title": "Multiscale Conjecture on Divergence in Language and Agentic AI Halaman 29",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUzlzV3RSbVZENjlHV2JLWmJOajNCcE1ZVkNOVkFFQ1loTVRvT2NPSVVmRlFjeDliTkdXU2NIT2pRcmZLNUxiQUpabllFMzRJMGEwNDk5bjd2UFpEaEhzRDdPQ2ZOQmlTSlFZRkN0OTJ2TDhCa00ycFV0SDZuTTNycDBFcWhpVFl2XzhiWllacDNieHlJSkYtdm9lV0Z1Mm9HYmpySWFiSWFpcHJxbWNtbmVXMmZYb1ZVQlpuVnR4SW5wbWd2MG9ZNl9oM2RQanJST2FjS1VR?oc=5",
+    "source": "kompasiana.com",
+    "publishedAt": "Sun, 09 Aug 2026 10:09:16 GMT",
+    "snippet": "Multiscale Conjecture on Divergence in Language and Agentic AI Halaman 29&nbsp;&nbsp;kompasiana.com",
+    "tier": 3
+  },
+  {
+    "title": "Mark Cuban Says These 5 Types of Jobs Are Most at Risk From AI",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vbnd4VHdCMHB2bl9aSWg3QlpLVW84Q3hqeTlGbW90d1dhZHFtM0hlLTNkdU1TbzNxUlUzVl9ySEIycFlRN3pfLWh1d1Z4UkNUUUdOQ25wbDN2dWlyMUZxQl9vdVk3czYySE9sT296d29WaGhPOHc?oc=5",
+    "source": "AOL.com",
+    "publishedAt": "Sun, 09 Aug 2026 18:51:00 GMT",
+    "snippet": "Mark Cuban Says These 5 Types of Jobs Are Most at Risk From AI&nbsp;&nbsp;AOL.com",
+    "tier": 3
+  }
+]
