@@ -1,110 +1,6 @@
 {
   "sent": [
     {
-      "key": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents",
-      "date": "2026-07-29"
-    },
-    {
-      "key": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight",
-      "date": "2026-07-29"
-    },
-    {
-      "key": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises",
-      "date": "2026-07-29"
-    },
-    {
-      "key": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon",
-      "date": "2026-07-29"
-    },
-    {
-      "key": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research",
-      "date": "2026-07-29"
-    },
-    {
-      "key": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse",
-      "date": "2026-07-29"
-    },
-    {
-      "key": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate",
-      "date": "2026-07-29"
-    },
-    {
-      "key": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face",
-      "date": "2026-07-29"
-    },
-    {
-      "key": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control",
-      "date": "2026-07-29"
-    },
-    {
-      "key": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results",
-      "date": "2026-07-29"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-      "date": "2026-07-29"
-    },
-    {
-      "key": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust",
-      "date": "2026-07-29"
-    },
-    {
-      "key": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times",
-      "date": "2026-07-29"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
-      "date": "2026-07-29"
-    },
-    {
-      "key": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
-      "date": "2026-07-29"
-    },
-    {
-      "key": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive",
-      "date": "2026-07-29"
-    },
-    {
-      "key": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai",
-      "date": "2026-07-29"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
-      "date": "2026-07-29"
-    },
-    {
-      "key": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid",
-      "date": "2026-07-29"
-    },
-    {
-      "key": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix",
-      "date": "2026-07-29"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-      "date": "2026-07-29"
-    },
-    {
-      "key": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system",
-      "date": "2026-07-29"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-      "date": "2026-07-29"
-    },
-    {
-      "key": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing",
-      "date": "2026-07-29"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
-      "date": "2026-07-29"
-    },
-    {
-      "key": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai",
-      "date": "2026-07-29"
-    },
-    {
       "key": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever",
       "date": "2026-07-30"
     },
@@ -1479,6 +1375,106 @@
     {
       "key": "https://arxiv.org/abs/2608.06732",
       "date": "2026-08-11"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai",
+      "date": "2026-08-12"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last",
+      "date": "2026-08-12"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "date": "2026-08-12"
+    },
+    {
+      "key": "https://openai.com/index/testing-ads-in-chatgpt",
+      "date": "2026-08-12"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new",
+      "date": "2026-08-12"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai",
+      "date": "2026-08-12"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+      "date": "2026-08-12"
+    },
+    {
+      "key": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "date": "2026-08-12"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
+      "date": "2026-08-12"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+      "date": "2026-08-12"
+    },
+    {
+      "key": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts",
+      "date": "2026-08-12"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+      "date": "2026-08-12"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations",
+      "date": "2026-08-12"
+    },
+    {
+      "key": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
+      "date": "2026-08-12"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+      "date": "2026-08-12"
+    },
+    {
+      "key": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+      "date": "2026-08-12"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.07627",
+      "date": "2026-08-12"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.07538",
+      "date": "2026-08-12"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.07762",
+      "date": "2026-08-12"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.07528",
+      "date": "2026-08-12"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.07532",
+      "date": "2026-08-12"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.07885",
+      "date": "2026-08-12"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.08022",
+      "date": "2026-08-12"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.07705",
+      "date": "2026-08-12"
+    },
+    {
+      "key": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting",
+      "date": "2026-08-12"
     }
   ]
 }

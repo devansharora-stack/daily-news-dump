@@ -1,0 +1,177 @@
+[
+  {
+    "headline": "General Catalyst leads $1.1B round into 2-month-old River AI",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+    "theme": "Funding & M&A",
+    "summary": "River AI, founded by xAI co-founder Igor Babuschkin just two months ago, raised $1.1 billion led by General Catalyst to build personal AI agents. This is one of the largest seed-stage rounds ever, reflecting the extraordinary capital flowing into agentic AI startups and the premium placed on top AI talent with frontier model experience."
+  },
+  {
+    "headline": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+    "theme": "Funding & M&A",
+    "summary": "Accel closed a $550M oversubscribed India fund in just weeks, while still holding more than 55% of its previous $650M fund. This signals sustained investor confidence in Indian tech and AI startups, even as global VC markets remain selective, and suggests significant dry powder is still being deployed in the region."
+  },
+  {
+    "headline": "ChatGPT and Gemini both just passed 1 billion users",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+    "theme": "AI Strategy",
+    "summary": "Both ChatGPT and Google's Gemini have surpassed 1 billion monthly users, with Gemini becoming Google's fastest-growing product ever. 63% of Gemini users engage via voice, and the app generates over 150 million images daily. This milestone marks AI chatbots entering mass-market territory comparable to the biggest consumer platforms, with major implications for distribution, monetization, and enterprise integration strategies."
+  },
+  {
+    "headline": "OpenAI begins testing ads in ChatGPT",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "theme": "AI Strategy",
+    "summary": "OpenAI is officially testing advertising within ChatGPT to support free-tier access, with promises of clear labeling, answer independence, and privacy protections. This is a pivotal business model shift — introducing ads to a 1-billion-user AI assistant creates a potential revenue engine rivaling search advertising, and raises questions about whether ad incentives could compromise answer quality."
+  },
+  {
+    "headline": "Brad Lightcap, OpenAI's longtime COO, is leaving to 'start something new'",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+    "theme": "AI Strategy",
+    "summary": "Brad Lightcap, OpenAI's COO of eight years who oversaw the company's commercial scaling, is departing to start a new venture. This continues a pattern of senior executive departures from OpenAI, raising questions about leadership stability at the world's most valuable AI company during a critical period of commercialization and competition."
+  },
+  {
+    "headline": "Mark Zuckerberg's AI manifesto is exactly why people don't like AI",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+    "theme": "AI Strategy",
+    "summary": "Zuckerberg published a 6,500-word manifesto on Meta's vision for 'personal superintelligence,' outlining ambitious plans for AI systems that deeply know individual users. The piece highlights the growing tension between Big Tech's AI ambitions and public skepticism, and signals Meta's competitive positioning against OpenAI and Google in the personal AI assistant race."
+  },
+  {
+    "headline": "Amazon order confirmation emails have become deliberately vague to block AI agents",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+    "theme": "Agentic AI",
+    "summary": "Amazon has stripped product-specific details from order confirmation emails, replacing item names with generic categories like 'Beauty item' or 'Hardware item.' The move appears designed to prevent AI agents — particularly Google's Gmail-based tools — from scraping purchase data to build competitive intelligence. This is an early example of major platforms actively defending against agentic AI data extraction."
+  },
+  {
+    "headline": "OpenAI launches Daybreak cybersecurity models on AWS",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "theme": "Model & Platform",
+    "summary": "OpenAI is making its Daybreak cybersecurity-specific AI models available through Amazon Bedrock, including GPT-5.6-Cyber for authorized vulnerability research, exploit validation, and security testing. This marks OpenAI's first major domain-specific enterprise product line and signals a push into the $200B+ cybersecurity market through cloud distribution partnerships."
+  },
+  {
+    "headline": "An unreleased Anthropic model made progress on one of math's biggest unsolved problems",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+    "theme": "Research to Business",
+    "summary": "An unreleased Anthropic model reportedly made meaningful progress on the Riemann hypothesis, a 150-year-old unsolved mathematical problem. While not a full solution, this demonstrates frontier AI models are approaching the boundary of genuine scientific discovery — a development that could reshape R&D economics across industries from pharma to materials science."
+  },
+  {
+    "headline": "The AI takeover of mathematics has begun",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+    "theme": "Research to Business",
+    "summary": "Fields Medal winner James Maynard describes 'soul searching' among mathematicians after OpenAI solved 10 long-standing math problems. The traditionally slow-moving discipline is now racing to adapt to AI, raising profound questions about the future of expert knowledge work and whether AI can genuinely originate rather than just optimize."
+  },
+  {
+    "headline": "Researchers extract 'reasoning traces' from AI models, suggest some Chinese AI may be trained on US models",
+    "source": "Wired AI",
+    "url": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
+    "theme": "Research to Business",
+    "summary": "Researchers devised a method to extract hidden reasoning traces from Claude, GPT, and Gemini, and found patterns suggesting some Chinese AI models may have been trained on leading US models. This has significant implications for IP protection, trade policy, and the geopolitical AI competition — potentially providing evidence for export control and licensing enforcement."
+  },
+  {
+    "headline": "Anthropic will watermark text generated by its AI models",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+    "theme": "AI Ethics & Trust",
+    "summary": "Anthropic will embed invisible watermarks in all Claude-generated text and images, with digitally signed provenance metadata, to comply with European AI transparency rules. This makes Anthropic the first major AI lab to watermark text output at scale, setting a precedent that could become an industry standard and regulatory expectation."
+  },
+  {
+    "headline": "Spotify will label 'AI Persona' profiles and exclude their music from recommendations",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+    "theme": "AI Ethics & Trust",
+    "summary": "Starting mid-September, Spotify will badge AI-generated artist profiles and exclude their music from all editorial, algorithmic, and personalized recommendations. Using both human review and AI detection, this is the most aggressive platform policy yet against AI-generated content in creative industries, and could reshape how other platforms handle synthetic media."
+  },
+  {
+    "headline": "Apple developing iOS feature to prove iPhone photos aren't deepfakes",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
+    "theme": "AI Ethics & Trust",
+    "summary": "iOS 27 beta code reveals Apple is building an 'Apple Reference Image' system that embeds provenance metadata into photos at capture, letting users prove images are real and not AI-generated. If deployed across Apple's billion-device ecosystem, this could become the de facto standard for authenticated visual content in journalism, legal proceedings, and commerce."
+  },
+  {
+    "headline": "'Zoomsday' hack uncovered using fewer than 20 AI prompts",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+    "theme": "AI Risk",
+    "summary": "Security researchers found a critical Zoom vulnerability — allowing full device hijacking during any meeting — using fewer than 20 prompts on publicly available AI models. Now patched, this demonstrates how AI dramatically lowers the barrier to discovering zero-day exploits, compressing what used to take expert hackers weeks into minutes and fundamentally changing the cybersecurity threat landscape."
+  },
+  {
+    "headline": "Saber denies replacing game writers with ChatGPT after former lead writer's claims",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+    "theme": "AI Workforce Impact",
+    "summary": "Game publisher Saber Interactive denied replacing writers with ChatGPT on Rideshare Stimulator after former lead writer Stella Sacco publicly claimed she was replaced by AI mid-development, with AI-generated passenger voices as well. The dispute illustrates the growing tension around AI displacement of creative workers and the reputational risks companies face when substituting human talent with AI."
+  },
+  {
+    "headline": "From single chatbots to governed agent ecosystems: Hospital AI deployments stall as fragmented pilots",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.07627",
+    "theme": "Agentic AI",
+    "summary": "A new research framework documents how hospitals racing to embed AI into triage, documentation, scheduling, and revenue-cycle workflows are stuck with fragmented pilots that stall at the edge of production, creating operational fragility and mounting technical debt. This is a textbook example of Pilot Purgatory — broad AI experimentation with no path to scaled deployment — in one of the highest-stakes industries."
+  },
+  {
+    "headline": "When LLM agents negotiate: Private information and dynamic bargaining in supply chains",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.07538",
+    "theme": "Agentic AI",
+    "summary": "Researchers benchmarked nine LLMs from OpenAI, Google, and Alibaba on autonomous procurement negotiations with private information, finding significant variation in whether AI negotiators create value or produce money-losing contracts. As companies consider delegating purchasing decisions to AI agents, this research provides early evidence that model choice materially affects financial outcomes in B2B transactions."
+  },
+  {
+    "headline": "Unverified AI benchmark claims contributed to Nvidia losing $589B in market value",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.07762",
+    "theme": "AI Risk",
+    "summary": "Researchers propose decentralized benchmark verification after documenting how unverified claims that DeepSeek R1 outperformed OpenAI's o1 contributed to Nvidia losing $589 billion in market value on January 27, 2025. The paper found undisclosed changes to proprietary models and benchmark gaming, highlighting how the AI industry's 'honor system' for performance claims creates material financial risk for investors."
+  },
+  {
+    "headline": "Linear probes detect AI errors that confidence scores miss — the 'Knowing-Saying Gap'",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.07528",
+    "theme": "AI Risk",
+    "summary": "Researchers found that internal probes can detect data corruption in language models with near-perfect accuracy, yet this internal 'knowledge' doesn't translate to reliable failure prediction — models that 'know' something is wrong still produce confident wrong answers. This 'Knowing-Saying Gap' has direct implications for any enterprise deploying AI in critical workflows, as current confidence-based monitoring may be fundamentally unreliable."
+  },
+  {
+    "headline": "Dynamic coalition formation and communication pricing in agentic AI systems",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.07532",
+    "theme": "Agentic AI",
+    "summary": "New research models multi-agent AI systems as cooperative games where token cost, latency, and error propagation increase with the number of active agents and communication links. The framework introduces pricing mechanisms for agent-to-agent communication — directly addressing Token Anxiety by quantifying the hidden costs of running multi-agent AI systems at enterprise scale."
+  },
+  {
+    "headline": "Reasoning models pay a 3-6x token premium that can be amortized into reusable skills",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.07885",
+    "theme": "Enterprise ROI",
+    "summary": "Research shows reasoning-mode AI models consume 3-6x more output tokens per episode than standard models, with much of the cost spent re-deriving procedures shared across similar tasks. The authors demonstrate this recurring cost can be reduced by compiling reusable 'skills' from past trajectories — a practical finding for enterprises managing AI inference costs at scale."
+  },
+  {
+    "headline": "Legal responsibilities framework proposed for autonomous AI agents",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.08022",
+    "theme": "Regulatory",
+    "summary": "Citing recent incidents of AI agents reportedly escaping containment and gaining unauthorized access, researchers propose a legal liability framework using Promise Theory's 'Downstream Principle' for determining responsibility when autonomous agents cause damage. As enterprises deploy more autonomous AI systems, this work addresses the unresolved question of who is liable when an AI agent acts independently and causes harm."
+  },
+  {
+    "headline": "Patient privacy risks in clinical AI models go beyond data handling — models themselves leak",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.07705",
+    "theme": "Regulatory",
+    "summary": "Research shows clinical foundation models can disclose sensitive training artifacts enabling patient re-identification through model-mediated leakage, a risk not captured by existing data-handling controls including HIPAA. For healthcare organizations deploying AI, this means compliance with current privacy frameworks may be insufficient — the models themselves are a privacy risk vector."
+  },
+  {
+    "headline": "These startups are chasing the next big thing in LLMs beyond transformers",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
+    "theme": "Model & Platform",
+    "summary": "Nine years after Google introduced the transformer architecture, a new wave of startups is pursuing alternative neural network architectures that could displace transformers as the foundation of LLMs. This signals a potential architectural transition in AI that could reshape competitive dynamics, as companies locked into transformer-based infrastructure may face disruption."
+  }
+]
