@@ -1,0 +1,42 @@
+{
+  "date": "2026-08-13",
+  "type": "recap-and-resource",
+  "recapTopic": "B2B SEO in the Age of AI Search",
+  "recap": {
+    "intro": "Hey everyone! This week, we dove into how B2B marketing is changing now that AI is getting super smart and helping people search for stuff online. We looked at what this means for how businesses get found and trusted.",
+    "bullets": [
+      "First, we saw that if your business was already doing a good job with its online presence – like being super clear and trustworthy – then the new AI search tools aren't actually that scary. It's all about making sure your business's info is consistent and accurate everywhere online, not just your website, because AI pulls from everywhere. You can even ask AI tools directly about your brand to see what they 'believe' about you!",
+      "Building on that, we then learned that even though AI is everywhere, it's super hard to tell if it's actually helping businesses make money. Companies like Meta are spending tons (like 73.7 trillion 'tokens', which is a unit of data processed by AI) without clear benefits. This means building trust is more important than ever – people often pick a brand they know and trust, even if it's not the first thing AI suggests, with about three out of four consumers preferring a trusted name. Plus, our old ways of measuring online success just don't work anymore, as Google's data for AI search is reportedly 75% incomplete!",
+      "Finally, the big picture is that while young people (Gen Z) are starting to think of AI tools like Claude and OpenAI as cool brands, like sneakers or streaming services (Claude's 'Consideration score' – meaning how many people would think about using it – almost doubled!), just being 'considered' doesn't mean they trust you. Only 28% of people in the U.S. actually trust AI assistants! This shows that good old-fashioned marketing, focusing on real trust with things like named sources and facts, is still super important. It's not just about getting your content picked up by AI; it's about building that deep, lasting trust with your audience, because even old brand names can get a boost without doing much new."
+    ]
+  },
+  "recapResources": [
+    {
+      "headline": "AI Search Only Feels New If Your SEO Was Shallow via @sejournal, @slobodanmanic",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/ai-search-only-feels-new-if-your-seo-was-shallow/584115/"
+    },
+    {
+      "headline": "AI’s Impact Is Outrunning Measurement: The Trust And Attribution Gap Facing Brands via @sejournal, @gregjarboe",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/ais-impact-is-outrunning-measurement-the-trust-and-attribution-gap-facing-brands/584141/"
+    },
+    {
+      "headline": "Gen Z Now Treats Claude And OpenAI Like Consumer Brands, But Trust Is Still An Issue via @sejournal, @gregjarboe",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/gen-z-now-treats-claude-and-openai-like-consumer-brands-but-trust-is-still-an-issue/584449/"
+    }
+  ],
+  "topic": "Demand Generation at Scale",
+  "dayLabel": "Day 1 of 3 — Intro",
+  "headline": "Most B2B demand gen teams have abandoned MQL volume as their primary success metric",
+  "source": "MarketScale",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTXNZeHdsQmVFX1VsUnNCdGtzdl9KMGx4Xzc3U2tJaV9nRWtVMkNrSExyaVh0emQxNHVYaGZUUTFuMmJoMDh0eTJjQ2NNQ0NROVQ5cDRkVE1ObFlRazNKZGlmTEF2aVM4WWpYSEZCcW5EalkwX1BEcEhQYVdOMmVBRTVFdTBKcXFLcGVjU0M0Sld2TE90amdGel9IVU5BSDZiZDc4bGRDZ3ZjWGtGUnNxejl4NENMTktmbmJGOHBLWUxrWVRsdnlDZVRyUzRYVzBpRVRV?oc=5",
+  "keyNotes": [
+    "Many marketing teams that sell products or services to other businesses (called B2B for \"business-to-business\") are no longer using the total number of \"marketing qualified leads\" (MQLs) as their main way to measure success.",
+    "A significant change is happening where teams focused on creating interest for products (known as \"demand generation teams\") have stopped prioritizing how many potential customers (MQLs) they initially attract.",
+    "What's surprising is that for most companies selling to other businesses, the old method of simply counting early-stage potential customers (MQLs) to see if marketing was working has been abandoned.",
+    "This means that the main indicator of success for many marketing departments, which used to be the sheer quantity of people who showed a little bit of interest (MQLs), is no longer their top goal."
+  ],
+  "question": "If the main way marketing teams used to measure success (counting 'marketing qualified leads' or MQLs) is now being abandoned, what is the most important way you measure success in your own work, and how might that metric also need to evolve over time?"
+}

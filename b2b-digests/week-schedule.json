@@ -56,7 +56,14 @@
         "source": "MarketScale",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTXNZeHdsQmVFX1VsUnNCdGtzdl9KMGx4Xzc3U2tJaV9nRWtVMkNrSExyaVh0emQxNHVYaGZUUTFuMmJoMDh0eTJjQ2NNQ0NROVQ5cDRkVE1ObFlRazNKZGlmTEF2aVM4WWpYSEZCcW5EalkwX1BEcEhQYVdOMmVBRTVFdTBKcXFLcGVjU0M0Sld2TE90amdGel9IVU5BSDZiZDc4bGRDZ3ZjWGtGUnNxejl4NENMTktmbmJGOHBLWUxrWVRsdnlDZVRyUzRYVzBpRVRV?oc=5",
         "fullText": "Most B2B demand gen teams have abandoned MQL volume as their primary success metric&nbsp;&nbsp;MarketScale",
-        "day": "thursday"
+        "day": "thursday",
+        "keyNotes": [
+          "Many marketing teams that sell products or services to other businesses (called B2B for \"business-to-business\") are no longer using the total number of \"marketing qualified leads\" (MQLs) as their main way to measure success.",
+          "A significant change is happening where teams focused on creating interest for products (known as \"demand generation teams\") have stopped prioritizing how many potential customers (MQLs) they initially attract.",
+          "What's surprising is that for most companies selling to other businesses, the old method of simply counting early-stage potential customers (MQLs) to see if marketing was working has been abandoned.",
+          "This means that the main indicator of success for many marketing departments, which used to be the sheer quantity of people who showed a little bit of interest (MQLs), is no longer their top goal."
+        ],
+        "question": "If the main way marketing teams used to measure success (counting 'marketing qualified leads' or MQLs) is now being abandoned, what is the most important way you measure success in your own work, and how might that metric also need to evolve over time?"
       },
       {
         "headline": "What Makes Demand Generation Hard to Scale in Tech",
