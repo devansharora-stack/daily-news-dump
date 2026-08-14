@@ -1,0 +1,16 @@
+{
+  "date": "2026-08-14",
+  "type": "resource",
+  "topic": "Demand Generation at Scale",
+  "dayLabel": "Day 2 of 3",
+  "headline": "What Makes Demand Generation Hard to Scale in Tech",
+  "source": "The Pedowitz Group",
+  "url": "https://www.pedowitzgroup.com/blog/what-makes-demand-generation-hard-to-scale-in-tech",
+  "keyNotes": [
+    "A surprising number of potential customers are lost: research shows that 73% of business leads are never contacted after they first show interest, often because the rules for directing them to the right person become too complicated.",
+    "Even when marketing identifies a lead as ready for sales (called a \"Marketing Qualified Lead\" or MQL), 79% of them don't turn into actual sales because they aren't properly nurtured or followed up with.",
+    "A major problem is that marketing and sales teams often disagree on what makes a good lead, meaning marketing might think they're doing great by hitting their targets, while sales thinks the leads they receive are poor quality. This conflict turns the handoff of potential customers into a \"black hole\" where they disappear.",
+    "The quality of your customer information (data) is critical; if it's messy with duplicates or missing details, it corrupts every decision, from knowing which leads are good to understanding what marketing efforts actually work. This isn't just a technology problem, but a \"governance problem,\" meaning companies aren't setting clear rules for how data should be collected and used."
+  ],
+  "question": "The article emphasizes that fixing how companies find and convert customers (demand generation) isn't just about marketing, but about making sure different parts of the company work together smoothly, like an \"interconnected system.\" Thinking about your own work, where might a breakdown in how information flows or how different teams collaborate prevent your company from achieving its goals, even if it's not directly about sales leads?"
+}
