@@ -1,106 +1,6 @@
 {
   "sent": [
     {
-      "key": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok",
-      "date": "2026-08-01"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
-      "date": "2026-08-01"
-    },
-    {
-      "key": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
-      "date": "2026-08-01"
-    },
-    {
-      "key": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai",
-      "date": "2026-08-01"
-    },
-    {
-      "key": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation",
-      "date": "2026-08-01"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
-      "date": "2026-08-01"
-    },
-    {
-      "key": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users",
-      "date": "2026-08-01"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
-      "date": "2026-08-01"
-    },
-    {
-      "key": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "date": "2026-08-01"
-    },
-    {
-      "key": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop",
-      "date": "2026-08-01"
-    },
-    {
-      "key": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content",
-      "date": "2026-08-01"
-    },
-    {
-      "key": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x",
-      "date": "2026-08-01"
-    },
-    {
-      "key": "https://www.wired.com/story/ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in",
-      "date": "2026-08-01"
-    },
-    {
-      "key": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots",
-      "date": "2026-08-01"
-    },
-    {
-      "key": "https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now",
-      "date": "2026-08-01"
-    },
-    {
-      "key": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "date": "2026-08-01"
-    },
-    {
-      "key": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year",
-      "date": "2026-08-01"
-    },
-    {
-      "key": "https://openai.com/index/unive",
-      "date": "2026-08-01"
-    },
-    {
-      "key": "https://openai.com/index/building-abundant-intelligence",
-      "date": "2026-08-01"
-    },
-    {
-      "key": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance",
-      "date": "2026-08-01"
-    },
-    {
-      "key": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human",
-      "date": "2026-08-01"
-    },
-    {
-      "key": "https://arxiv.org/abs/2607.26075",
-      "date": "2026-08-01"
-    },
-    {
-      "key": "https://arxiv.org/abs/2607.26313",
-      "date": "2026-08-01"
-    },
-    {
-      "key": "https://arxiv.org/abs/2607.26935",
-      "date": "2026-08-01"
-    },
-    {
-      "key": "https://arxiv.org/abs/2607.26314",
-      "date": "2026-08-01"
-    },
-    {
       "key": "https://www.cnbc.com/2026/07/31/tech-earnings-cash-memory-ai.html",
       "date": "2026-08-02"
     },
@@ -1467,6 +1367,106 @@
     {
       "key": "https://openai.com/index/builders-guide-to-gpt-5-6",
       "date": "2026-08-14"
+    },
+    {
+      "key": "https://openai.com/index/previewing-ultrafast",
+      "date": "2026-08-15"
+    },
+    {
+      "key": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone",
+      "date": "2026-08-15"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "date": "2026-08-15"
+    },
+    {
+      "key": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
+      "date": "2026-08-15"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "date": "2026-08-15"
+    },
+    {
+      "key": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "date": "2026-08-15"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct",
+      "date": "2026-08-15"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
+      "date": "2026-08-15"
+    },
+    {
+      "key": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them",
+      "date": "2026-08-15"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus",
+      "date": "2026-08-15"
+    },
+    {
+      "key": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong",
+      "date": "2026-08-15"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.12133",
+      "date": "2026-08-15"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.11888",
+      "date": "2026-08-15"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.11207",
+      "date": "2026-08-15"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.11215",
+      "date": "2026-08-15"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.11241",
+      "date": "2026-08-15"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.11234",
+      "date": "2026-08-15"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.11683",
+      "date": "2026-08-15"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.12249",
+      "date": "2026-08-15"
+    },
+    {
+      "key": "https://arxiv.org/abs/2509.16749",
+      "date": "2026-08-15"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.12150",
+      "date": "2026-08-15"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.11583",
+      "date": "2026-08-15"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.11604",
+      "date": "2026-08-15"
+    },
+    {
+      "key": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china",
+      "date": "2026-08-15"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.11977",
+      "date": "2026-08-15"
     }
   ]
 }

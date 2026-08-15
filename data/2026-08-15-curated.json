@@ -1,0 +1,177 @@
+[
+  {
+    "headline": "OpenAI previews Ultrafast mode: GPT-5.6 Sol at up to 14X speed, powered by Cerebras",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/previewing-ultrafast",
+    "theme": "Model & Platform",
+    "summary": "OpenAI launched an 'Ultrafast' API tier running GPT-5.6 Sol at up to 750 output tokens per second — 14x faster than standard — powered by Cerebras hardware. This dramatically reduces latency for enterprise agentic workflows and real-time applications, and signals OpenAI's willingness to partner with alternative chip makers beyond Nvidia for inference workloads."
+  },
+  {
+    "headline": "Meta releases Glimmer open-weight AI model alongside locked Muse Spark, reigniting 'open AI' debate",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+    "theme": "AI Strategy",
+    "summary": "Meta released Glimmer, an open-weight model anyone can download, while keeping its more powerful Muse Spark model locked behind proprietary APIs. Zuckerberg published a letter arguing AI should be 'for everyone,' but the two-tier strategy highlights the tension between open-source positioning and commercial moat-building that enterprise buyers must navigate when choosing AI partners."
+  },
+  {
+    "headline": "Apple trained a custom AI model for China with Alibaba's help",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+    "theme": "AI Strategy",
+    "summary": "Apple reportedly developed a custom LLM for the China market in partnership with Alibaba, departing from its previous strategy of relying on third-party models. The cross-border collaboration navigates US-China tech tensions and signals that major tech companies will increasingly build market-specific AI models to comply with local regulations while maintaining competitive position in the world's second-largest economy."
+  },
+  {
+    "headline": "Microsoft is combining Copilot apps into a single 'super app'",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
+    "theme": "AI Strategy",
+    "summary": "Microsoft is merging its consumer and commercial Copilot AI assistants into a single unified app, ending the confusing dual-app experience. This consolidation matters for enterprise IT departments managing Copilot rollouts, as it simplifies deployment and signals Microsoft's intent to make Copilot the single AI interface across personal and work contexts."
+  },
+  {
+    "headline": "OpenAI is losing its second executive this week as CRO Denise Dresser departs",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+    "theme": "Funding & M&A",
+    "summary": "OpenAI CRO Denise Dresser, the former CEO of Slack who joined just last December, is leaving weeks after COO Brad Lightcap's departure. Wiz President Dali Rajic will take over the revenue role. The continued executive churn at OpenAI raises questions about organizational stability at the most prominent AI company, particularly as it scales enterprise sales."
+  },
+  {
+    "headline": "OpenAI appoints Wiz's Dali Rajic as Chief Revenue Officer",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+    "theme": "Funding & M&A",
+    "summary": "OpenAI hired Dali Rajic, president and COO of cybersecurity unicorn Wiz, as its new CRO to lead global enterprise revenue. The appointment of a seasoned enterprise sales leader from a $12B+ valued company signals OpenAI's intensifying push to convert its consumer dominance into durable B2B revenue streams."
+  },
+  {
+    "headline": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+    "theme": "AI Risk",
+    "summary": "Natural gas prices could triple in some parts of the US, potentially saddling hyperscalers like Microsoft, Google, and Amazon with massive energy bills for AI data centers. Companies that locked in natural gas-dependent infrastructure strategies may face significant cost overruns, raising the total cost of AI compute and potentially affecting pricing for enterprise AI services."
+  },
+  {
+    "headline": "Google will now allow users to remove visible watermarks from AI-generated content",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+    "theme": "AI Ethics & Trust",
+    "summary": "Google is making visible watermarks on AI-generated images, videos, and music optional while maintaining invisible SynthID watermarks. This move balances commercial usability with provenance tracking, but raises concerns about AI-generated content being passed off as authentic — a growing risk for brands, media companies, and any organization concerned about deepfakes."
+  },
+  {
+    "headline": "People are 'marrying' chatbots — lawmakers are drafting legislation to stop them",
+    "source": "Wired AI",
+    "url": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
+    "theme": "Regulatory",
+    "summary": "Republican state lawmakers are drafting legislation to explicitly prevent legal recognition of human-AI marriages as the practice of forming deep emotional bonds with chatbots grows. This represents an early signal of how AI companion products may face regulatory constraints that could affect companies like Character.AI and Replika."
+  },
+  {
+    "headline": "Kog raises funding to squeeze more inference out of GPUs for agentic workloads",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+    "theme": "Funding & M&A",
+    "summary": "French startup Kog challenges the assumption that GPUs are poorly suited for agentic AI workflows, developing technology to optimize GPU inference for multi-step agent tasks. As enterprises grapple with the cost of running AI agents at scale (token anxiety), startups that can reduce inference costs per agent action could capture significant infrastructure market share."
+  },
+  {
+    "headline": "Meta's 'open' AI strategy and a $250M deal gone very wrong",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+    "theme": "AI Risk",
+    "summary": "A $250M AI deal has reportedly gone badly wrong, alongside analysis of Meta's dual open/closed AI strategy. The deal failure illustrates the risks enterprises face when making large AI commitments — a cautionary tale as companies increase AI spending without clear ROI frameworks."
+  },
+  {
+    "headline": "GUIDE: Multi-agent system reduces enterprise document processing from 2-3 days to automated workflow",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.12133",
+    "theme": "Enterprise ROI",
+    "summary": "Researchers introduced GUIDE, a governed multi-agent LLM system for enterprise document-to-artifact generation that addresses hallucinated content and table structure degradation. The paper notes that enterprises currently spend 2-3 days manually processing complex guideline documents — a concrete ROI benchmark for agentic automation in back-office operations."
+  },
+  {
+    "headline": "Research finds agent skills can be harmful: comprehensive study of skill-induced failures in LLM agents",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.11888",
+    "theme": "Agentic AI",
+    "summary": "A comprehensive study found that reusable 'skills' added to LLM agents — widely promoted as best practice — can actually reduce success rates, increase token consumption, and extend execution time. This is a cautionary finding for enterprises deploying agentic AI, suggesting that more capability doesn't always mean better outcomes and that agent design requires careful testing."
+  },
+  {
+    "headline": "Multi-LLM agent systems collapse without governance: research proposes control-theoretic solution",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.11207",
+    "theme": "Agentic AI",
+    "summary": "Researchers found that when two LLM agents with opposing objectives interact without a shared governance framework, conversations don't produce competition — they produce collapse, with one agent capitulating and outcomes deteriorating. The paper proposes a control-theoretic governance layer, directly relevant to enterprises deploying multi-agent systems for complex workflows."
+  },
+  {
+    "headline": "Poor Man's Agentic Modeling: simulating large LLM agent societies on a laptop",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.11215",
+    "theme": "Agentic AI",
+    "summary": "Researchers demonstrated that large-scale LLM agent simulations can be run on commodity hardware by replacing full LLM agents with low-parameter surrogate models fitted from a few hundred API calls. This could dramatically reduce the cost of testing multi-agent enterprise systems before deployment, addressing token anxiety around agent-at-scale economics."
+  },
+  {
+    "headline": "RecSys Factory exposes autonomy-determinism-efficiency trilemma for LLM agents in industrial recommender systems",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.11241",
+    "theme": "Agentic AI",
+    "summary": "Researchers formalized a fundamental 'autonomy-determinism-efficiency trilemma' for deploying LLM agents in production recommender systems: you can maximize any two of general autonomy, industrial determinism (no compliance hallucinations), and efficiency — but not all three. This framework is directly useful for enterprise leaders evaluating agentic AI deployments where compliance and reliability are non-negotiable."
+  },
+  {
+    "headline": "InfraBench: first comprehensive benchmark for AI agents managing real-world computing infrastructure",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.11234",
+    "theme": "Agentic AI",
+    "summary": "InfraBench introduces the first benchmark for evaluating AI agents on realistic infrastructure management tasks across the full system stack. As companies consider using AI agents for DevOps and IT operations, this benchmark reveals how far current agents can go — and where they still fail in handling real-world infrastructure complexity."
+  },
+  {
+    "headline": "FrontierFinance benchmark reveals gaps in AI agents for professional investment research",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.11683",
+    "theme": "Agentic AI",
+    "summary": "A new benchmark for evaluating AI finance agents across the full investor workflow shows that while current models have saturated simple data extraction tasks, they struggle with the open-ended, multi-step reasoning real analysts require. This matters for financial services firms investing heavily in AI-driven research tools — current capabilities may be overstated."
+  },
+  {
+    "headline": "Agentic workflow successfully modernizes legacy Fortran HPC code at production scale",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.12249",
+    "theme": "Enterprise ROI",
+    "summary": "Researchers demonstrated an agentic LLM workflow that converts legacy Fortran code in the GAMESS computational chemistry system, using three specialized agent roles under version control. Legacy code modernization is a multi-billion-dollar enterprise pain point, and this work provides concrete evidence that AI agents can handle production-scale code transformation tasks that organizations have deferred for decades."
+  },
+  {
+    "headline": "LLM-generated cybersecurity detection rules benchmarked against human-generated corpus",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2509.16749",
+    "theme": "Enterprise ROI",
+    "summary": "An open-source framework benchmarks LLM-generated cybersecurity detection rules against human-written ones, providing the first standardized metrics for this use case. As security operations centers face chronic staffing shortages, this research quantifies where AI can augment or replace manual rule writing — a direct cost and efficiency question for CISOs."
+  },
+  {
+    "headline": "Research shows LLM model rankings change dramatically based on token budget allocation",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.12150",
+    "theme": "Research to Business",
+    "summary": "A study of 56,476 inferences across four models found that model performance rankings shift significantly depending on token generation budgets (64 to 4,096 tokens), with 3-19% of tasks showing non-monotone behavior where more tokens actually decreased accuracy. This challenges how enterprises evaluate and select AI models — the 'best' model depends entirely on your inference budget constraints."
+  },
+  {
+    "headline": "Safety alignment in LLMs found concentrated in small parameter subsets, raising security concerns",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.11583",
+    "theme": "AI Risk",
+    "summary": "Researchers found that safety-aligned refusal behavior in large language models is concentrated in a small set of MLP layers and mid-network blocks rather than distributed across the entire network. This means safety guardrails are more brittle than assumed — a critical finding for enterprises deploying LLMs in regulated environments, as targeted manipulation of a few parameters could bypass safety measures."
+  },
+  {
+    "headline": "Learning from online shopping agent user feedback shows massive untapped signal in conversational logs",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.11604",
+    "theme": "Enterprise ROI",
+    "summary": "Research demonstrates that natural conversational feedback from users interacting with LLM-based shopping agents contains rich supervision signals that existing systems largely ignore by relying on offline training data. For e-commerce companies deploying AI agents, this suggests a significant opportunity to improve agent performance using interaction data they're already collecting but not leveraging."
+  },
+  {
+    "headline": "The Unitree G1 robot is becoming a social media influencer — but can it hold a real job?",
+    "source": "Wired AI",
+    "url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
+    "theme": "AI Strategy",
+    "summary": "The 4-foot-tall Unitree G1 humanoid robot from China has gained viral social media fame as a relatively affordable platform that can charm crowds. The story highlights China's growing competitiveness in embodied AI and the gap between viral demonstrations and actual commercial utility — a pattern business leaders should recognize from software AI hype cycles."
+  },
+  {
+    "headline": "Tool-using LLM agents fail in production because they're trained only on success scenarios",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.11977",
+    "theme": "AI Risk",
+    "summary": "Researchers found that LLM agents trained on benchmarks where tool calls always succeed are poorly equipped for production environments where tools fail transiently, persistently, or silently. Their BENCH2ROBUST framework converts clean benchmarks into failure-injected versions, revealing that agents need to learn when to retry, switch strategies, or abstain — a critical gap for enterprise agentic deployments."
+  }
+]
