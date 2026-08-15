@@ -84,7 +84,14 @@
         "source": "Energize Marketing",
         "url": "https://energizemarketing.com/2026-state-of-demand-generation-report/",
         "fullText": "This report, based on a survey of over 300 tech marketing decision-makers, highlights the shift towards pipeline impact, account focus, and execution efficiency in B2B marketing.",
-        "day": "saturday"
+        "day": "saturday",
+        "keyNotes": [
+          "A recent study, which surveyed over 300 leaders in tech marketing, shows how businesses are changing their approach to selling to other businesses.",
+          "These marketing leaders are now focusing more on \"pipeline impact,\" which means they care more about how their marketing directly helps create sales opportunities and move them forward.",
+          "Another big change is \"account focus,\" meaning companies are now concentrating their efforts on specific, important customer businesses rather than just trying to reach everyone.",
+          "They are also prioritizing \"execution efficiency,\" which means they want their marketing activities to be done in the most effective and least wasteful way possible."
+        ],
+        "question": "The report highlights that marketing leaders are now prioritizing how their work directly leads to sales (\"pipeline impact\") and focusing on specific, important customers (\"account focus\"). In your own work, how do you currently measure if your efforts are truly making a direct impact on your organization's main goals, and are you focusing on the most important \"accounts\" or stakeholders?"
       }
     ]
   }
