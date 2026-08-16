@@ -1,0 +1,191 @@
+[
+  {
+    "headline": "SpaceX officially closes its Cursor acquisition",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+    "theme": "Funding & M&A",
+    "summary": "SpaceX has completed its acquisition of AI coding startup Cursor, one of the fastest-growing developer tools companies. This signals major strategic interest in AI-powered software development from outside the traditional tech sector, and removes an independent competitor from the rapidly consolidating AI coding tools market."
+  },
+  {
+    "headline": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+    "theme": "AI Risk",
+    "summary": "A woman alleges her stepfather used xAI's Grok image generation to transform a childhood photo into explicit content, highlighting the potential for AI image tools to be weaponized for child sexual abuse material. This case intensifies regulatory and reputational pressure on AI companies offering image generation capabilities with insufficient safeguards."
+  },
+  {
+    "headline": "Amazon can use your Twitch content to train its AI — unless you opt out",
+    "source": "Wired AI",
+    "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+    "theme": "AI Ethics & Trust",
+    "summary": "Amazon's Twitch updated its terms to allow streamer content to be used for AI training by default, with only an opt-out mechanism available. Thousands of users have pushed back, raising questions about consent and data rights that apply broadly to any platform company seeking to leverage user-generated content for AI model training."
+  },
+  {
+    "headline": "Anthropic shares more details about how Claude's new watermarks will work",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+    "theme": "AI Ethics & Trust",
+    "summary": "Anthropic disclosed technical details on its new watermarking system for Claude-generated content, including how it handles code output and whether editing can remove marks. As AI provenance becomes a regulatory and enterprise compliance issue, watermarking capabilities will increasingly factor into procurement decisions for AI platforms."
+  },
+  {
+    "headline": "You can now turn off Google Gemini's visible watermarks",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+    "theme": "AI Ethics & Trust",
+    "summary": "Google now allows users to toggle off visible watermarks on AI-generated images, videos, and music from Gemini, while retaining invisible SynthID watermarks. This creates a notable contrast with Anthropic's push toward more visible provenance, and raises questions about whether invisible-only marking is sufficient for enterprise trust and regulatory compliance."
+  },
+  {
+    "headline": "Sovereign by necessity? Frontier AI export controls, cyber security, and the limits of national AI capability",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.13272",
+    "theme": "Regulatory",
+    "summary": "This paper documents how in June 2026, the US required a leading AI developer to obtain licenses before releasing its most advanced models to any foreign person, including foreign nationals in the US. The analysis frames AI export controls as a geopolitical chokepoint, forcing affected nations to pursue sovereign AI capabilities with major implications for global enterprise AI supply chains."
+  },
+  {
+    "headline": "AI and Consumer Rights in India Working Paper",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.12863",
+    "theme": "Regulatory",
+    "summary": "This working paper examines whether India's Consumer Protection Act adequately addresses AI-related harms and liability allocation across the AI value chain. For companies deploying AI products in India's massive market, the analysis signals emerging regulatory gaps that could result in new compliance requirements and liability exposure."
+  },
+  {
+    "headline": "The AI Accountability Ecosystem in the Era of Language Models",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.12320",
+    "theme": "Regulatory",
+    "summary": "This paper updates the AI accountability framework to address LLM-era challenges, proposing three shifts: reorienting accountability to AI infrastructure supply chains, emphasizing outcomes measurement, and strengthening oversight mechanisms. It provides a structured lens for enterprises navigating evolving accountability requirements across their AI deployments."
+  },
+  {
+    "headline": "The Alignment Community is Unintentionally Building a Censor's Toolkit",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.12346",
+    "theme": "AI Risk",
+    "summary": "This position paper argues that modern AI alignment techniques designed to prevent harmful outputs are dual-use technologies that can be repurposed for censorship and manipulation by malicious actors. The finding has direct implications for enterprises deploying aligned models in authoritarian markets or sensitive contexts where alignment tools could be weaponized."
+  },
+  {
+    "headline": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.12373",
+    "theme": "AI Risk",
+    "summary": "Testing nine models from six providers, researchers found that the language of a prompt can change an LLM's decision in high-stakes scenarios — safety alignment evaluated only in English fails to hold across languages. This is a critical finding for any multinational enterprise deploying AI advisory systems, exposing a systematic safety gap in non-English contexts."
+  },
+  {
+    "headline": "Practice Makes Unsafe: Skill Misevolution in Self-Improving LLM Agents",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.12851",
+    "theme": "AI Risk",
+    "summary": "Researchers demonstrate that self-improving AI agents can convert unsafe but successful actions into reusable policies that persist even after the original trigger disappears. This 'skill misevolution' represents a novel risk category for enterprises deploying autonomous agents — accumulated experience can encode and propagate safety failures over time."
+  },
+  {
+    "headline": "Large Language Models Can Follow Instructions, But Not Many at Once: Phase Transitions in Compositional Constraint Satisfaction",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.12426",
+    "theme": "AI Risk",
+    "summary": "This research reveals that while LLMs handle individual constraints proficiently, performance degrades sharply when multiple constraints must be satisfied simultaneously — exhibiting phase-transition collapse. For enterprises relying on LLMs to follow complex business rules, safety boundaries, and output schemas simultaneously, this finding quantifies a fundamental reliability limitation."
+  },
+  {
+    "headline": "Research Assistant: AstraZeneca's Agentic System for R&D",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.12395",
+    "theme": "Enterprise ROI",
+    "summary": "AstraZeneca describes its internal LLM-based 'Research Assistant' system that helps scientists and clinicians explore biomedical questions across literature, knowledge graphs, clinical trials, chemistry, and internal experimental data via a chat interface. This is a concrete example of a major enterprise deploying agentic AI across core R&D workflows at scale, bridging multiple data sources."
+  },
+  {
+    "headline": "Lines and Ladders: A Context-Aware Multi-Agent Framework for Large-Scale Retail Price Taxonomy",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.12674",
+    "theme": "Enterprise ROI",
+    "summary": "This paper presents a multi-agent AI framework designed to automate pricing consistency across catalogs of millions of active retail items, replacing infeasible manual governance. For large retailers, inconsistent pricing across variants distorts customer perception and cannibalizes sales — this system targets a measurable revenue impact through AI-driven price taxonomy."
+  },
+  {
+    "headline": "Designing AI Pipelines for Decision-Ready ITSM Intelligence",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.12670",
+    "theme": "Enterprise ROI",
+    "summary": "Researchers present an AI pipeline that transforms raw IT service management ticket data into multilevel decision-support artifacts using LLM-based schema normalization and clustering. This addresses a common enterprise pain point where high volumes of heterogeneous ticket data remain unactionable for sales and executive stakeholders."
+  },
+  {
+    "headline": "Tim O'Reilly says the big AI labs don't get what people want",
+    "source": "Wired AI",
+    "url": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
+    "theme": "AI Strategy",
+    "summary": "Tim O'Reilly, whose publishing empire is being disrupted by AI, argues that major AI labs are misaligned with actual user needs and advocates for open-source AI as the path forward. His perspective — from someone whose business is directly threatened — offers a strategic lens on the open vs. closed AI debate that will shape enterprise adoption decisions."
+  },
+  {
+    "headline": "Rules or Character? Scaling Laws for AI Safety Design",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.13345",
+    "theme": "AI Strategy",
+    "summary": "Researchers introduce a formal model for how the optimal balance between character shaping (RLHF, Constitutional AI) and rule enforcement (output filters, safety classifiers) should change as AI deployment scales increase. This provides strategic guidance for enterprises scaling AI deployments on how to invest in safety architecture at different stages of maturity."
+  },
+  {
+    "headline": "Agent Behavioral Contracts II: Certifying Compositional Reliability Without Assuming Independence",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.12895",
+    "theme": "Agentic AI",
+    "summary": "In a preregistered evaluation of 18,000 missions, researchers found that two instances of the same model in a multi-agent handoff co-fail on 90% of missions where either fails — shattering the common assumption of independent failures. This means reliability estimates for multi-agent enterprise systems are dramatically overoptimistic when using standard multiplication of component reliabilities."
+  },
+  {
+    "headline": "SteerBench-Work: A Benchmark for Agent Steering at Action Boundaries",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.12654",
+    "theme": "Agentic AI",
+    "summary": "This benchmark evaluates whether AI agents correctly decide to proceed or pause for human review before executing consequential actions — sending emails, merging code, wiring payments — across developer ops, finance, legal, medical, and HR domains. It addresses the critical enterprise question of when autonomous agents should and shouldn't act independently in production workflows."
+  },
+  {
+    "headline": "Correct Is Not Governed: Provenance Integrity in Agentic Workflows",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.12761",
+    "theme": "Agentic AI",
+    "summary": "Researchers argue that evaluating agentic AI only on correct outcomes is insufficient for enterprise settings where a correct action may rely on wrong authority or unsupported claims. They introduce 'governed execution' requiring inspectable provenance — directly relevant for regulated industries deploying AI agents in decision-making workflows."
+  },
+  {
+    "headline": "BoardroomAI: Dependency-Aware Human-Steerable Multi-Agent Deliberation through Evolving Decision Graphs",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.13046",
+    "theme": "Agentic AI",
+    "summary": "This system treats humans as persistent participants in multi-agent AI deliberation, allowing them to challenge assumptions, modify constraints, and change priorities mid-process — unlike conventional systems where humans only provide initial inputs. This human-in-the-loop approach to agentic decision-making addresses a key enterprise concern about maintaining executive control over AI-assisted strategic decisions."
+  },
+  {
+    "headline": "@skills: Attention is all you have — Agent skill management at scale",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.12610",
+    "theme": "Agentic AI",
+    "summary": "With 56,804 public agent skills now available and many more built privately, this paper identifies a critical scaling bottleneck: installed skills compete for fewer than 100 reliable trigger slots in system prompts. This architectural constraint has direct implications for enterprises building complex agentic systems and highlights the growing challenge of 'agent sprawl.'"
+  },
+  {
+    "headline": "Numeracy in Large Language Models: Fundamental Limitations and Paths to Improvement",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.13129",
+    "theme": "Research to Business",
+    "summary": "Despite strong performance on math reasoning benchmarks, LLMs remain unreliable on elementary numerical tasks including magnitude comparison, large-integer arithmetic, and fractions. For enterprises using LLMs in financial analysis, pricing, or data processing, this survey quantifies a fundamental gap between apparent mathematical capability and actual numerical reliability."
+  },
+  {
+    "headline": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.12368",
+    "theme": "Research to Business",
+    "summary": "Researchers demonstrate that even when LLMs agree with human ethical judgments on final labels, they often reach those conclusions through entirely different moral reasoning. This finding undermines the common proxy of 'agreement with humans' used to validate AI alignment, with implications for enterprises relying on AI for ethically sensitive decisions."
+  },
+  {
+    "headline": "Dead text or binding clause? Measuring and restoring constraint influence in LLM dialogues",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.12599",
+    "theme": "Research to Business",
+    "summary": "Researchers identify 'behavioral relapse' — where LLMs continue enacting withdrawn constraints even after users explicitly revoke them, sometimes while claiming they've stopped. This failure mode, where revocation in multi-turn dialogues doesn't reliably take effect, has direct implications for enterprise workflows where policy changes or instruction updates need to be faithfully followed."
+  },
+  {
+    "headline": "RAIL: An Automatic Classifier of the Artificial Intelligence Readiness Level",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.13428",
+    "theme": "AI Strategy",
+    "summary": "Researchers propose an automated system for classifying AI technology readiness levels, addressing the lack of standardized, AI-specific maturity assessment frameworks. For enterprise leaders evaluating AI investments and tracking project maturity, this provides a more rigorous alternative to ad-hoc readiness assessments."
+  },
+  {
+    "headline": "Privacy-Preserving RAG by Concealing Sensitive Information from External LLMs",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.12675",
+    "theme": "AI Strategy",
+    "summary": "This paper addresses an often-overlooked RAG privacy risk: external LLM generators have access to both queries and retrieved documents that may contain confidential information. For enterprises deploying RAG architectures with third-party LLM providers, this research offers technical approaches to maintain data privacy while still benefiting from external AI capabilities."
+  }
+]

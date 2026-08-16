@@ -1,118 +1,6 @@
 {
   "sent": [
     {
-      "key": "https://www.cnbc.com/2026/07/31/tech-earnings-cash-memory-ai.html",
-      "date": "2026-08-02"
-    },
-    {
-      "key": "https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html",
-      "date": "2026-08-02"
-    },
-    {
-      "key": "https://www.cnbc.com/2026/07/31/apple-aapl-amazon-amzn-stock-today.html",
-      "date": "2026-08-02"
-    },
-    {
-      "key": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
-      "date": "2026-08-02"
-    },
-    {
-      "key": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
-      "date": "2026-08-02"
-    },
-    {
-      "key": "https://www.cnbc.com/2026/07/31/sk-hynix-samsung-ai-rally-chipmakers.html",
-      "date": "2026-08-02"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNDlvZ01CUDJmdGN1OGhjMjg1UnNzVTkzV1kxelFpRnBmM3Q2ZkJUUGkzWkdHd3ZWSVluSGdreUltZ2hqOVJzbVBUX2k0bEJEdVpJYTFQdmNPN3drckxuRDR2bFVUVWFTNjlBcjdQa2xSVGhxSUMtaTBnZXVFY1REVmk5YkFfUGpjdUpudi1xRFA1MzVkNHY0M0FIeWluQXBlRFNkX2ZJUEFHQjVtcmpjUjYzWTJjQUx5VHM2Qm9jOVlVcDFFa3V5Q2J0aVRneDR0SlVZZWpCMWUzT3Izem1tckt5TDRGQl91cXVlMUVLR3FLVzN5Sjhr0gH8AUFVX3lxTE5MeDYzQlRzM1p4NjB4VllrZUpOZmZBc1NpaXlOblZYTlQ2Vlh4cU9kNS13WXZFU1pBM0Y0OUdadW95WmJCY25lUmxIUzJpdU80TERUbWRETE5wVXpQMFVwR2VRV2Jjb3pWT21QYlZSMVpMLW50SlZOeW1wTHFGRkRJWXVWX2lCYVhqQUhpUEhwZUhzWlF2emdvRlRGc2llUEtVR2phLXVJRG1HREVyUGxSdWptZi04Y2VXbTVZQzVWWXlyeUMyZ1ZZZlgya0J5czQ4WFE2VmhjbFQxeFVQMm1hV0VJSU1VWjZwYnB5QW55U2ZzTXRUeGdZaF9WSg",
-      "date": "2026-08-02"
-    },
-    {
-      "key": "https://www.cnbc.com/2026/07/30/open-ai-hugging-face-hack-latest.html",
-      "date": "2026-08-02"
-    },
-    {
-      "key": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account",
-      "date": "2026-08-02"
-    },
-    {
-      "key": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal",
-      "date": "2026-08-02"
-    },
-    {
-      "key": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off",
-      "date": "2026-08-02"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVHFSSFZZeGtZT1BCbGNjZDNKTzhEbnRrbEdSRTFJd0p5ZDFNOWVOU3hvRTI5NVZaY2FKV25QQXlVNkdJVTJGbFQySnc0ZU1zWjR5V2RacW0tR2Y3aVgza0sxWXRUSG1qSnRva3NVMHNYV0pfandWU2lGWWJ2djNFVzBXc3JsR3d5T0lWOXpORU16WmtqbVB1Tl9oQWo3U2ZyNXZ6aEw3UUNlQVZkWmE1VWdaS2U2UQ",
-      "date": "2026-08-02"
-    },
-    {
-      "key": "https://hbr.org/2026/09/how-ai-agents-orchestrate-work-across-silos",
-      "date": "2026-08-02"
-    },
-    {
-      "key": "https://hai.stanford.edu/news/ai-coding-agents-fail-at-teamwork",
-      "date": "2026-08-02"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdDNrc19HWWVwbGkwMXhxeWNnWnFjdWFyY0V6cWg5WlB4aTk2amFoUWpsb3lUS0FBRnlJYk5KZW1TUExhSkdvRTNCWWJTWDZzX3RwLUVNWVRsQ0VvclhxRmswUzBNNzl5MWdCRGxiLXd2U3FmQmxRcm1Xc00xdzBMWlV2N1ZzQ05FQ04wS0hUNDc3ZWtSZzdDdHBPZHBNb3hQSzRLOGl6cDdZTTdtVjcyMg",
-      "date": "2026-08-02"
-    },
-    {
-      "key": "https://www.cnbc.com/2026/07/31/us-lawmakers-doordash-chinese-ai-models.html",
-      "date": "2026-08-02"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps",
-      "date": "2026-08-02"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYlZWWUtORGVNb0p1ekVrS1F3U0NFbl9KbDh5UWRPQlZ2dlM1MHI2Q1FjVUwtSURpQXA0SFNmQmtiOXN5MF9DWEZKVVF4RDRWWXl4bVRvUWhkSDBtWllEdndJa0ZIb0ZSM1dLM3V4elU5eDFYUTU2NVgtQWlqWHFFQ3haZWNYYlQxRjNnRUl5WE5DQTd0QjFORUlnQ1lUMFdvN3p1QkpR",
-      "date": "2026-08-02"
-    },
-    {
-      "key": "https://hbr.org/2026/07/are-you-spending-wisely-on-ai",
-      "date": "2026-08-02"
-    },
-    {
-      "key": "https://hbr.org/2026/07/the-hidden-realities-of-ai-adoption",
-      "date": "2026-08-02"
-    },
-    {
-      "key": "https://hbr.org/2026/07/ai-and-the-looming-competition-for-margin",
-      "date": "2026-08-02"
-    },
-    {
-      "key": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-      "date": "2026-08-02"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOXB1eVp3R3Z2aC1wcVNtcmpEX3BSMzVBSi0zbGhrYjdHQkMzZU1JSmhPQzVYc2ZPWm9xc1NKMV9fakxweGpySGRFRkgzVDI1aDZUUk5USU5xUXFLWGRGbFNPQ2VrVVdPMUowekdpUHFvY2E5MWhWOXVTc0NYZEJYblJVSWRWaUctbFdfVFBLZzlNV3VzRXphajlqZktNUEZPQldnazVwVTMxdzZBdzd2UtIBsAFBVV95cUxPOXB1eVp3R3Z2aC1wcVNtcmpEX3BSMzVBSi0zbGhrYjdHQkMzZU1JSmhPQzVYc2ZPWm9xc1NKMV9fakxweGpySGRFRkgzVDI1aDZUUk5USU5xUXFLWGRGbFNPQ2VrVVdPMUowekdpUHFvY2E5MWhWOXVTc0NYZEJYblJVSWRWaUctbFdfVFBLZzlNV3VzRXphajlqZktNUEZPQldnazVwVTMxdzZBdzd2Ug",
-      "date": "2026-08-02"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0hQcXlIMVB5UFFwVXM1Y0pZQm5XOXBzUmNveTg4RjZCc2RNdjdOVFV4U2JDZWdrTTRuTVROZ3lodE5FRVpielNWTVUyaFJkQlhHLVZmSVBWc1BRUHhNS1dNUjNTZ1lCb0drYk9pQ2hLQUtIUXlQUUc4eDNGVGYxOVQ5S1JSaDF0Q3BKSFFncDBKYUZCVV9fTm1aZXd6bjZKanB2dg",
-      "date": "2026-08-02"
-    },
-    {
-      "key": "https://hai.stanford.edu/news/the-ai-sovereignty-paradox-should-countries-buy-build-or-lease-to-maintain-strategic-control-of-their-ai",
-      "date": "2026-08-02"
-    },
-    {
-      "key": "https://hbr.org/2026/07/when-employees-are-held-accountable-for-ai-generated-decisions",
-      "date": "2026-08-02"
-    },
-    {
-      "key": "https://hbr.org/2026/07/embrace-ai-without-damaging-trust-lessons-from-the-financial-times",
-      "date": "2026-08-02"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JUExfSEVWM055U2N6eWNudlBvSnRVMW14RWVVMmhwdTdTd0t3TGExVGdzQnFMaUs1NU84U2NSLTBkdjk0cjgzcjUzVXN4ZUVNZU1rSGM3UFViU0lRMDFXWlNvenFtUktPWHVUYkdPN0dYZXBORmw1cm9LdTRFLWM",
-      "date": "2026-08-02"
-    },
-    {
       "key": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSXdHMGozYXdkNEpCTEIxZHp5clAwaEJoVnQtaGwtbXJESm5lbUZrNTA5a3hGeEVyNDdJRTZtT1dPSEY5TDFwSldMNi13X1BUazgtbFNxbHRyYnRaNE4tWERBNm9pR2RocXJiZWRRcDJqb05YSTBQZWQ2LWRLdTc2Z0htc3poT1lKZmJBcTUxNFRNMkVydU9VaTJNdjNRdw",
       "date": "2026-08-03"
     },
@@ -1467,6 +1355,114 @@
     {
       "key": "https://arxiv.org/abs/2608.11977",
       "date": "2026-08-15"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition",
+      "date": "2026-08-16"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery",
+      "date": "2026-08-16"
+    },
+    {
+      "key": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out",
+      "date": "2026-08-16"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+      "date": "2026-08-16"
+    },
+    {
+      "key": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "date": "2026-08-16"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.13272",
+      "date": "2026-08-16"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.12863",
+      "date": "2026-08-16"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.12320",
+      "date": "2026-08-16"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.12346",
+      "date": "2026-08-16"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.12373",
+      "date": "2026-08-16"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.12851",
+      "date": "2026-08-16"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.12426",
+      "date": "2026-08-16"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.12395",
+      "date": "2026-08-16"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.12674",
+      "date": "2026-08-16"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.12670",
+      "date": "2026-08-16"
+    },
+    {
+      "key": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want",
+      "date": "2026-08-16"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.13345",
+      "date": "2026-08-16"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.12895",
+      "date": "2026-08-16"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.12654",
+      "date": "2026-08-16"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.12761",
+      "date": "2026-08-16"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.13046",
+      "date": "2026-08-16"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.12610",
+      "date": "2026-08-16"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.13129",
+      "date": "2026-08-16"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.12368",
+      "date": "2026-08-16"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.12599",
+      "date": "2026-08-16"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.13428",
+      "date": "2026-08-16"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.12675",
+      "date": "2026-08-16"
     }
   ]
 }
