@@ -1,0 +1,54 @@
+{
+  "date": "2026-08-16",
+  "type": "recap-week",
+  "topicA": "B2B SEO in the Age of AI Search",
+  "topicB": "Demand Generation at Scale",
+  "recap": {
+    "intro": "This week you explored two areas of B2B marketing: how AI is changing search engine optimization and the evolving world of demand generation.",
+    "bullets": [
+      "Even with new AI search tools, businesses that focus on being clear and trustworthy online are well-prepared.",
+      "Many B2B marketing teams are no longer using the total number of early-stage leads as their main measure of success.",
+      "Building brand trust is becoming even more important, as people often choose a brand they know even if AI suggests another.",
+      "Poor customer data and disagreements between marketing and sales can lead to a significant loss of potential customers."
+    ],
+    "closing": "This week you learned that while technology evolves, foundational principles like trust, data quality, and clear goals remain crucial for B2B marketing success."
+  },
+  "resources": [
+    {
+      "headline": "AI Search Only Feels New If Your SEO Was Shallow via @sejournal, @slobodanmanic",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/ai-search-only-feels-new-if-your-seo-was-shallow/584115/",
+      "topic": "B2B SEO in the Age of AI Search"
+    },
+    {
+      "headline": "AI’s Impact Is Outrunning Measurement: The Trust And Attribution Gap Facing Brands via @sejournal, @gregjarboe",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/ais-impact-is-outrunning-measurement-the-trust-and-attribution-gap-facing-brands/584141/",
+      "topic": "B2B SEO in the Age of AI Search"
+    },
+    {
+      "headline": "Gen Z Now Treats Claude And OpenAI Like Consumer Brands, But Trust Is Still An Issue via @sejournal, @gregjarboe",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/gen-z-now-treats-claude-and-openai-like-consumer-brands-but-trust-is-still-an-issue/584449/",
+      "topic": "B2B SEO in the Age of AI Search"
+    },
+    {
+      "headline": "Most B2B demand gen teams have abandoned MQL volume as their primary success metric",
+      "source": "MarketScale",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTXNZeHdsQmVFX1VsUnNCdGtzdl9KMGx4Xzc3U2tJaV9nRWtVMkNrSExyaVh0emQxNHVYaGZUUTFuMmJoMDh0eTJjQ2NNQ0NROVQ5cDRkVE1ObFlRazNKZGlmTEF2aVM4WWpYSEZCcW5EalkwX1BEcEhQYVdOMmVBRTVFdTBKcXFLcGVjU0M0Sld2TE90amdGel9IVU5BSDZiZDc4bGRDZ3ZjWGtGUnNxejl4NENMTktmbmJGOHBLWUxrWVRsdnlDZVRyUzRYVzBpRVRV?oc=5",
+      "topic": "Demand Generation at Scale"
+    },
+    {
+      "headline": "What Makes Demand Generation Hard to Scale in Tech",
+      "source": "The Pedowitz Group",
+      "url": "https://www.pedowitzgroup.com/blog/what-makes-demand-generation-hard-to-scale-in-tech",
+      "topic": "Demand Generation at Scale"
+    },
+    {
+      "headline": "2026 State of Demand Generation Report",
+      "source": "Energize Marketing",
+      "url": "https://energizemarketing.com/2026-state-of-demand-generation-report/",
+      "topic": "Demand Generation at Scale"
+    }
+  ]
+}
