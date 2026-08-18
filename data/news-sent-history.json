@@ -1,110 +1,6 @@
 {
   "sent": [
     {
-      "key": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance",
-      "date": "2026-08-04"
-    },
-    {
-      "key": "https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004",
-      "date": "2026-08-04"
-    },
-    {
-      "key": "https://bjorg.bjornroche.com/management/ai-productivity-gap",
-      "date": "2026-08-04"
-    },
-    {
-      "key": "https://arxiv.org/abs/2607.28271",
-      "date": "2026-08-04"
-    },
-    {
-      "key": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops",
-      "date": "2026-08-04"
-    },
-    {
-      "key": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-      "date": "2026-08-04"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
-      "date": "2026-08-04"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
-      "date": "2026-08-04"
-    },
-    {
-      "key": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-      "date": "2026-08-04"
-    },
-    {
-      "key": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics",
-      "date": "2026-08-04"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt",
-      "date": "2026-08-04"
-    },
-    {
-      "key": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals",
-      "date": "2026-08-04"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-      "date": "2026-08-04"
-    },
-    {
-      "key": "https://openai.com/index/circles",
-      "date": "2026-08-04"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem",
-      "date": "2026-08-04"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big",
-      "date": "2026-08-04"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic",
-      "date": "2026-08-04"
-    },
-    {
-      "key": "https://epoch.ai/MirrorCode",
-      "date": "2026-08-04"
-    },
-    {
-      "key": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
-      "date": "2026-08-04"
-    },
-    {
-      "key": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next",
-      "date": "2026-08-04"
-    },
-    {
-      "key": "https://arxiv.org/abs/2607.28677",
-      "date": "2026-08-04"
-    },
-    {
-      "key": "https://arxiv.org/abs/2607.29254",
-      "date": "2026-08-04"
-    },
-    {
-      "key": "https://arxiv.org/abs/2607.29405",
-      "date": "2026-08-04"
-    },
-    {
-      "key": "https://arxiv.org/abs/2607.28650",
-      "date": "2026-08-04"
-    },
-    {
-      "key": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "date": "2026-08-04"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
-      "date": "2026-08-04"
-    },
-    {
       "key": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta",
       "date": "2026-08-05"
     },
@@ -1463,6 +1359,110 @@
     {
       "key": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95cVhDX3ZOU096WGRmMVp2SFlDUWVJdWRRNVZKOEx3N3RYSmJuTmFNd0NHcHFkdDZmM0tlcVQwRjN5aC1tdVBGTTlqRTBja1AwSmQteFpGS1lEeDg",
       "date": "2026-08-17"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b",
+      "date": "2026-08-18"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud",
+      "date": "2026-08-18"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project",
+      "date": "2026-08-18"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation",
+      "date": "2026-08-18"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team",
+      "date": "2026-08-18"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "date": "2026-08-18"
+    },
+    {
+      "key": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "date": "2026-08-18"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.13618",
+      "date": "2026-08-18"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future",
+      "date": "2026-08-18"
+    },
+    {
+      "key": "https://openai.com/index/the-defenders-window",
+      "date": "2026-08-18"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
+      "date": "2026-08-18"
+    },
+    {
+      "key": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing",
+      "date": "2026-08-18"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.13591",
+      "date": "2026-08-18"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.13926",
+      "date": "2026-08-18"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.13754",
+      "date": "2026-08-18"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.13607",
+      "date": "2026-08-18"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.14246",
+      "date": "2026-08-18"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.14074",
+      "date": "2026-08-18"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.14380",
+      "date": "2026-08-18"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.14109",
+      "date": "2026-08-18"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.14036",
+      "date": "2026-08-18"
+    },
+    {
+      "key": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies",
+      "date": "2026-08-18"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.13577",
+      "date": "2026-08-18"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.14014",
+      "date": "2026-08-18"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.13573",
+      "date": "2026-08-18"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.14089",
+      "date": "2026-08-18"
     }
   ]
 }
