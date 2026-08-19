@@ -1,114 +1,6 @@
 {
   "sent": [
     {
-      "key": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta",
-      "date": "2026-08-05"
-    },
-    {
-      "key": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
-      "date": "2026-08-05"
-    },
-    {
-      "key": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
-      "date": "2026-08-05"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year",
-      "date": "2026-08-05"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits",
-      "date": "2026-08-05"
-    },
-    {
-      "key": "https://www.theverge.com/policy/975071/texas-data-center-audit",
-      "date": "2026-08-05"
-    },
-    {
-      "key": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret",
-      "date": "2026-08-05"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains",
-      "date": "2026-08-05"
-    },
-    {
-      "key": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents",
-      "date": "2026-08-05"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.00817",
-      "date": "2026-08-05"
-    },
-    {
-      "key": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "date": "2026-08-05"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress",
-      "date": "2026-08-05"
-    },
-    {
-      "key": "https://www.wired.com/story/mistral-is-in-the-right-place-at-the-right-time",
-      "date": "2026-08-05"
-    },
-    {
-      "key": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck",
-      "date": "2026-08-05"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai",
-      "date": "2026-08-05"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
-      "date": "2026-08-05"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
-      "date": "2026-08-05"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort",
-      "date": "2026-08-05"
-    },
-    {
-      "key": "https://www.wired.com/story/how-data-centers-broke-american-politics",
-      "date": "2026-08-05"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.00101",
-      "date": "2026-08-05"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.00818",
-      "date": "2026-08-05"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.00685",
-      "date": "2026-08-05"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.00339",
-      "date": "2026-08-05"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.00794",
-      "date": "2026-08-05"
-    },
-    {
-      "key": "https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot",
-      "date": "2026-08-05"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls",
-      "date": "2026-08-05"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.00017",
-      "date": "2026-08-05"
-    },
-    {
       "key": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup",
       "date": "2026-08-06"
     },
@@ -1463,6 +1355,106 @@
     {
       "key": "https://arxiv.org/abs/2608.14089",
       "date": "2026-08-18"
+    },
+    {
+      "key": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue",
+      "date": "2026-08-19"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.14588",
+      "date": "2026-08-19"
+    },
+    {
+      "key": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking",
+      "date": "2026-08-19"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month",
+      "date": "2026-08-19"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india",
+      "date": "2026-08-19"
+    },
+    {
+      "key": "https://openai.com/index/asana",
+      "date": "2026-08-19"
+    },
+    {
+      "key": "https://openai.com/index/nvidia/chatgpt-work",
+      "date": "2026-08-19"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform",
+      "date": "2026-08-19"
+    },
+    {
+      "key": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
+      "date": "2026-08-19"
+    },
+    {
+      "key": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "date": "2026-08-19"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.14562",
+      "date": "2026-08-19"
+    },
+    {
+      "key": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+      "date": "2026-08-19"
+    },
+    {
+      "key": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai",
+      "date": "2026-08-19"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.14565",
+      "date": "2026-08-19"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.14903",
+      "date": "2026-08-19"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it",
+      "date": "2026-08-19"
+    },
+    {
+      "key": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+      "date": "2026-08-19"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.14680",
+      "date": "2026-08-19"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.14568",
+      "date": "2026-08-19"
+    },
+    {
+      "key": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "date": "2026-08-19"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development",
+      "date": "2026-08-19"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.14795",
+      "date": "2026-08-19"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.14552",
+      "date": "2026-08-19"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.14707",
+      "date": "2026-08-19"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.14943",
+      "date": "2026-08-19"
     }
   ]
 }
