@@ -1,102 +1,6 @@
 {
   "sent": [
     {
-      "key": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup",
-      "date": "2026-08-06"
-    },
-    {
-      "key": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
-      "date": "2026-08-06"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders",
-      "date": "2026-08-06"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team",
-      "date": "2026-08-06"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google",
-      "date": "2026-08-06"
-    },
-    {
-      "key": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
-      "date": "2026-08-06"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
-      "date": "2026-08-06"
-    },
-    {
-      "key": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree",
-      "date": "2026-08-06"
-    },
-    {
-      "key": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts",
-      "date": "2026-08-06"
-    },
-    {
-      "key": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms",
-      "date": "2026-08-06"
-    },
-    {
-      "key": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery",
-      "date": "2026-08-06"
-    },
-    {
-      "key": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
-      "date": "2026-08-06"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
-      "date": "2026-08-06"
-    },
-    {
-      "key": "https://www.wired.com/story/algorithm-turning-on-ai-influencers-are-humans-worried",
-      "date": "2026-08-06"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases",
-      "date": "2026-08-06"
-    },
-    {
-      "key": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
-      "date": "2026-08-06"
-    },
-    {
-      "key": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
-      "date": "2026-08-06"
-    },
-    {
-      "key": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input",
-      "date": "2026-08-06"
-    },
-    {
-      "key": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna",
-      "date": "2026-08-06"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
-      "date": "2026-08-06"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative",
-      "date": "2026-08-06"
-    },
-    {
-      "key": "https://www.wired.com/story/ai-notetakers-invited-to-the-meetings",
-      "date": "2026-08-06"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out",
-      "date": "2026-08-06"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.02699",
-      "date": "2026-08-06"
-    },
-    {
       "key": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup",
       "date": "2026-08-07"
     },
@@ -1455,6 +1359,110 @@
     {
       "key": "https://arxiv.org/abs/2608.14943",
       "date": "2026-08-19"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity",
+      "date": "2026-08-20"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup",
+      "date": "2026-08-20"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+      "date": "2026-08-20"
+    },
+    {
+      "key": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute",
+      "date": "2026-08-20"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers",
+      "date": "2026-08-20"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "date": "2026-08-20"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+      "date": "2026-08-20"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program",
+      "date": "2026-08-20"
+    },
+    {
+      "key": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes",
+      "date": "2026-08-20"
+    },
+    {
+      "key": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks",
+      "date": "2026-08-20"
+    },
+    {
+      "key": "https://www.wired.com/story/flock-safety-os-investigate",
+      "date": "2026-08-20"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections",
+      "date": "2026-08-20"
+    },
+    {
+      "key": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "date": "2026-08-20"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt",
+      "date": "2026-08-20"
+    },
+    {
+      "key": "https://linear.app/data",
+      "date": "2026-08-20"
+    },
+    {
+      "key": "https://openai.com/index/replit",
+      "date": "2026-08-20"
+    },
+    {
+      "key": "https://artificialanalysis.ai/models/glm-5-3",
+      "date": "2026-08-20"
+    },
+    {
+      "key": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "date": "2026-08-20"
+    },
+    {
+      "key": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+      "date": "2026-08-20"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers",
+      "date": "2026-08-20"
+    },
+    {
+      "key": "https://openai.com/index/chatgpt-for-teens",
+      "date": "2026-08-20"
+    },
+    {
+      "key": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design",
+      "date": "2026-08-20"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.17684",
+      "date": "2026-08-20"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.16891",
+      "date": "2026-08-20"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.17687",
+      "date": "2026-08-20"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required",
+      "date": "2026-08-20"
     }
   ]
 }
