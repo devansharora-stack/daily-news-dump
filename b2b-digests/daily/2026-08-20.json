@@ -1,0 +1,42 @@
+{
+  "date": "2026-08-20",
+  "type": "recap-and-resource",
+  "recapTopic": "B2B Marketing Channels and Demand Generation",
+  "recap": {
+    "intro": "This week, we talked all about how businesses sell to other businesses (B2B) and how they get people interested in what they offer. We looked at the best ways for B2B companies to reach their customers and how they can tell if their marketing is actually working.",
+    "bullets": [
+      "First, we saw that even though traditional stuff like websites (bringing in 30.2% of top results) and email marketing (23.6%) are still super important for businesses selling to other businesses (B2B), new things are shaking things up! Short videos, like the ones you see on TikTok or Instagram, are actually giving the highest return on investment (ROI) for B2B, and even social media shopping tools are surprisingly effective, with 21.9% of marketers calling them a top performer. We also learned that you can't just post the same thing everywhere; you need to make different versions for each platform, like fun videos for Instagram and more serious talks for LinkedIn.",
+      "Then we learned that because marketing is changing so fast (70% of marketers feel their industry changed more in the last three years than in the previous fifty!), the software we use to manage it also needs to keep up. Old tools like Pardot are causing problems because they don't let marketers easily see which efforts actually lead to sales (this is called 'revenue attribution') and their reports aren't customizable. That's why many businesses are looking for new options, often switching to tools like HubSpot, which helps bring all your customer data together and lets you launch campaigns quickly without needing a tech wizard.",
+      "Finally, the big picture is that even with all these cool new channels and tools, actually proving they work is still tricky! For example, YouTube is trying to show that videos made by creators can make more people search for a company's name or product (called 'branded search'), but they don't clearly explain how companies can measure this. Even when a company like Supergoop saw a huge jump in searches (93% for Glowscreen and 55% for the brand name!), it wasn't clear how they knew the video caused it. So, we realized that to really know if a marketing effort is working, you need to measure things carefully, like checking how many people search for your brand *before* a video, and comparing results in places where the video was shown versus where it wasn't."
+    ]
+  },
+  "recapResources": [
+    {
+      "headline": "HubSpot's 2026 Report on Best Marketing Channels for B2B and B2C",
+      "source": "HubSpot",
+      "url": "https://blog.hubspot.com/marketing/marketing-channels"
+    },
+    {
+      "headline": "Pardot alternatives: What B2B marketers are choosing now",
+      "source": "HubSpot Marketing",
+      "url": "https://blog.hubspot.com/marketing/pardot-alternatives"
+    },
+    {
+      "headline": "YouTube Measures Creator Video on Branded Search Lift, But The Attribution Gap Still Exists via @sejournal, @gregjarboe",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/youtube-measures-creator-video-on-branded-search-lift-but-the-attribution-gap-still-exists/584876/"
+    }
+  ],
+  "topic": "Content Marketing Strategy and Operations",
+  "dayLabel": "Day 1 of 3 — Intro",
+  "headline": "Content Operations",
+  "source": "Content Marketing Institute",
+  "url": "https://contentmarketinginstitute.com/strategy-planning/content-operations",
+  "keyNotes": [
+    "The article warns that old, forgotten information you have online can actually hurt your brand, especially because new AI search tools might find and use it in ways you don't expect. This means you need to actively manage all your online content, not just the new stuff.",
+    "Many companies face something called \"content debt,\" which is like having a lot of old, messy, or unhelpful information that needs to be fixed or removed. This problem can make it hard to create good new content or use new technologies effectively.",
+    "New technologies like Artificial Intelligence (AI) are dramatically changing how marketing teams work and what skills they need. The article suggests AI is \"blowing up\" old ways of doing things and reshaping job roles, making it crucial to adapt.",
+    "To handle all this content and new technology, businesses need a clear system for managing their online information, often called \"content operations\" or \"orchestration.\" This helps avoid \"content chaos\" and ensures everything works together smoothly."
+  ],
+  "question": "The article highlights how 'outdated content' can become a 'liability' with new AI search tools. Thinking about the information your organization puts out, what kind of 'old' or 'forgotten' content might unknowingly be shaping how people perceive your brand today?"
+}
