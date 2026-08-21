@@ -1,106 +1,6 @@
 {
   "sent": [
     {
-      "key": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup",
-      "date": "2026-08-07"
-    },
-    {
-      "key": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-      "date": "2026-08-07"
-    },
-    {
-      "key": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
-      "date": "2026-08-07"
-    },
-    {
-      "key": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
-      "date": "2026-08-07"
-    },
-    {
-      "key": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox",
-      "date": "2026-08-07"
-    },
-    {
-      "key": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents",
-      "date": "2026-08-07"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings",
-      "date": "2026-08-07"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai",
-      "date": "2026-08-07"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform",
-      "date": "2026-08-07"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company",
-      "date": "2026-08-07"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400",
-      "date": "2026-08-07"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users",
-      "date": "2026-08-07"
-    },
-    {
-      "key": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "date": "2026-08-07"
-    },
-    {
-      "key": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-      "date": "2026-08-07"
-    },
-    {
-      "key": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier",
-      "date": "2026-08-07"
-    },
-    {
-      "key": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
-      "date": "2026-08-07"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs",
-      "date": "2026-08-07"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
-      "date": "2026-08-07"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.04458",
-      "date": "2026-08-07"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce",
-      "date": "2026-08-07"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.04735",
-      "date": "2026-08-07"
-    },
-    {
-      "key": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-      "date": "2026-08-07"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.04018",
-      "date": "2026-08-07"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.05018",
-      "date": "2026-08-07"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.04625",
-      "date": "2026-08-07"
-    },
-    {
       "key": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
       "date": "2026-08-08"
     },
@@ -1463,6 +1363,106 @@
     {
       "key": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required",
       "date": "2026-08-20"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom",
+      "date": "2026-08-21"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates",
+      "date": "2026-08-21"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses",
+      "date": "2026-08-21"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds",
+      "date": "2026-08-21"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users",
+      "date": "2026-08-21"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router",
+      "date": "2026-08-21"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+      "date": "2026-08-21"
+    },
+    {
+      "key": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+      "date": "2026-08-21"
+    },
+    {
+      "key": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+      "date": "2026-08-21"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users",
+      "date": "2026-08-21"
+    },
+    {
+      "key": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai",
+      "date": "2026-08-21"
+    },
+    {
+      "key": "https://openai.com/index/stampli",
+      "date": "2026-08-21"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.18078",
+      "date": "2026-08-21"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.18131",
+      "date": "2026-08-21"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.18136",
+      "date": "2026-08-21"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.18092",
+      "date": "2026-08-21"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.18086",
+      "date": "2026-08-21"
+    },
+    {
+      "key": "https://openai.com/index/introducing-ai-futures",
+      "date": "2026-08-21"
+    },
+    {
+      "key": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap",
+      "date": "2026-08-21"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.18099",
+      "date": "2026-08-21"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.18089",
+      "date": "2026-08-21"
+    },
+    {
+      "key": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers",
+      "date": "2026-08-21"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.18740",
+      "date": "2026-08-21"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.19161",
+      "date": "2026-08-21"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.19140",
+      "date": "2026-08-21"
     }
   ]
 }
