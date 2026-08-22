@@ -1,106 +1,6 @@
 {
   "sent": [
     {
-      "key": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
-      "date": "2026-08-08"
-    },
-    {
-      "key": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses",
-      "date": "2026-08-08"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "date": "2026-08-08"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool",
-      "date": "2026-08-08"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function",
-      "date": "2026-08-08"
-    },
-    {
-      "key": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-      "date": "2026-08-08"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-      "date": "2026-08-08"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-      "date": "2026-08-08"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case",
-      "date": "2026-08-08"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents",
-      "date": "2026-08-08"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.05263",
-      "date": "2026-08-08"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.05810",
-      "date": "2026-08-08"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case",
-      "date": "2026-08-08"
-    },
-    {
-      "key": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy",
-      "date": "2026-08-08"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.05418",
-      "date": "2026-08-08"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.05624",
-      "date": "2026-08-08"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.05734",
-      "date": "2026-08-08"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
-      "date": "2026-08-08"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.05864",
-      "date": "2026-08-08"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.06057",
-      "date": "2026-08-08"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.05602",
-      "date": "2026-08-08"
-    },
-    {
-      "key": "https://openai.com/index/hsp-gruppe",
-      "date": "2026-08-08"
-    },
-    {
-      "key": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
-      "date": "2026-08-08"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.05519",
-      "date": "2026-08-08"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.05695",
-      "date": "2026-08-08"
-    },
-    {
       "key": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb0dMNXFJYmZOTkpqNG45dm11TncyNnQ3bnJHRGQtZkRZU05hZXFfSE83dFZHb2xBMG9QLVNqOUdVWHRIV1UtUlhWX0lzMTJfbV8xdDZhZXhxVGVDZGVlSUMwamkxb0xhOGwtTW9ERDQxbkRQang4WDE2cjBiRE1GWXRPcFB1QnI0UEJxWHhPNV9TeDd0Q1JrRXNSVS10Z0t2WEE",
       "date": "2026-08-09"
     },
@@ -1463,6 +1363,110 @@
     {
       "key": "https://arxiv.org/abs/2608.19140",
       "date": "2026-08-21"
+    },
+    {
+      "key": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital",
+      "date": "2026-08-22"
+    },
+    {
+      "key": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir",
+      "date": "2026-08-22"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.18122",
+      "date": "2026-08-22"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up",
+      "date": "2026-08-22"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf",
+      "date": "2026-08-22"
+    },
+    {
+      "key": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom",
+      "date": "2026-08-22"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero",
+      "date": "2026-08-22"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.18104",
+      "date": "2026-08-22"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.18682",
+      "date": "2026-08-22"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.18389",
+      "date": "2026-08-22"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine",
+      "date": "2026-08-22"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.18091",
+      "date": "2026-08-22"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.18108",
+      "date": "2026-08-22"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.18115",
+      "date": "2026-08-22"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "date": "2026-08-22"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.18100",
+      "date": "2026-08-22"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.18107",
+      "date": "2026-08-22"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+      "date": "2026-08-22"
+    },
+    {
+      "key": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit",
+      "date": "2026-08-22"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.18114",
+      "date": "2026-08-22"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.18093",
+      "date": "2026-08-22"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.18260",
+      "date": "2026-08-22"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.19072",
+      "date": "2026-08-22"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.18543",
+      "date": "2026-08-22"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.18531",
+      "date": "2026-08-22"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.18836",
+      "date": "2026-08-22"
     }
   ]
 }

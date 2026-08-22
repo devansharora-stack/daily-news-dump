@@ -1,0 +1,184 @@
+[
+  {
+    "headline": "DOJ Investigating a16z Over Board Conflicts, Dusting Off 112-Year-Old Antitrust Law",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+    "theme": "Regulatory",
+    "summary": "The Department of Justice has been investigating Andreessen Horowitz for nearly a year over board conflicts — Ben Horowitz sits on Databricks' board while Martin Casado sits on Fivetran's, now competitors. The DOJ is applying the Clayton Act, a 112-year-old antitrust law rarely used against VCs, which could reshape how venture firms manage portfolio company governance and set a precedent for the entire industry."
+  },
+  {
+    "headline": "The Single English County Saying No to Palantir",
+    "source": "Wired AI",
+    "url": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
+    "theme": "Regulatory",
+    "summary": "Greater Manchester is refusing to participate in the UK government's sprawling healthcare data contract with Palantir, insisting it can build a better system itself. The case highlights growing institutional pushback against large-scale government AI contracts and raises questions about data sovereignty, vendor lock-in, and the competitive dynamics of public sector AI procurement."
+  },
+  {
+    "headline": "Global Index on Responsible AI 2026: Conceptual Framework and Methodology",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.18122",
+    "theme": "Regulatory",
+    "summary": "The second edition of the Global Index on Responsible AI introduces a refined framework that distinguishes between AI governance frameworks that exist on paper versus those actually implemented. The index restructures from three to five thematic areas with more granular quality metrics, giving governments and multinational enterprises a standardized scorecard for comparing responsible AI maturity across jurisdictions."
+  },
+  {
+    "headline": "Starcloud Raises $250 Million for Orbital Data Centers as Launch Options Dry Up",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+    "theme": "Funding & M&A",
+    "summary": "Starcloud raised $250 million to build data centers in orbit, signaling that the insatiable demand for AI compute is driving investment into increasingly unconventional infrastructure plays. With terrestrial data center capacity constrained by power and land, space-based compute is attracting serious capital even as launch vehicle availability becomes a bottleneck."
+  },
+  {
+    "headline": "Nvidia Partners with Data Center Developer Cloverleaf",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+    "theme": "Funding & M&A",
+    "summary": "Nvidia is continuing to invest in data center development through a new partnership with Cloverleaf, reinforcing the vertically integrated flywheel where AI chip demand drives data center expansion which in turn drives more chip sales. The move underscores Nvidia's strategy of embedding itself across the entire AI infrastructure stack, not just at the chip level."
+  },
+  {
+    "headline": "The Unlikely Place at the Center of China's AI Boom",
+    "source": "Wired AI",
+    "url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
+    "theme": "AI Strategy",
+    "summary": "A city in Inner Mongolia has become a crucial hub for China's AI data centers, thanks to cheap energy, abundant land, and proximity to Beijing. This geographic concentration of compute infrastructure reveals how energy costs and physical geography are becoming decisive competitive factors in the global AI race, with implications for anyone evaluating China's AI capabilities."
+  },
+  {
+    "headline": "Nvidia Shows That the Harness, Not the AI Model, Is Now the Real Hero",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+    "theme": "Agentic AI",
+    "summary": "Nvidia research demonstrates that AI agents can perform well through fine-tuned orchestration harnesses even when the underlying model isn't exceptional at the task. This shifts the competitive advantage in agentic AI from who has the best foundation model to who builds the best orchestration layer — a significant strategic insight for enterprises deciding where to invest."
+  },
+  {
+    "headline": "Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.18104",
+    "theme": "Agentic AI",
+    "summary": "This survey reframes LLM-based agents as self-evolving systems with persistent state — maintaining memories, acquiring skills, refining workflows, and coordinating with other agents across interactions. For enterprises deploying agentic AI, this highlights the growing complexity of agent management: these systems aren't stateless tools but evolving entities that require governance, versioning, and structural oversight."
+  },
+  {
+    "headline": "RTPO: Reverse-Turn Policy Optimization for Stabilizing Agentic RL Training",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.18682",
+    "theme": "Agentic AI",
+    "summary": "Researchers identify three coupled sources of instability when training multi-turn AI agents with reinforcement learning, causing severe performance degradation as conversations get longer. The proposed RTPO method stabilizes training, addressing a core technical barrier to deploying reliable multi-step AI agents in production enterprise workflows."
+  },
+  {
+    "headline": "A Jagged Frontier: Evaluating Robustness of Code Agents to Semantics-Preserving Transformations",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.18389",
+    "theme": "AI Risk",
+    "summary": "AI coding agents that successfully repair repository-level software issues often fail when the surrounding codebase is rewritten into semantically equivalent but syntactically different forms. This 'jagged frontier' of reliability — where agents work on some code styles but break on cosmetic variations — exposes a significant risk for enterprises relying on AI for software maintenance at scale."
+  },
+  {
+    "headline": "Anthropic's Opus 4.6 Easily Bypassed on Explicit Content Restrictions",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+    "theme": "AI Risk",
+    "summary": "TechCrunch testing found that Anthropic's Claude Opus 4.6 model can be easily prompted to generate sexually explicit content despite the company's explicit prohibition. This is a reputational and compliance risk for enterprises deploying Claude in customer-facing applications, and raises broader questions about the reliability of AI safety guardrails in production."
+  },
+  {
+    "headline": "Self- and Other-Labels Induce Bidirectional Bias in LLM Judges",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.18091",
+    "theme": "AI Risk",
+    "summary": "Research demonstrates that LLM-as-a-judge systems exhibit measurable self-preference bias — favoring their own outputs — even when controlling for content quality. As enterprises increasingly use LLMs to evaluate other LLMs (for quality assurance, content moderation, and hiring), this bidirectional bias undermines the reliability of automated evaluation pipelines."
+  },
+  {
+    "headline": "Same Facts, Different Updates: Inference Setup Shapes LLM Behavior in Medical Allocation",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.18108",
+    "theme": "AI Risk",
+    "summary": "LLMs making medical resource allocation decisions produce different outcomes based on accumulated conversational context, even when presented with identical patient facts. This finding is alarming for healthcare and other high-stakes domains: model behavior drifts based on deployment context rather than just input data, creating an unpredictable and difficult-to-audit failure mode."
+  },
+  {
+    "headline": "Temporal Multi-Signal Fusion for Token-Level Hallucination Detection",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.18115",
+    "theme": "AI Risk",
+    "summary": "A new approach treats hallucination as a span-level phenomenon rather than per-token, fusing 33 different signals to detect when models are 'confidently wrong' — exactly the failure mode that existing detectors miss. For enterprises paying the 'hallucination tax' at scale, this represents a potentially significant improvement in automated quality control for AI-generated content."
+  },
+  {
+    "headline": "Over 1 Million People Have Clicked LinkedIn's AI Slop Button",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+    "theme": "AI Ethics & Trust",
+    "summary": "LinkedIn's 'Seems like AI slop' flagging button has been clicked by over 1 million users since launching in late July, following reports that 41% of LinkedIn longform posts were flagged as fully AI-generated. This is a leading indicator of user backlash against low-quality AI content flooding professional platforms, with implications for content strategy and employer branding."
+  },
+  {
+    "headline": "Computational Orientalism: Measuring Structural Discourse Bias in LLMs",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.18100",
+    "theme": "AI Ethics & Trust",
+    "summary": "Researchers developed the Middle East Cultural Sensitivity Score to measure whether LLMs systematically reproduce Orientalist biases from their Western-dominated training data. For enterprises deploying AI in global markets — particularly Middle Eastern ones — this study provides a framework for identifying and mitigating culturally biased outputs that could damage brand reputation and customer trust."
+  },
+  {
+    "headline": "Institutional Prestige as Geographic Bias in Large Language Models",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.18107",
+    "theme": "AI Ethics & Trust",
+    "summary": "Across 4,320 API calls to four LLMs, researchers found a statistically robust bias of +0.297 points (on a 10-point scale) favoring candidates from prestigious institutions in automated evaluations. Companies using LLMs in hiring, admissions, or vendor evaluation processes should note that these models systematically discriminate by institutional pedigree, potentially amplifying existing inequities."
+  },
+  {
+    "headline": "Major YouTube Creators Face Backlash for Accepting AI Video Tool Sponsorships",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+    "theme": "AI Ethics & Trust",
+    "summary": "Prominent filmmaking YouTubers including Matti Haapoja and Sam Kolder are facing significant backlash from their creative communities for promoting AI video platform Higgsfield. The controversy signals that AI brand partnerships carry growing reputational risk, particularly among creative audiences, and that the cultural politics around AI adoption are intensifying."
+  },
+  {
+    "headline": "When AI Designs a Drug, Who Gets the Credit?",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+    "theme": "Research to Business",
+    "summary": "As companies like Insilico Medicine claim their AI 'discovered' drug candidates for pulmonary fibrosis, the question of inventorship and IP attribution is becoming urgent. This has direct implications for patent filings, licensing revenue, and regulatory submissions — companies using AI in drug discovery need clear legal frameworks before products reach market."
+  },
+  {
+    "headline": "Accurate Decoding of Natural Sentences from Non-Invasive Brain Recordings",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.18114",
+    "theme": "Research to Business",
+    "summary": "Brain2Qwerty v2 can decode natural sentences from real-time magnetoencephalography (MEG) recordings — a non-invasive alternative to brain implants, trained on 22,000 sentences. While still early-stage, this represents a significant step toward non-surgical brain-computer interfaces that could eventually impact assistive technology, neurotechnology, and human-computer interaction markets."
+  },
+  {
+    "headline": "Abliteration Mitigation via Refusal Aliases",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.18093",
+    "theme": "Model & Platform",
+    "summary": "Researchers address 'abliteration' — a technique that removes safety guardrails from LLMs by extracting and eliminating the model's refusal direction. The proposed defense makes the refusal direction harder to extract, which matters for any enterprise deploying open-weight models that could be trivially de-safetied by internal or external actors."
+  },
+  {
+    "headline": "Redakto: The Incognito Tab for LLMs — Privacy-Preserving AI Under EU Regulation",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.18260",
+    "theme": "Model & Platform",
+    "summary": "Redakto proposes an 'incognito mode' for LLM interactions that strips personally identifiable information before text enters a language model, responding to growing urgency around EU privacy legislation. For enterprises navigating GDPR and the EU AI Act, this type of middleware layer between users and LLMs could become a compliance requirement rather than optional tooling."
+  },
+  {
+    "headline": "What Is Missing from AI Post-Training AI: Strategy-Level vs. Execution-Level Capability",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.19072",
+    "theme": "Research to Business",
+    "summary": "Analysis reveals that while LLM agents can now execute training pipelines end-to-end (writing code, launching training, evaluating checkpoints), they lack the higher-order capability to revise strategy as evidence accumulates. This distinction between execution automation and strategic judgment is critical for enterprises evaluating where AI can genuinely replace human decision-making versus where human oversight remains essential."
+  },
+  {
+    "headline": "Bridging Search and CRM: Productionizing AI Agents for Customer Re-Engagement",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.18543",
+    "theme": "Enterprise ROI",
+    "summary": "A production-deployed framework connects search, recommendation, and CRM systems to proactively re-engage e-commerce customers who leave the platform during exploratory searches. This is a concrete example of agentic AI driving measurable revenue recovery, moving beyond demo-stage to production deployment where search intent is converted into CRM-triggered re-engagement."
+  },
+  {
+    "headline": "Pairwise Ranking Outperforms RL for Offline Explanation Selection, Cutting Serving Costs",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.18531",
+    "theme": "Enterprise ROI",
+    "summary": "Industrial recommendation systems can dramatically cut LLM serving costs by pre-generating explanation candidates and using a lightweight CPU-based selector at request time, rather than triggering live LLM generation for each user request. This architecture eliminates per-request LLM latency and cost while maintaining quality — a practical pattern for any enterprise running LLMs at high request volumes."
+  },
+  {
+    "headline": "Verifiable Abstention Makes AI Leak Diagnosis Accountable in Water Distribution Networks",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2608.18836",
+    "theme": "Enterprise ROI",
+    "summary": "AI systems for water utilities can now prove when they should abstain from making a recommendation rather than just guessing, using physics-grounded verification against a digital twin. This 'verifiable abstention' concept — where AI earns trust by knowing when not to act — has broad applicability across infrastructure, manufacturing, and any domain where wrong AI recommendations carry high physical costs."
+  }
+]
