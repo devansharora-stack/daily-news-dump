@@ -1,114 +1,6 @@
 {
   "sent": [
     {
-      "key": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb0dMNXFJYmZOTkpqNG45dm11TncyNnQ3bnJHRGQtZkRZU05hZXFfSE83dFZHb2xBMG9QLVNqOUdVWHRIV1UtUlhWX0lzMTJfbV8xdDZhZXhxVGVDZGVlSUMwamkxb0xhOGwtTW9ERDQxbkRQang4WDE2cjBiRE1GWXRPcFB1QnI0UEJxWHhPNV9TeDd0Q1JrRXNSVS10Z0t2WEE",
-      "date": "2026-08-09"
-    },
-    {
-      "key": "https://www.cnbc.com/2026/08/07/chesky-airbnb-ai-earnings.html",
-      "date": "2026-08-09"
-    },
-    {
-      "key": "https://hbr.org/2026/08/how-much-time-do-your-employees-spend-botsitting",
-      "date": "2026-08-09"
-    },
-    {
-      "key": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "date": "2026-08-09"
-    },
-    {
-      "key": "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html",
-      "date": "2026-08-09"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUGRHaGVfTXlKTU9YVmFIM3BGVWE0aEJGRGotME91bWFhR21LLU1BcDhmSDc5eWdUMHg4d3V1bmNfY0llY3prTVZOeWU3all2Q2ZWYWd4VlRQMndrTWo5Vi1XVG5nUlE3MTlyQ3hPSkxDdzdJOEZJZjl2ejhPRldNLTBQTFdoYmppSFVoLQ",
-      "date": "2026-08-09"
-    },
-    {
-      "key": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
-      "date": "2026-08-09"
-    },
-    {
-      "key": "https://hbr.org/2026/08/algorithmic-shopping-is-here-is-your-company-ready",
-      "date": "2026-08-09"
-    },
-    {
-      "key": "https://hbr.org/2026/09/ai-is-revolutionizing-strategic-decision-making",
-      "date": "2026-08-09"
-    },
-    {
-      "key": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "date": "2026-08-09"
-    },
-    {
-      "key": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
-      "date": "2026-08-09"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ2ZKWm5COXg4WXlUX3hVem1jci1Zc3RlQ1ZUMWJ3ZTZfNU5uVFY2TU1FcGNNck1yckpPT2hSRk8tTjJOa1BReHpqLWc4S1FWR3IzOVlZS2RYNk93RXMwYWw5WVkxaTRZMWtnS1dFdGFjX2lycmdMc1RoSUNTaXE0YlNrMEcwYVFLYklLX1ozREF3ZEpqNDl2N2o0S0ZoZXk5N1JsTDVjVURYMElp0gGyAUFVX3lxTE1nVnAwZFc2TkZoY0VJRnQ5X3dGb0t3dnB2aWpVbER4anVJQzVraWxWOG9OTXhraGlOWk1mdXhCaDVaWEdIMi1ORm1UaXJ0b2lCZWN6MjFuMmxWZzlEWlk4VzI0emN1bTlwcm1Ha2FEN0tDOTNab1RER29icDh2d2k3TVp3XzRNN2lBWXM5NGE1TmRNNmYxV0xNZHA3NFhWbk1WWGNSVk15a2lVbXRSLXlBYnc",
-      "date": "2026-08-09"
-    },
-    {
-      "key": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo",
-      "date": "2026-08-09"
-    },
-    {
-      "key": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "date": "2026-08-09"
-    },
-    {
-      "key": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
-      "date": "2026-08-09"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZXkxNDZwSWxZcVlkVENNUWlpdFowMVpGdlpaWjVkcm94dHNiTnhoTTZMX1BTekVUU0c0MHhwS2k0Y3hYaGFMU3dtQmF2c2UxOVJ5TmtzSHJ5U05hZXhCYWxJYUlkRDE2SEFDQ1o0VndOZU5zNDNHR3NTbUg0Y05jMVZOclVCNHl3cW0wNG9YTWtMbGVnT203Qng0dDg0TkF6eXBFckQwYnY3TGU3LTFSMEVCalVPdXhqRmhrdk5GeUp5d1h2bWtwMGFYcUg",
-      "date": "2026-08-09"
-    },
-    {
-      "key": "https://hai.stanford.edu/news/why-governing-world-models-is-ais-next-big-policy-challenge",
-      "date": "2026-08-09"
-    },
-    {
-      "key": "https://www.cnbc.com/2026/08/07/sk-hynix-memory-chips-ai-prices.html",
-      "date": "2026-08-09"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYTFCalNyREFFUzUtbG5EVjByaGxDYTRyaWcyaWJFNmE1aFRJT1dGS3lsTXFIRV9CUG4waFZyUFVzbE50VTVYNi14TnlCQjFVUXFueDZSRXhFd1pEbll0SVBQTEtRUkJSSUtqQ0ItSENITWU4d2xDNUVPUWd0d241NjJ2QWNJelE4WlY2OXpULWdvaFZEbjJSUlBhV2l1WVRTMmV0WW56Y3oxaWM0R1BleTdQU2Q0S0tnZHc4SVp3TzQzRF9hUVNySnpCbV9LVkYySGVveGI5TDI",
-      "date": "2026-08-09"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide",
-      "date": "2026-08-09"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s",
-      "date": "2026-08-09"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOUjJQV3RNbHNna09RcnBqbTdWV3BnRW5yTW5BUmROd0V0djdKeFdBNUxCMnhNZVlmWjdUYWVzYS0tLU5nM2c0MkdTalk2RGk2WUR6YlFoUmdQSFVGUjBDY29wb29kSXNzQm1DTUdOZUlGVkY3N203dGxMcWJVNlA3THhzc2FLSk03OG5YTlBLWjRaVG9OVDQyXzRRbFl1ZTdPWWFEU25Md29iekswLUM5ZGtJb2xXVFJFRU9TMl9BS04zZFBwem54ZUdEME5UZ3J3aVlFTXBGdFRWYl9mT1o0YndBTEV1TnRqWm1aR0l3VURzVXRuMFZVaVIzQWRtQ0d2RmxpUUVwMDFXVFU0ZmpWLXRwUGZoamVhellIYm9Qbw",
-      "date": "2026-08-09"
-    },
-    {
-      "key": "https://www.cnbc.com/2026/08/07/china-us-ai-race-hugging-face-models.html",
-      "date": "2026-08-09"
-    },
-    {
-      "key": "https://www.cnbc.com/2026/08/07/cryptos-infrastructure-era-arrives-with-ai-agents-poised-to-reshape-demand.html",
-      "date": "2026-08-09"
-    },
-    {
-      "key": "https://social.treehouse.systems/@mgorny/117058483039362779",
-      "date": "2026-08-09"
-    },
-    {
-      "key": "https://hai.stanford.edu/news/ai-companions-may-worsen-loneliness-for-vulnerable-users-stanford-study-finds",
-      "date": "2026-08-09"
-    },
-    {
-      "key": "https://hbr.org/2026/08/dont-let-ai-flatten-your-leadership-style",
-      "date": "2026-08-09"
-    },
-    {
       "key": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry",
       "date": "2026-08-10"
     },
@@ -1467,6 +1359,114 @@
     {
       "key": "https://arxiv.org/abs/2608.18836",
       "date": "2026-08-22"
+    },
+    {
+      "key": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+      "date": "2026-08-23"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQUXJmOTNvZUx2MzE0NmVhVFBHaDVkWHoxekw4MWpmVE92bDhMeDBCZWF2Sl9UeWNmSVZwNzhLbUlZemMtNWFnOVRyZk1KMTh6WFFERko2ZWJvTTI1OHY4S01CTTZVZTYydWFQRzFlellIa3JTNHptSWhXNnlsWm9HSVhzUVJfUU9uWUhQeThHd3l4UVlVT2FBYWpXNFpxU2ptR0FxWmpyNmZBX0xoellDNHJSSTJVN01ZQWFDZXRheko5b0pCOHJrVWtuZW52cjE0VVFzUzM3RkdPcFlkWDJZd200M3h3RG9UZjEyR0t3ZkFzcHhjTy0wRnJGNmpHWS1oTjRqWUhR",
+      "date": "2026-08-23"
+    },
+    {
+      "key": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
+      "date": "2026-08-23"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdVbW56NVZvU3ZwQTRIcmdRUVVZWjBVc1J4TFhhVUs2VE5RY21CNEpSdHA2NUJLa0daUVhYcGJwaGh6bERReE5fcFdFdHJ5bWpXa1dPTkFweDVVS3AycGxMa3VqS2JDS0VTZDNIb2RYLVVYcmdxT2xQUUpRSXNFbHhTTVozVjVyUkVYRmItTzc5SlIwS2M0NVZseUtUWFZDX3V6azMxTHJhdHJwYm5XU28yUmlzUQ",
+      "date": "2026-08-23"
+    },
+    {
+      "key": "https://www.cnbc.com/2026/08/21/broadcom-debt-deal-expected-to-reach-upwards-of-70-billion-sources.html",
+      "date": "2026-08-23"
+    },
+    {
+      "key": "https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html",
+      "date": "2026-08-23"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOEtVLXI2M2sxb0tDVFI2N0ZlTS1keWx4R0JSMTZ5dy1Zdm5aQTY1Nkdia19DQ3JSa1lTX0FkSENFUnZtd0ZDSEd5VjJld2NSYjY5aXk5b2hJaHl3NGdFT3lHTnJaTXowR2Z6YUVwVDZlRlp2c21jVkJ2cWR0c05pNmVjQ2F4WDBBM1RQY3ZhMjcxbjBPT0hmSDE3MFNQdktWbnVPSHNjTUpmTEZk",
+      "date": "2026-08-23"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcEtMdnZpOHUtSmZiQXZ5SUh5dTV4eXlxTlBZcVV6UHQ5emxqR2JmcmwyWWVNY3FsalI0WkV2em5NNlJNVFE0VHZxSXRmV0RPTlRTV2VjT2tobjNvZWtSa1RtRk1Pd0tsMnVFMENCRXZMeXpOcWVmOHg5bUdkX0dhNVdDcmYzMUhMcEFoVU1sakJnb1pHUGVyVTZqUWNXYUNJSlgtQmhwTU15MHk4eThF",
+      "date": "2026-08-23"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill",
+      "date": "2026-08-23"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR3Z5X3NQbFFFbkswVXAyQ2VhbXBxUXdVbGFQRVhxY25EVzdsOWNRa0NFcU1DWFJkQVpvbkhTTWZGcy1jLUpIMnBjNldYOV9OT0xzMERDcVhrMXdFNnlQSEk1VzBLcml6dld5S2lldC0xSUZMSmFtLVhqRHg1UUxHd01UZnk1VlE",
+      "date": "2026-08-23"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model",
+      "date": "2026-08-23"
+    },
+    {
+      "key": "https://www.cnbc.com/2026/08/21/new-york-san-francisco-tech-talent-cbre.html",
+      "date": "2026-08-23"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeGcxeFB3YU5pdVpfcml4aTlydDllSEEyMUZiY3RvbjVYeU1tVFV4T0M0TWI2VFRaekNGZDJkQWdYem5HMzJiQW9Ka1NoY3JBVGFibkpjZGRzLTRjemMyMTlBYWt6TlB3NzVnNEljdTlHSGJWQXViNXplcjhqd19uVm5XQW1SUnc0Zncxd2xBWmVRRlE",
+      "date": "2026-08-23"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQaHRWekxaNHFfeG5ld3NodkY5LW9VZVlhZjIxaEExZEtoM3pQakRacHhkRXVNU1NnR2tkXzVPT2NzSU5ta1UtdG5fcVFkWkx6VEJyOThYYTh6ODJYdU9Obmg5YTVTVXBiZFRVRTc0VVdCNVhDR2o5cWFUR3lfQVhMZmNKaHFwRDRCMnZ0X1MzZG1uMjRKaXJYVGlzbEZvaFl3VDJ3SF9HVzBXUnEtVWpybkVOWjlZTmZaMkMyaHVqTmVLNk55Ymd6NnJKYmdVNGxFVVN2bUNBTTV3TnNXaGVHa0FmaEUybUR5VzQ4VnF1bE5UY0d2RnVaejloNEl1MnlVVm5OOU1hUFRkWkRNZVlJTEFQMW9JaTRwMjhsSTI0VdIBpAJBVV95cUxNb3VoQm00RDhlSWtQUkJVU095dU9sNHFjeFNma19Md1FrZkFzMEo2WmFYRnQxcU1hNElCRnNwRGtXZTZJTEpmUDc4bjlwZnVqMzVNYWRSeG9VT2w1THkwRlRxLWFiZUpkM2RvSXYxZXJpZ3NuVFExMDFMUTNnVVJKYmFnV1RWYWhZd2ZrZzhXWEdudi1lVHA3eWg1Vi04SGlIb0FNb3FoVkxFZFNjc3BIejhlMFJ3VGtIT0Q5ZWlmNUYzZ21odzVza2pqM09aN2FQNlFqRXFtanoyQUVXRVhFZF9sN20xeTB2WHVhd0R6OVotOVd4Z0M0dlBMU3gwc093UkdBY1pwUHcxWHE3VmIxY0h6SjJXeUtfRkRJN2dpZS1KekR5",
+      "date": "2026-08-23"
+    },
+    {
+      "key": "https://hbr.org/topic/subject/leadership-and-managing-people",
+      "date": "2026-08-23"
+    },
+    {
+      "key": "https://hbr.org/topic/subject/technology-and-analytics",
+      "date": "2026-08-23"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeWJZZkNtOGVqR051aDRyaktCUjJDdk5TYmlWcll2OEd2RUpvTVJRTnU0UjVvbGo2NlhuNDNVR0VzemQ5MjZEMnN6aERKeFZ3eTY4bng5RUxnVVhQWmJlUEk0REdUUHRqcm82cHVkZTJxSW1ZbENaT3pxQ1JVRmJ4MzlBV0ZWYkNGWVppaGxuTWFkejMyNGZPQmdYVTRVWVk4MjNEdzJqNkRFNXhTSlVGSmZvZjVvb2hnaWpxN0RwTi1PUQ",
+      "date": "2026-08-23"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPX2ExZzNTcGVTOGp1WExEWWx0RW11UVFDRHU1N29IaS1xYUtDZEhYT1l3MFg3Z2x1dHNkMGVLeWxaM0FIMEw1OTJ6UUMtcXFuSVN4NnJGXzJWclNfMERIVWRRUmhwLTRnZFNhYzlsWXg3R2MtYjloemtuWU5Ham5wc29OdmEzN0VOYWw0VzVIczRBMUhqT3pYeW8tMWhHdldTUzFGNU1yc0JUS3JPMF9kUmgzZTZXanZfQzhCcE5CZjVoeFY1Zm1FWVktQ181bXVzQkJGRUpRSGo4NnBnVFpPN1g0QXdHVW9ZM3NLNUlXTEJYTFAtQWNTUnBpVG4xNEFZbE9N",
+      "date": "2026-08-23"
+    },
+    {
+      "key": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber",
+      "date": "2026-08-23"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOVF5YUxtc0lkSVJFT3BFLU5TeUlBUHloVlJkQlVqM3NBY0tSVjAxalFTMXJjNU5lbE9VeUIwVWhVZl9hYVRLbFhYSXJSSWdGV1ZodkRPbTNlZ25aSHB0YzdFb2sxaWpWcS1udmQ4M2xhSjFILXpxVXppdjI5X2xod0xLbHdYWlRDelBlb3BEMFNZZHNBdWh3",
+      "date": "2026-08-23"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcXNIaGlpdUlrMEkzTXppZzdHaHpsNGhSbExzWGc4TERvNnFIbkNNa3Y2Q3NVN1hIZzFsQXRSenFGdU93TVRLNkNsZ2JUN2YzT3pTRnpQcDdfaTVOQXlzZGhyRTUtbE9uVm9aWTVZZFVyRU5SRTVGZ0p3MzZBck05VXMzdDN3c1ZrQWFobHdxWUF3ajlRbDdiWjMyRnVPVkwteXphQVN2eVJPN2xiNEVxTFItYVNXdWtueVdJNUdNdXFMY1VRQ3NNLUhPU19pYWNmRElhNEY0WE9aZ0IwaVZQTFNuTEtCekkycXR4eFoyMnpvdU5BSEHSAfsBQVVfeXFMUFB0c3JFSEdhWmZCM1NjVUxkV0lIMTlrVUxtcDNVUlRoT0c5ZFM3UWJINHB2VEVGLWFqTFE0amQ2eldzdmlwYnplS0g5OU51VnpVZXhjTXRwaER6SHNzLTRfSlFHYV94YWhJbXFiTnFqSFd2aXdEOVRxUkVzTGI0RHgwOWRLX1lBcDdYU2dkRlhaUjhZb0F6YWdkcUs4M1RDeG5HUVZaUDU1R0kyTklTX19DdFNPenFYZklVUVNoNzBYNVhXNnRaaUNRaUFtNVZWMmUzMTFXMjk2TjVnVXV5UFJfbE9JUktrYXVxSzZjSDN6enJsMUdQdmVRbUE",
+      "date": "2026-08-23"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS3FWbE5JNmZzY1RTZWNhbU5aSUZkdk4xYVNwOHdPaWg4UXJ0aXBqLUFveVlQQkVKbG9BMG9yODdaSDg4WXdGaTNhR2xSVF81MW4tWkQ1dU9vbVpvTHRxTGtMTjd5LWdtM0poWHdKQWFnWmh5NzduejA0UVRMZFUwVUlDcTR4a1c1VFJKc09vU0pMY0ZsaG5IQTVEckRROTVhdzlVblhnNA",
+      "date": "2026-08-23"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PTlN2a1l4eURqSHpoUmRXcDRjYVBtUVdPSGI5UF9uTlFZZWUzTEJJZUFHbk5JS1JaWXFQRnN0VHFTWU5QZzdWQmFkanU1ZmN3aUpRenZ3MlBGUm1XOWd3TWJjdFFQVzdSREZDNFRCMzZNWnhLblhJdkkyWQ",
+      "date": "2026-08-23"
+    },
+    {
+      "key": "https://hai.stanford.edu/news/companies-that-buy-and-sell-your-data-are-not-following-californias-strict-privacy-laws",
+      "date": "2026-08-23"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uUGIzcFRTdFZwdkxZTnpHdUpfVmhCQ21iczlSQjJrMnlSa19sYzB4S2JuVC1wSWo1UFhRWnlpVWtrb0NIN1RmS2Nn",
+      "date": "2026-08-23"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research",
+      "date": "2026-08-23"
+    },
+    {
+      "key": "https://hai.stanford.edu/news/how-ai-is-helping-states-cut-through-decades-of-red-tape",
+      "date": "2026-08-23"
     }
   ]
 }
