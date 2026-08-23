@@ -1,0 +1,54 @@
+{
+  "date": "2026-08-23",
+  "type": "recap-week",
+  "topicA": "B2B Marketing Channels and Demand Generation",
+  "topicB": "Content Marketing Strategy and Operations",
+  "recap": {
+    "intro": "This week you explored two areas of B2B marketing: understanding the best channels to reach businesses and how to build a strong content strategy.",
+    "bullets": [
+      "Even for B2B, short videos and social media shopping tools are surprisingly effective, but traditional methods like websites and email still offer the best financial returns.",
+      "Many marketers are updating their automation tools to better track results and integrate customer data, as the industry has changed rapidly.",
+      "Managing all your online content is crucial because old information can hurt your brand, and new AI tools require a clear system to avoid \"content chaos.\"",
+      "Beyond just numbers, understanding content success requires real conversations and turning data into compelling stories to gain support."
+    ],
+    "closing": "This week you learned that B2B marketing success requires adapting to new channels and technologies while strategically managing your content from creation to measurement."
+  },
+  "resources": [
+    {
+      "headline": "HubSpot's 2026 Report on Best Marketing Channels for B2B and B2C",
+      "source": "HubSpot",
+      "url": "https://blog.hubspot.com/marketing/marketing-channels",
+      "topic": "B2B Marketing Channels and Demand Generation"
+    },
+    {
+      "headline": "Pardot alternatives: What B2B marketers are choosing now",
+      "source": "HubSpot Marketing",
+      "url": "https://blog.hubspot.com/marketing/pardot-alternatives",
+      "topic": "B2B Marketing Channels and Demand Generation"
+    },
+    {
+      "headline": "YouTube Measures Creator Video on Branded Search Lift, But The Attribution Gap Still Exists via @sejournal, @gregjarboe",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/youtube-measures-creator-video-on-branded-search-lift-but-the-attribution-gap-still-exists/584876/",
+      "topic": "B2B Marketing Channels and Demand Generation"
+    },
+    {
+      "headline": "Content Operations",
+      "source": "Content Marketing Institute",
+      "url": "https://contentmarketinginstitute.com/strategy-planning/content-operations",
+      "topic": "Content Marketing Strategy and Operations"
+    },
+    {
+      "headline": "Content Distribution & Promotion",
+      "source": "Content Marketing Institute",
+      "url": "https://contentmarketinginstitute.com/content-creation-distribution/content-distribution-promotion",
+      "topic": "Content Marketing Strategy and Operations"
+    },
+    {
+      "headline": "Content Marketing Analytics Data",
+      "source": "Content Marketing Institute",
+      "url": "https://contentmarketinginstitute.com/measurement-optimization/analytics-data",
+      "topic": "Content Marketing Strategy and Operations"
+    }
+  ]
+}
