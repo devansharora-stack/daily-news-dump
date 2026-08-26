@@ -1,106 +1,6 @@
 {
   "sent": [
     {
-      "key": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai",
-      "date": "2026-08-12"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last",
-      "date": "2026-08-12"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "date": "2026-08-12"
-    },
-    {
-      "key": "https://openai.com/index/testing-ads-in-chatgpt",
-      "date": "2026-08-12"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new",
-      "date": "2026-08-12"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai",
-      "date": "2026-08-12"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
-      "date": "2026-08-12"
-    },
-    {
-      "key": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-      "date": "2026-08-12"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
-      "date": "2026-08-12"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-      "date": "2026-08-12"
-    },
-    {
-      "key": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts",
-      "date": "2026-08-12"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
-      "date": "2026-08-12"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations",
-      "date": "2026-08-12"
-    },
-    {
-      "key": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
-      "date": "2026-08-12"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-      "date": "2026-08-12"
-    },
-    {
-      "key": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
-      "date": "2026-08-12"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.07627",
-      "date": "2026-08-12"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.07538",
-      "date": "2026-08-12"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.07762",
-      "date": "2026-08-12"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.07528",
-      "date": "2026-08-12"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.07532",
-      "date": "2026-08-12"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.07885",
-      "date": "2026-08-12"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.08022",
-      "date": "2026-08-12"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.07705",
-      "date": "2026-08-12"
-    },
-    {
-      "key": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting",
-      "date": "2026-08-12"
-    },
-    {
       "key": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise",
       "date": "2026-08-13"
     },
@@ -1459,6 +1359,106 @@
     {
       "key": "https://arxiv.org/abs/2608.20786",
       "date": "2026-08-25"
+    },
+    {
+      "key": "https://openai.com/index/jalapeno-first-results",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "https://openai.com/index/introducing-admin-plugin",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "https://www.technologyreview.com/2026/08/25/1140958/your-brain-on-ai",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.21942",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.22061",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.21382",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.21841",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.21366",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.21976",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.21363",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.21867",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.22103",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux",
+      "date": "2026-08-26"
     }
   ]
 }
