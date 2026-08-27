@@ -1,0 +1,43 @@
+{
+  "date": "2026-08-27",
+  "type": "recap-and-resource",
+  "recapTopic": "B2B SEO in the Age of AI Search",
+  "recap": {
+    "intro": "Hey everyone! This week, we dove deep into how B2B marketing is changing because of AI search. It's all about making sure your business gets found when people ask AI questions.",
+    "bullets": [
+      "First, we saw that when people use AI to search, they're asking much longer, full questions, like 'How do I plan a trip?' instead of just a few words. This means your website needs to put the main answer right at the very beginning, just like old-time journalists did for the telegraph, so AI can easily grab those key facts and specific numbers.",
+      "Building on that, we learned that even AI itself struggles with content quality – companies are buying physical books because they want original human content, not stuff already made by AI! This also makes it super tricky to measure how well your content is doing in AI search, because AI's answers can change every time, making those 'share of voice' tools a bit unreliable. Plus, while companies like Google are trying to put invisible 'watermarks' on AI-generated stuff, like their SynthID marking 100 billion images, these can often be removed, especially from text.",
+      "Finally, the big picture is that people are now having full-on conversations with AI tools like ChatGPT, and these tools care more about your company's overall reputation, or 'brand authority,' than just keywords. This means your old content could be a hidden risk, as AI is constantly learning about your brand from everything you've ever shared. So, we need to create content that both people and AI can truly trust, and organize it based on its meaning and relevance, not just rigid categories, to make sure your message gets through clearly."
+    ]
+  },
+  "recapResources": [
+    {
+      "headline": "AI Mode Queries Are 3X Longer – Why Your Page Should Lead With The Answer via @sejournal, @gregjarboe",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/ai-mode-queries-are-3x-longer-the-case-for-leading-with-the-answer/585990/"
+    },
+    {
+      "headline": "The House Doesn’t Publish Its Tells via @sejournal, @pedrodias",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/the-house-doesnt-publish-its-tells/586359/"
+    },
+    {
+      "headline": "Content Optimization",
+      "source": "Content Marketing Institute",
+      "url": "https://contentmarketinginstitute.com/measurement-optimization/content-optimization"
+    }
+  ],
+  "topic": "Demand Generation and Content Marketing Strategy",
+  "dayLabel": "Day 1 of 3 — Intro",
+  "headline": "Demand Generation",
+  "source": "Content Marketing Institute",
+  "url": "https://contentmarketinginstitute.com/strategy-planning/demand-generation",
+  "keyNotes": [
+    "Surprisingly, understanding what your sales team (the people who talk directly to customers) wishes you knew is crucial for actually landing sales, not just talking to other marketers.",
+    "There are specific methods or \"systems\" that claim to help you quickly generate interest in your product or service, with one even suggesting it can be done in just 39 days.",
+    "Making your sales team happy and effective often comes down to creating content (like articles or videos) that directly matches what potential customers are looking for.",
+    "Despite all the buzz, new research suggests that artificial intelligence (AI) isn't a magical fix for creating customer interest; it's not a \"knight in shining armor.\"",
+    "It's important to help even company leaders understand the value of content marketing (creating useful information for customers) if they seem \"clueless\" about its impact."
+  ],
+  "question": "The article titles highlight the importance of knowing what your sales team (the people who talk directly to customers) really thinks about what helps them succeed. In your own professional life, who are the individuals or groups that directly interact with your \"customers\" (internal or external), and what insights do you think they wish you knew to make your shared goals easier to achieve?"
+}
