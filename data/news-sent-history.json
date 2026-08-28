@@ -1,106 +1,6 @@
 {
   "sent": [
     {
-      "key": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation",
-      "date": "2026-08-14"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus",
-      "date": "2026-08-14"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push",
-      "date": "2026-08-14"
-    },
-    {
-      "key": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
-      "date": "2026-08-14"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps",
-      "date": "2026-08-14"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
-      "date": "2026-08-14"
-    },
-    {
-      "key": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-      "date": "2026-08-14"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs",
-      "date": "2026-08-14"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues",
-      "date": "2026-08-14"
-    },
-    {
-      "key": "https://www.wired.com/story/openai-safety-security-ai-agents-culture",
-      "date": "2026-08-14"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war",
-      "date": "2026-08-14"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.11584",
-      "date": "2026-08-14"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.11323",
-      "date": "2026-08-14"
-    },
-    {
-      "key": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything",
-      "date": "2026-08-14"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report",
-      "date": "2026-08-14"
-    },
-    {
-      "key": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-      "date": "2026-08-14"
-    },
-    {
-      "key": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash",
-      "date": "2026-08-14"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.11226",
-      "date": "2026-08-14"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.11403",
-      "date": "2026-08-14"
-    },
-    {
-      "key": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer",
-      "date": "2026-08-14"
-    },
-    {
-      "key": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography",
-      "date": "2026-08-14"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.11381",
-      "date": "2026-08-14"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.11250",
-      "date": "2026-08-14"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.11252",
-      "date": "2026-08-14"
-    },
-    {
-      "key": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "date": "2026-08-14"
-    },
-    {
       "key": "https://openai.com/index/previewing-ultrafast",
       "date": "2026-08-15"
     },
@@ -1463,6 +1363,110 @@
     {
       "key": "https://arxiv.org/abs/2608.23906",
       "date": "2026-08-27"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition",
+      "date": "2026-08-28"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india",
+      "date": "2026-08-28"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+      "date": "2026-08-28"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai",
+      "date": "2026-08-28"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai",
+      "date": "2026-08-28"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies",
+      "date": "2026-08-28"
+    },
+    {
+      "key": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate",
+      "date": "2026-08-28"
+    },
+    {
+      "key": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent",
+      "date": "2026-08-28"
+    },
+    {
+      "key": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "date": "2026-08-28"
+    },
+    {
+      "key": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+      "date": "2026-08-28"
+    },
+    {
+      "key": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world",
+      "date": "2026-08-28"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more",
+      "date": "2026-08-28"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+      "date": "2026-08-28"
+    },
+    {
+      "key": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
+      "date": "2026-08-28"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google",
+      "date": "2026-08-28"
+    },
+    {
+      "key": "https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations",
+      "date": "2026-08-28"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps",
+      "date": "2026-08-28"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.25399",
+      "date": "2026-08-28"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.24889",
+      "date": "2026-08-28"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.25623",
+      "date": "2026-08-28"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.26036",
+      "date": "2026-08-28"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.24912",
+      "date": "2026-08-28"
+    },
+    {
+      "key": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
+      "date": "2026-08-28"
+    },
+    {
+      "key": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control",
+      "date": "2026-08-28"
+    },
+    {
+      "key": "https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab",
+      "date": "2026-08-28"
+    },
+    {
+      "key": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "date": "2026-08-28"
     }
   ]
 }
