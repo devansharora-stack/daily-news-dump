@@ -1,106 +1,6 @@
 {
   "sent": [
     {
-      "key": "https://openai.com/index/previewing-ultrafast",
-      "date": "2026-08-15"
-    },
-    {
-      "key": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone",
-      "date": "2026-08-15"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "date": "2026-08-15"
-    },
-    {
-      "key": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
-      "date": "2026-08-15"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-      "date": "2026-08-15"
-    },
-    {
-      "key": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "date": "2026-08-15"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct",
-      "date": "2026-08-15"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
-      "date": "2026-08-15"
-    },
-    {
-      "key": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them",
-      "date": "2026-08-15"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus",
-      "date": "2026-08-15"
-    },
-    {
-      "key": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong",
-      "date": "2026-08-15"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.12133",
-      "date": "2026-08-15"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.11888",
-      "date": "2026-08-15"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.11207",
-      "date": "2026-08-15"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.11215",
-      "date": "2026-08-15"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.11241",
-      "date": "2026-08-15"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.11234",
-      "date": "2026-08-15"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.11683",
-      "date": "2026-08-15"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.12249",
-      "date": "2026-08-15"
-    },
-    {
-      "key": "https://arxiv.org/abs/2509.16749",
-      "date": "2026-08-15"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.12150",
-      "date": "2026-08-15"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.11583",
-      "date": "2026-08-15"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.11604",
-      "date": "2026-08-15"
-    },
-    {
-      "key": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china",
-      "date": "2026-08-15"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.11977",
-      "date": "2026-08-15"
-    },
-    {
       "key": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition",
       "date": "2026-08-16"
     },
@@ -1467,6 +1367,106 @@
     {
       "key": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
       "date": "2026-08-28"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.26899",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.26167",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.26710",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.26235",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.26157",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.26189",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.26225",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.26696",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.26306",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.26896",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.26743",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.26188",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.26757",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.26701",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.26949",
+      "date": "2026-08-29"
     }
   ]
 }
