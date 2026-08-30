@@ -1,0 +1,54 @@
+{
+  "date": "2026-08-30",
+  "type": "recap-week",
+  "topicA": "B2B SEO in the Age of AI Search",
+  "topicB": "Demand Generation and Content Marketing Strategy",
+  "recap": {
+    "intro": "Welcome back, marketers! This week you explored two crucial areas of B2B marketing: how SEO is changing with AI search and effective demand generation strategies.",
+    "bullets": [
+      "AI search queries are much longer and more like conversations, so your website content needs to put the main answer right at the beginning.",
+      "Building a loyal audience in B2B means actively showing your expertise and having real conversations, not just relying on data.",
+      "It's crucial to create content that both people and AI can trust, ensuring it reflects your brand's unique style even when using AI tools.",
+      "Understanding what your sales team needs and creating content that directly matches customer interests are key for successful demand generation."
+    ],
+    "closing": "This week you learned that B2B marketing success in the AI era hinges on creating trustworthy, direct content that truly connects with both human and artificial intelligence."
+  },
+  "resources": [
+    {
+      "headline": "AI Mode Queries Are 3X Longer – Why Your Page Should Lead With The Answer via @sejournal, @gregjarboe",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/ai-mode-queries-are-3x-longer-the-case-for-leading-with-the-answer/585990/",
+      "topic": "B2B SEO in the Age of AI Search"
+    },
+    {
+      "headline": "The House Doesn’t Publish Its Tells via @sejournal, @pedrodias",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/the-house-doesnt-publish-its-tells/586359/",
+      "topic": "B2B SEO in the Age of AI Search"
+    },
+    {
+      "headline": "Content Optimization",
+      "source": "Content Marketing Institute",
+      "url": "https://contentmarketinginstitute.com/measurement-optimization/content-optimization",
+      "topic": "B2B SEO in the Age of AI Search"
+    },
+    {
+      "headline": "Demand Generation",
+      "source": "Content Marketing Institute",
+      "url": "https://contentmarketinginstitute.com/strategy-planning/demand-generation",
+      "topic": "Demand Generation and Content Marketing Strategy"
+    },
+    {
+      "headline": "Audience Building",
+      "source": "Content Marketing Institute",
+      "url": "https://contentmarketinginstitute.com/strategy-planning/audience-building",
+      "topic": "Demand Generation and Content Marketing Strategy"
+    },
+    {
+      "headline": "Video & Visual Content",
+      "source": "Content Marketing Institute",
+      "url": "https://contentmarketinginstitute.com/content-creation-distribution/video-visual-content",
+      "topic": "Demand Generation and Content Marketing Strategy"
+    }
+  ]
+}
