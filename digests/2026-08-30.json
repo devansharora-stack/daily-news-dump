@@ -1,0 +1,198 @@
+[
+  {
+    "headline": "Sony Music and Warner Chappell Sue Anthropic, Alleging 'Brazen Campaign' of Intellectual Property Theft",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+    "theme": "Regulatory",
+    "summary": "Sony Music and Warner Chappell filed suit against Anthropic seeking damages for 'tens of thousands' of copyrighted works, with potential liability reaching several billion dollars at maximum statutory rates ($150K per work plus $25K per instance of stripped copyright data). This broadens the legal front against AI companies over training data and could set precedent for how the entire industry handles copyrighted content."
+  },
+  {
+    "headline": "Anthropic Gets Its First Court Win Over the Pentagon's Supply-Chain Risk Label",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+    "theme": "Regulatory",
+    "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a significant legal victory as a second Pentagon lawsuit continues. The case has implications for how the government can restrict AI companies from defense contracts and signals growing tension between national security concerns and the AI industry's access to federal spending."
+  },
+  {
+    "headline": "OpenAI Wants California to Strengthen Its Newly Passed AI Safety Law",
+    "source": "Mashable",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU3kwUUdkQkoxeHZQajktMlZTSVpxMWhqMjFLUXowNEMzV2gyLXBHR3ViWkI2MGxwX3RlUVE4TjF3RlA1dFJFUFU3bUN3alRvWmF4bjFpQ1YtQlZwT2JtcFV1a3VXY29Ya3hYNWM3eTlFMUVOUjhScVZWS1V2U2RHU3lCT0l2TW8?oc=5",
+    "theme": "Regulatory",
+    "summary": "OpenAI is publicly lobbying California to strengthen its recently passed AI safety legislation — a notable reversal from the industry's typical posture of opposing regulation. This signals a strategic shift where leading AI companies may prefer robust regulation that raises compliance costs for smaller competitors."
+  },
+  {
+    "headline": "How China's AI Policies Avoid Painful Past Tech Crackdowns",
+    "source": "Barron's",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTHJGbTU5Rkg2MDRKZlhpY190SGpnZ0F0TkZLSm1mTzhGNG5vMnZMNGxZdTh0VF9YZFhdHJsTlpoMUVtM3VpcTZlckdWUnJydEJDeGFvTDdaRTFUYnlud1BZNU1KUnZFc1FXR3NrMFFIekM3QWlMYXJjVkI0MUVFTVlfZjlOUmM?oc=5",
+    "theme": "Regulatory",
+    "summary": "China is deliberately crafting AI policies to avoid repeating its heavy-handed tech crackdowns of 2021-22 that wiped billions in market value. For global business leaders, this signals China's intent to remain competitive in AI by creating a more industry-friendly regulatory environment — a strategic contrast to the EU's prescriptive approach."
+  },
+  {
+    "headline": "Tech Backlash Reaches Fever Pitch as AI Angst Collides with Social Media Fears",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
+    "theme": "Regulatory",
+    "summary": "Data center construction is becoming a major election issue alongside social media concerns, with political pressure mounting on both fronts. Companies planning AI infrastructure buildouts face growing NIMBY opposition and potential regulatory hurdles that could slow deployment timelines and increase costs."
+  },
+  {
+    "headline": "OpenAI to End Model Access to Cursor After Acquisition by Elon Musk's SpaceX",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
+    "theme": "AI Strategy",
+    "summary": "OpenAI plans to cut off model access to the popular AI coding tool Cursor by November 12 following SpaceX's $60 billion acquisition of the startup, citing competitive concerns. This demonstrates how AI platform dependencies create serious business risk — and how the intensifying rivalry between Musk and OpenAI is now directly disrupting developer tool ecosystems."
+  },
+  {
+    "headline": "The Big Lesson from This Week's Earnings: The AI Buildout Is Not a Zero-Sum Game",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/08/29/big-lesson-from-this-weeks-earnings-ai-buildout-is-not-a-zero-sum-game.html",
+    "theme": "Enterprise ROI",
+    "summary": "Salesforce, CrowdStrike, and Nvidia all crushed earnings expectations in the same week, suggesting the AI spending wave is lifting multiple layers of the stack simultaneously rather than creating winner-take-all dynamics. This is a meaningful signal for investors and executives that the AI value chain may be broader than feared."
+  },
+  {
+    "headline": "Marc Benioff Is Getting His Mojo Back as Salesforce's AI Strength Quiets Skeptics",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/08/28/marc-benioff-getting-his-mojo-back-as-salesforce-lifts-ai-growth-view.html",
+    "theme": "Enterprise ROI",
+    "summary": "Salesforce's stock had its second-best day on record following earnings, with Wall Street showing renewed confidence in its AI strategy. This counters the 'SaaSpocalypse' narrative that AI would destroy incumbent software companies — suggesting enterprises are choosing to buy AI through existing vendor relationships rather than rip-and-replace."
+  },
+  {
+    "headline": "Salesforce Revealed the Next Battleground in AI — and It's Not the Models",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/08/29/op-ed-salesforce-revealed-next-battleground-in-ai-its-not-models.html",
+    "theme": "AI Strategy",
+    "summary": "Markets have vaporized roughly $2 trillion in software value by asking the wrong question about AI — focusing on models rather than the application and data layers where enterprise value is actually created. Salesforce's earnings suggest the competitive advantage in AI is shifting from model providers to companies that control enterprise workflows and customer data."
+  },
+  {
+    "headline": "Big Tech's Massive AI Spending Is Putting One of Its Longtime Strengths to the Test",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/08/28/big-techs-ai-spending-is-putting-a-longtime-strengths-to-the-test.html",
+    "theme": "AI Strategy",
+    "summary": "The scale of Big Tech's AI infrastructure investments is creating new risks to their historically strong balance sheets and free cash flow generation. For boards and investors, this raises questions about whether current AI capex levels are sustainable and when — or if — returns will materialize at the scale needed to justify the spending."
+  },
+  {
+    "headline": "Nvidia's AI Advantage Is Moving Beyond the GPU",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "theme": "Model & Platform",
+    "summary": "Nvidia's next generation of data center systems emphasizes smarter traffic control and system-level efficiency rather than raw processor performance alone. This signals a strategic shift that deepens Nvidia's moat beyond chips into full-stack data center architecture — making it harder for AMD and custom silicon efforts to compete on GPUs alone."
+  },
+  {
+    "headline": "Marvell Shares Tumble 6% as Outlook Underwhelms Despite 37% Revenue Growth",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/08/28/marvell-mrvl-q2-earnings-outlook.html",
+    "theme": "Funding & M&A",
+    "summary": "Marvell Technology shares fell despite 37% revenue growth after its fiscal 2028 outlook failed to meet expectations, signaling that investors' appetite for AI infrastructure plays is becoming more discriminating. Companies that can't show acceleration in AI-specific revenue trajectories are being punished even with strong topline growth."
+  },
+  {
+    "headline": "Andreessen Horowitz Raises $1.1 Billion to Fund the Physical Buildout of AI",
+    "source": "finance.biggo.com",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wSVh1QjJDUnVGSDFsTzV6UnNsRG91bEltRjBKUXp5M2FYRlhRbk51NHNwR3l3X05iSzNRQk9ua1pBdXJrN3owaWNmM2s3NVRSbFg1a1FZZW9aQTRycXFHRUV6aS0tTVd3bGhpbklvdi1Vb3NSSlE?oc=5",
+    "theme": "Funding & M&A",
+    "summary": "Andreessen Horowitz raised a $1.1 billion fund specifically targeting the physical infrastructure layer of AI — data centers, energy, and hardware. This validates that VC capital is flowing downstream from software into the real-world buildout required to support AI at scale, and signals a16z's conviction that infrastructure is the next major investment cycle."
+  },
+  {
+    "headline": "AI Assistant Startup Instinct Reaches $2.5 Billion Valuation After $250M Funding Round",
+    "source": "The Daily Star",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOU9zLTk3c2hvdTN1cWU4TnZ0SkxzSXdSek5PbllaQUhnOGFkUWstVXhHVV9KTUNKbjJxT3lIVUJ4R1RGZlpsR2h0UW9HWVJJNkZOYnpNUWlNZ0xaZElnVjcyVjRLMU5YaGo0TDVCdTFQdGlSclhTM0ZjVXR0MEJOcTVpU052M1FJRWFoNEZ1LVZtZE1LNXItNnFOZ0NUWVUwWmJDRGp1a29GY0J2WmpGOWE0Rm5yU3pvT0NjbkE3M0lvbE8xb1BPTzVRUmZyQ2FS?oc=5",
+    "theme": "Funding & M&A",
+    "summary": "AI personal assistant startup Instinct hit a $2.5 billion valuation after raising $250 million, part of a broader VC surge into AI-powered personal assistant products. This reflects growing investor conviction that consumer-facing AI agents will be a massive category, even as the space becomes increasingly crowded."
+  },
+  {
+    "headline": "Personal Assistants Are Suddenly Venture Capital's New Obsession",
+    "source": "inc.com",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOY010LS1kV3ZDbGYwQTI3VWhfMmQ0SUI2V295cm1ZdXNVOTAzMGNUQmxGS0hjSWVwdjY5a1lJeWIwdThiOWF3OEhmTkdhbTlsd1lzUnlxUXhmRlo2YnpkdWpPLTJFUEpnQkM3M1FFM0FhYmJnR0UxRkxHS3hSQWVILXN5cFJnS1hxT0tuWXRYRlZNcl9rVzdlNkFQemNxbWI3MVBocUQ1MVVYblNtdU0yOW5UNm9HYVoyZjI5R3M0OXkyb0lzUF9ZREp3YzgwQ24yT2JJX3JNMzktcW82cGczQmtHaWx0OHI0OC1XN1N3?oc=5",
+    "theme": "Agentic AI",
+    "summary": "VC firms are flooding into AI personal assistant startups, with one unnamed company approaching a $1 billion valuation. The trend marks a shift from enterprise-focused AI agents to consumer-facing autonomous assistants that manage calendars, purchases, and communications — a category that could reshape how individuals interact with businesses."
+  },
+  {
+    "headline": "As AI Agents Go Rogue, Cyber Insurers Are Adapting Their Policies",
+    "source": "news8000.com",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPS1ZnaG9ZSUdkV2lyRktqd0V5WGFoaVJNODlHWEpjNFlIQlBuVmprbkh3NlgyXzdfZk90OG5SMHpjTmhzWlhEZHZSbGNBVzc4RjJ5bmVQRG9BemVTY0t3WlR0RWJRcXRNSi05UVd1M2JHS19BaDVBZU1YWGlnN3ZUVU5acy1jejlJMHhrTGJlSDdXM2d0aWNJMGFkY2k4YTlTc0tuelZkUDRCb0dkaGpTbWVyVGNBS1NXTzAzNDVZR1VGTGI1X1pMU2s0bWJrOXpPamFXWVQyaWwtdThkUURFaDlOTGNXQjZzaUJV?oc=5",
+    "theme": "AI Risk",
+    "summary": "Cyber insurance providers are rewriting policies to account for risks from autonomous AI agents that can take actions without human approval. This is an early but critical signal that the insurance industry — a key institutional risk assessor — sees agentic AI failures as a material and growing liability category for enterprises."
+  },
+  {
+    "headline": "The Cybersecurity Apocalypse Is Coming in 'Months,' AI Giants Warn",
+    "source": "Wired AI",
+    "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+    "theme": "AI Risk",
+    "summary": "Major AI companies are warning that AI-powered cybersecurity threats could reach crisis levels within months, not years. For CISOs and boards, this accelerates the urgency of both deploying AI-powered defenses and reassessing the security implications of their own AI deployments."
+  },
+  {
+    "headline": "A 64GB RAM Kit Now Costs $1,118 Because AI Datacenters Are Eating the Supply",
+    "source": "Startup Fortune",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQkR6bW5OajVXM3RSelhmUFMyYmUyaklhLWtCdDVCeVJXZmpiQl95Q3RKemVjQURHWTJXTGhMcmZISmdtS1VMaGNtNkRXdEZhR3VvT1k0RVdwSWV4WW16bTB6akdJeF9wTjNXYXVPUFVOUUFVR2liNF9EUnNVY294Mk9UQkw1SGdHMk9CaUltak45VXYtbVZ2TkdteWRBMU1VTkJGMw?oc=5",
+    "theme": "AI Strategy",
+    "summary": "Consumer RAM prices have surged to $1,118 for a 64GB kit as AI datacenter demand absorbs global memory supply. This is a tangible example of how AI infrastructure buildout is creating cost inflation across the broader tech supply chain, affecting enterprises and consumers far beyond the AI sector itself."
+  },
+  {
+    "headline": "The Fed Chair Says AI Is Moving Faster Than Even Its Believers Predicted",
+    "source": "24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbFRHdTVQbVRjbzliQUpPb0FQVTVXWFpaU19oYWpzR1lPU1hfLW42cHVDcVhzNWgxeXNzR1hlRl9MdFl0X1VGWnRPTFRzNllYRWVSMUlhTkFHLUVGZ0hkdVBtOURxMGsxdHN4LWlBZy0xcVI3bWtqdkU3d3JYcG9NRmQtU0VFbG50aUNpczUwRDNSelFCVFRZeHl4Ui1qWFVBMDJRUk5hWDdZNFJxNi1xZjdfWlRaN3M?oc=5",
+    "theme": "AI Strategy",
+    "summary": "The Federal Reserve Chair acknowledged that AI is advancing faster than even optimistic forecasts predicted, signaling that the central bank is actively incorporating AI's economic effects into monetary policy thinking. For executives planning investment cycles, this suggests the Fed sees AI as a structural economic force — not a cyclical tech trend."
+  },
+  {
+    "headline": "The Fed Confronts a Powerful New Economic Force",
+    "source": "The Washington Post",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
+    "theme": "AI Strategy",
+    "summary": "The Federal Reserve is grappling with AI as a major new variable in economic modeling, with potential to alter productivity, labor markets, and inflation dynamics simultaneously. This macro-level recognition has direct implications for capital allocation decisions, as monetary policy will increasingly factor in AI-driven economic shifts."
+  },
+  {
+    "headline": "AI Is Revolutionizing Strategic Decision-Making",
+    "source": "Harvard Business Review AI",
+    "url": "https://hbr.org/topic/subject/strategy",
+    "theme": "AI Strategy",
+    "summary": "Harvard Business Review reports that new AI tools are transforming strategic decision-making by continuously generating, evaluating, and synthesizing insights — augmenting human judgment rather than replacing it. For C-suite leaders, this frames AI not as an operational efficiency tool but as a core strategic capability that can improve the quality of top-level decisions."
+  },
+  {
+    "headline": "The Turbulent AI Era Is Here. The Choices We Make Now Are Critical.",
+    "source": "gatesnotes.com",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+    "theme": "AI Strategy",
+    "summary": "Bill Gates published an essay arguing that AI's turbulent phase is here and the decisions made now — by companies, governments, and individuals — will shape outcomes for decades. Coming from one of tech's most influential voices, this signals urgency for business leaders to move from observation to active strategic positioning on AI."
+  },
+  {
+    "headline": "Meta's Sandhya Devanathan Joins OpenAI as VP for Southeast Asia, Australia",
+    "source": "ET Enterprise AI",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRXR3UlBkbUdTZ0tpRzJFWEdxX0hpY0k3WDAxYzVzQXZ4NnhwbzRMVFJJdmk0MjNyUWxCdjVaRFhYTW9UZG9IaHBpMWE5UVFXdGtMMVczejl6cTlWeWIyR2VLQk1KR0laUWJqVFZBVVNzMnRtV0RRZ1dUVTRFNlNxaGx4RHdPME5xV3VHX3MyWjE0YlFhaGhLRUJZcmFlRERwNjZXSU5kalpWbzh2Q01xMHNsRTB2a3Y0RnlQb1J3azFzdEs5NklwZUE2OWZMZlE1ejBoeFd5cGhPTWRXWmFJ0gHkAUFVX3lxTE1ka1l0N3poM3RRcS1KTlFoVGpHbk5CZkR6N0xOTzlwSi11ZUJWMzB2QV9DRUlKUkZZbEJMQWx4NTE2RzUwSGloaHNIOWFkcDJkZU52LVBsRGpQbUVoZmtmWnVkUGpyRE1NLUdvTlcxTkI2UGZod2drZWp6dWRZbm8xSUx6ZUYtNzhNYXQ4MklyYy1UZGxFdjhkalV6cWJwUGpjTGdQZUtmUUVWZFlrRHZIOGRZS2otT2VQbVJ6ZmVBS1VTMTdPOWJTQXJTcTQtNWRBcTI1Z2pxYW1GN2pmVnB0X0dSTA?oc=5",
+    "theme": "AI Workforce Impact",
+    "summary": "OpenAI hired Meta's Southeast Asia and Australia head Sandhya Devanathan as VP for the region, signaling an aggressive push into high-growth markets. The executive poaching from Meta underscores the intensifying talent war between AI companies and the strategic importance of international expansion beyond the US and Europe."
+  },
+  {
+    "headline": "Meta's $18 Billion Settlement Puts TikTok and YouTube on Notice",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/08/29/meta-settlement-tiktok-youtube-snap-teen-safety.html",
+    "theme": "Regulatory",
+    "summary": "Meta's landmark $18 billion settlement in a social media safety case sets a precedent that could expose TikTok, YouTube, and Snap to similar liability. Meta is strategically calling on competitors to adopt the same child safety standards, potentially forcing industry-wide compliance costs that disproportionately burden smaller platforms."
+  },
+  {
+    "headline": "Schools Are Buying AI Fast, but Their Contracts Still Can't Show It Helps",
+    "source": "MarketScale",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMS1yUlBNN3pvb3lidnBMSlZoQkRuQ2lTbktjbFBjdDUtRl9tMVlXeWtrVUpNY3F1ODBVUE5WdUpiczZseWFPd1VaRUMzOTNMRi1GWGwtakFHdlIxbkpuVmxuMGFCUWxyUTZjME42V3lTUFVpTGN6Mlg2WHZFZWgwOU54UkZuQS1yeWJ5UDlMRHRBTVFRWGtoeUIyWEozZUx2ZDVPYzJ6U1FmT2I0OGZnNG94clJZUUtwSUctT0phX1JWd081STFBX19wWQ?oc=5",
+    "theme": "Enterprise ROI",
+    "summary": "Schools are rapidly purchasing AI tools but contracts lack outcome metrics proving effectiveness — a textbook example of the GenAI Paradox where adoption outpaces measurable impact. This pattern mirrors enterprise AI procurement more broadly, where urgency to deploy often overrides rigorous ROI frameworks."
+  },
+  {
+    "headline": "New Stanford Grants Tackle AI's Impact on Global Security and Geopolitics",
+    "source": "Stanford HAI",
+    "url": "https://hai.stanford.edu/news/new-stanford-grants-tackle-ais-impact-on-global-security-and-geopolitics",
+    "theme": "Research to Business",
+    "summary": "Stanford HAI and the Hoover Institution are funding projects examining AI's role in nuclear proliferation detection, US-China competition, and political influence operations. For defense contractors, geopolitical strategists, and multinational corporations, these research programs will shape the policy frameworks governing AI in national security contexts."
+  },
+  {
+    "headline": "Vijay Pande on Betting Small After Running $4 Billion at a16z: Why Biology Is Becoming Engineering",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+    "theme": "Research to Business",
+    "summary": "Former a16z biotech lead Vijay Pande argues biology is shifting from discovery to engineering science, enabled by AI and open datasets — but notes clinical trials remain brutally expensive. His new AI-native fund VZVC's thesis that shared data, not proprietary walled gardens, will drive biotech AI breakthroughs has implications for pharma companies' data strategies."
+  },
+  {
+    "headline": "Google Expands Gemini Enterprise with AI for Lawyers and Law Firms",
+    "source": "Inspenet",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94Unl1RWxEOGFaQU5vYzcxWTFVX0VqOEM0aUtyX3BzVENidDZRYWpTdHhSVkVNYTRxbUt5anpzb0ZjZTZMaFF4TVlGM0NQRXpsamVsT1ZvVGpXT3ZRZ1ZFQmdTcEZZdlZDY3BtNHRSRmlhaVk?oc=5",
+    "theme": "Model & Platform",
+    "summary": "Google is expanding Gemini Enterprise with AI tools specifically tailored for the legal industry, targeting lawyers and law firms. This vertical push into legal services — a sector with high billable rates and massive document review costs — signals Google's strategy to drive enterprise AI adoption through industry-specific solutions rather than generic offerings."
+  }
+]

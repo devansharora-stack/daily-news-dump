@@ -1,114 +1,6 @@
 {
   "sent": [
     {
-      "key": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition",
-      "date": "2026-08-16"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery",
-      "date": "2026-08-16"
-    },
-    {
-      "key": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out",
-      "date": "2026-08-16"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-      "date": "2026-08-16"
-    },
-    {
-      "key": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-      "date": "2026-08-16"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.13272",
-      "date": "2026-08-16"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.12863",
-      "date": "2026-08-16"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.12320",
-      "date": "2026-08-16"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.12346",
-      "date": "2026-08-16"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.12373",
-      "date": "2026-08-16"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.12851",
-      "date": "2026-08-16"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.12426",
-      "date": "2026-08-16"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.12395",
-      "date": "2026-08-16"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.12674",
-      "date": "2026-08-16"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.12670",
-      "date": "2026-08-16"
-    },
-    {
-      "key": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want",
-      "date": "2026-08-16"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.13345",
-      "date": "2026-08-16"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.12895",
-      "date": "2026-08-16"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.12654",
-      "date": "2026-08-16"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.12761",
-      "date": "2026-08-16"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.13046",
-      "date": "2026-08-16"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.12610",
-      "date": "2026-08-16"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.13129",
-      "date": "2026-08-16"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.12368",
-      "date": "2026-08-16"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.12599",
-      "date": "2026-08-16"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.13428",
-      "date": "2026-08-16"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.12675",
-      "date": "2026-08-16"
-    },
-    {
       "key": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b",
       "date": "2026-08-17"
     },
@@ -1467,6 +1359,118 @@
     {
       "key": "https://arxiv.org/abs/2608.26949",
       "date": "2026-08-29"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "date": "2026-08-30"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
+      "date": "2026-08-30"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU3kwUUdkQkoxeHZQajktMlZTSVpxMWhqMjFLUXowNEMzV2gyLXBHR3ViWkI2MGxwX3RlUVE4TjF3RlA1dFJFUFU3bUN3alRvWmF4bjFpQ1YtQlZwT2JtcFV1a3VXY29Ya3hYNWM3eTlFMUVOUjhScVZWS1V2U2RHU3lCT0l2TW8",
+      "date": "2026-08-30"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTHJGbTU5Rkg2MDRKZlhpY190SGpnZ0F0TkZLSm1mTzhGNG5vMnZMNGxZdTh0VF9YZFhdHJsTlpoMUVtM3VpcTZlckdWUnJydEJDeGFvTDdaRTFUYnlud1BZNU1KUnZFc1FXR3NrMFFIekM3QWlMYXJjVkI0MUVFTVlfZjlOUmM",
+      "date": "2026-08-30"
+    },
+    {
+      "key": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
+      "date": "2026-08-30"
+    },
+    {
+      "key": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
+      "date": "2026-08-30"
+    },
+    {
+      "key": "https://www.cnbc.com/2026/08/29/big-lesson-from-this-weeks-earnings-ai-buildout-is-not-a-zero-sum-game.html",
+      "date": "2026-08-30"
+    },
+    {
+      "key": "https://www.cnbc.com/2026/08/28/marc-benioff-getting-his-mojo-back-as-salesforce-lifts-ai-growth-view.html",
+      "date": "2026-08-30"
+    },
+    {
+      "key": "https://www.cnbc.com/2026/08/29/op-ed-salesforce-revealed-next-battleground-in-ai-its-not-models.html",
+      "date": "2026-08-30"
+    },
+    {
+      "key": "https://www.cnbc.com/2026/08/28/big-techs-ai-spending-is-putting-a-longtime-strengths-to-the-test.html",
+      "date": "2026-08-30"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
+      "date": "2026-08-30"
+    },
+    {
+      "key": "https://www.cnbc.com/2026/08/28/marvell-mrvl-q2-earnings-outlook.html",
+      "date": "2026-08-30"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wSVh1QjJDUnVGSDFsTzV6UnNsRG91bEltRjBKUXp5M2FYRlhRbk51NHNwR3l3X05iSzNRQk9ua1pBdXJrN3owaWNmM2s3NVRSbFg1a1FZZW9aQTRycXFHRUV6aS0tTVd3bGhpbklvdi1Vb3NSSlE",
+      "date": "2026-08-30"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOU9zLTk3c2hvdTN1cWU4TnZ0SkxzSXdSek5PbllaQUhnOGFkUWstVXhHVV9KTUNKbjJxT3lIVUJ4R1RGZlpsR2h0UW9HWVJJNkZOYnpNUWlNZ0xaZElnVjcyVjRLMU5YaGo0TDVCdTFQdGlSclhTM0ZjVXR0MEJOcTVpU052M1FJRWFoNEZ1LVZtZE1LNXItNnFOZ0NUWVUwWmJDRGp1a29GY0J2WmpGOWE0Rm5yU3pvT0NjbkE3M0lvbE8xb1BPTzVRUmZyQ2FS",
+      "date": "2026-08-30"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOY010LS1kV3ZDbGYwQTI3VWhfMmQ0SUI2V295cm1ZdXNVOTAzMGNUQmxGS0hjSWVwdjY5a1lJeWIwdThiOWF3OEhmTkdhbTlsd1lzUnlxUXhmRlo2YnpkdWpPLTJFUEpnQkM3M1FFM0FhYmJnR0UxRkxHS3hSQWVILXN5cFJnS1hxT0tuWXRYRlZNcl9rVzdlNkFQemNxbWI3MVBocUQ1MVVYblNtdU0yOW5UNm9HYVoyZjI5R3M0OXkyb0lzUF9ZREp3YzgwQ24yT2JJX3JNMzktcW82cGczQmtHaWx0OHI0OC1XN1N3",
+      "date": "2026-08-30"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPS1ZnaG9ZSUdkV2lyRktqd0V5WGFoaVJNODlHWEpjNFlIQlBuVmprbkh3NlgyXzdfZk90OG5SMHpjTmhzWlhEZHZSbGNBVzc4RjJ5bmVQRG9BemVTY0t3WlR0RWJRcXRNSi05UVd1M2JHS19BaDVBZU1YWGlnN3ZUVU5acy1jejlJMHhrTGJlSDdXM2d0aWNJMGFkY2k4YTlTc0tuelZkUDRCb0dkaGpTbWVyVGNBS1NXTzAzNDVZR1VGTGI1X1pMU2s0bWJrOXpPamFXWVQyaWwtdThkUURFaDlOTGNXQjZzaUJV",
+      "date": "2026-08-30"
+    },
+    {
+      "key": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn",
+      "date": "2026-08-30"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQkR6bW5OajVXM3RSelhmUFMyYmUyaklhLWtCdDVCeVJXZmpiQl95Q3RKemVjQURHWTJXTGhMcmZISmdtS1VMaGNtNkRXdEZhR3VvT1k0RVdwSWV4WW16bTB6akdJeF9wTjNXYXVPUFVOUUFVR2liNF9EUnNVY294Mk9UQkw1SGdHMk9CaUltak45VXYtbVZ2TkdteWRBMU1VTkJGMw",
+      "date": "2026-08-30"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbFRHdTVQbVRjbzliQUpPb0FQVTVXWFpaU19oYWpzR1lPU1hfLW42cHVDcVhzNWgxeXNzR1hlRl9MdFl0X1VGWnRPTFRzNllYRWVSMUlhTkFHLUVGZ0hkdVBtOURxMGsxdHN4LWlBZy0xcVI3bWtqdkU3d3JYcG9NRmQtU0VFbG50aUNpczUwRDNSelFCVFRZeHl4Ui1qWFVBMDJRUk5hWDdZNFJxNi1xZjdfWlRaN3M",
+      "date": "2026-08-30"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM",
+      "date": "2026-08-30"
+    },
+    {
+      "key": "https://hbr.org/topic/subject/strategy",
+      "date": "2026-08-30"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E",
+      "date": "2026-08-30"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRXR3UlBkbUdTZ0tpRzJFWEdxX0hpY0k3WDAxYzVzQXZ4NnhwbzRMVFJJdmk0MjNyUWxCdjVaRFhYTW9UZG9IaHBpMWE5UVFXdGtMMVczejl6cTlWeWIyR2VLQk1KR0laUWJqVFZBVVNzMnRtV0RRZ1dUVTRFNlNxaGx4RHdPME5xV3VHX3MyWjE0YlFhaGhLRUJZcmFlRERwNjZXSU5kalpWbzh2Q01xMHNsRTB2a3Y0RnlQb1J3azFzdEs5NklwZUE2OWZMZlE1ejBoeFd5cGhPTWRXWmFJ0gHkAUFVX3lxTE1ka1l0N3poM3RRcS1KTlFoVGpHbk5CZkR6N0xOTzlwSi11ZUJWMzB2QV9DRUlKUkZZbEJMQWx4NTE2RzUwSGloaHNIOWFkcDJkZU52LVBsRGpQbUVoZmtmWnVkUGpyRE1NLUdvTlcxTkI2UGZod2drZWp6dWRZbm8xSUx6ZUYtNzhNYXQ4MklyYy1UZGxFdjhkalV6cWJwUGpjTGdQZUtmUUVWZFlrRHZIOGRZS2otT2VQbVJ6ZmVBS1VTMTdPOWJTQXJTcTQtNWRBcTI1Z2pxYW1GN2pmVnB0X0dSTA",
+      "date": "2026-08-30"
+    },
+    {
+      "key": "https://www.cnbc.com/2026/08/29/meta-settlement-tiktok-youtube-snap-teen-safety.html",
+      "date": "2026-08-30"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMS1yUlBNN3pvb3lidnBMSlZoQkRuQ2lTbktjbFBjdDUtRl9tMVlXeWtrVUpNY3F1ODBVUE5WdUpiczZseWFPd1VaRUMzOTNMRi1GWGwtakFHdlIxbkpuVmxuMGFCUWxyUTZjME42V3lTUFVpTGN6Mlg2WHZFZWgwOU54UkZuQS1yeWJ5UDlMRHRBTVFRWGtoeUIyWEozZUx2ZDVPYzJ6U1FmT2I0OGZnNG94clJZUUtwSUctT0phX1JWd081STFBX19wWQ",
+      "date": "2026-08-30"
+    },
+    {
+      "key": "https://hai.stanford.edu/news/new-stanford-grants-tackle-ais-impact-on-global-security-and-geopolitics",
+      "date": "2026-08-30"
+    },
+    {
+      "key": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z",
+      "date": "2026-08-30"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94Unl1RWxEOGFaQU5vYzcxWTFVX0VqOEM0aUtyX3BzVENidDZRYWpTdHhSVkVNYTRxbUt5anpzb0ZjZTZMaFF4TVlGM0NQRXpsamVsT1ZvVGpXT3ZRZ1ZFQmdTcEZZdlZDY3BtNHRSRmlhaVk",
+      "date": "2026-08-30"
     }
   ]
 }
