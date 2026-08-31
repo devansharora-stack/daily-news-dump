@@ -1,0 +1,17 @@
+{
+  "date": "2026-08-31",
+  "type": "resource",
+  "topic": "AI's Impact on Marketing Accountability and Operations",
+  "dayLabel": "Day 1 of 3",
+  "headline": "Claudeforce: The AI Interface Salesforce Never Built",
+  "source": "Forrester Blog",
+  "url": "https://www.forrester.com/blogs/claudeforce-the-ai-interface-salesforce-never-built/",
+  "keyNotes": [
+    "Instead of forcing salespeople to use complicated software, a new partnership called \"Claudeforce\" lets them use an AI tool (Claude Cowork) to do tasks like preparing for meetings or analyzing deals, making their work much simpler.",
+    "This new system comes with 37 pre-built \"sales skills\" – think of these as specific helpful actions like checking how healthy a deal is or analyzing sales opportunities – that salespeople can use directly within the AI tool, avoiding the traditional, often difficult, screens of the main sales software.",
+    "Even though an AI tool is doing the work, the system is designed to keep sensitive company information safe by embedding Salesforce's security rules and permissions directly into the AI, ensuring that only authorized people can see or act on data.",
+    "Companies need to be careful about costs, as the pricing for this new AI system is complicated because it combines two different ways of paying for software (one based on how many people use it, the other on how much they use it), potentially leading to unexpected expenses.",
+    "This new approach is seen as a big step for how all business software might work in the future, moving away from rigid, pre-set screens and allowing tools to adapt more to how people actually do their jobs."
+  ],
+  "question": "The article suggests that AI tools like Claudeforce can offer \"assistive tasks\" – small, helpful actions – to make salespeople's jobs easier. Thinking about your own daily work, what specific, repetitive, or time-consuming tasks could an AI tool potentially help you with, freeing you up for more important work?"
+}
