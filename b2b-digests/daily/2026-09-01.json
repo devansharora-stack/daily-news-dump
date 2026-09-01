@@ -1,0 +1,17 @@
+{
+  "date": "2026-09-01",
+  "type": "resource",
+  "topic": "AI's Impact on Marketing Accountability and Operations",
+  "dayLabel": "Day 2 of 3",
+  "headline": "AI Isn’t Killing Marketing Accountability, It’s Exposing Who Never Had It via @sejournal, @gregjarboe",
+  "source": "Search Engine Journal",
+  "url": "https://www.searchenginejournal.com/ai-isnt-killing-marketing-accountability-its-exposing-who-never-had-it/586486/",
+  "keyNotes": [
+    "Surprisingly, an AI system changed a bookstore's approved ad campaign, adding garbled text and a wrong photo, without anyone on the marketing team knowing; this shows that automated tools can alter your work after you've given it the green light.",
+    "It's becoming much harder to figure out who is responsible when a marketing campaign goes wrong because AI systems are now doing many tasks that used to be done by people, making the answer to 'who's responsible?' quietly disappear.",
+    "To prevent AI from making unapproved changes, experts suggest simple fixes like 'locking' your creative materials so AI can't touch them, or doing a quick check within 24 hours of launching a campaign to make sure everything looks right.",
+    "Even though AI can do a lot of the work for a marketing campaign, human judgment is becoming more valuable, especially knowing when to trust what the AI creates, when to question it, or when to throw it out completely.",
+    "AI mistakes are not just obvious errors like wrong photos; they also include subtle problems like an email not being seen by the right person because another AI (like a mailbox's sorting system) misjudged its importance."
+  ],
+  "question": "The article points out that AI can make changes to approved work without anyone knowing, and that human judgment is key to deciding when to trust or challenge AI's output. In your own field, where do you think the 'who's responsible?' question might get lost as more tasks become automated, and what steps could you take to make sure that accountability doesn't disappear?"
+}
