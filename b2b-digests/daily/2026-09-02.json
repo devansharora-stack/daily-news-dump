@@ -1,0 +1,16 @@
+{
+  "date": "2026-09-02",
+  "type": "resource",
+  "topic": "AI's Impact on Marketing Accountability and Operations",
+  "dayLabel": "Day 3 of 3",
+  "headline": "2026 H1 Enterprise Software Earnings Reveal A New Vendor Power Play",
+  "source": "Forrester Blog",
+  "url": "https://www.forrester.com/blogs/2026-h1-enterprise-software-earnings-reveal-a-new-vendor-power-play/",
+  "keyNotes": [
+    "What seems like flexible \"pay-as-you-go\" software pricing (where you pay for things like \"credits\" or \"units\" as you use them) actually sets a minimum spending amount for your future contracts. This means even small trials can quietly become a required cost later on.",
+    "Software companies are reporting impressive numbers about how much their AI tools are being used, but these figures don't show if the AI is actually helping customers save money or work better. It's important to measure AI's success by real business improvements, not just by how often it's used.",
+    "It's becoming much harder to switch from one software company to another, not because your basic information is stuck, but because the way your business processes are set up (your \"workflows\") gets deeply tied into their system. This makes leaving a vendor very expensive and difficult, a situation often called \"lock-in.\"",
+    "Customers need to actively identify which parts of their business are becoming dependent on specific software vendors, understand the value these dependencies bring, and calculate the cost of switching away. This helps them make conscious decisions about their technology choices."
+  ],
+  "question": "The article highlights that becoming too dependent on a software vendor can be costly, especially when your business processes (your 'workflows') get tied to their system. If you were to look at a key process in your own work or business, how would you go about identifying if you're creating a similar 'workflow dependency' and what steps would you take to understand its potential 'exit cost'?"
+}
