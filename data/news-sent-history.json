@@ -1,106 +1,6 @@
 {
   "sent": [
     {
-      "key": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.14588",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "https://openai.com/index/asana",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "https://openai.com/index/nvidia/chatgpt-work",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.14562",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.14565",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.14903",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.14680",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.14568",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.14795",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.14552",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.14707",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.14943",
-      "date": "2026-08-19"
-    },
-    {
       "key": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity",
       "date": "2026-08-20"
     },
@@ -1455,6 +1355,114 @@
     {
       "key": "https://arxiv.org/abs/2608.27790",
       "date": "2026-09-01"
+    },
+    {
+      "key": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b",
+      "date": "2026-09-02"
+    },
+    {
+      "key": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use",
+      "date": "2026-09-02"
+    },
+    {
+      "key": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen",
+      "date": "2026-09-02"
+    },
+    {
+      "key": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems",
+      "date": "2026-09-02"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+      "date": "2026-09-02"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+      "date": "2026-09-02"
+    },
+    {
+      "key": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+      "date": "2026-09-02"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.28833",
+      "date": "2026-09-02"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.29028",
+      "date": "2026-09-02"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "date": "2026-09-02"
+    },
+    {
+      "key": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data",
+      "date": "2026-09-02"
+    },
+    {
+      "key": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+      "date": "2026-09-02"
+    },
+    {
+      "key": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+      "date": "2026-09-02"
+    },
+    {
+      "key": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+      "date": "2026-09-02"
+    },
+    {
+      "key": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "date": "2026-09-02"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.28593",
+      "date": "2026-09-02"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.28607",
+      "date": "2026-09-02"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+      "date": "2026-09-02"
+    },
+    {
+      "key": "https://openai.com/index/ai-native-company-workflows",
+      "date": "2026-09-02"
+    },
+    {
+      "key": "https://openai.com/index/gilbert-tobin",
+      "date": "2026-09-02"
+    },
+    {
+      "key": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization",
+      "date": "2026-09-02"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.28592",
+      "date": "2026-09-02"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.28597",
+      "date": "2026-09-02"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.28944",
+      "date": "2026-09-02"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.29128",
+      "date": "2026-09-02"
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.29118",
+      "date": "2026-09-02"
+    },
+    {
+      "key": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+      "date": "2026-09-02"
     }
   ]
 }
