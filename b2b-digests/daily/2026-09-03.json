@@ -1,0 +1,42 @@
+{
+  "date": "2026-09-03",
+  "type": "recap-and-resource",
+  "recapTopic": "AI's Impact on Marketing Accountability and Operations",
+  "recap": {
+    "intro": "Hey everyone! This week, we dove into how AI is totally changing the game for marketing and how we get things done. We looked at how it's making our jobs easier, but also bringing up some tricky new challenges.",
+    "bullets": [
+      "First, we saw that AI is making business software way more user-friendly. Like with 'Claudeforce,' salespeople can now use an AI tool called Claude Cowork to do stuff like prep for meetings or analyze deals, instead of wrestling with complicated screens. It even has 37 pre-built 'sales skills' to help them out, all while keeping sensitive company info safe with Salesforce's security rules.",
+      "Building on that, we learned that while AI makes things easier, it also makes it super hard to figure out who's responsible when things go wrong. Remember the bookstore whose ad campaign got messed up by an AI, adding garbled text and a wrong photo, without anyone on the marketing team even knowing? It really shows how AI can change your work after you've approved it. We talked about how important human judgment is becoming, and simple fixes like 'locking' your creative stuff or just checking your campaigns within 24 hours.",
+      "Finally, the big picture is that while these new AI tools are cool, we need to be super smart about how we adopt them. What looks like flexible 'pay-as-you-go' pricing (where you pay for things like 'credits' or 'units' as you use them) can actually lock you into spending a minimum amount later on. And even though companies brag about how much their AI tools are used, we need to make sure they're actually helping us save money or work better, not just being used a lot. It's also getting much harder to switch from one software company to another because your business processes get so tied into their system, making leaving them really expensive."
+    ]
+  },
+  "recapResources": [
+    {
+      "headline": "Claudeforce: The AI Interface Salesforce Never Built",
+      "source": "Forrester Blog",
+      "url": "https://www.forrester.com/blogs/claudeforce-the-ai-interface-salesforce-never-built/"
+    },
+    {
+      "headline": "AI Isn’t Killing Marketing Accountability, It’s Exposing Who Never Had It via @sejournal, @gregjarboe",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/ai-isnt-killing-marketing-accountability-its-exposing-who-never-had-it/586486/"
+    },
+    {
+      "headline": "2026 H1 Enterprise Software Earnings Reveal A New Vendor Power Play",
+      "source": "Forrester Blog",
+      "url": "https://www.forrester.com/blogs/2026-h1-enterprise-software-earnings-reveal-a-new-vendor-power-play/"
+    }
+  ],
+  "topic": "B2B SEO Case Studies and Strategy",
+  "dayLabel": "Day 1 of 3 — Intro",
+  "headline": "Financial Services",
+  "source": "RankWriters B2B Cases",
+  "url": "https://rankwriters.com/best-seo-for-b2b-a-case-study/",
+  "keyNotes": [
+    "A financial services company saw a massive 300% increase in people visiting their website from search engines (which is called \"organic traffic\") in just six months, without paying for ads.",
+    "It wasn't just about more visitors; the company also saw a 25% increase in how many of those visitors actually took a desired action, like filling out a form or calling them (this is known as their \"conversion rate\").",
+    "A key part of their success involved figuring out exactly what words potential customers were typing into search engines (this is called \"keyword research\") and then creating useful articles and website pages that answered those questions.",
+    "They also worked on getting other reputable websites to link to their site, which acts like a vote of confidence and helps search engines see them as a more trustworthy source."
+  ],
+  "question": "The article highlights how a financial services company achieved a 300% increase in online visitors and a 25% jump in people taking action by deeply understanding what their customers search for. If you were to apply this idea to your own work or business, what specific questions would you ask to figure out what your potential customers are *really* looking for online, and how might you provide answers?"
+}
