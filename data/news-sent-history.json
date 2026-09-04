@@ -1,106 +1,6 @@
 {
   "sent": [
     {
-      "key": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "https://openai.com/index/stampli",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.18078",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.18131",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.18136",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.18092",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.18086",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "https://openai.com/index/introducing-ai-futures",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.18099",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.18089",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.18740",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.19161",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.19140",
-      "date": "2026-08-21"
-    },
-    {
       "key": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital",
       "date": "2026-08-22"
     },
@@ -1463,6 +1363,110 @@
     {
       "key": "https://openai.com/index/atv-big-air-tour",
       "date": "2026-09-03"
+    },
+    {
+      "key": "https://openai.com/index/gpt-6-astra",
+      "date": "2026-09-04"
+    },
+    {
+      "key": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion",
+      "date": "2026-09-04"
+    },
+    {
+      "key": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue",
+      "date": "2026-09-04"
+    },
+    {
+      "key": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation",
+      "date": "2026-09-04"
+    },
+    {
+      "key": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation",
+      "date": "2026-09-04"
+    },
+    {
+      "key": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development",
+      "date": "2026-09-04"
+    },
+    {
+      "key": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit",
+      "date": "2026-09-04"
+    },
+    {
+      "key": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+      "date": "2026-09-04"
+    },
+    {
+      "key": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today",
+      "date": "2026-09-04"
+    },
+    {
+      "key": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "date": "2026-09-04"
+    },
+    {
+      "key": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations",
+      "date": "2026-09-04"
+    },
+    {
+      "key": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails",
+      "date": "2026-09-04"
+    },
+    {
+      "key": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model",
+      "date": "2026-09-04"
+    },
+    {
+      "key": "https://www.rnz.co.nz/news/regions/1229348/mayor-says-large-chunks-of-wellington-council-deloitte-report-written-by-ai",
+      "date": "2026-09-04"
+    },
+    {
+      "key": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise",
+      "date": "2026-09-04"
+    },
+    {
+      "key": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "date": "2026-09-04"
+    },
+    {
+      "key": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
+      "date": "2026-09-04"
+    },
+    {
+      "key": "https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector",
+      "date": "2026-09-04"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+      "date": "2026-09-04"
+    },
+    {
+      "key": "https://arxiv.org/abs/2609.01611",
+      "date": "2026-09-04"
+    },
+    {
+      "key": "https://arxiv.org/abs/2609.02095",
+      "date": "2026-09-04"
+    },
+    {
+      "key": "https://arxiv.org/abs/2609.02246",
+      "date": "2026-09-04"
+    },
+    {
+      "key": "https://arxiv.org/abs/2609.02092",
+      "date": "2026-09-04"
+    },
+    {
+      "key": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
+      "date": "2026-09-04"
+    },
+    {
+      "key": "https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great",
+      "date": "2026-09-04"
+    },
+    {
+      "key": "https://www.wired.com/story/flock-ai-search-user-interface",
+      "date": "2026-09-04"
     }
   ]
 }
