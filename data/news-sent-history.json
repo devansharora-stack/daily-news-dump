@@ -1,110 +1,6 @@
 {
   "sent": [
     {
-      "key": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital",
-      "date": "2026-08-22"
-    },
-    {
-      "key": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir",
-      "date": "2026-08-22"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.18122",
-      "date": "2026-08-22"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up",
-      "date": "2026-08-22"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf",
-      "date": "2026-08-22"
-    },
-    {
-      "key": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom",
-      "date": "2026-08-22"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero",
-      "date": "2026-08-22"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.18104",
-      "date": "2026-08-22"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.18682",
-      "date": "2026-08-22"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.18389",
-      "date": "2026-08-22"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine",
-      "date": "2026-08-22"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.18091",
-      "date": "2026-08-22"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.18108",
-      "date": "2026-08-22"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.18115",
-      "date": "2026-08-22"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-      "date": "2026-08-22"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.18100",
-      "date": "2026-08-22"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.18107",
-      "date": "2026-08-22"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-      "date": "2026-08-22"
-    },
-    {
-      "key": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit",
-      "date": "2026-08-22"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.18114",
-      "date": "2026-08-22"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.18093",
-      "date": "2026-08-22"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.18260",
-      "date": "2026-08-22"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.19072",
-      "date": "2026-08-22"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.18543",
-      "date": "2026-08-22"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.18531",
-      "date": "2026-08-22"
-    },
-    {
-      "key": "https://arxiv.org/abs/2608.18836",
-      "date": "2026-08-22"
-    },
-    {
       "key": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
       "date": "2026-08-23"
     },
@@ -1467,6 +1363,110 @@
     {
       "key": "https://www.wired.com/story/flock-ai-search-user-interface",
       "date": "2026-09-04"
+    },
+    {
+      "key": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai",
+      "date": "2026-09-05"
+    },
+    {
+      "key": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing",
+      "date": "2026-09-05"
+    },
+    {
+      "key": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation",
+      "date": "2026-09-05"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "date": "2026-09-05"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+      "date": "2026-09-05"
+    },
+    {
+      "key": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "date": "2026-09-05"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+      "date": "2026-09-05"
+    },
+    {
+      "key": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them",
+      "date": "2026-09-05"
+    },
+    {
+      "key": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge",
+      "date": "2026-09-05"
+    },
+    {
+      "key": "https://arxiv.org/abs/2609.04170",
+      "date": "2026-09-05"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+      "date": "2026-09-05"
+    },
+    {
+      "key": "https://arxiv.org/abs/2609.03460",
+      "date": "2026-09-05"
+    },
+    {
+      "key": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+      "date": "2026-09-05"
+    },
+    {
+      "key": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west",
+      "date": "2026-09-05"
+    },
+    {
+      "key": "https://www.wired.com/story/ai-job-market-infinite-doom-loop",
+      "date": "2026-09-05"
+    },
+    {
+      "key": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like",
+      "date": "2026-09-05"
+    },
+    {
+      "key": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look",
+      "date": "2026-09-05"
+    },
+    {
+      "key": "https://arxiv.org/abs/2609.03860",
+      "date": "2026-09-05"
+    },
+    {
+      "key": "https://arxiv.org/abs/2609.03236",
+      "date": "2026-09-05"
+    },
+    {
+      "key": "https://arxiv.org/abs/2609.03340",
+      "date": "2026-09-05"
+    },
+    {
+      "key": "https://arxiv.org/abs/2609.03920",
+      "date": "2026-09-05"
+    },
+    {
+      "key": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus",
+      "date": "2026-09-05"
+    },
+    {
+      "key": "https://arxiv.org/abs/2609.03209",
+      "date": "2026-09-05"
+    },
+    {
+      "key": "https://arxiv.org/abs/2609.03960",
+      "date": "2026-09-05"
+    },
+    {
+      "key": "https://arxiv.org/abs/2609.04166",
+      "date": "2026-09-05"
+    },
+    {
+      "key": "https://arxiv.org/abs/2609.04127",
+      "date": "2026-09-05"
     }
   ]
 }
