@@ -1,114 +1,6 @@
 {
   "sent": [
     {
-      "key": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-      "date": "2026-08-23"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQUXJmOTNvZUx2MzE0NmVhVFBHaDVkWHoxekw4MWpmVE92bDhMeDBCZWF2Sl9UeWNmSVZwNzhLbUlZemMtNWFnOVRyZk1KMTh6WFFERko2ZWJvTTI1OHY4S01CTTZVZTYydWFQRzFlellIa3JTNHptSWhXNnlsWm9HSVhzUVJfUU9uWUhQeThHd3l4UVlVT2FBYWpXNFpxU2ptR0FxWmpyNmZBX0xoellDNHJSSTJVN01ZQWFDZXRheko5b0pCOHJrVWtuZW52cjE0VVFzUzM3RkdPcFlkWDJZd200M3h3RG9UZjEyR0t3ZkFzcHhjTy0wRnJGNmpHWS1oTjRqWUhR",
-      "date": "2026-08-23"
-    },
-    {
-      "key": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
-      "date": "2026-08-23"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdVbW56NVZvU3ZwQTRIcmdRUVVZWjBVc1J4TFhhVUs2VE5RY21CNEpSdHA2NUJLa0daUVhYcGJwaGh6bERReE5fcFdFdHJ5bWpXa1dPTkFweDVVS3AycGxMa3VqS2JDS0VTZDNIb2RYLVVYcmdxT2xQUUpRSXNFbHhTTVozVjVyUkVYRmItTzc5SlIwS2M0NVZseUtUWFZDX3V6azMxTHJhdHJwYm5XU28yUmlzUQ",
-      "date": "2026-08-23"
-    },
-    {
-      "key": "https://www.cnbc.com/2026/08/21/broadcom-debt-deal-expected-to-reach-upwards-of-70-billion-sources.html",
-      "date": "2026-08-23"
-    },
-    {
-      "key": "https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html",
-      "date": "2026-08-23"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOEtVLXI2M2sxb0tDVFI2N0ZlTS1keWx4R0JSMTZ5dy1Zdm5aQTY1Nkdia19DQ3JSa1lTX0FkSENFUnZtd0ZDSEd5VjJld2NSYjY5aXk5b2hJaHl3NGdFT3lHTnJaTXowR2Z6YUVwVDZlRlp2c21jVkJ2cWR0c05pNmVjQ2F4WDBBM1RQY3ZhMjcxbjBPT0hmSDE3MFNQdktWbnVPSHNjTUpmTEZk",
-      "date": "2026-08-23"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcEtMdnZpOHUtSmZiQXZ5SUh5dTV4eXlxTlBZcVV6UHQ5emxqR2JmcmwyWWVNY3FsalI0WkV2em5NNlJNVFE0VHZxSXRmV0RPTlRTV2VjT2tobjNvZWtSa1RtRk1Pd0tsMnVFMENCRXZMeXpOcWVmOHg5bUdkX0dhNVdDcmYzMUhMcEFoVU1sakJnb1pHUGVyVTZqUWNXYUNJSlgtQmhwTU15MHk4eThF",
-      "date": "2026-08-23"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill",
-      "date": "2026-08-23"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR3Z5X3NQbFFFbkswVXAyQ2VhbXBxUXdVbGFQRVhxY25EVzdsOWNRa0NFcU1DWFJkQVpvbkhTTWZGcy1jLUpIMnBjNldYOV9OT0xzMERDcVhrMXdFNnlQSEk1VzBLcml6dld5S2lldC0xSUZMSmFtLVhqRHg1UUxHd01UZnk1VlE",
-      "date": "2026-08-23"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model",
-      "date": "2026-08-23"
-    },
-    {
-      "key": "https://www.cnbc.com/2026/08/21/new-york-san-francisco-tech-talent-cbre.html",
-      "date": "2026-08-23"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeGcxeFB3YU5pdVpfcml4aTlydDllSEEyMUZiY3RvbjVYeU1tVFV4T0M0TWI2VFRaekNGZDJkQWdYem5HMzJiQW9Ka1NoY3JBVGFibkpjZGRzLTRjemMyMTlBYWt6TlB3NzVnNEljdTlHSGJWQXViNXplcjhqd19uVm5XQW1SUnc0Zncxd2xBWmVRRlE",
-      "date": "2026-08-23"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQaHRWekxaNHFfeG5ld3NodkY5LW9VZVlhZjIxaEExZEtoM3pQakRacHhkRXVNU1NnR2tkXzVPT2NzSU5ta1UtdG5fcVFkWkx6VEJyOThYYTh6ODJYdU9Obmg5YTVTVXBiZFRVRTc0VVdCNVhDR2o5cWFUR3lfQVhMZmNKaHFwRDRCMnZ0X1MzZG1uMjRKaXJYVGlzbEZvaFl3VDJ3SF9HVzBXUnEtVWpybkVOWjlZTmZaMkMyaHVqTmVLNk55Ymd6NnJKYmdVNGxFVVN2bUNBTTV3TnNXaGVHa0FmaEUybUR5VzQ4VnF1bE5UY0d2RnVaejloNEl1MnlVVm5OOU1hUFRkWkRNZVlJTEFQMW9JaTRwMjhsSTI0VdIBpAJBVV95cUxNb3VoQm00RDhlSWtQUkJVU095dU9sNHFjeFNma19Md1FrZkFzMEo2WmFYRnQxcU1hNElCRnNwRGtXZTZJTEpmUDc4bjlwZnVqMzVNYWRSeG9VT2w1THkwRlRxLWFiZUpkM2RvSXYxZXJpZ3NuVFExMDFMUTNnVVJKYmFnV1RWYWhZd2ZrZzhXWEdudi1lVHA3eWg1Vi04SGlIb0FNb3FoVkxFZFNjc3BIejhlMFJ3VGtIT0Q5ZWlmNUYzZ21odzVza2pqM09aN2FQNlFqRXFtanoyQUVXRVhFZF9sN20xeTB2WHVhd0R6OVotOVd4Z0M0dlBMU3gwc093UkdBY1pwUHcxWHE3VmIxY0h6SjJXeUtfRkRJN2dpZS1KekR5",
-      "date": "2026-08-23"
-    },
-    {
-      "key": "https://hbr.org/topic/subject/leadership-and-managing-people",
-      "date": "2026-08-23"
-    },
-    {
-      "key": "https://hbr.org/topic/subject/technology-and-analytics",
-      "date": "2026-08-23"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeWJZZkNtOGVqR051aDRyaktCUjJDdk5TYmlWcll2OEd2RUpvTVJRTnU0UjVvbGo2NlhuNDNVR0VzemQ5MjZEMnN6aERKeFZ3eTY4bng5RUxnVVhQWmJlUEk0REdUUHRqcm82cHVkZTJxSW1ZbENaT3pxQ1JVRmJ4MzlBV0ZWYkNGWVppaGxuTWFkejMyNGZPQmdYVTRVWVk4MjNEdzJqNkRFNXhTSlVGSmZvZjVvb2hnaWpxN0RwTi1PUQ",
-      "date": "2026-08-23"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPX2ExZzNTcGVTOGp1WExEWWx0RW11UVFDRHU1N29IaS1xYUtDZEhYT1l3MFg3Z2x1dHNkMGVLeWxaM0FIMEw1OTJ6UUMtcXFuSVN4NnJGXzJWclNfMERIVWRRUmhwLTRnZFNhYzlsWXg3R2MtYjloemtuWU5Ham5wc29OdmEzN0VOYWw0VzVIczRBMUhqT3pYeW8tMWhHdldTUzFGNU1yc0JUS3JPMF9kUmgzZTZXanZfQzhCcE5CZjVoeFY1Zm1FWVktQ181bXVzQkJGRUpRSGo4NnBnVFpPN1g0QXdHVW9ZM3NLNUlXTEJYTFAtQWNTUnBpVG4xNEFZbE9N",
-      "date": "2026-08-23"
-    },
-    {
-      "key": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber",
-      "date": "2026-08-23"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOVF5YUxtc0lkSVJFT3BFLU5TeUlBUHloVlJkQlVqM3NBY0tSVjAxalFTMXJjNU5lbE9VeUIwVWhVZl9hYVRLbFhYSXJSSWdGV1ZodkRPbTNlZ25aSHB0YzdFb2sxaWpWcS1udmQ4M2xhSjFILXpxVXppdjI5X2xod0xLbHdYWlRDelBlb3BEMFNZZHNBdWh3",
-      "date": "2026-08-23"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcXNIaGlpdUlrMEkzTXppZzdHaHpsNGhSbExzWGc4TERvNnFIbkNNa3Y2Q3NVN1hIZzFsQXRSenFGdU93TVRLNkNsZ2JUN2YzT3pTRnpQcDdfaTVOQXlzZGhyRTUtbE9uVm9aWTVZZFVyRU5SRTVGZ0p3MzZBck05VXMzdDN3c1ZrQWFobHdxWUF3ajlRbDdiWjMyRnVPVkwteXphQVN2eVJPN2xiNEVxTFItYVNXdWtueVdJNUdNdXFMY1VRQ3NNLUhPU19pYWNmRElhNEY0WE9aZ0IwaVZQTFNuTEtCekkycXR4eFoyMnpvdU5BSEHSAfsBQVVfeXFMUFB0c3JFSEdhWmZCM1NjVUxkV0lIMTlrVUxtcDNVUlRoT0c5ZFM3UWJINHB2VEVGLWFqTFE0amQ2eldzdmlwYnplS0g5OU51VnpVZXhjTXRwaER6SHNzLTRfSlFHYV94YWhJbXFiTnFqSFd2aXdEOVRxUkVzTGI0RHgwOWRLX1lBcDdYU2dkRlhaUjhZb0F6YWdkcUs4M1RDeG5HUVZaUDU1R0kyTklTX19DdFNPenFYZklVUVNoNzBYNVhXNnRaaUNRaUFtNVZWMmUzMTFXMjk2TjVnVXV5UFJfbE9JUktrYXVxSzZjSDN6enJsMUdQdmVRbUE",
-      "date": "2026-08-23"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS3FWbE5JNmZzY1RTZWNhbU5aSUZkdk4xYVNwOHdPaWg4UXJ0aXBqLUFveVlQQkVKbG9BMG9yODdaSDg4WXdGaTNhR2xSVF81MW4tWkQ1dU9vbVpvTHRxTGtMTjd5LWdtM0poWHdKQWFnWmh5NzduejA0UVRMZFUwVUlDcTR4a1c1VFJKc09vU0pMY0ZsaG5IQTVEckRROTVhdzlVblhnNA",
-      "date": "2026-08-23"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PTlN2a1l4eURqSHpoUmRXcDRjYVBtUVdPSGI5UF9uTlFZZWUzTEJJZUFHbk5JS1JaWXFQRnN0VHFTWU5QZzdWQmFkanU1ZmN3aUpRenZ3MlBGUm1XOWd3TWJjdFFQVzdSREZDNFRCMzZNWnhLblhJdkkyWQ",
-      "date": "2026-08-23"
-    },
-    {
-      "key": "https://hai.stanford.edu/news/companies-that-buy-and-sell-your-data-are-not-following-californias-strict-privacy-laws",
-      "date": "2026-08-23"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uUGIzcFRTdFZwdkxZTnpHdUpfVmhCQ21iczlSQjJrMnlSa19sYzB4S2JuVC1wSWo1UFhRWnlpVWtrb0NIN1RmS2Nn",
-      "date": "2026-08-23"
-    },
-    {
-      "key": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research",
-      "date": "2026-08-23"
-    },
-    {
-      "key": "https://hai.stanford.edu/news/how-ai-is-helping-states-cut-through-decades-of-red-tape",
-      "date": "2026-08-23"
-    },
-    {
       "key": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
       "date": "2026-08-24"
     },
@@ -1467,6 +1359,98 @@
     {
       "key": "https://arxiv.org/abs/2609.04127",
       "date": "2026-09-05"
+    },
+    {
+      "key": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack",
+      "date": "2026-09-06"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "date": "2026-09-06"
+    },
+    {
+      "key": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website",
+      "date": "2026-09-06"
+    },
+    {
+      "key": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning",
+      "date": "2026-09-06"
+    },
+    {
+      "key": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
+      "date": "2026-09-06"
+    },
+    {
+      "key": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft",
+      "date": "2026-09-06"
+    },
+    {
+      "key": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language",
+      "date": "2026-09-06"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+      "date": "2026-09-06"
+    },
+    {
+      "key": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+      "date": "2026-09-06"
+    },
+    {
+      "key": "https://arxiv.org/abs/2609.03727",
+      "date": "2026-09-06"
+    },
+    {
+      "key": "https://arxiv.org/abs/2609.04135",
+      "date": "2026-09-06"
+    },
+    {
+      "key": "https://arxiv.org/abs/2609.03923",
+      "date": "2026-09-06"
+    },
+    {
+      "key": "https://arxiv.org/abs/2609.03189",
+      "date": "2026-09-06"
+    },
+    {
+      "key": "https://arxiv.org/abs/2609.03716",
+      "date": "2026-09-06"
+    },
+    {
+      "key": "https://arxiv.org/abs/2609.02942",
+      "date": "2026-09-06"
+    },
+    {
+      "key": "https://arxiv.org/abs/2609.04198",
+      "date": "2026-09-06"
+    },
+    {
+      "key": "https://arxiv.org/abs/2609.02964",
+      "date": "2026-09-06"
+    },
+    {
+      "key": "https://arxiv.org/abs/2609.03438",
+      "date": "2026-09-06"
+    },
+    {
+      "key": "https://arxiv.org/abs/2609.03800",
+      "date": "2026-09-06"
+    },
+    {
+      "key": "https://arxiv.org/abs/2609.02944",
+      "date": "2026-09-06"
+    },
+    {
+      "key": "https://arxiv.org/abs/2609.03635",
+      "date": "2026-09-06"
+    },
+    {
+      "key": "https://arxiv.org/abs/2609.03553",
+      "date": "2026-09-06"
+    },
+    {
+      "key": "https://arxiv.org/abs/2609.03966",
+      "date": "2026-09-06"
     }
   ]
 }
