@@ -1,0 +1,54 @@
+{
+  "date": "2026-09-06",
+  "type": "recap-week",
+  "topicA": "AI's Impact on Marketing Accountability and Operations",
+  "topicB": "B2B SEO Case Studies and Strategy",
+  "recap": {
+    "intro": "This week you explored two areas of B2B marketing: how AI is changing marketing operations and accountability, and the power of B2B SEO strategies through real-world case studies.",
+    "bullets": [
+      "AI tools can simplify complex tasks for sales teams, but also introduce new challenges like unexpected changes to marketing campaigns.",
+      "Successful B2B SEO relies on understanding what customers search for and creating valuable content that answers their questions.",
+      "Measuring the true success of AI in business means looking at real improvements, not just how often it's used, and being aware of complex pricing models.",
+      "Even great products need strong online visibility, and strategies like link building help search engines see your website as trustworthy."
+    ],
+    "closing": "This week you learned that while technology like AI and SEO offers powerful tools, strategic planning and human oversight are essential for true B2B marketing success."
+  },
+  "resources": [
+    {
+      "headline": "Claudeforce: The AI Interface Salesforce Never Built",
+      "source": "Forrester Blog",
+      "url": "https://www.forrester.com/blogs/claudeforce-the-ai-interface-salesforce-never-built/",
+      "topic": "AI's Impact on Marketing Accountability and Operations"
+    },
+    {
+      "headline": "AI Isn’t Killing Marketing Accountability, It’s Exposing Who Never Had It via @sejournal, @gregjarboe",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/ai-isnt-killing-marketing-accountability-its-exposing-who-never-had-it/586486/",
+      "topic": "AI's Impact on Marketing Accountability and Operations"
+    },
+    {
+      "headline": "2026 H1 Enterprise Software Earnings Reveal A New Vendor Power Play",
+      "source": "Forrester Blog",
+      "url": "https://www.forrester.com/blogs/2026-h1-enterprise-software-earnings-reveal-a-new-vendor-power-play/",
+      "topic": "AI's Impact on Marketing Accountability and Operations"
+    },
+    {
+      "headline": "Financial Services",
+      "source": "RankWriters B2B Cases",
+      "url": "https://rankwriters.com/best-seo-for-b2b-a-case-study/",
+      "topic": "B2B SEO Case Studies and Strategy"
+    },
+    {
+      "headline": "B2B Financial App",
+      "source": "RankWriters B2B Cases",
+      "url": "https://rankwriters.com/case-study-b2b-financial-app-skyrockets-in-search/",
+      "topic": "B2B SEO Case Studies and Strategy"
+    },
+    {
+      "headline": "National Law Firm",
+      "source": "RankWriters B2B Cases",
+      "url": "https://rankwriters.com/case-study-seo-law-firm/",
+      "topic": "B2B SEO Case Studies and Strategy"
+    }
+  ]
+}
