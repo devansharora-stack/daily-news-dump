@@ -1,0 +1,16 @@
+{
+  "date": "2026-09-09",
+  "type": "resource",
+  "topic": "AI's Impact on Search and Content Strategy",
+  "dayLabel": "Day 3 of 3",
+  "headline": "Getting Your Product Into ChatGPT Isn’t The Hard Part, Getting It Through Checkout Is via @sejournal, @gregjarboe",
+  "source": "Search Engine Journal",
+  "url": "https://www.searchenginejournal.com/getting-your-product-into-chatgpt-isnt-the-hard-part-getting-it-through-checkout-is/587470/",
+  "keyNotes": [
+    "It turns out that getting your product to appear in an AI like ChatGPT is actually the easy part; the real challenge is making sure the AI can successfully *buy* your product. This is because most online shopping systems are built for slow human shoppers, not super-fast AI agents.",
+    "Unlike people who browse slowly and get distracted, AI shopping agents make decisions and send requests incredibly fast, which can accidentally trigger website defenses designed to stop automated \"bot\" behavior. These systems often mistake legitimate AI shopping for harmful activity.",
+    "The biggest problem isn't AI picking the wrong item, but rather different parts of a company's own systems disagreeing about important details like price or whether an item is in stock. A human might notice these inconsistencies, but an AI agent gets stuck because it can't make judgment calls.",
+    "To get ready for AI shoppers, companies need to test their checkout systems by sending many fast requests at once, ensure all product information is perfectly consistent across their internal systems, and verify that refunds work correctly on the first try without human help."
+  ],
+  "question": "The article highlights that AI agents get stuck when different parts of a company's internal systems disagree about product details, like price or stock. Thinking about your own work, where might similar hidden inconsistencies exist in your processes or data that a human might overlook but a precise, fast-moving machine would immediately expose?"
+}
