@@ -55,7 +55,15 @@
         "source": "Martech.org",
         "url": "https://martech.org/marketing-without-signals-how-to-perform-when-the-data-disappears/",
         "fullText": "Navigating signal loss without losing momentum is a hurdle for every marketing leader. At the MarTech Conference we talked about building control with the data you already own.\nThe post Marketing without signals: How to perform when the data disappears appeared first on MarTech.",
-        "day": "thursday"
+        "day": "thursday",
+        "keyNotes": [
+          "Marketing leaders are currently facing a big challenge where they can't easily track what customers are doing online, which is like losing their 'signals' or clues.",
+          "This difficulty in seeing customer behavior makes it tough for companies to keep their marketing efforts effective and moving forward.",
+          "At a major industry event called the MarTech Conference, experts discussed how to handle this problem of disappearing customer data.",
+          "One key solution suggested was for companies to focus on and make the most of the information they already have about their customers, rather than relying on new, hard-to-get data.",
+          "By using this existing information, businesses can gain better control over their marketing strategies, even when external data is scarce."
+        ],
+        "question": "If the 'signals' or easy-to-track information about your customers or audience suddenly became unavailable, what existing information or 'data you already own' could you use to still make smart decisions in your own work or business?"
       },
       {
         "headline": "Your AI Doesn't Have an Intelligence Problem. It Has a Data Problem.",

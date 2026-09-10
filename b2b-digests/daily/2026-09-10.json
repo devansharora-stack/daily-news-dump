@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-10",
+  "type": "recap-and-resource",
+  "recapTopic": "AI's Impact on Search and Content Strategy",
+  "recap": {
+    "intro": "Hey everyone! This week, we dove into something super cool: how AI is totally changing the game for how businesses create their online stuff and get noticed when people search for things.",
+    "bullets": [
+      "First, we saw that powerful computer programs, called 'agentic AI,' are stepping up. Instead of just making content, like articles or videos, these smart programs are helping companies 'orchestrate' it – think of it like a conductor leading an orchestra, organizing and managing everything. This means people who plan content ('strategists') will have new jobs, but it's still super important for us humans to guide the whole process.",
+      "Building on that, we then learned that with search engines changing so fast (especially with 'AI search' becoming a thing), companies need to rethink where they spend their money to get found online, which is called 'SEO.' The big takeaway is to invest in creating really valuable 'content' – meaning useful information – and building 'authority,' so people see you as a trusted and reliable source.",
+      "Finally, we looked at the real-world impact of all this AI. It turns out that getting your product to show up in an AI like ChatGPT is actually the easy part! The real challenge is getting that AI to successfully *buy* your product. This is because most online shopping systems are built for slow human shoppers, not super-fast AI agents. AI can get stuck because it might trigger 'bot' defenses, or different parts of a company's own systems might disagree on details like price or if an item is in stock. To fix this, companies need to test their checkout systems with lots of fast requests, make sure all product info is perfectly consistent, and ensure refunds work without human help."
+    ]
+  },
+  "recapResources": [
+    {
+      "headline": "From content creation to content orchestration: How agentic AI changes the role of content strategists.",
+      "source": "Search Engine Land",
+      "url": "https://searchengineland.com/content-creation-to-orchestration-agentic-ai-content-strategist-434316"
+    },
+    {
+      "headline": "SEO budgets: Where to invest for maximum impact as search evolves.",
+      "source": "Search Engine Land",
+      "url": "https://searchengineland.com/seo-budgets-where-to-invest-for-maximum-impact-as-search-evolves-434310"
+    },
+    {
+      "headline": "Getting Your Product Into ChatGPT Isn’t The Hard Part, Getting It Through Checkout Is via @sejournal, @gregjarboe",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/getting-your-product-into-chatgpt-isnt-the-hard-part-getting-it-through-checkout-is/587470/"
+    }
+  ],
+  "topic": "Data Quality and Signal Loss in B2B Marketing",
+  "dayLabel": "Day 1 of 3 — Intro",
+  "headline": "Marketing without signals: How to perform when the data disappears",
+  "source": "Martech.org",
+  "url": "https://martech.org/marketing-without-signals-how-to-perform-when-the-data-disappears/",
+  "keyNotes": [
+    "Marketing leaders are currently facing a big challenge where they can't easily track what customers are doing online, which is like losing their 'signals' or clues.",
+    "This difficulty in seeing customer behavior makes it tough for companies to keep their marketing efforts effective and moving forward.",
+    "At a major industry event called the MarTech Conference, experts discussed how to handle this problem of disappearing customer data.",
+    "One key solution suggested was for companies to focus on and make the most of the information they already have about their customers, rather than relying on new, hard-to-get data.",
+    "By using this existing information, businesses can gain better control over their marketing strategies, even when external data is scarce."
+  ],
+  "question": "If the 'signals' or easy-to-track information about your customers or audience suddenly became unavailable, what existing information or 'data you already own' could you use to still make smart decisions in your own work or business?"
+}
