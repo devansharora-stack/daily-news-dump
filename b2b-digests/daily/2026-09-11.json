@@ -1,0 +1,16 @@
+{
+  "date": "2026-09-11",
+  "type": "resource",
+  "topic": "Data Quality and Signal Loss in B2B Marketing",
+  "dayLabel": "Day 2 of 3",
+  "headline": "Your AI Doesn't Have an Intelligence Problem. It Has a Data Problem.",
+  "source": "Demand Gen Report",
+  "url": "https://www.demandgenreport.com/blog/your-ai-doesnt-have-an-intelligence-problem-it-has-a-data-problem",
+  "keyNotes": [
+    "It turns out that how well an Artificial Intelligence (AI) system works isn't mostly about how fancy the AI program is, but rather how good and clean the information (data) you feed it is.",
+    "A big challenge for businesses is that 71% of marketing leaders admit they aren't good at using the information they collect directly from customers, and 80% aren't effective at using information from other sources.",
+    "If you give an AI system messy or incorrect information, it won't just make small errors; it will actually make your mistakes bigger and faster than any person could.",
+    "The article highlights that companies that are better at combining AI tools with human effort are almost three times more likely to see real, measurable benefits (like making more money) from their AI projects."
+  ],
+  "question": "The article warns that 'noisy data scales your mistakes faster than any human could.' Thinking about the information you use in your own role, what steps could you take to ensure that any new tools or systems you adopt don't just amplify existing problems, but instead help you succeed?"
+}
