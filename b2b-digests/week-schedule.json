@@ -84,7 +84,14 @@
         "source": "marketscale.com",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV2dpSXkwTGR0WU5DN2VEVm1WLWk5TDNDMnAwSGhzaHJFeWh5eHpMcHpHSXhsU2w3WjgwTC1KMEY4bXVkSThNVml6Z0ROZmgxWGhickxqcEw1MERIQU1RV29xTFFFOUt4MVc0YnhyM1MzdEJZS3BUQkNTRUI2STd6NGE2Ql9KVXlBbTZoc3NUM2lLZGxrWTc5blBjWHJGWUJBOGk3THVvZ0dmZnFUdmM0ME1FdlFuOU1XdjNBZkdpdTRnLV83cndVc2d3?oc=5",
         "fullText": "96% of B2B marketers use AI, but hiring is moving toward judgment and QA roles&nbsp;&nbsp;marketscale.com",
-        "day": "saturday"
+        "day": "saturday",
+        "keyNotes": [
+          "Almost all (96%) of people who market products or services from one business to another business (that's what 'B2B' means) are now using Artificial Intelligence (AI).",
+          "Even though AI is widely used, companies are looking to hire people for jobs that require human thinking and checking work.",
+          "Specifically, new jobs are focusing on 'judgment' – meaning making smart decisions – and 'QA' (Quality Assurance), which is about making sure things are correct and high-quality.",
+          "This suggests that while machines handle some tasks, human skills like critical thinking and ensuring accuracy are becoming more valuable in the workplace."
+        ],
+        "question": "Given that almost all businesses are using AI, but still need human judgment and quality checks, where do you see the most important human skills fitting into your own work or industry as technology advances?"
       }
     ]
   }
