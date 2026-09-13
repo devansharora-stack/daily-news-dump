@@ -1,0 +1,54 @@
+{
+  "date": "2026-09-13",
+  "type": "recap-week",
+  "topicA": "AI's Impact on Search and Content Strategy",
+  "topicB": "Data Quality and Signal Loss in B2B Marketing",
+  "recap": {
+    "intro": "This week you explored two exciting areas of B2B marketing, diving into how technology is reshaping our strategies and how we handle the information that drives them.",
+    "bullets": [
+      "Agentic AI is shifting content creation towards orchestration, highlighting the ongoing need for human oversight.",
+      "The real challenge with AI isn't getting products into AI systems, but ensuring those systems can complete purchases through human-designed checkouts.",
+      "AI's performance is directly tied to the quality of the data it's fed, meaning messy data leads to bigger mistakes.",
+      "As customer tracking data becomes harder to get, marketers must focus on making the most of the information they already possess."
+    ],
+    "closing": "This week you learned that while AI is rapidly changing B2B marketing, human oversight and high-quality data remain essential for success."
+  },
+  "resources": [
+    {
+      "headline": "From content creation to content orchestration: How agentic AI changes the role of content strategists.",
+      "source": "Search Engine Land",
+      "url": "https://searchengineland.com/content-creation-to-orchestration-agentic-ai-content-strategist-434316",
+      "topic": "AI's Impact on Search and Content Strategy"
+    },
+    {
+      "headline": "SEO budgets: Where to invest for maximum impact as search evolves.",
+      "source": "Search Engine Land",
+      "url": "https://searchengineland.com/seo-budgets-where-to-invest-for-maximum-impact-as-search-evolves-434310",
+      "topic": "AI's Impact on Search and Content Strategy"
+    },
+    {
+      "headline": "Getting Your Product Into ChatGPT Isn’t The Hard Part, Getting It Through Checkout Is via @sejournal, @gregjarboe",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/getting-your-product-into-chatgpt-isnt-the-hard-part-getting-it-through-checkout-is/587470/",
+      "topic": "AI's Impact on Search and Content Strategy"
+    },
+    {
+      "headline": "Marketing without signals: How to perform when the data disappears",
+      "source": "Martech.org",
+      "url": "https://martech.org/marketing-without-signals-how-to-perform-when-the-data-disappears/",
+      "topic": "Data Quality and Signal Loss in B2B Marketing"
+    },
+    {
+      "headline": "Your AI Doesn't Have an Intelligence Problem. It Has a Data Problem.",
+      "source": "Demand Gen Report",
+      "url": "https://www.demandgenreport.com/blog/your-ai-doesnt-have-an-intelligence-problem-it-has-a-data-problem",
+      "topic": "Data Quality and Signal Loss in B2B Marketing"
+    },
+    {
+      "headline": "96% of B2B marketers use AI, but hiring is moving toward judgment and QA roles",
+      "source": "marketscale.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV2dpSXkwTGR0WU5DN2VEVm1WLWk5TDNDMnAwSGhzaHJFeWh5eHpMcHpHSXhsU2w3WjgwTC1KMEY4bXVkSThNVml6Z0ROZmgxWGhickxqcEw1MERIQU1RV29xTFFFOUt4MVc0YnhyM1MzdEJZS3BUQkNTRUI2STd6NGE2Ql9KVXlBbTZoc3NUM2lLZGxrWTc5blBjWHJGWUJBOGk3THVvZ0dmZnFUdmM0ME1FdlFuOU1XdjNBZkdpdTRnLV83cndVc2d3?oc=5",
+      "topic": "Data Quality and Signal Loss in B2B Marketing"
+    }
+  ]
+}
