@@ -1,0 +1,17 @@
+{
+  "date": "2026-09-16",
+  "type": "resource",
+  "topic": "AI's Impact on Search and Content Strategy",
+  "dayLabel": "Day 3 of 3",
+  "headline": "Getting Your Product Into ChatGPT Isn’t The Hard Part, Getting It Through Checkout Is via @sejournal, @gregjarboe",
+  "source": "Search Engine Journal",
+  "url": "https://www.searchenginejournal.com/getting-your-product-into-chatgpt-isnt-the-hard-part-getting-it-through-checkout-is/587470/",
+  "keyNotes": [
+    "Surprisingly, getting your products listed in AI systems like ChatGPT is the easy part; the real challenge is making sure your online store's checkout process can actually handle a purchase initiated by an AI agent (a computer program acting as a shopper).",
+    "Online orders coming from AI-powered search have exploded, growing 15 times since January 2025, showing how quickly these new ways of shopping are becoming important.",
+    "AI agents shop much faster and more consistently than people, which can actually break online stores designed for human behavior, for example, by making rapid requests that look like a bot attack.",
+    "Unlike a human who might notice a price difference or refresh a page, an AI agent can't handle even small disagreements in product information (like price or stock) between different parts of an online store, causing the sale to fail.",
+    "Many companies only test if their systems produce the right answer, but they rarely check if the underlying technology can handle a non-human (AI) shopper moving through it at machine speed, which is a common reason sales fail."
+  ],
+  "question": "The article highlights that even small disagreements in data between different parts of a system can stop an AI from completing a purchase, whereas a human might just shrug it off. In your own job, where do you encounter situations where different pieces of information or systems don't perfectly align, and how might that impact an automated process if a human wasn't there to fix it?"
+}
