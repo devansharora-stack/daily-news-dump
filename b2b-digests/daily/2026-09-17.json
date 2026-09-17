@@ -1,0 +1,42 @@
+{
+  "date": "2026-09-17",
+  "type": "recap-and-resource",
+  "recapTopic": "AI's Impact on Search and Content Strategy",
+  "recap": {
+    "intro": "Hey everyone! This week, we dove deep into something super relevant for all of us: how AI is totally shaking up the world of online content and search.",
+    "bullets": [
+      "First, we saw that a new kind of AI, called 'agentic AI,' is changing how we create online stuff like articles and videos. Instead of just making one piece of content at a time, our job as content planners is becoming more about 'content orchestration' – basically, making sure all our different content pieces work together like a well-oiled machine. But even with these smart AI tools, we learned that human supervision is still super important!",
+      "Building on that, we then learned that as search engines get smarter with 'AI search,' we need to be smart about where we put our money. It's super important to invest in creating really valuable content – like helpful articles or videos – and also in building 'authority,' which means becoming a trusted expert in our field so people (and AI!) know they can rely on us.",
+      "Finally, we saw the real-world impact of all this! It turns out that while getting your products listed in AI systems like ChatGPT is the easy part, the real challenge is making sure your online store's checkout can actually handle a purchase from an AI agent (a computer program acting like a shopper). Online orders from AI-powered search have exploded, growing 15 times since January 2025! We learned that these AI agents shop way faster and more consistently than people, which can actually break online stores not designed for them, causing sales to fail if there's even a tiny difference in product info like price or stock. So, it's not just about getting found, but making sure our systems can actually complete the sale when AI comes knocking!"
+    ]
+  },
+  "recapResources": [
+    {
+      "headline": "From content creation to content orchestration: How agentic AI changes the role of content strategists.",
+      "source": "Search Engine Land",
+      "url": "https://searchengineland.com/content-creation-to-orchestration-agentic-ai-content-strategist-434316"
+    },
+    {
+      "headline": "SEO budgets: Where to invest for maximum impact as search evolves.",
+      "source": "Search Engine Land",
+      "url": "https://searchengineland.com/seo-budgets-where-to-invest-for-maximum-impact-as-search-evolves-434310"
+    },
+    {
+      "headline": "Getting Your Product Into ChatGPT Isn’t The Hard Part, Getting It Through Checkout Is via @sejournal, @gregjarboe",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/getting-your-product-into-chatgpt-isnt-the-hard-part-getting-it-through-checkout-is/587470/"
+    }
+  ],
+  "topic": "Data Quality and Signal Loss in B2B Marketing",
+  "dayLabel": "Day 1 of 3 — Intro",
+  "headline": "Marketing without signals: How to perform when the data disappears",
+  "source": "Martech.org",
+  "url": "https://martech.org/marketing-without-signals-how-to-perform-when-the-data-disappears/",
+  "keyNotes": [
+    "The article highlights that a major challenge for marketing leaders (the people in charge of marketing) is dealing with \"signal loss,\" which means when important information or data they rely on suddenly disappears.",
+    "When this data disappears, it becomes a \"hurdle\" (a difficulty) for marketing teams to keep their efforts moving forward and stay effective, or as the article puts it, \"without losing momentum.\"",
+    "A key strategy discussed is to \"build control\" over your marketing efforts by focusing on and using \"the data you already own,\" rather than relying solely on new or external information.",
+    "This approach suggests that even when you face the problem of \"marketing without signals\" (meaning, without new or external data), you can still perform well by leveraging the information you already have in your possession."
+  ],
+  "question": "The article suggests that when external information (or 'signals') disappears, a key strategy is to 'build control with the data you already own.' In your own work, if a primary source of information you rely on suddenly became unavailable, what existing internal knowledge or records would you turn to first to continue making effective decisions?"
+}
