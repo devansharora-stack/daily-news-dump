@@ -1,0 +1,16 @@
+{
+  "date": "2026-09-18",
+  "type": "resource",
+  "topic": "Data Quality and Signal Loss in B2B Marketing",
+  "dayLabel": "Day 2 of 3",
+  "headline": "Your AI Doesn't Have an Intelligence Problem. It Has a Data Problem.",
+  "source": "Demand Gen Report",
+  "url": "https://www.demandgenreport.com/blog/your-ai-doesnt-have-an-intelligence-problem-it-has-a-data-problem",
+  "keyNotes": [
+    "Many people think that if an Artificial Intelligence (AI) system isn't working well, it's because the AI itself isn't smart enough, but the article says the problem is almost always with the information (data) you feed it.",
+    "If you give an AI system messy or incomplete information, it won't just make small errors; it will actually make your mistakes bigger and faster than any person ever could.",
+    "A lot of businesses struggle with their information; for example, 71% of marketing leaders say they're not good at using the information they collect directly from customers, and 80% aren't good at using information they get from other sources.",
+    "Getting your information clean and ready for AI can really pay off, as companies that combine AI with human effort are nearly three times more likely to see actual financial returns (ROI) from their AI projects."
+  ],
+  "question": "The article points out that many organizations struggle with the quality of their own customer information, calling it a 'crack in the foundation.' If you were to consider the information your own team relies on, what specific areas might be 'cracked' and how could that impact any future projects that use smart computer programs (AI)?"
+}
