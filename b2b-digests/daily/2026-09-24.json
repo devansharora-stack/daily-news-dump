@@ -1,0 +1,42 @@
+{
+  "date": "2026-09-24",
+  "type": "recap-and-resource",
+  "recapTopic": "AI's Impact on Search and Content Strategy",
+  "recap": {
+    "intro": "Hey everyone! This week, we dove into how super smart computer programs, called AI, are totally changing how companies get their stuff seen online and how we all shop.",
+    "bullets": [
+      "First, we saw that a new kind of smart computer program, called 'agentic AI,' is changing how companies create their online materials, like articles or videos. It's moving from just making things to 'orchestrating' them, which means planning and managing the whole process. This means people whose job it is to plan a company's online messages, called 'content strategists,' are now focusing on managing the whole system, not just individual pieces. But even with these advanced tools, humans still need to be in charge to guide and check the AI's work.",
+      "Building on that, we learned that because AI is changing how people search, businesses need to think carefully about where they spend their money to make sure their websites appear high up when people search online. A big part of this spending should go towards creating really good 'content' (like helpful articles or videos) and building 'authority,' which means making your website known as a trusted source. These investments are super important because they help your website show up when people use new search tools powered by artificial intelligence (AI).",
+      "Finally, we saw the real-world impact of AI, especially in shopping! Getting your product seen by AI shopping tools like ChatGPT is actually the easy part. The real difficulty lies in making sure an AI can successfully complete a purchase. AI shopping agents buy products very differently from people, making rapid decisions and sending many requests at once, which can overwhelm online store systems. A common problem is when different parts of an online store, like product descriptions and checkout, have conflicting information (e.g., different prices for the same item), which an AI can't resolve like a human might. To fix this, businesses should test their checkout systems with many fast, simultaneous purchases and make sure all product information is perfectly consistent. This is a big deal, as the number of orders coming through AI-powered search has already grown 15 times since January 2025 on platforms like Shopify!"
+    ]
+  },
+  "recapResources": [
+    {
+      "headline": "From content creation to content orchestration: How agentic AI changes the role of content strategists.",
+      "source": "Search Engine Land",
+      "url": "https://searchengineland.com/content-creation-to-orchestration-agentic-ai-content-strategist-434316"
+    },
+    {
+      "headline": "SEO budgets: Where to invest for maximum impact as search evolves.",
+      "source": "Search Engine Land",
+      "url": "https://searchengineland.com/seo-budgets-where-to-invest-for-maximum-impact-as-search-evolves-434310"
+    },
+    {
+      "headline": "Getting Your Product Into ChatGPT Isn’t The Hard Part, Getting It Through Checkout Is via @sejournal, @gregjarboe",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/getting-your-product-into-chatgpt-isnt-the-hard-part-getting-it-through-checkout-is/587470/"
+    }
+  ],
+  "topic": "Data Quality and Signal Loss in B2B Marketing",
+  "dayLabel": "Day 1 of 3 — Intro",
+  "headline": "Marketing without signals: How to perform when the data disappears",
+  "source": "Martech.org",
+  "url": "https://martech.org/marketing-without-signals-how-to-perform-when-the-data-disappears/",
+  "keyNotes": [
+    "Surprisingly, even experienced marketing leaders face a big challenge when they can't get all the usual information about their customers or how well their marketing is performing, a situation known as \"signal loss.\"",
+    "When this \"signal loss\" happens, the main goal is to keep your business moving forward and not lose momentum, even if you don't have all the data you're used to.",
+    "A smart way to handle this lack of outside information is to take control by focusing on and using all the data you already have within your own company.",
+    "This important topic, about how to market effectively when you're missing key information, was a major discussion point at a professional gathering called the MarTech Conference."
+  ],
+  "question": "If you suddenly couldn't rely on all the usual external information to make decisions in your job, what internal information do you already possess that you could use to maintain control and keep moving forward?"
+}
