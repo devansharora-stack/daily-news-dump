@@ -1,0 +1,16 @@
+{
+  "date": "2026-09-25",
+  "type": "resource",
+  "topic": "Data Quality and Signal Loss in B2B Marketing",
+  "dayLabel": "Day 2 of 3",
+  "headline": "Your AI Doesn't Have an Intelligence Problem. It Has a Data Problem.",
+  "source": "Demand Gen Report",
+  "url": "https://www.demandgenreport.com/blog/your-ai-doesnt-have-an-intelligence-problem-it-has-a-data-problem",
+  "keyNotes": [
+    "It's surprising, but when Artificial Intelligence (AI) doesn't perform well, the issue isn't usually with the smart computer program itself, but with the quality of the information, or \"data,\" you feed it.",
+    "Feeding AI with messy or incomplete information, known as \"noisy data,\" can actually make mistakes much bigger and faster than any person could, whereas clean data helps focus efforts and improve results.",
+    "Many businesses struggle with their information: a study found that 71% of marketing leaders feel they're ineffective at using the information they collect directly from their customers, and 80% aren't good at using information they get from other companies.",
+    "Getting your data right for AI can lead to big benefits; companies that effectively combine AI tools with human efforts are nearly three times more likely to see a measurable return on their investment, meaning they get more value back than they put in."
+  ],
+  "question": "The article points out that poor data is like a \"crack in the foundation\" before AI even enters the picture. Thinking about your own work, what critical decisions or processes might be built on a shaky foundation of incomplete or inaccurate information, and how might that impact your future plans, even without AI?"
+}
