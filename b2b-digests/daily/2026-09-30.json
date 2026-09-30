@@ -1,0 +1,16 @@
+{
+  "date": "2026-09-30",
+  "type": "resource",
+  "topic": "AI's Impact on Search and Content Strategy",
+  "dayLabel": "Day 3 of 3",
+  "headline": "Getting Your Product Into ChatGPT Isn’t The Hard Part, Getting It Through Checkout Is via @sejournal, @gregjarboe",
+  "source": "Search Engine Journal",
+  "url": "https://www.searchenginejournal.com/getting-your-product-into-chatgpt-isnt-the-hard-part-getting-it-through-checkout-is/587470/",
+  "keyNotes": [
+    "Orders made by AI programs searching for products have grown 15 times since January 2025 on platforms like Shopify, showing how quickly this new way of buying is expanding.",
+    "The biggest challenge isn't getting your product found by these AI programs, but making sure your online store's buying process (checkout) can handle a machine, not just a human.",
+    "Unlike humans who browse slowly, AI programs make rapid, structured requests, which can break online store systems designed to prevent automated activity or handle one continuous human visit.",
+    "A common issue is when different parts of an online store have conflicting information, like a product's price or availability; a human might overlook this, but an AI program will get stuck."
+  ],
+  "question": "The article points out that many online systems are built for slow, distracted humans, not super-fast AI programs. What part of your own work or business process might create 'friction' or even break down if it suddenly had to handle interactions from a non-human, super-efficient system instead of a person?"
+}
