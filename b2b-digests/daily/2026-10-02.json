@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-02",
+  "type": "resource",
+  "topic": "Data Quality and Signal Loss in B2B Marketing",
+  "dayLabel": "Day 2 of 3",
+  "headline": "Your AI Doesn't Have an Intelligence Problem. It Has a Data Problem.",
+  "source": "Demand Gen Report",
+  "url": "https://www.demandgenreport.com/blog/your-ai-doesnt-have-an-intelligence-problem-it-has-a-data-problem",
+  "keyNotes": [
+    "Surprisingly, how well an Artificial Intelligence (AI) system performs isn't mainly about how smart the AI program is, but rather about the quality of the information (data) you give it. The article points out that the AI program itself rarely breaks; it's usually the information that's the issue.",
+    "Many companies struggle with their information: a report found that 71% of marketing leaders feel their organization is ineffective at using their own customer data, and 80% aren't good at using data from outside sources. This means most businesses have a shaky foundation for AI from the start.",
+    "If you feed an AI system messy or inaccurate information (what the article calls 'noisy data'), it won't just make small mistakes; it will actually make your errors happen much faster and on a bigger scale than any human could.",
+    "Getting your data right has a clear payoff: companies that effectively combine AI with human effort are nearly three times more likely to report measurable benefits (ROI, or Return on Investment) from their AI projects. This shows that good information is the real 'engine' for success."
+  ],
+  "question": "The article states that 'noisy data scales your mistakes faster than any human could.' Thinking about the information your own team uses every day, what are some specific ways poor data might already be causing problems or slowing down your work, even without AI involved?"
+}
