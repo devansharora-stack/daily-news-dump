@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-07",
+  "type": "resource",
+  "topic": "AI's Impact on Search and Content Strategy",
+  "dayLabel": "Day 3 of 3",
+  "headline": "Getting Your Product Into ChatGPT Isn’t The Hard Part, Getting It Through Checkout Is via @sejournal, @gregjarboe",
+  "source": "Search Engine Journal",
+  "url": "https://www.searchenginejournal.com/getting-your-product-into-chatgpt-isnt-the-hard-part-getting-it-through-checkout-is/587470/",
+  "keyNotes": [
+    "Orders made through search tools powered by artificial intelligence (AI) have grown 15 times since January 2025, showing a big shift in how people buy online.",
+    "Unlike a human who might browse slowly or get distracted, an AI shopping agent makes very fast, structured requests to websites, which can break systems designed for slower human behavior.",
+    "The biggest problem isn't AI agents directly causing checkout errors, but rather when different parts of a company's system have conflicting information, like different prices for the same product, which an AI cannot resolve.",
+    "To prepare for AI shoppers, companies should test their online checkout systems by simulating many fast AI requests, check if their product information is consistent across all systems, and ensure refunds work perfectly the first time."
+  ],
+  "question": "The article explains that AI agents struggle when different parts of a company's system don't perfectly agree, like when inventory says a product is available but checkout says it's sold out. Where in your own daily work do you or your team currently rely on human understanding or intervention to fix small inconsistencies that a machine would simply get stuck on?"
+}
