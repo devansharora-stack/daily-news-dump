@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-08",
+  "type": "recap-and-resource",
+  "recapTopic": "AI's Impact on Search and Content Strategy",
+  "recap": {
+    "intro": "Hey everyone! This week, we dove into something super exciting: how Artificial Intelligence (AI) is totally shaking up the world of online content and how people find and buy stuff.",
+    "bullets": [
+      "First, we saw that new smart computer programs, called 'agentic AI,' are changing how online materials like articles and videos are made. This means that instead of just creating content, people who plan online communication (strategists) are becoming more like conductors of an orchestra, directing these AI tools to make sure everything works together. But here's the kicker: human guidance is still absolutely necessary!",
+      "Building on that, we learned that because AI is changing how people search, businesses need to be super smart about where they spend their money to get noticed online (their SEO budget). To get the best results, companies should really focus on creating awesome content and building 'authority' – basically, making their website trustworthy and important – especially so they can be seen by these new AI search tools.",
+      "Finally, we looked at the real-world impact: AI isn't just helping people find info; it's helping them buy things too! Orders made through AI search tools have shot up 15 times since January 2025. The big lesson here is that AI shopping agents make super fast requests, and if a company's systems have conflicting info (like different prices for the same product), the AI gets stuck. So, companies need to test their checkout systems with lots of fast AI requests and make sure all their product info is perfectly consistent."
+    ]
+  },
+  "recapResources": [
+    {
+      "headline": "From content creation to content orchestration: How agentic AI changes the role of content strategists.",
+      "source": "Search Engine Land",
+      "url": "https://searchengineland.com/content-creation-to-orchestration-agentic-ai-content-strategist-434316"
+    },
+    {
+      "headline": "SEO budgets: Where to invest for maximum impact as search evolves.",
+      "source": "Search Engine Land",
+      "url": "https://searchengineland.com/seo-budgets-where-to-invest-for-maximum-impact-as-search-evolves-434310"
+    },
+    {
+      "headline": "Getting Your Product Into ChatGPT Isn’t The Hard Part, Getting It Through Checkout Is via @sejournal, @gregjarboe",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/getting-your-product-into-chatgpt-isnt-the-hard-part-getting-it-through-checkout-is/587470/"
+    }
+  ],
+  "topic": "Data Quality and Signal Loss in B2B Marketing",
+  "dayLabel": "Day 1 of 3 — Intro",
+  "headline": "Marketing without signals: How to perform when the data disappears",
+  "source": "Martech.org",
+  "url": "https://martech.org/marketing-without-signals-how-to-perform-when-the-data-disappears/",
+  "keyNotes": [
+    "It's a big challenge for people who lead marketing when they suddenly can't get all the usual information about how customers are reacting to their marketing efforts. This problem is called \"signal loss.\"",
+    "The most important thing when this information disappears is to find a way to keep marketing campaigns effective and not lose progress.",
+    "A key strategy discussed at the MarTech Conference for dealing with this is to take charge of and make the most of the information you already have.",
+    "This means instead of waiting for new data, businesses should focus on using their existing customer records and past results to guide their decisions."
+  ],
+  "question": "The article suggests focusing on \"the data you already own\" when new information isn't available. In your own work, if you suddenly couldn't get any new updates or feedback, what existing information or past experiences would you rely on to make your next big decision?"
+}
