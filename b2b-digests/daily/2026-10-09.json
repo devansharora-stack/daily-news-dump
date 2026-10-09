@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-09",
+  "type": "resource",
+  "topic": "Data Quality and Signal Loss in B2B Marketing",
+  "dayLabel": "Day 2 of 3",
+  "headline": "Your AI Doesn't Have an Intelligence Problem. It Has a Data Problem.",
+  "source": "Demand Gen Report",
+  "url": "https://www.demandgenreport.com/blog/your-ai-doesnt-have-an-intelligence-problem-it-has-a-data-problem",
+  "keyNotes": [
+    "You might think fancy AI programs are the secret to success, but this article says the real magic happens when the information you feed the AI is accurate and complete, not just how complex the program is.",
+    "If you give an AI program messy or incorrect information, it won't just make small errors; it will actually make your mistakes much bigger and faster than any person ever could.",
+    "A big problem is that most companies don't even trust the information they have: a study found that 71% of marketing leaders feel their own customer data (information they collected directly) is not used well, and 80% struggle with outside data they buy.",
+    "Getting your information right pays off: companies that combine AI with human effort effectively are almost three times more likely to see real financial benefits, or 'ROI' (Return on Investment, meaning they get more money back than they put in), from their AI projects."
+  ],
+  "question": "The article highlights that most companies struggle with the quality of their information, with 71% finding their own customer data ineffective. Thinking about your own work, where might 'noisy data' (messy or incorrect information) be silently scaling up your mistakes, even if you're not using AI?"
+}
