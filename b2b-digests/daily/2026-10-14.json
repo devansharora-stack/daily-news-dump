@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-14",
+  "type": "resource",
+  "topic": "AI's Impact on Search and Content Strategy",
+  "dayLabel": "Day 3 of 3",
+  "headline": "Getting Your Product Into ChatGPT Isn’t The Hard Part, Getting It Through Checkout Is via @sejournal, @gregjarboe",
+  "source": "Search Engine Journal",
+  "url": "https://www.searchenginejournal.com/getting-your-product-into-chatgpt-isnt-the-hard-part-getting-it-through-checkout-is/587470/",
+  "keyNotes": [
+    "Surprisingly, getting your products listed where AI programs (like ChatGPT) can find them isn't the main problem; the real challenge is making sure your online store's checkout can actually handle an AI trying to buy something.",
+    "Shopping done by AI programs is growing incredibly fast, with orders on Shopify through AI-powered search increasing 15 times since January 2025.",
+    "Unlike people who browse slowly, AI programs shop at machine speed, making many rapid requests, which can break online store systems built to handle slower human behavior.",
+    "AI programs often fail purchases not because they pick the wrong item, but because different parts of an online store (like inventory or pricing) might have conflicting information that a human could ignore but an AI cannot."
+  ],
+  "question": "The article highlights that AI programs often get stuck when different parts of a system have conflicting information, like pricing or inventory. In your own work, where might small inconsistencies in data or processes cause a complete breakdown if an automated system, rather than a human, were trying to complete a task?"
+}
