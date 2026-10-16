@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-16",
+  "type": "resource",
+  "topic": "Data Quality and Signal Loss in B2B Marketing",
+  "dayLabel": "Day 2 of 3",
+  "headline": "Your AI Doesn't Have an Intelligence Problem. It Has a Data Problem.",
+  "source": "Demand Gen Report",
+  "url": "https://www.demandgenreport.com/blog/your-ai-doesnt-have-an-intelligence-problem-it-has-a-data-problem",
+  "keyNotes": [
+    "It turns out that how well Artificial Intelligence (AI) works isn't mostly about how fancy the AI program is, but rather how good the information (data) you feed it. If the data is messy, the AI will just make bigger mistakes faster than any person could.",
+    "A big problem is that many companies don't trust their own customer information (called first-party data) or the information they buy from others (called third-party data). In fact, 71% of marketing leaders say they aren't good at using their own customer data effectively.",
+    "When AI is given accurate customer information, it helps companies follow up better with potential customers and significantly improve their sales results. This shows that good data isn't just a boring cleanup task; it's what truly drives successful AI efforts.",
+    "Companies that do a better job of combining AI with human effort are much more likely to see real financial returns from their AI projects. They are nearly three times more likely to report measurable success from AI initiatives."
+  ],
+  "question": "The article highlights that bad information (data) can make mistakes happen much faster with AI. Thinking about your own projects, where might you be unknowingly using information that could lead to scaled-up errors, even without AI?"
+}
