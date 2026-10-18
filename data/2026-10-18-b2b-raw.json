@@ -1,0 +1,370 @@
+[
+  {
+    "title": "Proofpoint + Varonis: The Platform Promise Meets The Integration Test",
+    "url": "https://www.forrester.com/blogs/proofpoint-varonis-the-platform-promise-meets-the-integration-test/",
+    "source": "Forrester Blog",
+    "publishedAt": "Sat, 17 Oct 2026 15:30:49 +0000",
+    "snippet": "Cybersecurity platform vendor Proofpoint announced an agreement to acquire Varonis in an all-cash transaction valued at approximately $6.3 billion. More people, applications, and AI systems need access to enterprise data, making understanding the data, controlling access to it, and monitoring how it’s used increasingly interconnected problems. Proofpoint describes an intended combined platform to protect against […]",
+    "tier": 1
+  },
+  {
+    "title": "Board Of Clients, 2026",
+    "url": "https://www.forrester.com/blogs/board-of-clients-2026/",
+    "source": "Forrester Blog",
+    "publishedAt": "Fri, 16 Oct 2026 20:25:56 +0000",
+    "snippet": "Way back in the late 1990s, Forrester convened its first Board of Clients — a group of customers that advised us on acquisitions, research, and product direction. Members serve for three yearly meetings (before becoming emeritus), and they have had outsized influence on the strategy of the company. This week, the Board convened for a […]",
+    "tier": 1
+  },
+  {
+    "title": "Open-Weight Models Are Proliferating, But The Platform Race Matters More",
+    "url": "https://www.forrester.com/blogs/open-weight-models-are-proliferating-but-the-platform-race-matters-more/",
+    "source": "Forrester Blog",
+    "publishedAt": "Fri, 16 Oct 2026 18:37:27 +0000",
+    "snippet": "Last week, AI startup Reflection released a new open weight model, Beam, claiming parity with leading Chinese open models and at only “a fraction of the token cost and inference time.” Days later, Mistral introduced open-weight model Mistral Large 4 (ML4), nicknamed Le Chonk in reference to its 1 trillion parameters. Taken together, these models […]",
+    "tier": 1
+  },
+  {
+    "title": "Partner Ecosystems Earned Their Strategic Seat At The Table — Now What?",
+    "url": "https://www.forrester.com/blogs/partner-ecosystems-earned-their-strategic-seat-at-the-table-now-what/",
+    "source": "Forrester Blog",
+    "publishedAt": "Fri, 16 Oct 2026 15:26:01 +0000",
+    "snippet": "Partner Ecosystem Strategy Is Business Strategy For years, B2B partner ecosystem leaders have worked to prove that partner ecosystems deserve strategic attention. Our latest survey data suggests that this battle has largely been won. According to The State Of B2B Partner Ecosystems, 2026, 70% of partner ecosystem and channel marketing decision-makers say that orchestrating or […]",
+    "tier": 1
+  },
+  {
+    "title": "Has Your Partner Demand Strategy Kept Up With Your Evolving Partner Ecosystem?",
+    "url": "https://www.forrester.com/blogs/has-your-partner-demand-strategy-kept-up-with-your-evolving-partner-ecosystem/",
+    "source": "Forrester Blog",
+    "publishedAt": "Fri, 16 Oct 2026 15:22:06 +0000",
+    "snippet": "B2B partner ecosystems are becoming larger, more diverse, and more complex, yet some organizations continue to apply an outdated, single partner demand strategy across fundamentally different partner business models. The consequences are clear: Investments are misaligned, resources are spread inefficiently, partner engagement suffers, and demand performance falls short of expectations — the opposite of driving […]",
+    "tier": 1
+  },
+  {
+    "title": "We Stopped Whispering About Menopause at Work. Here’s Why.",
+    "url": "https://www.salesforce.com/blog/we-stopped-whispering-about-menopause-at-work-heres-why/",
+    "source": "Salesforce Blog",
+    "publishedAt": "Fri, 16 Oct 2026 22:07:19 +0000",
+    "snippet": "Everything says it’s business as usual. Your calendar says you have a presentation at 10 a.m. It doesn’t say you’ve been wide awake since 3 a.m. Your Slack status shows you as active.…",
+    "tier": 1
+  },
+  {
+    "title": "How Kawasaki Engines Drove $6.5M in 90 Days With ForeFront and Salesforce",
+    "url": "https://www.salesforce.com/blog/how-kawasaki-engines-drove-6-5m-in-90-days-with-forefront-and-salesforce/",
+    "source": "Salesforce Blog",
+    "publishedAt": "Fri, 16 Oct 2026 21:05:59 +0000",
+    "snippet": "If you manage complex dealer networks, you know that legacy technologies can limit both your team and your buyers. As a leading manufacturer of engines and parts for lawn, landscape, and other commercial…",
+    "tier": 1
+  },
+  {
+    "title": "For Early Career Talent, AI Gets Noticed; Humans Get Hired.",
+    "url": "https://www.salesforce.com/blog/early-career-talent-ai-humans-get-hired/",
+    "source": "Salesforce Blog",
+    "publishedAt": "Fri, 16 Oct 2026 15:04:35 +0000",
+    "snippet": "When it comes to early career talent, AI fluency is no longer a differentiator—it’s the baseline. Generative AI and autonomous agents are reshaping how we work, meaning that today’s emerging professionals intuitively know…",
+    "tier": 1
+  },
+  {
+    "title": "Content everywhere: Winning attention in a fragmented marketing landscape",
+    "url": "https://martech.org/content-everywhere-winning-attention-in-a-fragmented-marketing-landscape/",
+    "source": "Martech.org",
+    "publishedAt": "Fri, 16 Oct 2026 18:56:37 +0000",
+    "snippet": "Digital fragmentation is pushing teams to their limits. On Nov. 4, learn how to stretch content budget and capture buyer attention where it counts.\nThe post Content everywhere: Winning attention in a fragmented marketing landscape appeared first on MarTech.",
+    "tier": 1
+  },
+  {
+    "title": "OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds via @sejournal, @MattGSouthern",
+    "url": "https://www.searchenginejournal.com/openais-api-only-partly-matched-chatgpts-citations-paper-finds/593304/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Sun, 18 Oct 2026 08:00:00 +0000",
+    "snippet": "A paper tested whether Google results and OpenAI's API can stand in for ChatGPT's citations. They matched cited sites more often than the exact pages.\nThe post OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "Google’s Indexing API Docs No Longer Explain How To Get Approval via @sejournal, @MattGSouthern",
+    "url": "https://www.searchenginejournal.com/google-indexing-api-docs-approval-form-removed/593292/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Sat, 17 Oct 2026 18:15:44 +0000",
+    "snippet": "Google removed the Indexing API approval form and steps from its docs. Default quotas are listed, but the pages don't say how to request more.\nThe post Google’s Indexing API Docs No Longer Explain How To Get Approval appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "Rank Tracker Data, ChatGPT Tags & AI Search Links – SEO Pulse via @sejournal, @MattGSouthern",
+    "url": "https://www.searchenginejournal.com/seo-pulse-rank-tracker-data-chatgpt-tags-ai-search-links/593171/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Sat, 17 Oct 2026 12:00:00 +0000",
+    "snippet": "A rank tracker logged Google pages missing their usual sites, some ChatGPT links lost tracking tags, and Google and Bing changed AI search links.\nThe post Rank Tracker Data, ChatGPT Tags & AI Search Links – SEO Pulse appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "Meta’s New Terms Expand Crawling Rights Beyond Advertisers via @sejournal, @MattGSouthern",
+    "url": "https://www.searchenginejournal.com/metas-new-terms-expand-crawling-rights-beyond-advertisers/593217/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Fri, 16 Oct 2026 21:38:49 +0000",
+    "snippet": "New terms let Meta crawl sites tied to business users and use the content to train its products, widening rights ad buyers had already granted.\nThe post Meta’s New Terms Expand Crawling Rights Beyond Advertisers appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "Why The New York Times Puts Free Content First",
+    "url": "https://www.searchenginejournal.com/why-the-new-york-times-puts-free-content-first/593021/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Fri, 16 Oct 2026 19:00:23 +0000",
+    "snippet": "The New York Times gives prime homepage space to free articles and tells readers they’re free. Here’s why that works.\nThe post Why The New York Times Puts Free Content First appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "Ticker: NBC News’ Dateline Heads North of the Border",
+    "url": "https://www.adweek.com/tvnewser/ticker-nbc-news-dateline-heads-north-of-the-border/",
+    "source": "Adweek",
+    "publishedAt": "Fri, 16 Oct 2026 14:24:00 +0000",
+    "snippet": "MS NOW’s Ali Velshi will host a special on what is becoming a core election issue, the growing data center backlash.",
+    "tier": 1
+  },
+  {
+    "title": "Target Is Pitching an Ad Metric to Drive Sales, But Most Brands Aren&#8217;t Fully On Board, Exec Says",
+    "url": "https://www.adweek.com/commerce/target-is-pitching-an-ad-metric-to-drive-sales-but-most-brands-arent-fully-on-board-exec-says/",
+    "source": "Adweek",
+    "publishedAt": "Fri, 16 Oct 2026 14:15:50 +0000",
+    "snippet": "A leader in Target's ad business warned marketers they're prioritizing the wrong measurement.",
+    "tier": 1
+  },
+  {
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Fri, 16 Oct 2026 18:00:00 +0000",
+    "snippet": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch…",
+    "tier": 1
+  },
+  {
+    "title": "Content Marketing Institute Team",
+    "url": "https://contentmarketinginstitute.com/author/content-marketing-institute-team",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-10-18T14:00:48.816Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Social Media Content",
+    "url": "https://contentmarketinginstitute.com/content-creation-distribution/social-media-content",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-10-18T14:00:48.822Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "AI Content Creation & Tools",
+    "url": "https://contentmarketinginstitute.com/content-creation-distribution/ai-content-creation-tools",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-10-18T14:00:48.822Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Content Marketing University",
+    "url": "https://www.contentmarketinguniversity.com/?utm_medium=referral&utm_source=cmi&utm_campaign=navigation",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-10-18T14:00:48.822Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Content Marketing Certification",
+    "url": "https://contentmarketinguniversity.com/content-marketing-certification/?utm_medium=referral&utm_source=cmi&utm_campaign=navigation",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-10-18T14:00:48.822Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Delivery AI Product Analyst, United States - X Delivery",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcGRkWm8tQXc0T3d2dGdSVi1mS0xuNk5qeVJqZkUybVNuR21VV29rb0Z3bkpRNkZ0ZDlqVjVZVTg1MkxmZWNNb19yM2tmemxjVUlVSDctaUdBbEVyeG1uRTNTQVJLWTcxSVdVVEFIMkRFV2lILVhRYVkweVVxcnp5T1p1WHcyd050bTVZa0pQZmJiTG9BdGtKU2VyVi0?oc=5",
+    "source": "Boston Consulting Group",
+    "publishedAt": "Sun, 18 Oct 2026 11:36:16 GMT",
+    "snippet": "Delivery AI Product Analyst, United States - X Delivery&nbsp;&nbsp;Boston Consulting Group",
+    "tier": 3
+  },
+  {
+    "title": "Digital Assets",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51WUxYdHZMQ1ZzTlpDd0Z1ZG9jQ0ZzdUxYOXN5SkVPMC1CeEY2ZVptdDY4Y2hnXzJkNmVjZ3I5U1preXZQTE53enB1Qy1zMkZod1h0VHRRUXRLQVpwdk9rekl3MkZHRHlXY3hrSjRoVWdBV3o3Y2Yw?oc=5",
+    "source": "Boston Consulting Group",
+    "publishedAt": "Sat, 17 Oct 2026 17:03:42 GMT",
+    "snippet": "Digital Assets&nbsp;&nbsp;Boston Consulting Group",
+    "tier": 3
+  },
+  {
+    "title": "Sr Conferences Marketing Specialist in Stamford, Connecticut, United States of America",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTzR2Rl9yaERpMFY4SWhsNmF4N0dqd3lXVEVMNUFWaU9rUWNJbnBFbjRXbHBYVUhXZ1FZb2xZVm8yRjFjZzRIOG1tYjVJZF9IUERvempHRGV2Y3BWOXFBd1NLeWJqOTBNYVQ5UVh3c3V4V2RIdkRJSFlxZy13cV92RVE0bw?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Sat, 17 Oct 2026 16:16:10 GMT",
+    "snippet": "Sr Conferences Marketing Specialist in Stamford, Connecticut, United States of America&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "How Changing AI Economics Will Reshape the Neocloud Market",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdWtZNWdKNVAtenhOWFdLRlB4R3RvWm5uM0toeUx0SG94bTJheHNscmd1QzFkcTVKQlpMVWxrOUltc25hSjFLVWI5SnZRUHd2LUVpSGF0OU5hLWtuTDg2QV84R0t6bXBudmMwYzRrOTN2ekE0YTc1TXlteHBEMHhRUm5OWXJPaG1ocENZZ3NKdF9qR3NURklZMi1RajBvUFhHaDhIR0hLTG1MVTB1VUE?oc=5",
+    "source": "Gartner",
+    "publishedAt": "Fri, 16 Oct 2026 21:08:46 GMT",
+    "snippet": "How Changing AI Economics Will Reshape the Neocloud Market&nbsp;&nbsp;Gartner",
+    "tier": 3
+  },
+  {
+    "title": "Sr. Director, Value & Strategy in Stamford, Connecticut, United States of America",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82LVoxb3JXVS1SeGVxMXZGdDN2NVZEWGxpalNLdGdMLVByUHJaSFhzcC13Y1Y4MWxBeTlXV3FmdFo1RjRORzFFZEdNVGNZbWFmZ1dzeE9ad1lneHRfNjVrR1BmWVR4WjRyeE1mcmdUN2lqdG1aUkY4?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Sat, 17 Oct 2026 16:16:09 GMT",
+    "snippet": "Sr. Director, Value & Strategy in Stamford, Connecticut, United States of America&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "Senior Analytics & Insights Specialist - People Analytics in Fort Myers, Florida, United States of America",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPblgxOTYxckI2ME82NzBzRExnNkJNV2FkWE5NNktZMmM2elBxNDhaQmZSRmFNWFhybTNRRFRKV3llZXN3bjRPdDJNUklqbGplQ0w0VTBwWk9hMFVxcDBFMENqX0dxcUNIMnlGWDAwclMyc055TmtDTjVVZE8yTHpWT2ZaMjJtTFU5VTB2eThmdzJEQkhrUEhURXNzbw?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Sat, 17 Oct 2026 16:16:09 GMT",
+    "snippet": "Senior Analytics & Insights Specialist - People Analytics in Fort Myers, Florida, United States of America&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "Sr. Planner, Conferences Vendor Partnerships in Irving, Texas, United States of America",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa0NxU3RYd2x5M1FCU0tmVzFLQnZSelRkTk41NElxUm5ZOUFqTGhhSGRSV1FNc24zYnZ4d0w0aV9XX3NZQThaMmRpRHF0cFJ4cHhld01qclV4X3VBMy0xQUFrSFpubmpCdjVPQWpVNWhEQ3hXTEJod3ZUaVRTWEFKS1lPRkVrT0FJTF8zVw?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Sat, 17 Oct 2026 16:16:09 GMT",
+    "snippet": "Sr. Planner, Conferences Vendor Partnerships in Irving, Texas, United States of America&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "Sr Director Analyst - Tech Services Buying Dynamics in Remote - Australia, New South Wales, Australia",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa2g4cjNld3B1VjlsMWR3Y1N1aUlKSjB1SkFyYlJ0N0NQRTROSjV4RGpTSS0tTEtsSFM0QjRQY3U4TzBYU0ljcTZ4MFVob2l3OUUtb1ZsdVVWUHNCXzJlUm9PYTFaQV9TOTlRQ2owM0dzY0FoQnJDRnJSX1BlRHhWVHJka2tYWGlSQ0VnZEhlekgxa2hLNGc?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Sun, 18 Oct 2026 08:15:48 GMT",
+    "snippet": "Sr Director Analyst - Tech Services Buying Dynamics in Remote - Australia, New South Wales, Australia&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "Managing Partner, State & Local Government, PNW, Oregon & Washington",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObjZLelJMdlBScnUyRWZIWkMzbXBaQUcyUHowY1FjXzNlSG1Dd3BrUmNURUtuei1pVEdvOHNZQUlnVHpsdExoQ3BWZHpyYTlnVjlqeDE3Q3NzWUd5aWdMa3huU3ZOZ2pZcm8wYzgwMy1lTHV0bXo5ODhNUkRab0V4ZVg2T2VrWFlabHFNdjBEX1VYeDVpVTRXZDBscGRCOFNtYjlwZW1B?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Sun, 18 Oct 2026 11:15:11 GMT",
+    "snippet": "Managing Partner, State & Local Government, PNW, Oregon & Washington&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "Business Development Executive in Gurgaon, Haryāna, India",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wTHdwQU1wMlMwekI5enBLX0xPNWViNWVxTHN5V2VqZ0VkTl80MFR1MjBtekdfTF9mQmhvVGlyT1lRazhCeU5VNFBua0xZRjQtVUtrem0xZ1dTdFgzWDdWbXNOUzhkM1ZXa3pWS0lybnN0UnJmVlRvdkM3UVo?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Sat, 17 Oct 2026 16:16:09 GMT",
+    "snippet": "Business Development Executive in Gurgaon, Haryāna, India&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "Executive Partner in Milan, Milano, Italy",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SZW1QaHc2MkZwbVl5NDJ3eHA4SGEtSlNCRC1sMDF4cEVqZnJEdHJtbktYY2NjRHdNMnBvNE93NGx5aFo3c3NqbVk2d0Itb19YcmUxODljYUJHd2lmQ0ppeW10cHN3eHBEbjZF?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Sat, 17 Oct 2026 16:16:10 GMT",
+    "snippet": "Executive Partner in Milan, Milano, Italy&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "Lead Security Engineer (Privileged Access Management ) in Gurgaon, Haryāna, India",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN1BYUXRUd2NDY1dfeE1RLVU1cTNfdHhIS21RYlFFT1daQVNFcVYtV09HWEVmMUhtNElIbXh4UVMzelowT1ZPUWpGYkdJRU1TNHJYU2xrZXhJLWRlVllCQmhYTDk4aklkQ0NIeENuZDhqMjQwTjlnV0xvQ2pGaS1RQjFQb2EzSXNBRlF1NFY1R1JhUldwZEdsSg?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Sat, 17 Oct 2026 16:16:11 GMT",
+    "snippet": "Lead Security Engineer (Privileged Access Management ) in Gurgaon, Haryāna, India&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "Account Executive, High-tech Netherlands",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZV9jSEF0Rlh0NEpqNXNwODRrR0hLeWl1ZENwZUpHQ2E0RWZRWS1iRGE5Z1VKdGhPTndJLU9tclY4dzBfal80U1Y3UWFPMy1XazBxeUkzbjFaUy0zVXhjQkNDaEcwOW9rZHlQOUxYckxTZE9ZUmx0b09qN3JRaU9sZDZYNmJEOFBI?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Sun, 18 Oct 2026 08:15:48 GMT",
+    "snippet": "Account Executive, High-tech Netherlands&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "Senior Director Analyst – IAM & AI in Remote, Texas, United States of America",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TelFhTXMyNVFpaHJ6SEpQREpwbzkwVjVSN0p3X2VfNXIyUE0wM0xrOExfRVRkekltMGpyUDFhSGhWUDljcWp0RlFFMXAzaFRMTWlxOVVVUzhRbm1CR2NEWUJ5cHkwTlBaRXB0SlZrS2xQUlZKeHRoZGwtdGc?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Sat, 17 Oct 2026 16:16:15 GMT",
+    "snippet": "Senior Director Analyst – IAM & AI in Remote, Texas, United States of America&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "The Preference Marketing Matrix: A Model For Fueling Brand And Demand Growth",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdGViOFJ0cTNrRFY4QjJ6MFJIdGYtRjdjbnFfS3d5Ti10U3dvLUNXalRZNmNfZkxJVkkzcGJXdHgzejMyQ1ZBLXNYelpYeGdPN3VkRE10Rm4yazBnajlVdk5yeGEtbzdac05ocl8yYkI1OFhtdG5NSWEzZzlTZmJIY2hKTkUwZ00xVGVPemlVbTR1Z1BrLTA1aEtaT2ZsZW10alFmcUczZEdEdDYtQ1J0VmVVRjhIWWdoU3c?oc=5",
+    "source": "Forrester",
+    "publishedAt": "Sun, 18 Oct 2026 00:15:13 GMT",
+    "snippet": "The Preference Marketing Matrix: A Model For Fueling Brand And Demand Growth&nbsp;&nbsp;Forrester",
+    "tier": 3
+  },
+  {
+    "title": "Proofpoint + Varonis: The Platform Promise Meets The Integration Test",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbnMyeXU0Ui1LTllMOWc2S0FBOVVESFd2MEp6Zkp6SUxsd0k3QkhabzJZbENBVzRfdEt1VkVib1U1RDhIeHZWN2s5cjI2dnRueW0yMDdNUjY3R3lUb0J1NEpPU245cTZ0cXd2dkNlUndKSnJkU1ZNRExLd1hyUi1RcEl2NWtMNlNDUHdkZEtWR0xkV1pHaVFyQ0JfYXhMMUpY?oc=5",
+    "source": "Forrester",
+    "publishedAt": "Sat, 17 Oct 2026 16:22:05 GMT",
+    "snippet": "Proofpoint + Varonis: The Platform Promise Meets The Integration Test&nbsp;&nbsp;Forrester",
+    "tier": 3
+  },
+  {
+    "title": "B2B Marketing Case Studies: 7 Examples of Successful Campaigns",
+    "url": "https://ninjapromo.io/blog/b2b-marketing-case-studies",
+    "source": "NinjaPromo",
+    "snippet": "This article presents seven successful B2B marketing campaigns as case studies, detailing their strategies and results.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "B2B Marketers Hand AI Execution And Keep The Strategy, Survey Finds",
+    "url": "https://www.forbes.com/sites/forbesagencycouncil/2026/10/14/b2b-marketers-hand-ai-execution-and-keep-the-strategy-survey-finds/",
+    "source": "Forbes",
+    "snippet": "A survey reveals that B2B marketing leaders primarily view AI as an execution tool, retaining strategic oversight themselves.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "Beyond Lead Generation: How Strategic Marketing Builds the Value of Your Business",
+    "url": "https://www.innovaxisinc.com/blog/beyond-lead-generation-how-strategic-marketing-builds-the-value-of-your-business",
+    "source": "Innovaxis Inc.",
+    "snippet": "This article explores how strategic B2B marketing can significantly enhance a business's overall value, beyond just generating leads.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "131 Account Based Marketing Statistics October 2026",
+    "url": "https://blazehive.io/blog/abm-statistics",
+    "source": "BlazeHive",
+    "snippet": "A comprehensive collection of 131 statistics on Account-Based Marketing, covering adoption, ROI, budgets, and buying groups in 2026.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "The seven critical B2B marketing trends for 2027 (and the other two)",
+    "url": "https://www.leadagency.com.au/blog/b2b-marketing-trends-2027",
+    "source": "The Lead Agency",
+    "snippet": "This expert analysis outlines nine key B2B marketing trends expected to shape strategies in 2027, including AI and hyper-personalization.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "Why Traditional B2B Advertising Underperforms – and How ABM Helps",
+    "url": "https://accountinsight.ai/blog/why-traditional-b2b-advertising-underperforms-and-how-abm-helps",
+    "source": "AccountInsight",
+    "snippet": "This article analyzes the shortcomings of traditional B2B advertising and demonstrates how Account-Based Marketing offers a more effective approach.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "45 figures on how buyers use B2B case studies, and what 185 customer stories carry",
+    "url": "https://empact.partners/blog/b2b-case-study-statistics",
+    "source": "Empact Partners",
+    "snippet": "A research-backed article presenting 45 figures on how B2B buyers engage with case studies, based on an analysis of 185 customer stories.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "Go-to-Market Strategy in 2026: How to Launch, Grow, and Scale Your Business",
+    "url": "https://mathengeinc.com/blog/go-to-market-strategy-2026",
+    "source": "Mathenge Inc.",
+    "snippet": "This deep-dive provides a practical framework for developing and executing a successful B2B go-to-market strategy in 2026.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  }
+]
