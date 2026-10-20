@@ -1,0 +1,802 @@
+[
+  {
+    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+    "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Tue, 20 Oct 2026 01:27:03 +0000",
+    "snippet": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+    "tier": 1
+  },
+  {
+    "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+    "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Mon, 19 Oct 2026 23:39:38 +0000",
+    "snippet": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+    "tier": 1
+  },
+  {
+    "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+    "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Mon, 19 Oct 2026 22:49:27 +0000",
+    "snippet": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
+    "tier": 1
+  },
+  {
+    "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+    "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Mon, 19 Oct 2026 22:04:28 +0000",
+    "snippet": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+    "tier": 1
+  },
+  {
+    "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+    "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Mon, 19 Oct 2026 20:09:24 +0000",
+    "snippet": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+    "tier": 1
+  },
+  {
+    "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+    "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Mon, 19 Oct 2026 19:28:34 +0000",
+    "snippet": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+    "tier": 1
+  },
+  {
+    "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+    "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Mon, 19 Oct 2026 19:00:12 +0000",
+    "snippet": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+    "tier": 1
+  },
+  {
+    "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+    "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Mon, 19 Oct 2026 18:49:04 +0000",
+    "snippet": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+    "tier": 1
+  },
+  {
+    "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+    "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Mon, 19 Oct 2026 18:37:27 +0000",
+    "snippet": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+    "tier": 1
+  },
+  {
+    "title": "People are using AI to make their smart TVs dumb again",
+    "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Mon, 19 Oct 2026 16:13:22 +0000",
+    "snippet": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+    "tier": 1
+  },
+  {
+    "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+    "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Mon, 19 Oct 2026 15:37:09 +0000",
+    "snippet": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+    "tier": 1
+  },
+  {
+    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+    "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Mon, 19 Oct 2026 12:30:00 +0000",
+    "snippet": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+    "tier": 1
+  },
+  {
+    "title": "Making the internet better for AI agents might make it worse for everyone else",
+    "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Mon, 19 Oct 2026 18:22:47 +0000",
+    "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules…",
+    "tier": 1
+  },
+  {
+    "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+    "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Mon, 19 Oct 2026 17:45:55 +0000",
+    "snippet": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautious) celebration. Cammarata’s claim is…",
+    "tier": 1
+  },
+  {
+    "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
+    "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Mon, 19 Oct 2026 12:10:00 +0000",
+    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James Temple In July 2021, a wildfire burned through a forest on the University of Alaska, Fairbanks campus,…",
+    "tier": 1
+  },
+  {
+    "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
+    "url": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Mon, 19 Oct 2026 09:22:17 +0000",
+    "snippet": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks.  The blaze, possibly sparked by lightning, burned across the dry carpet of feather mosses and lichen before climbing into the…",
+    "tier": 1
+  },
+  {
+    "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+    "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Mon, 19 Oct 2026 09:08:05 +0000",
+    "snippet": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to…",
+    "tier": 1
+  },
+  {
+    "title": "How far can we push computing?",
+    "url": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Mon, 19 Oct 2026 09:00:00 +0000",
+    "snippet": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, the physicist Richard Feynman gave a lecture called “There’s…",
+    "tier": 1
+  },
+  {
+    "title": "The fossil fuel comeback is here",
+    "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+    "source": "The Verge AI",
+    "publishedAt": "2026-10-19T21:48:01.000Z",
+    "snippet": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows.\nElectricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging into the grid. Despite those growing demands, the Trump administration has sought to hobble the wind and solar industries in favor of fossil fuels.\nAmerica's energy landscape is already shifting as a result, according to",
+    "tier": 1
+  },
+  {
+    "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+    "source": "The Verge AI",
+    "publishedAt": "2026-10-19T21:28:20.000Z",
+    "snippet": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. Its shares are down more than 20 percent since Tuesday's close, which is kind of a lot! There even seemed to be some collateral damage in the market on other ",
+    "tier": 1
+  },
+  {
+    "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+    "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+    "source": "The Verge AI",
+    "publishedAt": "2026-10-19T14:30:00.000Z",
+    "snippet": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy.\nIf you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms coming up next month, and early voting already underway in a lot of places, the stakes are pretty high right now.\nSo I asked Gov. Pritzker about all that, and he was surprisingly willing to dive right ",
+    "tier": 1
+  },
+  {
+    "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+    "source": "The Verge AI",
+    "publishedAt": "2026-10-19T13:58:41.000Z",
+    "snippet": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins.\nConcerns over AI-powered cybersecurity breaches have grown as the technology grows more advanced, with hackers using the tools to carry out large-scale attacks. At the same time, rogue AI agents are ca",
+    "tier": 1
+  },
+  {
+    "title": "Democrats think cracking down on AI could give them an edge",
+    "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+    "source": "The Verge AI",
+    "publishedAt": "2026-10-19T12:00:00.000Z",
+    "snippet": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI.\nPolls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee leadership back in their hands. That could usher in a wave of newfound scrutiny for AI companies. Top Democrats on key committees have already signaled their willingness to press the industry on tax cre",
+    "tier": 1
+  },
+  {
+    "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+    "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+    "source": "Wired AI",
+    "publishedAt": "Mon, 19 Oct 2026 19:49:17 +0000",
+    "snippet": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
+    "tier": 1
+  },
+  {
+    "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
+    "url": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
+    "source": "Wired AI",
+    "publishedAt": "Mon, 19 Oct 2026 16:00:00 +0000",
+    "snippet": "Around 80 pages on WhatsApp’s website exposed instructions that were designed for its chatbot, including “WHAT NOT TO SAY.” Meta says a bug caused the issue.",
+    "tier": 1
+  },
+  {
+    "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+    "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+    "source": "Wired AI",
+    "publishedAt": "Mon, 19 Oct 2026 09:00:00 +0000",
+    "snippet": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
+    "tier": 1
+  },
+  {
+    "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+    "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+    "source": "Wired AI",
+    "publishedAt": "Sun, 18 Oct 2026 10:30:00 +0000",
+    "snippet": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
+    "tier": 1
+  },
+  {
+    "title": "Data Centers Have a New PR Plan: Your Kid’s Field Trip",
+    "url": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
+    "source": "Wired AI",
+    "publishedAt": "Sun, 18 Oct 2026 10:30:00 +0000",
+    "snippet": "Amid a wave of backlash, some industry-friendly groups are employing creative and time-tested strategies to woo the youth.",
+    "tier": 1
+  },
+  {
+    "title": "Advancing coding in low‑resource programming languages",
+    "url": "https://openai.com/index/low-resource-programming-languages",
+    "source": "OpenAI Blog",
+    "publishedAt": "Mon, 19 Oct 2026 12:00:00 GMT",
+    "snippet": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+    "tier": 1
+  },
+  {
+    "title": "‘Open your doors for AI’: German chancellor urges businesses to embrace AI as Nvidia announces new investments",
+    "url": "https://www.cnbc.com/2026/10/20/german-chancellor-urges-businesses-to-embrace-ai.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Tue, 20 Oct 2026 02:16:25 GMT",
+    "snippet": "Nvidia announced planned investments in four German startups as Chancellor Friedrich Merz urged businesses to embrace AI at an industry summit in Berlin.",
+    "tier": 1
+  },
+  {
+    "title": "Jim Cramer says don't chase the AI rebound just yet. Here's what needs to happen first",
+    "url": "https://www.cnbc.com/2026/10/19/jim-cramer-dont-chase-ai-rebound-yet.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Mon, 19 Oct 2026 22:46:33 GMT",
+    "snippet": "CNBC’s Jim Cramer warned investors against rushing back into AI stocks quite yet.",
+    "tier": 1
+  },
+  {
+    "title": "Jim Cramer says the recent AI stock sell-off echoes a crucial lesson from the 1987 market crash",
+    "url": "https://www.cnbc.com/2026/10/19/cramer-recent-ai-sell-off-echoes-lesson-1987-crash.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Mon, 19 Oct 2026 22:22:45 GMT",
+    "snippet": "CNBC’s Jim Cramer said the 1987 stock market crash offers an important lesson that can be applied to the recent AI sell-off.",
+    "tier": 1
+  },
+  {
+    "title": "Apple's iPhone Duo is proving itself the catalyst that Jim Cramer said it would be",
+    "url": "https://www.cnbc.com/investingclub/2026/10/19/apples-iphone-duo-is-proving-the-catalyst-that-jim-cramer-said-it-would-be.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Mon, 19 Oct 2026 17:25:20 GMT",
+    "snippet": "Preorders of Apple's iPhone Duo are proving Jim Cramer right, as early indications show strong demand.",
+    "tier": 1
+  },
+  {
+    "title": "Apple announces product launch event for Oct. 28. Analysts expect touchscreen laptop",
+    "url": "https://www.cnbc.com/2026/10/19/apple-product-launch-event-oct-28-analysts-expect-touchscreen-laptop.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Mon, 19 Oct 2026 19:46:07 GMT",
+    "snippet": "Apple sent invitations for an event next week, calling it \"Pro and tell.\"",
+    "tier": 1
+  },
+  {
+    "title": "Investors are buying on Monday despite fear the AI trade nightmare scenario is far from over",
+    "url": "https://www.cnbc.com/2026/10/19/stocks-buying-opportunity-ai-selloff.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Mon, 19 Oct 2026 12:00:15 GMT",
+    "snippet": "Here are the key things investors need to know to start the trading day.",
+    "tier": 1
+  },
+  {
+    "title": "Google says it can build data centers the right way. Some experts and residents are skeptical",
+    "url": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Mon, 19 Oct 2026 21:05:20 GMT",
+    "snippet": "Google says its Minnesota AI data center will add clean energy to the grid and protect ratepayers. Experts question whether grid upgrades are needed.",
+    "tier": 1
+  },
+  {
+    "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
+    "url": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Mon, 19 Oct 2026 18:36:21 GMT",
+    "snippet": "The history of technological progress suggests that as AI spreads, the employment impact will hit women more than men.",
+    "tier": 1
+  },
+  {
+    "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
+    "url": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Mon, 19 Oct 2026 12:34:01 GMT",
+    "snippet": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
+    "tier": 1
+  },
+  {
+    "title": "Elon Musk says he'll give a SpaceX share to every child in America next year",
+    "url": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Mon, 19 Oct 2026 16:58:20 GMT",
+    "snippet": "The SpaceX boss said Monday that he'll give one of his company shares to every child in the U.S. next year. He didn't say how the share giveaway would happen.",
+    "tier": 1
+  },
+  {
+    "title": "China's CXMT shares fall nearly 8% as investors look past chipmaker's profit turnaround",
+    "url": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Mon, 19 Oct 2026 07:48:53 GMT",
+    "snippet": "CXMT shares fell nearly 8% on Monday after the company released its earnings forecast for the first nine months of 2026.",
+    "tier": 1
+  },
+  {
+    "title": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
+    "url": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
+    "source": "CNBC Technology",
+    "publishedAt": "Mon, 19 Oct 2026 12:33:07 GMT",
+    "snippet": "The Claude maker said that establishing the fund as an LLC will provide greater flexibility in how the money is used.",
+    "tier": 1
+  },
+  {
+    "title": "PSA: Patch your Plex media server before someone hacks it",
+    "url": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
+    "source": "Ars Technica AI",
+    "publishedAt": "Mon, 19 Oct 2026 19:39:19 +0000",
+    "snippet": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
+    "tier": 1
+  },
+  {
+    "title": "ReactOS reaches major milestone with NTFS install support",
+    "url": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
+    "source": "Ars Technica AI",
+    "publishedAt": "Mon, 19 Oct 2026 18:30:56 +0000",
+    "snippet": "ReactOS gains NTFS install support with new driver.",
+    "tier": 1
+  },
+  {
+    "title": "Share infographic",
+    "url": "https://www2.deloitte.com/content/dam/insights/articles/2025/us188546_tt-26/content-images/US188546_Figure1.png",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-10-20T03:31:06.380Z",
+    "snippet": "But rapid adoption is only the surface. Innovation is compounding; forces aren’t simply additive, but multiplicative. Think of it as a flywheel: Better technology enables more applications. More applications generate more data. More data attracts more investment. More investment builds better infrastructure. Better infrastructure reduces costs. Lower costs enable more experimentation. Each improvement simultaneously accelerates all the others.",
+    "tier": 2
+  },
+  {
+    "title": "Digital Media Trends",
+    "url": "https://www2.deloitte.com/us/en/insights/industry/technology/digital-media-trends-consumption-habits-survey.html?icid=disidenav_digital-media-trends-consumption-habits-survey",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-10-20T03:31:06.381Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "FSI Predictions",
+    "url": "https://www2.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-predictions.html?icid=disidenav_financial-services-industry-predictions",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-10-20T03:31:06.381Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Human Capital Trends",
+    "url": "https://www2.deloitte.com/us/en/insights/topics/talent/human-capital-trends.html?icid=disidenav_human-capital-trends",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-10-20T03:31:06.381Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "TMT Predictions",
+    "url": "https://www2.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions.html?icid=disidenav_technology-media-and-telecom-predictions",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-10-20T03:31:06.381Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Weekly Global Economic Outlook",
+    "url": "https://www2.deloitte.com/us/en/insights/topics/economy/global-economic-outlook/weekly-update.html?icid=disidenav_weekly-update",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-10-20T03:31:06.381Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Deloitte Insights Magazine",
+    "url": "https://www2.deloitte.com/us/en/insights/deloitte-insights-magazine.html?icid=disidenav_deloitte-insights-magazine",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-10-20T03:31:06.382Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Top 10 Reading Guide",
+    "url": "https://www2.deloitte.com/us/en/insights/top-10-business-insights.html?icid=disidenav_top-10-business-insights",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-10-20T03:31:06.382Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Consumer Industry Center Home",
+    "url": "https://www2.deloitte.com/us/en/insights/research-centers/consumer-industry-center.html?icid=disidenav_consumer-industry-center",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-10-20T03:31:06.382Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Consumer Products",
+    "url": "https://www2.deloitte.com/us/en/insights/industry/consumer-products.html?icid=disidenav_consumer-products",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-10-20T03:31:06.382Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Hospitality & Airlines",
+    "url": "https://www2.deloitte.com/us/en/insights/research-centers/consumer-industry-center/hospitality.html?icid=disidenav_hospitality",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-10-20T03:31:06.382Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Retail, Wholesale & Distribution",
+    "url": "https://www2.deloitte.com/us/en/insights/industry/retail-distribution.html?icid=disidenav_retail-distribution",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-10-20T03:31:06.382Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Center for Integrated Research Home",
+    "url": "https://www2.deloitte.com/us/en/insights/research-centers/center-for-integrated-research.html?icid=disidenav_center-for-integrated-research",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-10-20T03:31:06.382Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Enterprise Growth & Innovation",
+    "url": "https://www2.deloitte.com/us/en/insights/research-centers/center-for-integrated-research/enterprise-growth-and-innovation.html?icid=disidenav_enterprise-growth-and-innovation",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-10-20T03:31:06.382Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Environmental & Social Issues",
+    "url": "https://www2.deloitte.com/us/en/insights/research-centers/center-for-integrated-research/environmental-and-social-issues.html?icid=disidenav_environmental-and-social-issues",
+    "source": "Deloitte AI Insights",
+    "publishedAt": "2026-10-20T03:31:06.382Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "The Scientific Mindset: How Thinking Scientifically Drives Better Business Decisions",
+    "url": "https://store.hbr.org/product/the-scientific-mindset-how-thinking-scientifically-drives-better-business-decisions/10694?sku=10694-HBK-ENG",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-10-20T03:31:06.300Z",
+    "snippet": "Book",
+    "tier": 2
+  },
+  {
+    "title": "Harvard Business Review, November/December 2026",
+    "url": "https://store.hbr.org/product/harvard-business-review-november-december-2026/BR2606?sku=BR2606-PDF-ENG",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-10-20T03:31:06.300Z",
+    "snippet": "Magazine Reprint",
+    "tier": 2
+  },
+  {
+    "title": "Managing Yourself",
+    "url": "https://hbr.org/topic/managing-yourself",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-10-20T03:31:06.308Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Work-life Balance",
+    "url": "https://hbr.org/topic/work-life-balance",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-10-20T03:31:06.308Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Case Selections",
+    "url": "https://hbr.org/case-selections",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-10-20T03:31:06.308Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Account Settings",
+    "url": "https://hbr.org/my-library/settings",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-10-20T03:31:06.309Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Email Preferences",
+    "url": "https://hbr.org/my-library/preferences",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-10-20T03:31:06.309Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Magazine Archive",
+    "url": "https://hbr.org/magazine",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-10-20T03:31:06.311Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Article Reprints",
+    "url": "https://hbr.org/store/articles",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-10-20T03:31:06.312Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Magazine Issues",
+    "url": "https://hbr.org/store/magazine-issues",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-10-20T03:31:06.312Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "HBR Guide Series",
+    "url": "https://hbr.org/store/landing/guides",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-10-20T03:31:06.312Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "HBR 20-Minute Managers",
+    "url": "https://hbr.org/store/landing/20-minute-managers",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-10-20T03:31:06.312Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "HBR Emotional Intelligence Series",
+    "url": "https://hbr.org/store/landing/emotional-intelligence-series",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-10-20T03:31:06.312Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Advertise with Us",
+    "url": "https://hbr.org/hbr-advertising-sales",
+    "source": "Harvard Business Review AI",
+    "publishedAt": "2026-10-20T03:31:06.312Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "How AI Is Accelerating Scientific Discovery",
+    "url": "https://hai.stanford.edu/news/how-ai-is-accelerating-scientific-discovery",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-10-20T03:31:12.409Z",
+    "snippet": "New AI tools generate hypotheses, design experiments, and find patterns in data—transforming how scientists make discoveries across every field.",
+    "tier": 2
+  },
+  {
+    "title": "Sciences (Social, Health, Biological, Physical)",
+    "url": "https://hai.stanford.edu/topics/sciences-social-health-biological-physical",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-10-20T03:31:12.409Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Measuring What Medical AI Can Actually Do",
+    "url": "https://hai.stanford.edu/news/measuring-what-medical-ai-can-actually-do",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-10-20T03:31:12.409Z",
+    "snippet": "Over three years, we’ve built progressively harder, more realistic benchmarks for medical AI. Here’s what we learned.",
+    "tier": 2
+  },
+  {
+    "title": "Humans and AI Engage in Meaningful Collaborations",
+    "url": "https://hai.stanford.edu/news/humans-and-ai-engage-in-meaningful-collaborations",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-10-20T03:31:12.409Z",
+    "snippet": "Analyzing thousands of human-AI conversations, a new study shows that people are turning to chatbots for increasingly critical tasks – and that productive outcomes depend on how the collaboration unfolds.",
+    "tier": 2
+  },
+  {
+    "title": "Workforce, Labor",
+    "url": "https://hai.stanford.edu/topics/workforce-labor",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-10-20T03:31:12.409Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Stanford HAI Welcomes 15 New HAI Data Science Scholars",
+    "url": "https://hai.stanford.edu/news/stanford-hai-welcomes-15-new-data-science-scholars",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-10-20T03:31:12.410Z",
+    "snippet": "The two-year fellowship supports PhD researchers across law, medicine, physics, statistics, education, and engineering.",
+    "tier": 2
+  },
+  {
+    "title": "Can AI Be Slowed Down? Stanford HAI Experts Weigh the Risks, Rules and Race Ahead",
+    "url": "https://hai.stanford.edu/news/can-ai-be-slowed-down-stanford-hai-experts-weigh-the-risks-rules-and-race-ahead",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-10-20T03:31:12.410Z",
+    "snippet": "In a new series called Prompt Response, Stanford’s Surya Ganguli, Diyi Yang and Rob Reich examined emergent agent behavior, recursive self-improvement, independent evaluation and whether a kill switch can make advanced AI safer.",
+    "tier": 2
+  },
+  {
+    "title": "AI Legal Review Says Millions Live Under Discriminatory Local Laws",
+    "url": "https://hai.stanford.edu/news/ai-legal-review-says-millions-live-under-discriminatory-local-laws",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-10-20T03:31:12.410Z",
+    "snippet": "Building an AI pipeline to comb through millions of local statutes, researchers at Stanford Law School turn a spotlight on unsavory laws still on the books in communities across the country.",
+    "tier": 2
+  },
+  {
+    "title": "Your ‘For You’ Algorithm Disagrees With You",
+    "url": "https://hai.stanford.edu/news/your-for-you-algorithm-disagrees-with-you",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-10-20T03:31:12.410Z",
+    "snippet": "A new Stanford-led study finds that X’s “For You” algorithm mistakes outrage for interest – and fills your feed accordingly.",
+    "tier": 2
+  },
+  {
+    "title": "Companies That Buy and Sell Your Data Are Not Following California’s Strict Privacy Laws",
+    "url": "https://hai.stanford.edu/news/companies-that-buy-and-sell-your-data-are-not-following-californias-strict-privacy-laws",
+    "source": "Stanford HAI",
+    "publishedAt": "2026-10-20T03:31:12.410Z",
+    "snippet": "A new Stanford study shows data brokers are making it difficult for consumers to submit privacy requests and failing to report how many privacy requests they receive.",
+    "tier": 2
+  },
+  {
+    "title": "Yoshua Bengio and Geoffrey Hinton Call for A.I. Safeguards. Enterprise Buyers Can Help Enforce Them.",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHQkdad1NldVlCS0FFZlhQTFRxQVdXZW1YNmo0QTJfdTVrMmlGWG56aXgwV2hJV0tHejZTQjlXOUZrZ1FBT0owaDR4RXptUGRjZUlEMzhDU2RiODJORVZERUFQbS04MmlyRmlMT1o5azcycE1fSXc?oc=5",
+    "source": "Observer",
+    "publishedAt": "Mon, 19 Oct 2026 20:04:20 GMT",
+    "snippet": "Yoshua Bengio and Geoffrey Hinton Call for A.I. Safeguards. Enterprise Buyers Can Help Enforce Them.&nbsp;&nbsp;Observer",
+    "tier": 3
+  },
+  {
+    "title": "SAP to acquire TechWolf, expanding AI-powered workforce intelligence",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeXJmMGVUeDUyS0ZHbzlYWTU5N2JoOUdqQVRDampEQTRaTWo1WnBneW9uOUNZTlVoRTFqNlJuU0d1VUo4ZUZXcmEwaWtBNGNUR3g4SzB5UG1JQjgtM05UMTJoZ3pGUFpqQVNkeHU4VzBPMTV4cjBZX0NMaUg5NlpDdWN3OWdTRHJSUHgybmRISE0yY0NmVDZzUVV3?oc=5",
+    "source": "Portal ERP",
+    "publishedAt": "Mon, 19 Oct 2026 23:15:00 GMT",
+    "snippet": "SAP to acquire TechWolf, expanding AI-powered workforce intelligence&nbsp;&nbsp;Portal ERP",
+    "tier": 3
+  },
+  {
+    "title": "Recent Market Research on Businesses and Enterprise Artificial Intelligence (AI) by The Business Research Company",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWVpRMGtPWXhwRFpFdTlGN3ZsMGpqVlljMEYtYldjaFgzTzgtQktBMW1iamRIcVUzQW4yZ1N3aWJJQzhFZjNrckUyR3FwMVFlakc3SnZ4aUh0TklpelA4ZzZvRzBKVm9hLUJDdEExYnlkMnBDSzYyWkdrWWVpZVZDdzBPc1RJRG9IR3RHTUdtdTU3dXpVT01BYk9nSWNvdDVWU2oway1XcjYweEFubGFtVUppY0o2SXFjSy00X1BGb1pYSHFzV1FrdFFMZk1tTkY5V05zc2tFNU96TzVFdWtHNmtHamRDUGxX?oc=5",
+    "source": "EIN News",
+    "publishedAt": "Mon, 19 Oct 2026 16:00:00 GMT",
+    "snippet": "Recent Market Research on Businesses and Enterprise Artificial Intelligence (AI) by The Business Research Company&nbsp;&nbsp;EIN News",
+    "tier": 3
+  },
+  {
+    "title": "Cognizant and Google Cloud Expand Partnership to Scale Enterprise AI Agents",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOVY1VXluRld1SHRVSG9XaE4waVlMNGp5NFVzR1dYOWE4Tkl1TVRUcmdMNDI2MkFIU21pX3Etd3Zoazl2Z3VnbUJGVVdUSkZkSTVxTF8tNUM4ZEtFTWl6Y2Vtb1hFSmd1WEpfM2ltLUxVUnJfS2tuS2JRWTh2eVRjaVhlX2pkWUcxLWVhekR6LWhUMkhyd3RfY2x5RzUwVGRyRzl0X2dTSU44LWJMWXpRb2I4WGpfcTVXc2xvYWp1QnZrWnc?oc=5",
+    "source": "HPCwire",
+    "publishedAt": "Mon, 19 Oct 2026 20:26:37 GMT",
+    "snippet": "Cognizant and Google Cloud Expand Partnership to Scale Enterprise AI Agents&nbsp;&nbsp;HPCwire",
+    "tier": 3
+  },
+  {
+    "title": "Impinj Brings AI Down to Earth With Real-Time Tracking Data",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbzUxMkxySDJpdUVNXzZzYzdVZlVpWTA0emRSek5tVTRSU016MnpWejdRbnQwSTFieG5lSUExT2lJNmVPRU4wallaTGFJU0VCb29OQkpQdllwT1JnUUFQTlVVOFlWdjRodzRtbjBxY1VHbENXNnNiRlpCTmNfaGxGLW9iVWdvQXNlWTludml4N2E0UTlucTJmQlFfWm9KS1R4TllEUzREWEx4RW8?oc=5",
+    "source": "TechNewsWorld",
+    "publishedAt": "Mon, 19 Oct 2026 14:30:49 GMT",
+    "snippet": "Impinj Brings AI Down to Earth With Real-Time Tracking Data&nbsp;&nbsp;TechNewsWorld",
+    "tier": 3
+  },
+  {
+    "title": "The AI App-Builder Economy Is Coming for Enterprise Software",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYVBzeDNiZ2hPR1F4V1Ayc0V6SHBTR1d3TGQ2YjBkRjdxTUV6WEpDQURiXzJhcTdCeWVUUEJJbUZURVFzUlNnS1VCQXFjUVQzdnBGVWpnN2N1anVLLWJlQ2xNemF0NzlqeUNSYy1ycjJJaW56MHBXdHRvTVdoVENEUGJsaXVETFhmRDlPRE1wNkNDV3psRFZCemk2VlhTWi1jbGx0NmlCenBHUlhRcmxvMjRnMkpfZw?oc=5",
+    "source": "Inc.com",
+    "publishedAt": "Mon, 19 Oct 2026 13:46:11 GMT",
+    "snippet": "The AI App-Builder Economy Is Coming for Enterprise Software&nbsp;&nbsp;Inc.com",
+    "tier": 3
+  },
+  {
+    "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNThVa0RMWlZyclBfYi0xMXlIYzJ6TElVcW5sakprLW16Ujk3WGVUVC0zMi1CSVJpektNazlpRnYzdDQyaDB3UTFGdThEUEtkSVk4b3F6LTNlcjdNU0RqMkZkNmZRdWxuZzVpY0hteHAzLW5nUHQ0cU54bGptVUkyekh4RWxUbzA2N2VXWk1IQ2pVeGpBbWc0SjFmQzR3YWFHLWFGSFp1YllsTUVwOHc?oc=5",
+    "source": "TechCrunch",
+    "publishedAt": "Mon, 19 Oct 2026 15:37:09 GMT",
+    "snippet": "Nvidia launches new open models to run agents in the enterprise and on PCs&nbsp;&nbsp;TechCrunch",
+    "tier": 3
+  },
+  {
+    "title": "Better Artificial Intelligence Stock for 2026: C3.ai vs. SentinelOne",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcGw1N3pLZkhPRllJSkpRbnpzak9hR3NJWHcxWjJhR1V5N0c5amFpTExQTldEa1pNXzRDeUk4TmFILUxWQnhpdGZGdTlNRUt3WE5MTi1ZNVJ0b1d1YkhSY09HX1pHNzhkYVpEY3hCUkRjLWpUY0xCdThqenU3dl9sMXVTZHluMkx4bl9nTEdZTkRlTk9RUmNVaUk4c1Nva3kzWXZ1NXBZMjJsaUxFS1dxZVE2WVhJRjFqUlFZWDVuckFBNU9BcUhuMVI2Z3pJbzNiaTBqRm1NZFRadXJHNEgxSEZXZ2hSTDQ?oc=5",
+    "source": "The Globe and Mail",
+    "publishedAt": "Mon, 19 Oct 2026 17:32:28 GMT",
+    "snippet": "Better Artificial Intelligence Stock for 2026: C3.ai vs. SentinelOne&nbsp;&nbsp;The Globe and Mail",
+    "tier": 3
+  },
+  {
+    "title": "Enterprise AI Agent Integration in 2026: How Salesforce, SAP, Oracle, Google and Microsoft Connect AI to ERP and CRM",
+    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOaWNRNkQ5eGZrTlZka25Xd25OSE83TldPZ19aUml0NkFGOTVJQjhGTHhzcjdWUU5XRmdlNklzb1JkcDRjZDB5TUN6akd1X3lLQkNYNXJoVWVYdURYNVVsbHBNVUMzU21manVqNDNRR2tIZDJidFpuMEhIcjlXQ04wNDQyNWRMWEFNVDQ2MnVzM1RFUnBKRzVrLUs0WVJNVXZJWWtQeXNUX3g2TjhBcExfdklLa3hLSk5wNUZXTTMzOGV3a3BBaWJKZGQ4eU9RZzM1dTZJaWkyNDJENmVzWGp0SjV0VmdseWVwMjJfNXA3bVVIUnRvYkYwbW1XOERVdE5rbHFV0gGDAkFVX3lxTE5pY1E2RDl4ZmtOVmRrbld3bk5ITzdOV09nX1pSaXQ2QUY5NUlCOEZMeHNyN1ZRTldGZ2U2SXNvUmRwNGNkMHlNQ3pqR3VfeUtCQ1g1cmhVZVh1RFg1VWxscE1VQzNTbWZqdWo0M1FHa0hkMmJ0Wm4wSEhyOVdDTjA0NDI1ZExYQU1UNDYydXMzVEVScEpHNWstSzRZUk1VdklZa1B5c1RfeDZOOEFwTF92SUtreEtKTnA1RldNMzM4ZXdrcEFpYkpkZDh5T1FnMzV1NklpaTI0MkQ2ZXNYanRKNXRWZ2x5ZXAyMl81cDdtVUhSdG9iRjBtbVc4RFV0TmtscVU?oc=5",
+    "source": "InfotechLead",
+    "publishedAt": "Mon, 19 Oct 2026 14:29:49 GMT",
+    "snippet": "Enterprise AI Agent Integration in 2026: How Salesforce, SAP, Oracle, Google and Microsoft Connect AI to ERP and CRM&nbsp;&nbsp;InfotechLead",
+    "tier": 3
+  },
+  {
+    "title": "How AI Is Transforming Enterprise eCommerce: 7 Use Cases That Drive Revenue and Efficiency",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbkx2aVBQNlFRbTJYbmFWakp0R185UjBOUTItc216WFJCMFpKTjNmVXFkUENBRElwVDU2bHBObHNTelQ3WlZhY29ldWtlcUVBSFlLemF6UGxpMW10elpOYWJrRDJMR2k0Z3FXU0syYTR0RzZhSnVwMnptZHJQUVZILWZlaVNsX2dsWTBCMQ?oc=5",
+    "source": "Techfunnel",
+    "publishedAt": "Mon, 19 Oct 2026 10:55:41 GMT",
+    "snippet": "How AI Is Transforming Enterprise eCommerce: 7 Use Cases That Drive Revenue and Efficiency&nbsp;&nbsp;Techfunnel",
+    "tier": 3
+  },
+  {
+    "title": "K7 CyberSecurity CEO on AI, Enterprise Risk and Resilience",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMHowVDUzSmJUeXRheWZuNzNzRjZPVGxnbTMwMEV6aW4zOWNtdzQtbXV0ckM2ZE53Q3ZYejFmU2EtVGc5UDhrV1V1Y3RvclVEN2tvSXhYYnUtaHVFcWtHWTB3Q1hHUEp5eTZMUEZsRlBLVUdYSHA5WHlaNXZvSE9FTHpuaGNUb2VONFRzQ25sRjhjUXNqeFU2QjRlZThySTFqNmNlYndQVzkydllUMkZpWkRWSVBjTUdWdXdDN1lnQ2JreEJEbVlWMUM1dlNSbFNYS2RXLQ?oc=5",
+    "source": "ET Edge Insights",
+    "publishedAt": "Mon, 19 Oct 2026 06:59:02 GMT",
+    "snippet": "K7 CyberSecurity CEO on AI, Enterprise Risk and Resilience&nbsp;&nbsp;ET Edge Insights",
+    "tier": 3
+  },
+  {
+    "title": "LIVE From Gartner: Enterprise AI Is Entering Its Hardest Chapter Yet",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYVRkNXNPdnh3WWpFTklaYlZoR2lzbVkzSlRTZzIyWFdMY003OTBPN0NwTjh0RlBCTE1ycjNEOTItRzczVjUwVTNPTGxsRkotWW9NclYyR3lxMDhhQ2VhT1Bwb2pHaHVfdEp4a3UwLUtKcV9uZmVXNWVNUm84OTVzUEljenpMQ2VpTnlrNU83LVNDY0QzbDQ4Rm9tWGZqS0dkSjBnSWpWVmY2OE96dFlrek9qbVR6VG8?oc=5",
+    "source": "The National CIO Review",
+    "publishedAt": "Mon, 19 Oct 2026 21:16:18 GMT",
+    "snippet": "LIVE From Gartner: Enterprise AI Is Entering Its Hardest Chapter Yet&nbsp;&nbsp;The National CIO Review",
+    "tier": 3
+  },
+  {
+    "title": "CFOs Take Control of Enterprise Gen AI",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaElja1dKMVEzX3QzTE9qT1lzTnBZcW5PYnRvbWZIOW43ME9UemJZZDRzel8xSXhYRm10WVZBX2Z1em5JMmhPemZTTktCbXBjLUYxS0dGdmhNYnlSUExMVTVTX0tZRkRIUXM1SU8xUVpwX2xWYkM4R3g5NnlUdTd1bw?oc=5",
+    "source": "PYMNTS.com",
+    "publishedAt": "Mon, 19 Oct 2026 17:53:25 GMT",
+    "snippet": "CFOs Take Control of Enterprise Gen AI&nbsp;&nbsp;PYMNTS.com",
+    "tier": 3
+  },
+  {
+    "title": "NiCE bets the company on AI, data and accountability, and the legacy business buys it time",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUE5WeEw5N051SGYyNkNQR1ZZVlhiRFVIeS1NS29Xbk02NHdlM3FxZm9JVk1RaEsxOThyRE9IM3dYZkJoVXNGbVhhM1EwSTZGUWxwZndCSjFuSjBFZ1Ftd2EwcUdoc3FuMHQ4U0pBZ1YxVEZkNUhNSlFwTnFVbE5qdWpycHlrVjdwbXAtQ2xDZENacHlfeXQtX196N3J1ZmkwRkNlUV80RlRaZmZXanB3aENoeEJWYi1wTzVCZjFJY0JpSDg?oc=5",
+    "source": "SiliconANGLE",
+    "publishedAt": "Mon, 19 Oct 2026 19:03:00 GMT",
+    "snippet": "NiCE bets the company on AI, data and accountability, and the legacy business buys it time&nbsp;&nbsp;SiliconANGLE",
+    "tier": 3
+  },
+  {
+    "title": "AI & Tech Brief: Anthropic’s leaked bill",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV3ZSeFlQcXJNaWYwT0RBeGN4WVhTWjRma2FRdHhzSlFRNmFZRnNOYzBSbDd3eE95ZFNqTkx1OEV0dkFXTXJCWFZsSEV4NHlLTjE4eU5rVDdzN0pfMnNWcFNmWk5jb0xnWHFyRUFZc1lsUFVUa2x6LVFjb214Ul9zU0dvQkh5emJZRWozVVFqNXU5SWN4dzBuZWc5Rm9JYURtMEV2ZE5qTzhDQ1Jlemc?oc=5",
+    "source": "The Washington Post",
+    "publishedAt": "Tue, 20 Oct 2026 03:29:45 GMT",
+    "snippet": "AI & Tech Brief: Anthropic’s leaked bill&nbsp;&nbsp;The Washington Post",
+    "tier": 3
+  },
+  {
+    "title": "NJ lawmakers weigh AI regulations amid industry and safety expert clash",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VVGlRaW1peXEtZ1ZvQ1lOV0F2bUs4T052cmgwS0tlaEp4VklqUTg3RlhIRG9oT0VxNTM0TjhzdVVwWU1SZ3RGOXNzZjNmNFFDc1o3dlZWTnRaYTczUlVwbEl5R2liRmNMY1o2QkdCLTJ2Wkk?oc=5",
+    "source": "New Jersey Monitor",
+    "publishedAt": "Mon, 19 Oct 2026 22:09:07 GMT",
+    "snippet": "NJ lawmakers weigh AI regulations amid industry and safety expert clash&nbsp;&nbsp;New Jersey Monitor",
+    "tier": 3
+  },
+  {
+    "title": "A-State Board approves AI, technology and security policy changes",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUXcxLTN2c0piNEpoMlpRNHBLUmpGNzgxSFlFWTBqOUduYV8yZ0R5WUNfbHRSYlZEUUFkeEZ3d2haYTRIajdGc25HOXYtNC1tTnBqZWVSWHMzelI4Z1Q4aEJGM25wZzctWFY4ZnY4OFcwWmMtQTI2OVlNUTNwTklTeEswSDVuUjVOMGl5NExTOGdoeVRuUHN3UEZCdm1CaDA?oc=5",
+    "source": "Talk Business & Politics",
+    "publishedAt": "Tue, 20 Oct 2026 00:31:16 GMT",
+    "snippet": "A-State Board approves AI, technology and security policy changes&nbsp;&nbsp;Talk Business & Politics",
+    "tier": 3
+  },
+  {
+    "title": "GAO to monitor government AI use, hire AI experts in coming years",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWGhKZUFPWHMxSlFsN08tS0VJc3VwOUk1dDlrV2VmQ1Fzdkwzd2pZSWduN1BuLXJvQUFyT0VQeF9WVGJkZ2pGbXphVzNSby05ak9RUFZDU3ZseEdGVVJvR2t6ZF8tdzdmN0tCeEI5QXF5aWo5UEkzb2RYN3MyUk9rb1I4UENFVnlXZl9oZUI0RQ?oc=5",
+    "source": "FedScoop",
+    "publishedAt": "Mon, 19 Oct 2026 21:18:05 GMT",
+    "snippet": "GAO to monitor government AI use, hire AI experts in coming years&nbsp;&nbsp;FedScoop",
+    "tier": 3
+  }
+]
