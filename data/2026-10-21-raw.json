@@ -1,0 +1,802 @@
+[
+  {
+    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+    "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Tue, 20 Oct 2026 23:01:23 +0000",
+    "snippet": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+    "tier": 1
+  },
+  {
+    "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+    "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Tue, 20 Oct 2026 22:24:02 +0000",
+    "snippet": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+    "tier": 1
+  },
+  {
+    "title": "Anthropic’s cloud partnerships are getting messy",
+    "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Tue, 20 Oct 2026 21:25:22 +0000",
+    "snippet": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+    "tier": 1
+  },
+  {
+    "title": "SpaceX’s AI business is beating expectations",
+    "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Tue, 20 Oct 2026 20:40:41 +0000",
+    "snippet": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+    "tier": 1
+  },
+  {
+    "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+    "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Tue, 20 Oct 2026 20:35:10 +0000",
+    "snippet": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+    "tier": 1
+  },
+  {
+    "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+    "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Tue, 20 Oct 2026 18:38:24 +0000",
+    "snippet": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+    "tier": 1
+  },
+  {
+    "title": "ChatGPT now lets you lock your chats",
+    "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Tue, 20 Oct 2026 18:36:53 +0000",
+    "snippet": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
+    "tier": 1
+  },
+  {
+    "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+    "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Tue, 20 Oct 2026 17:55:12 +0000",
+    "snippet": "Eric Schmidt’s fortune is about to get even bigger.",
+    "tier": 1
+  },
+  {
+    "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
+    "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Tue, 20 Oct 2026 17:12:48 +0000",
+    "snippet": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
+    "tier": 1
+  },
+  {
+    "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
+    "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Tue, 20 Oct 2026 16:20:06 +0000",
+    "snippet": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
+    "tier": 1
+  },
+  {
+    "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+    "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Tue, 20 Oct 2026 16:00:00 +0000",
+    "snippet": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+    "tier": 1
+  },
+  {
+    "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+    "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Tue, 20 Oct 2026 14:13:32 +0000",
+    "snippet": "Figma said it plans to support as many standards as possible without exposing all of its data.",
+    "tier": 1
+  },
+  {
+    "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+    "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Tue, 20 Oct 2026 13:07:24 +0000",
+    "snippet": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+    "tier": 1
+  },
+  {
+    "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+    "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Tue, 20 Oct 2026 13:00:00 +0000",
+    "snippet": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.",
+    "tier": 1
+  },
+  {
+    "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+    "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Tue, 20 Oct 2026 11:00:00 +0000",
+    "snippet": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+    "tier": 1
+  },
+  {
+    "title": "Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool",
+    "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Tue, 20 Oct 2026 11:00:00 +0000",
+    "snippet": "Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation.",
+    "tier": 1
+  },
+  {
+    "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+    "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+    "source": "TechCrunch AI",
+    "publishedAt": "Mon, 19 Oct 2026 22:49:27 +0000",
+    "snippet": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
+    "tier": 1
+  },
+  {
+    "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
+    "url": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Tue, 20 Oct 2026 21:00:00 +0000",
+    "snippet": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and leap back into the air to fly away. And now engineers at MIT and EPFL in Lausanne, Switzerland, have…",
+    "tier": 1
+  },
+  {
+    "title": "Here’s the tea",
+    "url": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Tue, 20 Oct 2026 21:00:00 +0000",
+    "snippet": "When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story. Descendants of the Boston blacksmith Thomas Wells had donated the label in 1987, saying it had been recovered after colonial protesters threw tea into…",
+    "tier": 1
+  },
+  {
+    "title": "Melt it, spin it, use it again",
+    "url": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Tue, 20 Oct 2026 21:00:00 +0000",
+    "snippet": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn.  The thermoplastic yarn mimics the properties of conventional elastic yarns, which typically combine spandex with polyester or nylon. Those…",
+    "tier": 1
+  },
+  {
+    "title": "A reason to eat carbs",
+    "url": "https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Tue, 20 Oct 2026 21:00:00 +0000",
+    "snippet": "A high-fat, low-carbohydrate diet can help some people lose weight, and some research has shown that it may protect against colon cancer. But a new study suggests that such a ketogenic diet may also increase the risk of cancer in the small intestine. This type of diet forces the body to burn fatty acids instead…",
+    "tier": 1
+  },
+  {
+    "title": "Robotic therapy for stroke patients",
+    "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Tue, 20 Oct 2026 21:00:00 +0000",
+    "snippet": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining artificial intelligence and human therapy.  Johannes Lachner, a former MIT postdoc who is now an assistant professor…",
+    "tier": 1
+  },
+  {
+    "title": "Taking a swing at a pickleball startup",
+    "url": "https://www.technologyreview.com/2026/10/20/1145287/taking-a-swing-at-a-pickleball-startup/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Tue, 20 Oct 2026 21:00:00 +0000",
+    "snippet": "In corporate America, Stanley Anderson ’79 says, executives often assume that their peers grew up in privileged circumstances.  He did not. “I spent my early years trying not to get recruited into gangs, getting shot at, watching my friends get murdered, and thinking that if I don’t leave, I will die,” says Anderson, who was…",
+    "tier": 1
+  },
+  {
+    "title": "A good TA: priceless",
+    "url": "https://www.technologyreview.com/2026/10/20/1145291/a-good-ta-priceless/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Tue, 20 Oct 2026 21:00:00 +0000",
+    "snippet": "These are images of quizzes I took in 3.091, Introduction to Solid-State Chemistry, in the fall of 1980. One is my very first exam at MIT, and getting 49 out of 100 was a soul-crushing experience. I can still picture the TA, Leszek Pawlowicz, PhD ’87, returning my paper. He had a big smile on…",
+    "tier": 1
+  },
+  {
+    "title": "Nebraska native explores galaxies far, far away",
+    "url": "https://www.technologyreview.com/2026/10/20/1145294/nebraska-native-explores-galaxies-far-far-away/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Tue, 20 Oct 2026 21:00:00 +0000",
+    "snippet": "Growing up on a small farm in Nebraska, Megan Donahue ’85 discovered the wider world by reading her way through her local library. Today, she is learning how the wider universe works by studying galaxy clusters. Donahue discovered her passion for physics in that library at age 12 and started her path into astronomy thanks…",
+    "tier": 1
+  },
+  {
+    "title": "A champion for brain injury patients",
+    "url": "https://www.technologyreview.com/2026/10/20/1145297/a-champion-for-brain-injury-patients/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Tue, 20 Oct 2026 21:00:00 +0000",
+    "snippet": "Alissa Totman ’13 was a sophomore when she joined MIT BrainTrust, a student-run organization that connects Institute undergraduates and people with brain injuries for support and socializing. “That group was a great way to learn about the human experience of what people go through when they experience a brain injury,” she says. And it laid…",
+    "tier": 1
+  },
+  {
+    "title": "A cleaner path to rare earth metals",
+    "url": "https://www.technologyreview.com/2026/10/20/1145300/a-cleaner-path-to-rare-earth-metals/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Tue, 20 Oct 2026 21:00:00 +0000",
+    "snippet": "Tomás Villalón Jr. ’14 was raised in San Antonio, Texas, but vividly remembers smog hanging over the city his family came from—Monterrey, Mexico, a steel manufacturing and metal fabrication hub. Even as a child, he realized it was problematic to breathe that air.  “I’m motivated because I’ve seen what metal-making does,” says Villalón, who majored…",
+    "tier": 1
+  },
+  {
+    "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+    "source": "The Verge AI",
+    "publishedAt": "2026-10-20T23:04:19.000Z",
+    "snippet": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or meet other deadlines despite warnings that it would result in the case being dismissed.\nWhen the case was filed last year, a statement shared by Sam Altman, h",
+    "tier": 1
+  },
+  {
+    "title": "Google’s more personalized Gemini AI is heading to your car",
+    "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+    "source": "The Verge AI",
+    "publishedAt": "2026-10-20T22:11:34.000Z",
+    "snippet": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search.\nAs an example, Google says you can ask Gemini about your flight status if you're driving to the airport. The AI assistant can pull your flight details from a confirmation message in Gmail and then use that information to look up the status. You can a",
+    "tier": 1
+  },
+  {
+    "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+    "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+    "source": "The Verge AI",
+    "publishedAt": "2026-10-20T18:07:34.000Z",
+    "snippet": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records.\n\"People have the ability to share specific Muse artifacts, which creates a page that can be accessed by those with the link,\" Muse spokesperson Tracy Clayton says in an emai",
+    "tier": 1
+  },
+  {
+    "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+    "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+    "source": "The Verge AI",
+    "publishedAt": "2026-10-20T14:18:37.000Z",
+    "snippet": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists.\n\"Our editors hold the same standard and don't program content identified as slop or spam,\" Spotify says. \"Since we made these changes, we've seen a marked decrease in listener concerns about this con",
+    "tier": 1
+  },
+  {
+    "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+    "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+    "source": "The Verge AI",
+    "publishedAt": "2026-10-20T13:06:44.000Z",
+    "snippet": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a new Open Eyes Quick Action that appears as an icon over the image providing easy access to the new feature.\nBeing able to easily save an otherwise great photo by opening a subject's eyes ",
+    "tier": 1
+  },
+  {
+    "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+    "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+    "source": "The Verge AI",
+    "publishedAt": "2026-10-19T14:30:00.000Z",
+    "snippet": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy.\nIf you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms coming up next month, and early voting already underway in a lot of places, the stakes are pretty high right now.\nSo I asked Gov. Pritzker about all that, and he was surprisingly willing to dive right ",
+    "tier": 1
+  },
+  {
+    "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
+    "url": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
+    "source": "Wired AI",
+    "publishedAt": "Tue, 20 Oct 2026 17:41:58 +0000",
+    "snippet": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
+    "tier": 1
+  },
+  {
+    "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
+    "url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
+    "source": "Wired AI",
+    "publishedAt": "Tue, 20 Oct 2026 15:07:43 +0000",
+    "snippet": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
+    "tier": 1
+  },
+  {
+    "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
+    "url": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
+    "source": "Wired AI",
+    "publishedAt": "Mon, 19 Oct 2026 16:00:00 +0000",
+    "snippet": "Around 80 pages on WhatsApp’s website exposed instructions that were designed for its chatbot, including “WHAT NOT TO SAY.” Meta says a bug caused the issue.",
+    "tier": 1
+  },
+  {
+    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "url": "https://openai.com/index/ted-taylor-restaurant",
+    "source": "OpenAI Blog",
+    "publishedAt": "Tue, 20 Oct 2026 10:00:00 GMT",
+    "snippet": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+    "tier": 1
+  },
+  {
+    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "url": "https://openai.com/index/terminal-x",
+    "source": "OpenAI Blog",
+    "publishedAt": "Tue, 20 Oct 2026 07:00:00 GMT",
+    "snippet": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+    "tier": 1
+  },
+  {
+    "title": "OpenAI acquires Orchestra Bio",
+    "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "source": "OpenAI Blog",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 GMT",
+    "snippet": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+    "tier": 1
+  },
+  {
+    "title": "Advancing coding in low‑resource programming languages",
+    "url": "https://openai.com/index/low-resource-programming-languages",
+    "source": "OpenAI Blog",
+    "publishedAt": "Mon, 19 Oct 2026 12:00:00 GMT",
+    "snippet": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+    "tier": 1
+  },
+  {
+    "title": "GardenBench: A lightweight, daily evaluation of LLM capabilities",
+    "url": "https://arxiv.org/abs/2610.23866",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.23866v1 Announce Type: new \nAbstract: We introduce GardenBench, a benchmark with 11 test suites that evaluate the capabilities of Large Language Models (LLMs) across a range of tasks. By systematically prompting LLMs with various lightweight queries, we document day-to-day changes in model performance, including run costs and times, that other benchmarks miss. This allows us to compare the accuracy and features of responses across model providers and versions. We account for daily var",
+    "tier": 1
+  },
+  {
+    "title": "Doing Less with More: A First-Principles Exploration of the Suitability of Agentic Computing over Alternative Architectural Choices",
+    "url": "https://arxiv.org/abs/2610.23921",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.23921v1 Announce Type: new \nAbstract: There is growing interest in automating business activities with Agentic Artificial Intelligence (AI) due to latter's seeming ease of use. Never has it been easier, or costlier, to do less with more. However, little is known about when agents are preferable to established alternatives such as local computation, Representational State Transfer (REST), the Simple Object Access Protocol (SOAP), and the Model Context Protocol (MCP), particularly when ",
+    "tier": 1
+  },
+  {
+    "title": "A Controlled LLM Workflow for Evidence-Grounded Diagnosis of Risk Score Differences",
+    "url": "https://arxiv.org/abs/2610.23962",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.23962v1 Announce Type: new \nAbstract: We propose a controlled Large Language Model (LLM) workflow for explaining risk score differences using similar historical transactions. The workflow combines reference retrieval and contrastive SHapley Additive exPlanations (SHAP) evidence with reference-based LLM reasoning and deterministic validation. Experiments on a test dataset show that the workflow produces more consistent, evidence-grounded and traceable diagnoses than the same LLM withou",
+    "tier": 1
+  },
+  {
+    "title": "What Social Media Teaches Us About Accumulative AI Risks",
+    "url": "https://arxiv.org/abs/2610.24006",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24006v1 Announce Type: new \nAbstract: Prominent AI safety discussions emphasize existential threats and catastrophic events, such as AI-enabled nuclear conflict or engineered biological outbreaks. This position paper argues that there is another type of AI risk that arises and accumulates from the widespread use of AI. Drawing on lessons from social media, we argue that safety assessments must also address accumulative harms that develop through repeated use, recurring decisions, and ",
+    "tier": 1
+  },
+  {
+    "title": "Beyond Explicit Intent: Discovering and Shaping Artistic Intent through Human-AI Co-Creation",
+    "url": "https://arxiv.org/abs/2610.24010",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24010v1 Announce Type: new \nAbstract: Generative AI is becoming an important medium for artistic creation, yet existing interactions often assume that creators can specify intentions in advance and accurately communicate them through text prompts. Artistic intentions, however, may be vague, latent, or recognizable only after seeing concrete visual possibilities. We propose a human-AI co-creation paradigm beyond explicit intent expression. By expanding model exploration, we expose arti",
+    "tier": 1
+  },
+  {
+    "title": "Unified Multiparadigm Fusion Intelligence for Rare Disease Diagnosis",
+    "url": "https://arxiv.org/abs/2610.24024",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24024v1 Announce Type: new \nAbstract: Rare diseases (RDs) affect an estimated 300 million people globally, leaving patients to navigate a protracted diagnostic odyssey constrained by clinical scarcity and fragmented medical knowledge. Artificial intelligence (AI) has progressively advanced RD diagnostics, from symbolic methods and deep learning to large language model (LLM)-based systems. However, each paradigm carries structural limitations: symbolic methods are bounded by knowledge ",
+    "tier": 1
+  },
+  {
+    "title": "LogicVal:A Logic-Formalized Benchmark for Constraint Satisfaction in Text-to-Image Generation",
+    "url": "https://arxiv.org/abs/2610.24051",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24051v1 Announce Type: new \nAbstract: Text-to-Image (T2I) generative models have made significant progress in producing high-fidelity images from natural-language prompts. Alongside this progress, numerous benchmarks have been developed to evaluate capabilities such as attribute binding, numeracy, spatial reasoning, and commonsense reasoning. In this work, we propose a new perspective on T2I evaluation by casting it as a constraint-satisfaction problem. We introduce a logical framewor",
+    "tier": 1
+  },
+  {
+    "title": "World of SWECraft: Agent Collaboration at Scale via Simulated Software Worlds",
+    "url": "https://arxiv.org/abs/2610.24061",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24061v1 Announce Type: new \nAbstract: As teams of AI agents take on larger projects and long-standing open problems, agent collaboration offers another dimension for scaling inference-time compute. To understand what makes such collaboration effective and scalable, we develop Software World, a framework for simulating multi-agent coworking in realistic software ecosystems. It comes with a pipeline to create environments of real, interdependent Python packages of different topics, size",
+    "tier": 1
+  },
+  {
+    "title": "Persistent Memory and Iterative Improvement in an LLM Agent for Chinese-Character Drawing",
+    "url": "https://arxiv.org/abs/2610.24090",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24090v1 Announce Type: new \nAbstract: Does persistent memory accumulated from previous attempts help an LLM agent solve new problems, and does memory design affect that benefit? We study programmatic Chinese-character drawing across five agent conditions attempting the same 668 items. Accumulated memory produces modest aggregate gains despite substantial growth in the memory stores: free-form notes improve first-attempt success by 4.6 percentage points, while a design combining free-f",
+    "tier": 1
+  },
+  {
+    "title": "Cache2LoRA: Understanding and Improving Context Internalization",
+    "url": "https://arxiv.org/abs/2610.24107",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24107v1 Announce Type: new \nAbstract: Context-to-LoRA methods encode documents as low-rank parameter updates, allowing language models to answer without retaining the source text in their decoding context. How reliably do these updates preserve facts and support their use under different instructions? Controlled diagnosis of existing context-to-LoRA methods separates fact discrimination, target retention, and response adaptation. Competing sources influence answers, while target-only ",
+    "tier": 1
+  },
+  {
+    "title": "Joint, Decoupled, or Agent: When Each Multimodal Alignment Paradigm Wins",
+    "url": "https://arxiv.org/abs/2610.24108",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24108v1 Announce Type: new \nAbstract: Jointly pretrained multimodal encoders are a common way to combine modalities, while alternatives integrate their information during downstream training or inference. When does each approach win? We compare three paradigms, instantiated with public checkpoints, across 16 paired datasets in five domains and multiple training-label budgets. JOINT trains a fusion head on frozen, jointly pretrained encoders. DECOUPLED trains a fusion head on frozen, i",
+    "tier": 1
+  },
+  {
+    "title": "A Conditional No-Hair Theorem for Transformers: How Language Models Forget Their Prompt",
+    "url": "https://arxiv.org/abs/2610.24133",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24133v1 Announce Type: new \nAbstract: We ask how much an autoregressive transformer retains of its prompt after generating $t$ tokens. Consider two different prompts followed by the same continuation text, so that any difference in their hidden states comes from the prompt alone, and we find that the distance between their hidden states decays approximately as a power law $t^{-\\alpha}$, where $\\alpha=1$ is the rate at which a fixed prompt's share of uniform attention shrinks and small",
+    "tier": 1
+  },
+  {
+    "title": "TorchTPU - A Hybrid Eager/Compiled Architecture for Native PyTorch Execution on TPU",
+    "url": "https://arxiv.org/abs/2610.24161",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24161v2 Announce Type: new \nAbstract: TorchTPU is an open-source collaboration between Google and Meta that introduces a native and principled PyTorch backend for Google TPUs. It enables seamless out-of-the-box model execution and TPU migration while delivering industry-competitive inference and training performance through eager execution optimizations, torch.compile integration, and native hardware acceleration.",
+    "tier": 1
+  },
+  {
+    "title": "Self-Improving Video-to-Action Models",
+    "url": "https://arxiv.org/abs/2610.24177",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24177v1 Announce Type: new \nAbstract: Video generative models are an emerging tool for embodied agents: they can serve as scalable visual planners, generating videos that depict how to complete previously unseen tasks. However, executing these plans typically requires a video-to-action or \"inverse dynamics\" model trained on large, human-collected video-action datasets, severely limiting scalability. We introduce Mirror, a self-supervised approach that learns video-to-action mappings t",
+    "tier": 1
+  },
+  {
+    "title": "Agents' Last Doubt: Knowing When to Act and When to Step Back in Tool-Using Agents",
+    "url": "https://arxiv.org/abs/2610.24194",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24194v1 Announce Type: new \nAbstract: Tool-using LLM agents repeatedly face decision points under uncertainty, choosing between autonomous action, additional information gathering, and human escalation. These decisions require balancing task success against interaction cost and the risk of irreversible errors. Learning to make these trade-offs is challenging because existing interaction trajectories record only the outcomes of actions taken, leaving the consequences of alternative act",
+    "tier": 1
+  },
+  {
+    "title": "Distillation, Self-Training, and the Fragility of Learned Chemical Reasoning",
+    "url": "https://arxiv.org/abs/2610.24199",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24199v1 Announce Type: new \nAbstract: Automating synthesis planning for small-molecule drug design requires chemical reasoners that are accurate as well as open to inspection and adaptation, yet frontier language models remain unreliable at predicting reaction outcomes and difficult to deploy, while small open-weight models lack the necessary domain reasoning. We show that frontier supervision can serve as a one-time bootstrap for open models on forward reaction prediction. Our models",
+    "tier": 1
+  },
+  {
+    "title": "Training-Free Prompt Selection for Efficient Reinforcement Learning With Partial Rollouts",
+    "url": "https://arxiv.org/abs/2610.24229",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24229v1 Announce Type: new \nAbstract: Reinforcement learning with verifiable rewards (RLVR) has emerged as a prominent paradigm for training reasoning models, but its computational cost makes efficient data selection increasingly important. Since training examples contribute unequally to learning, selecting a small, informative subset can offer a more efficient alternative to using the entire data pool. The training-free selection method estimates prompt value with hidden states from ",
+    "tier": 1
+  },
+  {
+    "title": "Probing Ambiguity: Adversarial Intent Resolution for Robust Text-to-SQL",
+    "url": "https://arxiv.org/abs/2610.24248",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24248v1 Announce Type: new \nAbstract: Text-to-SQL systems typically assume a one-to-one mapping between natural-language queries and correct SQL translations. In practice, however, many queries are inherently ambiguous, admitting multiple valid interpretations that yield distinct outputs. We introduce Adversarial Intent Resolution (AIR), a multi-agent framework that actively probes and resolves such ambiguity without any task-specific training. AIR first constructs competing interpret",
+    "tier": 1
+  },
+  {
+    "title": "Cortex: A Fixed-Point Theory of Governed Coding Agents - Technical Report",
+    "url": "https://arxiv.org/abs/2610.24255",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24255v1 Announce Type: new \nAbstract: A coding agent combines a large language model (LLM) with a harness that plans, edits, and executes code. We study Cortex, a supervisory layer for pre-execution governance, requirement tracking, and iterative validation and repair. We formalize requirement closure on a finite lattice. For a fixed requirement set and a sound, monotone validation rule with persistent evidence, exhaustive iteration reaches the least fixed point with no more strict in",
+    "tier": 1
+  },
+  {
+    "title": "AM-Bench: A Unified Taxonomy and Evaluation Suite for Agentic Misalignment",
+    "url": "https://arxiv.org/abs/2610.24264",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24264v2 Announce Type: new \nAbstract: As LLM-based agents are deployed with increasing autonomy in real-world environments, a critical failure mode emerges: agentic misalignment, where agents choose harmful actions over failure. However, existing safety benchmarks primarily evaluate whether agents comply with explicitly harmful instructions, leaving the conditions that cause agents to choose harmful actions poorly understood. To address this limitation, we propose AM-Bench, a unified ",
+    "tier": 1
+  },
+  {
+    "title": "Can Compact Open-Weight Large Language Models Recover Mobility Events from Incomplete Trajectories? A Controlled Evaluation Using Air Trips",
+    "url": "https://arxiv.org/abs/2610.24266",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24266v1 Announce Type: new \nAbstract: Incomplete mobility trajectories can obscure the observations needed to identify important travel events and their endpoints. This study evaluates whether compact, locally deployed large language models (LLMs) can recover missing mobility information from incomplete trajectories, using high-confidence air trips as a controlled test case, and whether more explicit prompts can compensate for the loss of endpoint evidence. Using nationwide location-b",
+    "tier": 1
+  },
+  {
+    "title": "From SEC Filings to Financial Signals: Evaluating LLMs on Stock Market Reactions and Analyst Forecasts",
+    "url": "https://arxiv.org/abs/2610.24268",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24268v1 Announce Type: new \nAbstract: Form 10-Q MD&A sections combine long-form management narrative with accounting and forward-looking information. Benchmarks for financial filings commonly evaluate question answering or numerical reasoning, leaving unclear whether outputs from large language models (LLMs) align with market and analyst outcomes. We evaluate prompted, zero-shot outputs from 13 general-purpose and finance-specialized LLMs on 45,964 Form 10-Q filing events from 2001 to",
+    "tier": 1
+  },
+  {
+    "title": "SteerSearch: Interactive Search Reasoning with Mid-Response Steering",
+    "url": "https://arxiv.org/abs/2610.24287",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24287v1 Announce Type: new \nAbstract: Search-augmented language models increasingly serve as long-horizon research agents, yet most open training methods assume a fixed user goal throughout search. We study mid-response steering, where users redirect a model during ongoing reasoning or retrieval. We identify answer-target anchoring, a failure mode in which fixed-query search agents retrieve evidence for the updated request but still answer an earlier question. We introduce SteerSearch",
+    "tier": 1
+  },
+  {
+    "title": "Not Every User Says It All: Training Tool-Using Agents Beyond Ideal Simulated Users",
+    "url": "https://arxiv.org/abs/2610.24294",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24294v1 Announce Type: new \nAbstract: Tool-using agents are trained and evaluated almost exclusively with strong simulated users who state every detail clearly, yet real users are often weaker. We construct weak users by masking sentences of a simulated user's replies, holding the task and the user's knowledge fixed, and cross-evaluate agents trained with strong and weak users on tau2-bench and ToolWOZ. Weak users lower the success of every policy, and training with them does not help",
+    "tier": 1
+  },
+  {
+    "title": "Who Speaks, Who Authorizes, Who Acts? Understanding Trust Boundaries in Multi-Agent LLMs",
+    "url": "https://arxiv.org/abs/2610.24298",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24298v1 Announce Type: new \nAbstract: Multi-agent LLM systems exchange messages before acting through tools, but message delivery, signing authority, and tool-side enforcement are separate trust boundaries. We represent them as communication, authorization, and execution structures, and use the authority cut to characterize the smallest independently compromised signer coalition that can construct a policy-valid false-claim proof under stated assumptions. Controlled paired hidden-stat",
+    "tier": 1
+  },
+  {
+    "title": "CME-SpectrumBench: Can LLMs Analyze Condensed Matter Spectral Data?",
+    "url": "https://arxiv.org/abs/2610.24304",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24304v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are presently well assessed by expert-level mathematics and physics benchmarks which focus on theoretical, symbolic reasoning. However, we lack experimental benchmarks that evaluate data analysis in frontier research problems, a capability that future domain-specific foundation models must have. To this end, we present CME-SpectrumBench, an expert-designed benchmark consisting of 190 questions that measures how reliabl",
+    "tier": 1
+  },
+  {
+    "title": "The Judge Can Debias Itself: Awareness and Self-Debiasing for Reliable LLM-as-a-Judge",
+    "url": "https://arxiv.org/abs/2610.24320",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24320v1 Announce Type: new \nAbstract: LLM-as-a-Judge systems are increasingly employed for automated evaluation, yet remain susceptible to systematic biases that undermine their reliability. We demonstrate that the judge can effectively debias itself without additional training. We propose two lightweight strategies: bias-aware prompting, which explicitly alerts the judge to potential target biases prior to evaluation, and self-debiasing, in which the judge critiques the initial judgm",
+    "tier": 1
+  },
+  {
+    "title": "Continuous Ontology Assurance through External Resources -- An Ontology Engineering Method with a Case Study in Software Language Engineering",
+    "url": "https://arxiv.org/abs/2610.24322",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24322v1 Announce Type: new \nAbstract: Domain ontologies require review against knowledge recorded in evolving external resources. We propose COATER, a method that manages executable review components called arrows. Each arrow compares a scoped part of an ontology with a relevant resource and reports support or challenges to its axioms. Challenges may prompt proposals for completion, correction, or restructuring and become tasks for human or agent-assisted triage. Per-axiom coverage su",
+    "tier": 1
+  },
+  {
+    "title": "Screening LLM Judges Without Ground Truth: A Preliminary Evaluation of an AI Dental Hygiene Coach",
+    "url": "https://arxiv.org/abs/2610.24335",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24335v1 Announce Type: new \nAbstract: Evaluating a fine-tuned coaching model with expert graders is slow and expensive, and an LLM judge cannot be trusted without ground truth. We present a staged pipeline that screens candidate LLM judges and student models before expert review, using explicit decision rules at each stage: judge output audit, similarity with hosted judges, bias checks, and decision robustness. We demonstrate it on an AI dental hygiene coach. The case study uses synth",
+    "tier": 1
+  },
+  {
+    "title": "FlashRT-PAI: Fast Kernels Are Not Fast Pipelines for Physical AI Inference",
+    "url": "https://arxiv.org/abs/2610.24349",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24349v1 Announce Type: new \nAbstract: Vision-language-action (VLA), video-action (VA), and world action models (WAMs) form the backbone of modern physical AI systems, yet their real-time single-batch inference remains a defining bottleneck. Latency is dominated not by individual kernel computation, but by system-level overhead: thousands of short kernel launches, intermediate data movement across operator boundaries, and redundant recomputation across consecutive decisions. General-pu",
+    "tier": 1
+  },
+  {
+    "title": "DKnown-Jev: Fine-Tuning and Evaluation of a JEV-Style Model for Tasks Involving Normative Knowledge",
+    "url": "https://arxiv.org/abs/2610.24358",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24358v1 Announce Type: new \nAbstract: Tasks involving normative knowledge include concept interpretation, eligibility determination, procedure explanation, material requirements, and service-outcome assessment, all of which require rules and facts published, maintained, or recorded by authorized entities. Whether a candidate paragraph can answer a question therefore depends on applicability and answer completeness as well as topical relevance. We develop DKnown-Jev to classify the nor",
+    "tier": 1
+  },
+  {
+    "title": "A Two-Stage Hybrid Framework for Inferring Air Trips from Mobile Location-based Service (LBS) Data under Incomplete Airport Sightings",
+    "url": "https://arxiv.org/abs/2610.24366",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24366v1 Announce Type: new \nAbstract: Mobile device location-based service (LBS) data provide large-scale spatiotemporal observations that can help airport planners understand air travelers' mobility patterns. However, airport sightings are often missing before or after flights, making strictly rule-based detection incomplete. This study develops a two-stage framework to infer U.S. domestic air trips from large-scale LBS data under incomplete airport sightings. Stage 1 uses heuristic ",
+    "tier": 1
+  },
+  {
+    "title": "WAQS: Weight Absorption for Quadratic Probing and Affine Steering",
+    "url": "https://arxiv.org/abs/2610.24367",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24367v1 Announce Type: new \nAbstract: Activation steering provides a lightweight alternative to fine-tuning for controlling large language model behavior. Existing methods, however, often face a trade-off between efficiency and expressiveness: fixed steering vectors incur negligible inference overhead but cannot adapt to the current model input, whereas input-dependent nonlinear interventions provide greater flexibility at additional runtime cost. We introduce \\textbf{WAQS} (\\textbf{W",
+    "tier": 1
+  },
+  {
+    "title": "Beyond Next-Screen Prediction: The Decision Value of GUI World Models",
+    "url": "https://arxiv.org/abs/2610.24372",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24372v1 Announce Type: new \nAbstract: GUI world models are increasingly used to improve action selection by predicting the consequences of candidate actions, but it is unclear how much of the resulting gain comes from prediction itself rather than from the evaluator that interprets those predictions. We study this attribution problem through controlled interventions on GUI action selection. With candidates and predictions held fixed, lookahead gains can change with how the prediction ",
+    "tier": 1
+  },
+  {
+    "title": "Train Locally, Learn Together: Distributed Multi-Agent Training via ADMM",
+    "url": "https://arxiv.org/abs/2610.24380",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24380v1 Announce Type: new \nAbstract: Multi-agent systems (MAS) can outperform individual language-model agents by combining specialized roles, diverse reasoning processes, and collaborative decision-making. However, collaborative MAS training is typically centralized, requiring a common trainer to aggregate role-local trajectories and learning signals and maintain model and optimization states. This motivates a distributed multi-agent learning paradigm in which agents improve system-",
+    "tier": 1
+  },
+  {
+    "title": "Is This Your Agent? Identity Watermarking for Agent Systems in Dynamic Environments",
+    "url": "https://arxiv.org/abs/2610.24382",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24382v1 Announce Type: new \nAbstract: Agent systems deployed in dynamic environments continuously update their memories, skills, and runtime configurations, leading to evolving trajectories and challenges for persistent identity authentication. Existing text and agent watermarking methods struggle to achieve stable watermark embedding under dynamic environments, while embedded watermarks may become difficult to recover due to environmental changes. This paper proposes DASMark, an iden",
+    "tier": 1
+  },
+  {
+    "title": "IF-MAP: Influence-Function-Inspired Agent Prioritization in Multi-Agent Systems",
+    "url": "https://arxiv.org/abs/2610.24383",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24383v1 Announce Type: new \nAbstract: Improving every agent in an LLM-based multi-agent system can be prohibitively costly, making it important to identify which agent should be prioritized to achieve the greatest system-level gain with limited resources. Failure attribution can inform this decision, but an agent's responsibility for failures does not directly reveal the system-level gains achievable by improving it. We therefore introduce IF-MAP, an influence-function-inspired method",
+    "tier": 1
+  },
+  {
+    "title": "Bridging Exploration and Persona: Information-Directed Dueling for Test-Time Agent Personalization",
+    "url": "https://arxiv.org/abs/2610.24385",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24385v1 Announce Type: new \nAbstract: Effective test-time personalization requires LLM agents to adapt to query-dependent user preferences from lightweight interaction. We study persona selection with binary comparisons between candidate responses as the online signal. We present ID-TAP, a scalable, IDS-inspired neural dueling-bandit framework for large discrete persona spaces. ID-TAP combines a query-conditioned neural utility model with a lightweight Bradley-Terry explorer, and tran",
+    "tier": 1
+  },
+  {
+    "title": "Trust the Edge, Doubt the Arrow: Auditing Validation Signals for Text-Mined Clinical Causal Knowledge Graphs",
+    "url": "https://arxiv.org/abs/2610.24390",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24390v1 Announce Type: new \nAbstract: Clinical causal retrieval-augmented generation systems increasingly use knowledge graphs (KGs) mined from notes, yet extracted assertions remain candidates that require audit for patient-level EHR support and direction. We construct a directed candidate graph from 328,839 MIMIC-IV discharge summaries using LLM extraction and UMLS normalization, and evaluate three signals against SemMedDB: within-admission co-occurrence lift, cross-admission diagno",
+    "tier": 1
+  },
+  {
+    "title": "MSCR: Jointly Balancing Utilization Across Modalities and Discovering Synergistic Information",
+    "url": "https://arxiv.org/abs/2610.24395",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24395v1 Announce Type: new \nAbstract: In multimodal learning, modality imbalance often lets one modality dominate optimization and keeps the model from fully exploiting cross-modal interactions. Balance-oriented methods such as the Multimodal Competition Regularizer (MCR) perform well by alleviating this imbalance during training. These dynamic balancing methods, however, mainly adjust modality contributions and do not consider how imbalance affects the formation of synergistic inform",
+    "tier": 1
+  },
+  {
+    "title": "Hippo: Training-Free Agent Self-Evolution via Hippocampal Replay",
+    "url": "https://arxiv.org/abs/2610.24453",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24453v1 Announce Type: new \nAbstract: Motivated by recursive self-improvement (RSI), we study how LLM agents can learn through external memory without updating model parameters. Extracting useful experience from a single attempt is difficult: flawed reasoning can produce success, while poor execution can obscure a sound strategy. Preserving its value over time is also difficult: our accumulation baseline without consolidation initially improves but eventually performs below a no-memor",
+    "tier": 1
+  },
+  {
+    "title": "MELD: Recursive Self-Improvement via Hierarchical Coordination for Multi-Agent Scientific Discovery",
+    "url": "https://arxiv.org/abs/2610.24454",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24454v1 Announce Type: new \nAbstract: Multi-agent scientific discovery with large language models raises a coupled learning problem: research assignments determine both which experiments are pursued and the experiences from which agents adapt. We introduce MELD, a unified hierarchical test-time training framework that jointly adapts a team-level Coordinator policy and agent-level individual Scientist policies within a single discovery process. The Coordinator generates a joint portfol",
+    "tier": 1
+  },
+  {
+    "title": "Learning to Compose: Recursive Self-Improvement of Shared Executable Stacks for Zero-Shot Long-Horizon Robot Manipulation",
+    "url": "https://arxiv.org/abs/2610.24464",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24464v1 Announce Type: new \nAbstract: Individually competent robot skills can fail when composed: tools may lack a required capability, completion signals may misrepresent physical progress, and one skill may leave a state that violates its successor's prerequisites. We introduce Recursia, a recursive self-improvement framework that treats the shared executable stack, rather than individual task programs, as the persistent unit of improvement. The stack integrates tools, skills with e",
+    "tier": 1
+  },
+  {
+    "title": "Pluralistic Alignment in Language Models: Objectives, Human References, and Preference Representations",
+    "url": "https://arxiv.org/abs/2610.24471",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24471v1 Announce Type: new \nAbstract: Pluralistic alignment aims to represent meaningful variation in human preferences rather than collapse heterogeneous judgments into a single target. Yet existing work often mixes three distinct questions: what pluralistic behavior a model should exhibit, whose preferences define the reference, and what evidence is sufficient to demonstrate success. We organize the literature around a two-layer taxonomy. Layer 1 distinguishes representing a range o",
+    "tier": 1
+  },
+  {
+    "title": "ConCI: A Controlled Counterfactual Benchmark for Contextual Integrity in LLMs",
+    "url": "https://arxiv.org/abs/2610.24494",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24494v1 Announce Type: new \nAbstract: Contextual integrity (CI) holds that the appropriateness of sharing personal information depends on the context of the information flow, not on the information alone. However, existing CI benchmarks often use independent scenarios that vary multiple CI parameters simultaneously and are dominated by inappropriate flows, making it unclear whether correct predictions reflect sensitivity to context or a general refusal tendency. We present ConCI, a co",
+    "tier": 1
+  },
+  {
+    "title": "$M^2Net$: Unifying Scale-Specific Structures and Prototype Decomposition for Spatial-Temporal Forecasting",
+    "url": "https://arxiv.org/abs/2610.24516",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24516v1 Announce Type: new \nAbstract: Spatial-temporal forecasting is pivotal for intelligent urban management yet remains challenging due to the intricate coupling of spatial dynamics and temporal non-stationarity. Existing approaches, while effective, often overlook two fundamental characteristics of real-world data: (1) Granularity-dependence, where dominant spatial correlations shift significantly across different time scales, and (2) Signal entanglement, where global common patte",
+    "tier": 1
+  },
+  {
+    "title": "Axiomatic World Modeling for Physics Reasoning",
+    "url": "https://arxiv.org/abs/2610.24519",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24519v1 Announce Type: new \nAbstract: Recent research-level physics-reasoning benchmarks for LLMs reveal a failure mode that lies not in knowledge or execution, but in modeling the world being reasoned about. Models often silently alter given quantities, fabricate laws, or inject unstated assumptions to force a problem into familiar patterns, and then reason inside this corrupted world. We define this premise-level divergence as modeling drift: the gap between a model's internal axiom",
+    "tier": 1
+  },
+  {
+    "title": "HABIT-Bench: Evaluating Habit Induction from Longitudinal Weak Evidence in Agent Memory",
+    "url": "https://arxiv.org/abs/2610.24520",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24520v2 Announce Type: new \nAbstract: In long-term interactions with large language model (LLM) agents, users reveal habits through their choices and actions. These habits capture implicit user information that agents must infer across conversations. However, individual observations may provide only partial evidence about a habit or when it applies. Retaining past interactions alone does not ensure that agents can infer habits and apply them appropriately. We introduce HABIT-Bench to ",
+    "tier": 1
+  },
+  {
+    "title": "Comparing Sparsified MLPs and Transcoders: Many Transcoder Features Are Neurons in Disguise",
+    "url": "https://arxiv.org/abs/2610.24521",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24521v1 Announce Type: new \nAbstract: MLP neurons in transformer language models are widely understood to be polysemantic, motivating transcoders - sparse, learned approximations of MLP layers - as interpretable replacement models for mechanistic analysis. However, recent work shows that MLP neurons can be used to recover sparse, interpretable circuits (Arora et al. 2026, Ye et al. 2025), raising the question of whether transcoders are necessary for circuit analysis.\n  We define neuro",
+    "tier": 1
+  },
+  {
+    "title": "Rethinking EEG Spatial Super-Resolution as Dynamic State Decomposition and Filtering",
+    "url": "https://arxiv.org/abs/2610.24528",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24528v1 Announce Type: new \nAbstract: EEG spatial super-resolution aims to recover high-density neural signals from sparse electrode observations. Existing methods have achieved substantial progress through spatial modeling, generative reconstruction, and temporal representation learning. However, the current EEG state contains two different sources of information: predictable evolution inherited from preceding states and newly emerging changes revealed by the current observation. Mos",
+    "tier": 1
+  },
+  {
+    "title": "Concordance Plausibility Check for Intervention-Conditioned Human Digital Twins",
+    "url": "https://arxiv.org/abs/2610.24577",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24577v1 Announce Type: new \nAbstract: Intervention-conditioned human digital twins predict treatment alternatives that cannot be observed in the same patient. Ordinary predictive accuracy therefore cannot establish counterfactual credibility. We propose the Concordance Plausibility Check (CPC), a claim-centered framework combining real-world evidence, qualified simulation and clinical knowledge. CPC matches evidence to the causal claim, audits contradictions and shared dependencies, a",
+    "tier": 1
+  },
+  {
+    "title": "CADS: Measuring the Incremental Contribution of LLM Proposers in Sequential Biological Screens",
+    "url": "https://arxiv.org/abs/2610.24597",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24597v1 Announce Type: new \nAbstract: Large language models are increasingly used to guide sequential biological screens, yet standard evaluations rely on raw hit counts that conflate a proposer's value with the discovery capacity of the underlying algorithmic harness. Adaptive sampling and corrupted experimental readouts also leave standard feedback comparisons without a false-discovery guarantee. We present Certified Agentic Discovery Screens (CADS), an error-controlled measurement ",
+    "tier": 1
+  },
+  {
+    "title": "HSPR: Recovering Software-Agent Benchmark Scores via Hierarchical Posterior Inference",
+    "url": "https://arxiv.org/abs/2610.24611",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24611v2 Announce Type: new \nAbstract: Evaluating software agents on a full benchmark is expensive. A small task subset can preserve agent rankings while yielding inaccurate scores. Historical responses provide useful structure, but tasks with identical source responses can have different outcomes for a new target agent. We introduce Hierarchical Score Posterior Recovery (HSPR), which combines source-fitted response factors with uncertain group success rates. Observed target outcomes u",
+    "tier": 1
+  },
+  {
+    "title": "Selm: Self-Evolving Library Management for Multi-Skill Agent Optimization",
+    "url": "https://arxiv.org/abs/2610.24630",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24630v1 Announce Type: new \nAbstract: Large language model (LLM) agents increasingly use skills as a lightweight way to acquire task-specific knowledge. Recent work enables skills to evolve from task trajectories. However, these methods often lack systematic management of evolved skills, making it difficult for agents to reuse and accumulate skills across domains, thus limiting performance on subsequent tasks.To reliably accumulate, reuse, and maintain useful skills across tasks, we p",
+    "tier": 1
+  },
+  {
+    "title": "Frequency-Domain Membership Inference Does Not Beat Confidence Thresholding: A Band-Resolved Analysis of Why",
+    "url": "https://arxiv.org/abs/2610.24643",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24643v1 Announce Type: new \nAbstract: A widely repeated account of membership inference holds that models lean on fine-grained detail for samples they have memorized, so degrading an input's resolution should expose membership through how quickly a prediction falls apart. We test that account band by band. A monotone family of zero-phase low-pass filters is applied to each query image, the target's confidence on its original prediction is read at every step, and the resulting decay is",
+    "tier": 1
+  },
+  {
+    "title": "Good Judgment, Bad Advice: Decision-Model Controllers Raise Agent Cost Without Improving Success",
+    "url": "https://arxiv.org/abs/2610.24649",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24649v1 Announce Type: new \nAbstract: Agent scaffolds increasingly delegate small decisions (whether to stop, verify, or change approach) to cheaper models. We ask whether a typed decision model, Jev 1.13, consulted only at deterministic decision points, makes a Claude Sonnet 5.5 terminal agent cheaper without making it worse. In a pre-specified study on Terminal-Bench 2.1, we hold one agent loop fixed and vary only the controller: none, deterministic rules, a small LLM (Claude Haiku ",
+    "tier": 1
+  },
+  {
+    "title": "Can AI agents make law? Evaluating AI legal relevance and creativity",
+    "url": "https://arxiv.org/abs/2610.24661",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24661v1 Announce Type: new \nAbstract: Large language models, the artificial intelligence (AI) systems behind modern chatbots, are trained on vast amounts of legal text, but can they build on it to write law for situations that text never anticipated? In this study, we analyse AI agents' ability to draft a hypothetical \"Constitution\" for a \"community of AI agents\". We design \"constitutional assemblies\" in which a single language model plays several characters that debate to produce a d",
+    "tier": 1
+  },
+  {
+    "title": "From Prediction to Action: Population Health World Model for Digital Medicine",
+    "url": "https://arxiv.org/abs/2610.24662",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24662v1 Announce Type: new \nAbstract: Digital medicine now captures data that traces individual health trajectories and reveals population health dynamics through electronic health records, claims, remote monitoring, wearable devices, mobile devices, social sensing data, medical images, etc. But much of its modeling still centers on task-specific, outcome-specific, and prediction-specific estimation. The next frontier is not simply better prediction, but action in an evolving health w",
+    "tier": 1
+  },
+  {
+    "title": "MM-LeJEPA: Correlated Gaussian Regularization for Multimodal Joint-Embedding Predictive Architectures",
+    "url": "https://arxiv.org/abs/2610.24681",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24681v1 Announce Type: new \nAbstract: LeJEPA derives an isotropic Gaussian embedding target by minimizing, under its task assumptions, a Fisher information criterion that controls the task-averaged squared prediction bias. This enables unimodal self-supervised learning without reconstruction decoders, exponential-moving-average teachers, or contrastive negatives. However, its isotropic task prior does not account for the cross-modal structure of multimodal tasks that read shared conte",
+    "tier": 1
+  },
+  {
+    "title": "Verifying Human-Written Reasoning References",
+    "url": "https://arxiv.org/abs/2610.24690",
+    "source": "arXiv AI (cs.AI)",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "snippet": "arXiv:2610.24690v1 Announce Type: new \nAbstract: Evaluating the reasoning of AI systems often relies on human-written reasoning chains as references, yet the logical support for their individual steps is rarely verified. Although prior neuro-symbolic approaches have formalized and checked reasoning, their reported evaluations do not systematically assess whether step conclusions in human-written reference derivations are entailed by their cited premise sets or investigate the sources of failures",
+    "tier": 1
+  }
+]
