@@ -55,7 +55,14 @@
         "source": "Forbes",
         "url": "https://www.forbes.com/sites/forbesagencycouncil/2026/10/14/b2b-marketers-hand-ai-execution-and-keep-the-strategy-survey-finds/",
         "fullText": "A survey reveals that B2B marketing leaders primarily view AI as an execution tool, retaining strategic oversight themselves.",
-        "day": "thursday"
+        "day": "thursday",
+        "keyNotes": [
+          "A recent study found that people leading marketing teams in companies that sell to other businesses mostly see artificial intelligence (AI) as a tool to help them *do* tasks.",
+          "These marketing leaders are making sure they keep control over the big picture planning and direction for their marketing efforts, rather than letting AI decide this.",
+          "Essentially, the survey shows that humans are holding onto the 'thinking' part of marketing, which is called strategy, while giving the 'doing' part, or execution, to AI.",
+          "This means that for marketing, the human leaders are still the ones making the important decisions about what to achieve, and AI is used to carry out those plans."
+        ],
+        "question": "The article highlights that marketing leaders are giving AI the 'execution' tasks but keeping the 'strategic oversight' for themselves. In your own work, what specific parts of your job would you consider 'execution' that you'd happily hand over to a smart tool, and what 'strategic oversight' would you never give up?"
       },
       {
         "headline": "The Preference Marketing Matrix: A Model For Fueling Brand And Demand Growth",

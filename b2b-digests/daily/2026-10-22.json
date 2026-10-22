@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-22",
+  "type": "recap-and-resource",
+  "recapTopic": "B2B Partner Ecosystems and Channel Strategy",
+  "recap": {
+    "intro": "Hey everyone! This week, we dove into something super important for businesses: how they team up with other companies, which we call 'partner ecosystems' or 'channel strategy.' It's all about working together to get more done!",
+    "bullets": [
+      "First, we saw that working with other businesses isn't just a nice-to-have anymore; it's a must-have! A Forrester survey showed that a whopping 70% of leaders think managing these partnerships is super important. And get this: almost 60% of companies said over 40% of their total money comes from these partners! These partners don't just help sell stuff; they also help create new things, reach more customers, and give expert advice. But, even though they're so valuable, about 50% of companies aren't putting enough money or people into supporting them.",
+      "Building on that, we learned that even though these partners are so important and diverse, many companies are still using a one-size-fits-all marketing plan for all of them. This is like trying to use the same shoe for every sport – it just doesn't work and wastes a lot of effort and money. Good news though: 70% of marketing leaders are planning to update their marketing plans for partners in the next year, realizing that different partners need different approaches because they create value and sell in unique ways.",
+      "Finally, we saw a real-world example with Kawasaki Engines, which makes parts for things like lawnmowers. They made an extra $6.5 million in just 90 days by fixing how they work with their partners! Their big problem was 'legacy technologies' – basically, old computer systems that made it super hard for their own team and their 'dealer networks' (the businesses that sell Kawasaki's products) to get things done. This showed us that having the right tools and specific plans for your partners can make a huge difference in how much money you make."
+    ]
+  },
+  "recapResources": [
+    {
+      "headline": "Partner Ecosystems Earned Their Strategic Seat At The Table — Now What?",
+      "source": "Forrester Blog",
+      "url": "https://www.forrester.com/blogs/partner-ecosystems-earned-their-strategic-seat-at-the-table-now-what/"
+    },
+    {
+      "headline": "Has Your Partner Demand Strategy Kept Up With Your Evolving Partner Ecosystem?",
+      "source": "Forrester Blog",
+      "url": "https://www.forrester.com/blogs/has-your-partner-demand-strategy-kept-up-with-your-evolving-partner-ecosystem/"
+    },
+    {
+      "headline": "How Kawasaki Engines Drove $6.5M in 90 Days With ForeFront and Salesforce",
+      "source": "Salesforce Blog",
+      "url": "https://www.salesforce.com/blog/how-kawasaki-engines-drove-6-5m-in-90-days-with-forefront-and-salesforce/"
+    }
+  ],
+  "topic": "B2B Marketing Strategy and AI Transformation",
+  "dayLabel": "Day 1 of 3 — Intro",
+  "headline": "B2B Marketers Hand AI Execution And Keep The Strategy, Survey Finds",
+  "source": "Forbes",
+  "url": "https://www.forbes.com/sites/forbesagencycouncil/2026/10/14/b2b-marketers-hand-ai-execution-and-keep-the-strategy-survey-finds/",
+  "keyNotes": [
+    "A recent study found that people leading marketing teams in companies that sell to other businesses mostly see artificial intelligence (AI) as a tool to help them *do* tasks.",
+    "These marketing leaders are making sure they keep control over the big picture planning and direction for their marketing efforts, rather than letting AI decide this.",
+    "Essentially, the survey shows that humans are holding onto the 'thinking' part of marketing, which is called strategy, while giving the 'doing' part, or execution, to AI.",
+    "This means that for marketing, the human leaders are still the ones making the important decisions about what to achieve, and AI is used to carry out those plans."
+  ],
+  "question": "The article highlights that marketing leaders are giving AI the 'execution' tasks but keeping the 'strategic oversight' for themselves. In your own work, what specific parts of your job would you consider 'execution' that you'd happily hand over to a smart tool, and what 'strategic oversight' would you never give up?"
+}
