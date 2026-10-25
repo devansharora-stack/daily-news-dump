@@ -1,0 +1,450 @@
+[
+  {
+    "title": "Profound vs. Bluefish AI for AEO: Which tool wins for marketers?",
+    "url": "https://blog.hubspot.com/marketing/profound-vs-bluefish",
+    "source": "HubSpot Marketing",
+    "publishedAt": "Fri, 23 Oct 2026 16:10:03 GMT",
+    "snippet": "Profound and Bluefish AI both help marketing teams measure how brands appear in AI-generated answers, including visibility, citations, and competitive presence. Profound and Bluefish AI differ in their approach to engine coverage, prompt controls, data capture, reporting, and how insights translate into action.",
+    "tier": 1
+  },
+  {
+    "title": "How to identify content gaps for AI visibility",
+    "url": "https://blog.hubspot.com/marketing/ai-content-gaps",
+    "source": "HubSpot Marketing",
+    "publishedAt": "Fri, 23 Oct 2026 15:55:04 GMT",
+    "snippet": "Learning how to identify content gaps for AI visibility starts with a question that traditional content gap analysis doesn’t always answer: where could a brand contribute something useful to an AI-generated answer, but isn’t being mentioned or cited?",
+    "tier": 1
+  },
+  {
+    "title": "Which AI prompts should you track? A practical guide",
+    "url": "https://blog.hubspot.com/marketing/which-prompts-to-track",
+    "source": "HubSpot Marketing",
+    "publishedAt": "Fri, 23 Oct 2026 15:45:05 GMT",
+    "snippet": "For most teams, the answer to “which prompts should I track?” is this: track a representative sample of branded, unbranded, and competitor prompts across buyer stages, personas, and priority markets. Don’t fall into the trap of tracking everything.",
+    "tier": 1
+  },
+  {
+    "title": "Ahrefs Brand Radar vs. Profound: Which fits your team?",
+    "url": "https://blog.hubspot.com/marketing/ahrefs-vs-profound",
+    "source": "HubSpot Marketing",
+    "publishedAt": "Fri, 23 Oct 2026 15:30:04 GMT",
+    "snippet": "Marketers choosing between Ahrefs Brand Radar and Profound are really asking whether AI visibility belongs in your SEO suite or in a dedicated AEO platform. Brand Radar is the first option, Profound is the second, and HubSpot AEO is a third worth testing if you want visibility data connected to content and marketing workflows.",
+    "tier": 1
+  },
+  {
+    "title": "8 LLM visibility tools to track your brand across answer engines",
+    "url": "https://blog.hubspot.com/marketing/llm-visibility-tools",
+    "source": "HubSpot Marketing",
+    "publishedAt": "Fri, 23 Oct 2026 15:30:04 GMT",
+    "snippet": "Large language model (LLM) visibility tools track brand mentions, citations, and share of voice across answer engines. According to Digitaloft, 80% of users rely on zero-click results at least 40% of the time, meaning they often get what they need directly from a search engine results page (SERP) or an AI-generated answer. That behavior can leave marketers with fewer on-site signals such as clicks, scroll depth, and engagement rate.",
+    "tier": 1
+  },
+  {
+    "title": "Zero Trust On A Beer Budget, Redux: Minimum Viable Zero Trust",
+    "url": "https://www.forrester.com/blogs/zero-trust-on-a-beer-budget-redux-minimum-viable-zero-trust/",
+    "source": "Forrester Blog",
+    "publishedAt": "Fri, 23 Oct 2026 21:23:50 +0000",
+    "snippet": "If you’ve studied the reference architectures, read the BeyondCorp whitepapers, poured over strategies and fan charts, or tried to plot your position in any of the (many) Zero Trust maturity models and found yourself inspired by the concepts but puzzled by the process, you’re not alone. If the sheer number of Zero Trust something-or-others available […]",
+    "tier": 1
+  },
+  {
+    "title": "The Salesforce Full-Court Press On Revenue Orchestration Platforms",
+    "url": "https://www.forrester.com/blogs/the-salesforce-full-court-press-on-revenue-orchestration-platforms/",
+    "source": "Forrester Blog",
+    "publishedAt": "Fri, 23 Oct 2026 16:03:20 +0000",
+    "snippet": "The revenue orchestration platform (ROP) market is entering a new phase as Salesforce increases competitive pressure on established ROP providers. For years, providers such as Gong, Salesloft, Outreach, Aviso, Revenue.io, and others benefited from a simple reality: Salesforce was the system of record, but it was rarely the preferred place to work. Specialist providers created […]",
+    "tier": 1
+  },
+  {
+    "title": "What You Need to Know About the Critical PHP Vulnerabilities (PHP2Shell)",
+    "url": "https://www.salesforce.com/blog/what-you-need-to-know-about-the-critical-php-vulnerabilities-php2shell/",
+    "source": "Salesforce Blog",
+    "publishedAt": "Fri, 23 Oct 2026 18:25:56 +0000",
+    "snippet": "Overview On October 21, 2026, the PHP project released PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 to address CVE-2026-109618 and CVE-2026-109619.  Both vulnerabilities can enable unauthenticated remote code execution in affected deployments and carry…",
+    "tier": 1
+  },
+  {
+    "title": "4 Ways Salesforce is Going Headless Internally (and How You Can Too)",
+    "url": "https://www.salesforce.com/blog/salesforce-headless-use-cases/",
+    "source": "Salesforce Blog",
+    "publishedAt": "Fri, 23 Oct 2026 17:29:39 +0000",
+    "snippet": "Here’s how we’ve used AIforce to support our employees and drive innovation for our customers.",
+    "tier": 1
+  },
+  {
+    "title": "Best Practices for Creating a Performant Semantic Model in Tableau Semantics",
+    "url": "https://www.salesforce.com/blog/tableau-semantics-best-practices-performant-semantic-model/",
+    "source": "Salesforce Blog",
+    "publishedAt": "Fri, 23 Oct 2026 17:01:19 +0000",
+    "snippet": "Discover how to design, test, and optimize models in Tableau Semantics. Learn how to structure models for max query speed, governance, and enterprise scale.",
+    "tier": 1
+  },
+  {
+    "title": "Unlock Tiered Monetization with AgentExchange Commerce and 2GP Permission Set Licenses",
+    "url": "https://www.salesforce.com/blog/unlock-tiered-monetization-with-agentexchange-commerce-and-2gp-permission-set-licenses/",
+    "source": "Salesforce Blog",
+    "publishedAt": "Fri, 23 Oct 2026 15:58:12 +0000",
+    "snippet": "For Salesforce ISV partners, a one-size-fits-all licensing model can mean leaving revenue on the table. When every user receives the same level of access, partners face a difficult tradeoff: charge the same price…",
+    "tier": 1
+  },
+  {
+    "title": "Breaking Down the Stack: Browser-Bound vs. Headless Architecture",
+    "url": "https://www.salesforce.com/blog/headless-architecture-vs-browser-bound/",
+    "source": "Salesforce Blog",
+    "publishedAt": "Fri, 23 Oct 2026 15:51:20 +0000",
+    "snippet": "Maximize your AI investments with a headless architecture. Here’s how.",
+    "tier": 1
+  },
+  {
+    "title": "Optimize Data 360 Ingestion for Cost Efficiency",
+    "url": "https://www.salesforce.com/blog/optimize-data-360-ingestion-costs/",
+    "source": "Salesforce Blog",
+    "publishedAt": "Fri, 23 Oct 2026 14:25:57 +0000",
+    "snippet": "Explore ingestion strategies to optimize credit consumption while maintaining business value.",
+    "tier": 1
+  },
+  {
+    "title": "Google Explains 503s, Robots.txt Limits & Bracket URLs – SEO Pulse via @sejournal, @MattGSouthern",
+    "url": "https://www.searchenginejournal.com/seo-pulse-google-explains-503s-robots-txt-limits-bracket-urls/594085/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Sat, 24 Oct 2026 12:00:00 +0000",
+    "snippet": "Google reminds sites to use 503s during PHP patch downtime. Other updates cover robots.txt controls, bracket URLs, and JPEG XL in Google Images and Discover.\nThe post Google Explains 503s, Robots.txt Limits & Bracket URLs – SEO Pulse appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "GEO Is A Distraction: Here’s Where The Real Opportunity Is via @sejournal, @marie_haynes",
+    "url": "https://www.searchenginejournal.com/geo-is-a-distraction-heres-where-the-real-opportunity-is/593870/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Fri, 23 Oct 2026 19:00:43 +0000",
+    "snippet": "Universal Cart, UCP, WebMCP, intelligent eyewear: the agentic web is arriving. Marie Haynes maps the opportunities most businesses are ignoring.\nThe post GEO Is A Distraction: Here’s Where The Real Opportunity Is appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "The Junior Hiring Gap Your 2027 Marketing Budget Should Name via @sejournal, @gregjarboe",
+    "url": "https://www.searchenginejournal.com/the-junior-hiring-gap-your-2027-marketing-budget-should-name/592944/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Fri, 23 Oct 2026 14:00:53 +0000",
+    "snippet": "Make junior hiring an explicit part of your 2027 SEO budget, with defined learning roles and a scorecard that tracks unfilled seats.\nThe post The Junior Hiring Gap Your 2027 Marketing Budget Should Name appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "Week of Oct. 12 Cable News Ratings: All Networks Had Gains",
+    "url": "https://www.adweek.com/tvnewser/week-of-oct-12-2026-cable-news-ratings/",
+    "source": "Adweek",
+    "publishedAt": "Fri, 23 Oct 2026 17:01:13 +0000",
+    "snippet": "Fox News was the most-watched news network.",
+    "tier": 1
+  },
+  {
+    "title": "Ticker: Christiane Amanpour to Exit From CNN in 2027",
+    "url": "https://www.adweek.com/tvnewser/ticker-christiane-amanpour-to-exit-from-cnn-in-2027/",
+    "source": "Adweek",
+    "publishedAt": "Fri, 23 Oct 2026 16:31:27 +0000",
+    "snippet": "CNN is also losing Bianna Golodryga, who is set to join Politico and CBS News.",
+    "tier": 1
+  },
+  {
+    "title": "Omnicom&#8217;s $900M Cost Cutting Drive Continues in Q3 as Revenues Stay Flat",
+    "url": "https://www.adweek.com/agencies/omnicoms-900m-cost-cutting-drive-continues-in-q3-as-revenues-stay-flat/",
+    "source": "Adweek",
+    "publishedAt": "Fri, 23 Oct 2026 16:08:58 +0000",
+    "snippet": "Holdco's revenues remain flat despite major client wins",
+    "tier": 1
+  },
+  {
+    "title": "Week of Oct. 12 Evening News Ratings: NBC Nightly News Up in Both Measurements",
+    "url": "https://www.adweek.com/tvnewser/week-of-oct-12-2026-evening-news-ratings/",
+    "source": "Adweek",
+    "publishedAt": "Fri, 23 Oct 2026 15:49:11 +0000",
+    "snippet": "It was a big week for NBC Nightly News with Tom Llamas, but World News Tonight is still tops in viewers.",
+    "tier": 1
+  },
+  {
+    "title": "How Amazon Made a Stronger Partnership Play in Thursday Night Football in Year 5",
+    "url": "https://www.adweek.com/convergent-tv/how-amazon-made-a-stronger-partnership-play-in-thursday-night-football-in-year-5/",
+    "source": "Adweek",
+    "publishedAt": "Fri, 23 Oct 2026 15:26:37 +0000",
+    "snippet": "Prime Video's Thursday Night Football advertisers are up 6% year over year.",
+    "tier": 1
+  },
+  {
+    "title": "Polymarket&#8217;s Reported CMO Firing is the Latest in a Long String of Controversies",
+    "url": "https://www.adweek.com/brand-marketing/polymarkets-reported-cmo-firing-is-the-latest-in-a-long-string-of-controversies/",
+    "source": "Adweek",
+    "publishedAt": "Fri, 23 Oct 2026 14:57:34 +0000",
+    "snippet": "The prediction market is facing a string of regulatory investigations and lawsuits as it tries to build its brand",
+    "tier": 1
+  },
+  {
+    "title": "Stephanie Stahl",
+    "url": "https://contentmarketinginstitute.com/author/stephanie-stahl",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-10-25T14:00:49.094Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Social Media Content",
+    "url": "https://contentmarketinginstitute.com/content-creation-distribution/social-media-content",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-10-25T14:00:49.100Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "AI Content Creation & Tools",
+    "url": "https://contentmarketinginstitute.com/content-creation-distribution/ai-content-creation-tools",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-10-25T14:00:49.100Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Content Marketing University",
+    "url": "https://www.contentmarketinguniversity.com/?utm_medium=referral&utm_source=cmi&utm_campaign=navigation",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-10-25T14:00:49.100Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Content Marketing Certification",
+    "url": "https://contentmarketinguniversity.com/content-marketing-certification/?utm_medium=referral&utm_source=cmi&utm_campaign=navigation",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-10-25T14:00:49.100Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Delivery AI Product Analyst, United States - X Delivery",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcGRkWm8tQXc0T3d2dGdSVi1mS0xuNk5qeVJqZkUybVNuR21VV29rb0Z3bkpRNkZ0ZDlqVjVZVTg1MkxmZWNNb19yM2tmemxjVUlVSDctaUdBbEVyeG1uRTNTQVJLWTcxSVdVVEFIMkRFV2lILVhRYVkweVVxcnp5T1p1WHcyd050bTVZa0pQZmJiTG9BdGtKU2VyVi0?oc=5",
+    "source": "Boston Consulting Group",
+    "publishedAt": "Sat, 24 Oct 2026 23:28:04 GMT",
+    "snippet": "Delivery AI Product Analyst, United States - X Delivery&nbsp;&nbsp;Boston Consulting Group",
+    "tier": 3
+  },
+  {
+    "title": "Privacy Policy | BCG Web Accessibility Statement",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByZnN3Yi1yMkV6ZWRzdUFsYzZTT2NFclJBRG8zUDNObXB4X0UwbXlnWk1fclNyTm5IdVdZMkhJZlpqcnplUXd1M19MSDY5YXZtalJwWURSaE5SM0VoRXc?oc=5",
+    "source": "Boston Consulting Group",
+    "publishedAt": "Sat, 24 Oct 2026 21:43:25 GMT",
+    "snippet": "Privacy Policy | BCG Web Accessibility Statement&nbsp;&nbsp;Boston Consulting Group",
+    "tier": 3
+  },
+  {
+    "title": "Digital Assets",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51WUxYdHZMQ1ZzTlpDd0Z1ZG9jQ0ZzdUxYOXN5SkVPMC1CeEY2ZVptdDY4Y2hnXzJkNmVjZ3I5U1preXZQTE53enB1Qy1zMkZod1h0VHRRUXRLQVpwdk9rekl3MkZHRHlXY3hrSjRoVWdBV3o3Y2Yw?oc=5",
+    "source": "Boston Consulting Group",
+    "publishedAt": "Sat, 24 Oct 2026 23:30:46 GMT",
+    "snippet": "Digital Assets&nbsp;&nbsp;Boston Consulting Group",
+    "tier": 3
+  },
+  {
+    "title": "Director, Conferences Marketing, Web Strategy in Stamford, Connecticut, United States of America",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQlUtNjNrUE15YWZPWEp6dmFiZkJzTXViMkdiNXB4ZlRyTjkwYmJXRXBHRDNZQ3NoR3h4V05kVkJKaDVaZUVuc3J5N2Q1ZFJtSWQ0ZERoRDBSZFhzWFJBUGE3OVdBbmtweXF0em9vM0RaV3Yzc1N3VWVIdWxnU3E1V0c0OWVlYjdfcFRJczVB?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Sun, 25 Oct 2026 08:01:40 GMT",
+    "snippet": "Director, Conferences Marketing, Web Strategy in Stamford, Connecticut, United States of America&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "Best B2B Marketing Automation Platforms Reviews 2026",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uc2JOUFM1SUpuc1ltaXdNUUxlU0p6SjNIS1Z5cWdlbmFJZE90RFZkODZWSEdIem50SnpaaDlzUUNwODJHSktFVDJHeVZpLTQ2Q3JmOWk4UVJWWi1LOHFaRUZCalZ3bkxTUWhIYVNVaERqTENaa0NrRWZ5akwyZw?oc=5",
+    "source": "Gartner",
+    "publishedAt": "Sun, 16 May 2021 10:04:03 GMT",
+    "snippet": "Best B2B Marketing Automation Platforms Reviews 2026&nbsp;&nbsp;Gartner",
+    "tier": 3
+  },
+  {
+    "title": "Business Analyst – (Client Engagement Services) in Gurgaon, Haryāna, India",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSGxkamZnTUhnblJad2NWWW1JVEQyTFNPNWJZbUs1R29Zd1A1M20tYVJtNHl1Y0d3cHJIdXpucEJ1VmhSd09Tb0xzTGVuTW9wdWZzd2ZZUnpYNGk2b0k4QUJhV3ZHMXZsS2hoaG82SEVWQS1fdTNKc1NUdDNqa3lfWW9KNkY4emhBVkQ1M0NB?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Sun, 25 Oct 2026 08:01:40 GMT",
+    "snippet": "Business Analyst – (Client Engagement Services) in Gurgaon, Haryāna, India&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "Benjamin P Seesel",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1IcjBQLUJIQkNJby0yMUJPazVfVmpKRW1fVFZwcXFTaVVuVkpCVVZoQ3Z0LXotWlJ0NVlsUl8wbDF4Tk5QSUVrRURRRnF4Z0Z5ZkNLN1hiSTNpLTQ1U1RMMFpoQQ?oc=5",
+    "source": "Gartner",
+    "publishedAt": "Sat, 24 Oct 2026 15:20:24 GMT",
+    "snippet": "Benjamin P Seesel&nbsp;&nbsp;Gartner",
+    "tier": 3
+  },
+  {
+    "title": "Chris Dunne",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DWUgyS000Nlp1TElyaEQ5ODJFa2hyN281OHRqZjdDSXN2UzVWZXlOV01XTDA0eHJ3Qk1pYVhYZ09rWXF5T3QzTEJXbER2N1B0eTBOdnhudWtaUjQ?oc=5",
+    "source": "Gartner",
+    "publishedAt": "Sat, 24 Oct 2026 15:40:28 GMT",
+    "snippet": "Chris Dunne&nbsp;&nbsp;Gartner",
+    "tier": 3
+  },
+  {
+    "title": "Mary Martin",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yZ1ExM3ZqcWZXcEloQTk4RUJtY2x3SmlLMUUxODdQNW1RbF9udTNFWnZFLVh6NnIybWZ0WDk3cnd2Z2MySmVna1Z4Q1hiOE54TGdiODd1ZXRBcU0?oc=5",
+    "source": "Gartner",
+    "publishedAt": "Sat, 24 Oct 2026 15:30:29 GMT",
+    "snippet": "Mary Martin&nbsp;&nbsp;Gartner",
+    "tier": 3
+  },
+  {
+    "title": "Jason Marcheck",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNZkttRG9MNzNTMUVaZU9BYmdxQ3NjeHJVLXRLTENpRFBENERmTmJtUHg5SV9BYVdYQXRKYWJLR0QzWUtjNWVTZy0xM0FTdXJvSUdVSVdSak1uaUppNW93?oc=5",
+    "source": "Gartner",
+    "publishedAt": "Sat, 24 Oct 2026 15:42:31 GMT",
+    "snippet": "Jason Marcheck&nbsp;&nbsp;Gartner",
+    "tier": 3
+  },
+  {
+    "title": "Anisha Agrawal",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WenFOX2E4am01R080ZDZqY2xON09DbElsWTk2Qm1ZWHRmZk1kd285ajJjV0dOV19OZEV6d1FyUTlKTXN2TjYzQmhpZE9MUmRYdlg0TDlOTUpXenM5dU5J?oc=5",
+    "source": "Gartner",
+    "publishedAt": "Sat, 24 Oct 2026 15:58:38 GMT",
+    "snippet": "Anisha Agrawal&nbsp;&nbsp;Gartner",
+    "tier": 3
+  },
+  {
+    "title": "Michael Brown",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlYU5IemNDLVRkQWtCUjlwUElEdW4yYnlNSW9DMFRneS1kdENHTFh6UzJGN0pjRGlJV3R5SlZ0QWhYanpWa2Z2WEhKYlRJSkdHR1l5SUlIV1hPM0JNVFRZ?oc=5",
+    "source": "Gartner",
+    "publishedAt": "Sat, 24 Oct 2026 15:22:24 GMT",
+    "snippet": "Michael Brown&nbsp;&nbsp;Gartner",
+    "tier": 3
+  },
+  {
+    "title": "Dominique Karesh",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ISmxEYVpiZW5IZG1PZEJLeE4xX1NiUmM3aXVpckh5amgyRmNPMHdSNWVnMXAxYjdSMjZ2ekZHUzJzVUVlcnFscmp1WDdsNGtaTG1sc25Bd1R2UVFJZ3hHc0ZR?oc=5",
+    "source": "Gartner",
+    "publishedAt": "Sat, 24 Oct 2026 15:28:27 GMT",
+    "snippet": "Dominique Karesh&nbsp;&nbsp;Gartner",
+    "tier": 3
+  },
+  {
+    "title": "Sandeep Mandal",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52cWVlWVJkN1Jyd19faTJ2OGM4TXJ0RllJRHZZUWdBLVlBWXphSHZLN283Mjhsb2M4WDJiWDNjd1FHb1dzV1hrQnk0QWR1SFpfVTJ0bmtHLWJPNDBLUFB3?oc=5",
+    "source": "Gartner",
+    "publishedAt": "Sat, 24 Oct 2026 15:56:36 GMT",
+    "snippet": "Sandeep Mandal&nbsp;&nbsp;Gartner",
+    "tier": 3
+  },
+  {
+    "title": "Praharsh Singh",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Nc3BUT3lQdzNZbTRuTUZlWnUxNHdxRnJOTjZxWnR1c1ZRZklQVTlaSnlwMUFMc19MLUJ3elZsckpabHRYaXJ3dk9US0xvaHBnV1VMSVJNTDVUX2xQTlFqRA?oc=5",
+    "source": "Gartner",
+    "publishedAt": "Sat, 24 Oct 2026 15:42:31 GMT",
+    "snippet": "Praharsh Singh&nbsp;&nbsp;Gartner",
+    "tier": 3
+  },
+  {
+    "title": "Craig Fisler",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50T05PWXBONDJxVk5MNUdCRFZTWWhGbjhpT3pNNWNhYnludnFTSzFQODV3MldpT0lhQUFVWHJ0ZXBRcl9DOGg3RmF5T2E3VnY3d1otNUkxRU91SGwy?oc=5",
+    "source": "Gartner",
+    "publishedAt": "Sat, 24 Oct 2026 15:54:44 GMT",
+    "snippet": "Craig Fisler&nbsp;&nbsp;Gartner",
+    "tier": 3
+  },
+  {
+    "title": "Client Success Manager in Barcelona, Barcelona, Spain",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVb2hDWnF1bEFXbEVRdW9telFHRFZtMkRwMlBFSjZ2Z29qMm5Nc2gtRk1HU1Q3SFBtZ1cyY1k4VVlQSXIxbzNmV1VrU1J5eG5Hd1dsSkdPMU5KRzU0cThhWDlZQl8xYnZvNndXOFo2Vko4UQ?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Sat, 24 Oct 2026 16:03:03 GMT",
+    "snippet": "Client Success Manager in Barcelona, Barcelona, Spain&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "Director - QA + ppl management in Chennai, Tamil Nādu, India",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kTHh5NC1oSFYyem5laWIyay1lOHlQU0tLMTZaSG1pYjMxbFFUZC02UmN1cHdqeURtY2VKNTNxb3pwODNJUEw2bTN4dldXb1JEVVJReFV5VzBWQUlCSWVBcWxpUlZUMlNnejUtVVNTWjZ1T19lZkpJ?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Sat, 24 Oct 2026 16:03:03 GMT",
+    "snippet": "Director - QA + ppl management in Chennai, Tamil Nādu, India&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "Brands Using Shopify Plus and What They Achieved (2026)",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HMFFPdUg2cVpSSEs2bk5HTDNPb2ZESUUyM0h2elcxOHdCbndaclA1V2tnNDN6MktPMk1XZVlWeUtkRmx4eUE3RnRyS1Q3TTVNM3RadzliZEluYVlDYnk2X2ZzcHIxUnQ1MWlqeUV5QlNoN28?oc=5",
+    "source": "Shopify",
+    "publishedAt": "Sat, 24 Oct 2026 16:36:20 GMT",
+    "snippet": "Brands Using Shopify Plus and What They Achieved (2026)&nbsp;&nbsp;Shopify",
+    "tier": 3
+  },
+  {
+    "title": "Sonepar Sees Annual Sales Hit $38B as Americas Jump 15%",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdXRmZjI1TmFFWHNweHFfSXZieUcwSFptVUtQNjhIY0V3bjhXaGZUbS1yVmVlUk9vS0RCQUV1eXhEYktQM0M2WGhDZW9KXzFYNWlNSjNMSHhxckgtYUxRNUEtaklDWU1aREd1Rk1zb1ZIS2c0dkprWkhVQmhqbkg2S0lFODRfY250TVJn?oc=5",
+    "source": "National Association of Wholesaler-Distributors",
+    "publishedAt": "Sat, 24 Oct 2026 16:47:07 GMT",
+    "snippet": "Sonepar Sees Annual Sales Hit $38B as Americas Jump 15%&nbsp;&nbsp;National Association of Wholesaler-Distributors",
+    "tier": 3
+  },
+  {
+    "title": "The Agent-Led Growth Playbook: A 10-Minute Inbound Booking, a 46-of-50 AEO Score, and Why First-Party Data Beats Every Signal Tool | The Agents #017",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMEZ2V2dRLXh0LTVaUFhnYWZjdEVNUmVNM0Uxam5LM2VRWE92SmZzeWc4Z3FzSFNEMVhaYWRmbHhvS04teURWYlF3ekxCTkx4ck94RF9UMzdjV0ZfeWFyRmhVaS1hUFdsSTdNZjYzOHgzLVJmVkh1NjRQYVZTczI2V3U5QzVFWUxvUkotcDBKU2pfUlZzdHlwUDluOUtjSnkyMkZDUGpkWnZUSi1qT1d3ZncxQnh4MVRDdkozeEFrTlBxTkJqVkZUek5uV1hqeXlKeUVJZHM2c1hEUnVjTF9UQS1pY2RRQ1Z3VGx3aHljaVNHZzBMOEF6Yi1R?oc=5",
+    "source": "saastr.com",
+    "publishedAt": "Sat, 24 Oct 2026 21:11:30 GMT",
+    "snippet": "The Agent-Led Growth Playbook: A 10-Minute Inbound Booking, a 46-of-50 AEO Score, and Why First-Party Data Beats Every Signal Tool | The Agents #017&nbsp;&nbsp;saastr.com",
+    "tier": 3
+  },
+  {
+    "title": "Account-Based Marketing Case Studies: Practical Lessons From 10 B2B Programs",
+    "url": "https://valasysmartech.com/account-based-marketing-case-studies-practical-lessons-from-10-b2b-programs/",
+    "source": "valasysmartech.com",
+    "snippet": "This article provides practical lessons from 10 B2B account-based marketing programs, including real company examples and reported outcomes.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "A target account list isn't an ABM strategy. How a B2B SaaS team surrounds 50 accounts across LinkedIn, Meta, sales and the mailbox in 90 days.",
+    "url": "https://fractionaldemand.com/a-target-account-list-isnt-an-abm-strategy/",
+    "source": "fractionaldemand.com",
+    "snippet": "This deep-dive explains how a B2B SaaS team can effectively implement an ABM strategy across multiple channels for a targeted list of accounts.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "ABM Best Practices: Build and Measure a B2B Pilot",
+    "url": "https://alore.io/abm-best-practices-build-and-measure-a-b2b-pilot/",
+    "source": "alore.io",
+    "snippet": "This expert analysis outlines best practices for building and measuring a B2B ABM pilot program, including a specific company example.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "B2B Pricing Strategy: The Complete Guide",
+    "url": "https://tommasomariaricci.com/b2b-pricing-strategy-the-complete-guide/",
+    "source": "tommasomariaricci.com",
+    "snippet": "This comprehensive guide details B2B pricing strategies, covering models, value metrics, and a 90-day roadmap for implementation.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "Go-to-Market Strategy Examples: 10 Real Playbooks",
+    "url": "https://ideaproof.io/go-to-market-strategy-examples/",
+    "source": "ideaproof.io",
+    "snippet": "This article presents 10 real-world go-to-market strategy examples from companies like Notion, Slack, and HubSpot, detailing their channels and motions.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "B2B SaaS and Professional Services Case Studies",
+    "url": "https://kraftvertising.com/case-studies/",
+    "source": "kraftvertising.com",
+    "snippet": "This page features several B2B SaaS and professional services case studies with reported results from various paid media campaigns.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "Which B2B Content Marketing Statistics Hold Up in 2026?",
+    "url": "https://tenpointlabs.com/b2b-content-marketing-statistics-2026/",
+    "source": "tenpointlabs.com",
+    "snippet": "This research report analyzes current B2B content marketing statistics from reputable sources like CMI, Forrester, and Gartner for 2026.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "2026 B2BMX Insights Benchmark Report",
+    "url": "https://demandgenreport.com/resources/reports/2026-b2bmx-insights-benchmark-report/",
+    "source": "demandgenreport.com",
+    "snippet": "This benchmark report reveals key B2B marketing trends for 2026, including rising revenue-based quotas and pipeline influenced as a top metric.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  }
+]
