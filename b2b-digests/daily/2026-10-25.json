@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-25",
+  "type": "recap-week",
+  "topicA": "B2B Partner Ecosystems and Channel Strategy",
+  "topicB": "B2B Marketing Strategy and AI Transformation",
+  "recap": {
+    "intro": "This week you explored two areas of B2B marketing that are shaping how businesses connect and grow: the power of partner ecosystems and the transformation brought by AI in marketing strategy.",
+    "bullets": [
+      "Many companies now rely on partner ecosystems for a significant portion of their income and for driving innovation, but often struggle with underinvestment in these crucial relationships.",
+      "B2B marketing leaders are strategically using AI to handle execution tasks, ensuring that human insight still guides the overall marketing direction and planning.",
+      "It's vital to create specific marketing plans for diverse business partners, as a single, outdated approach can lead to wasted resources and poor results.",
+      "A strong 'go-to-market strategy' is essential for successfully launching products by focusing on customer benefits and continuously adapting based on feedback."
+    ],
+    "closing": "This week you learned that effective B2B marketing relies on both strong partnerships and smart strategic use of new technologies."
+  },
+  "resources": [
+    {
+      "headline": "Partner Ecosystems Earned Their Strategic Seat At The Table — Now What?",
+      "source": "Forrester Blog",
+      "url": "https://www.forrester.com/blogs/partner-ecosystems-earned-their-strategic-seat-at-the-table-now-what/",
+      "topic": "B2B Partner Ecosystems and Channel Strategy"
+    },
+    {
+      "headline": "Has Your Partner Demand Strategy Kept Up With Your Evolving Partner Ecosystem?",
+      "source": "Forrester Blog",
+      "url": "https://www.forrester.com/blogs/has-your-partner-demand-strategy-kept-up-with-your-evolving-partner-ecosystem/",
+      "topic": "B2B Partner Ecosystems and Channel Strategy"
+    },
+    {
+      "headline": "How Kawasaki Engines Drove $6.5M in 90 Days With ForeFront and Salesforce",
+      "source": "Salesforce Blog",
+      "url": "https://www.salesforce.com/blog/how-kawasaki-engines-drove-6-5m-in-90-days-with-forefront-and-salesforce/",
+      "topic": "B2B Partner Ecosystems and Channel Strategy"
+    },
+    {
+      "headline": "B2B Marketers Hand AI Execution And Keep The Strategy, Survey Finds",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/forbesagencycouncil/2026/10/14/b2b-marketers-hand-ai-execution-and-keep-the-strategy-survey-finds/",
+      "topic": "B2B Marketing Strategy and AI Transformation"
+    },
+    {
+      "headline": "The Preference Marketing Matrix: A Model For Fueling Brand And Demand Growth",
+      "source": "Forrester",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdGViOFJ0cTNrRFY4QjJ6MFJIdGYtRjdjbnFfS3d5Ti10U3dvLUNXalRZNmNfZkxJVkkzcGJXdHgzejMyQ1ZBLXNYelpYeGdPN3VkRE10Rm4yazBnajlVdk5yeGEtbzdac05ocl8yYkI1OFhtdG5NSWEzZzlTZmJIY2hKTkUwZ00xVGVPemlVbTR1Z1BrLTA1aEtaT2ZsZW10alFmcUczZEdEdDYtQ1J0VmVVRjhIWWdoU3c?oc=5",
+      "topic": "B2B Marketing Strategy and AI Transformation"
+    },
+    {
+      "headline": "Go-to-Market Strategy in 2026: How to Launch, Grow, and Scale Your Business",
+      "source": "Mathenge Inc.",
+      "url": "https://mathengeinc.com/blog/go-to-market-strategy-2026",
+      "topic": "B2B Marketing Strategy and AI Transformation"
+    }
+  ]
+}
