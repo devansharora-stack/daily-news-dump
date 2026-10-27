@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-27",
+  "type": "resource",
+  "topic": "AI Visibility and Answer Engine Optimization for B2B Brands",
+  "dayLabel": "Day 2 of 3",
+  "headline": "How to identify content gaps for AI visibility",
+  "source": "HubSpot Marketing",
+  "url": "https://blog.hubspot.com/marketing/ai-content-gaps",
+  "keyNotes": [
+    "Surprisingly, even if your website ranks high in Google, an AI assistant like ChatGPT or Gemini might not use your information. This new idea of an \"AI visibility gap\" means your brand could be missing from AI answers even with great content.",
+    "Simply creating more articles won't fix this problem; you need to understand *why* AI isn't using your content. This could be because you lack a page on a topic, your existing page is hard for AI to understand, or AI is citing someone else for details about your brand.",
+    "There are three main reasons AI might miss your content: you don't have a page on a topic (a \"coverage gap\"), your existing page is hard for AI to pull information from (an \"extractability gap\"), or AI mentions your brand but uses another website as evidence (a \"citation-support gap\").",
+    "It's important to know the difference between an AI assistant just *naming* your brand (a \"mention\") and actually *linking* to your website as a source of information (a \"citation\"). A mention is good, but a citation means the AI found your content useful enough to point to it directly.",
+    "Instead of trying to fill every possible content gap, the goal is to figure out what's missing from the overall \"answer ecosystem\" that AI uses, not just what's missing from your company's list of articles."
+  ],
+  "question": "The article explains that an AI assistant might recommend a brand but then cite a different website for supporting details about that brand's capabilities. If you discovered an AI was mentioning your work or product but relying on *someone else's* information to explain it, what specific steps would you take to make sure your own content becomes the trusted source for AI?"
+}
