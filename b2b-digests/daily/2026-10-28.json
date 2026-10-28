@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-28",
+  "type": "resource",
+  "topic": "AI Visibility and Answer Engine Optimization for B2B Brands",
+  "dayLabel": "Day 3 of 3",
+  "headline": "Which AI prompts should you track? A practical guide",
+  "source": "HubSpot Marketing",
+  "url": "https://blog.hubspot.com/marketing/which-prompts-to-track",
+  "keyNotes": [
+    "It turns out a lot of tech buyers, specifically 56%, are now using AI tools to find companies they might want to work with, even before they visit a company's website. This means what AI says about a business is becoming a crucial way for people to discover new options.",
+    "Instead of trying to keep tabs on every single question people ask AI, it's much more effective to pick a smaller, smart selection of questions. This helps you understand what real customers are asking without getting overwhelmed.",
+    "The article breaks down the kinds of questions you should track into three helpful groups: those that mention your company by name, those that ask about a problem or solution without naming anyone, and those that specifically mention your competitors.",
+    "The questions that don't mention any specific company (called \"unbranded prompts\") are usually the most important to watch. They show whether your business is reaching new customers who are just starting to look for solutions, and they should make up the biggest part of your tracking efforts.",
+    "By watching these AI questions, you can see if your company is appearing in AI answers, how it's being described, and which other companies are being recommended instead. This information can then help you decide what content to create."
+  ],
+  "question": "Considering that 56% of tech buyers are now using AI to find solutions, what are some \"unbranded\" questions (questions that describe a problem or need without naming any specific company) that people might be asking AI that could lead them to discover the type of work you do, or the solutions your team provides?"
+}
