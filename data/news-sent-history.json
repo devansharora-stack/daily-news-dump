@@ -1,118 +1,6 @@
 {
   "sent": [
     {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-      "date": "2026-10-15"
-    },
-    {
-      "key": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us",
-      "date": "2026-10-15"
-    },
-    {
-      "key": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-      "date": "2026-10-15"
-    },
-    {
-      "key": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies",
-      "date": "2026-10-15"
-    },
-    {
-      "key": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-      "date": "2026-10-15"
-    },
-    {
-      "key": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office",
-      "date": "2026-10-15"
-    },
-    {
-      "key": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity",
-      "date": "2026-10-15"
-    },
-    {
-      "key": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks",
-      "date": "2026-10-15"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different",
-      "date": "2026-10-15"
-    },
-    {
-      "key": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models",
-      "date": "2026-10-15"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case",
-      "date": "2026-10-15"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
-      "date": "2026-10-15"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-      "date": "2026-10-15"
-    },
-    {
-      "key": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
-      "date": "2026-10-15"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache",
-      "date": "2026-10-15"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace",
-      "date": "2026-10-15"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai",
-      "date": "2026-10-15"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis",
-      "date": "2026-10-15"
-    },
-    {
-      "key": "https://openai.com/index/sentinelone",
-      "date": "2026-10-15"
-    },
-    {
-      "key": "https://openai.com/index/block-ai-powered-security",
-      "date": "2026-10-15"
-    },
-    {
-      "key": "https://www.theverge.com/tech/1009086/square-kiosk",
-      "date": "2026-10-15"
-    },
-    {
-      "key": "https://openai.com/index/third-moment-research",
-      "date": "2026-10-15"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.14115",
-      "date": "2026-10-15"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
-      "date": "2026-10-15"
-    },
-    {
-      "key": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out",
-      "date": "2026-10-15"
-    },
-    {
-      "key": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence",
-      "date": "2026-10-15"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.14389",
-      "date": "2026-10-15"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks",
-      "date": "2026-10-15"
-    },
-    {
       "key": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs",
       "date": "2026-10-16"
     },
@@ -1391,6 +1279,110 @@
     {
       "key": "https://arxiv.org/abs/2610.33617",
       "date": "2026-10-28"
+    },
+    {
+      "key": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion",
+      "date": "2026-10-29"
+    },
+    {
+      "key": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row",
+      "date": "2026-10-29"
+    },
+    {
+      "key": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai",
+      "date": "2026-10-29"
+    },
+    {
+      "key": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows",
+      "date": "2026-10-29"
+    },
+    {
+      "key": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying",
+      "date": "2026-10-29"
+    },
+    {
+      "key": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "date": "2026-10-29"
+    },
+    {
+      "key": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "date": "2026-10-29"
+    },
+    {
+      "key": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps",
+      "date": "2026-10-29"
+    },
+    {
+      "key": "https://openai.com/index/the-future-of-the-firm",
+      "date": "2026-10-29"
+    },
+    {
+      "key": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed",
+      "date": "2026-10-29"
+    },
+    {
+      "key": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+      "date": "2026-10-29"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+      "date": "2026-10-29"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+      "date": "2026-10-29"
+    },
+    {
+      "key": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication",
+      "date": "2026-10-29"
+    },
+    {
+      "key": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges",
+      "date": "2026-10-29"
+    },
+    {
+      "key": "https://openai.com/index/legora",
+      "date": "2026-10-29"
+    },
+    {
+      "key": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+      "date": "2026-10-29"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "date": "2026-10-29"
+    },
+    {
+      "key": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context",
+      "date": "2026-10-29"
+    },
+    {
+      "key": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model",
+      "date": "2026-10-29"
+    },
+    {
+      "key": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills",
+      "date": "2026-10-29"
+    },
+    {
+      "key": "https://arxiv.org/abs/2610.36631",
+      "date": "2026-10-29"
+    },
+    {
+      "key": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks",
+      "date": "2026-10-29"
+    },
+    {
+      "key": "https://arxiv.org/abs/2610.35942",
+      "date": "2026-10-29"
+    },
+    {
+      "key": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms",
+      "date": "2026-10-29"
+    },
+    {
+      "key": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control",
+      "date": "2026-10-29"
     }
   ]
 }
