@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-29",
+  "type": "recap-and-resource",
+  "recapTopic": "AI Visibility and Answer Engine Optimization for B2B Brands",
+  "recap": {
+    "intro": "Hey everyone! This week, we dove into how AI is totally changing the game for businesses and how you can make sure your brand shows up when people ask AI for help.",
+    "bullets": [
+      "First, we saw that even though everyone talks about AI tools like ChatGPT, they actually send very little traffic to websites (like, only 0.73%!). The real AI search is happening *inside Google*, where people are already using AI to find stuff without ever leaving. This means focusing on Google's AI is super important, especially since so many businesses (45 out of 100!) aren't even tracking what actually leads to sales.",
+      "Building on that, we learned that even if your website ranks super high on Google, an AI assistant like ChatGPT or Gemini might still totally ignore your info! This is called an 'AI visibility gap.' It's not just about writing more articles; it's about figuring out *why* AI isn't picking up your content. Maybe you don't have a page on a topic (a 'coverage gap'), or your page is just hard for AI to understand (an 'extractability gap'), or AI talks about your brand but links to someone else for details (a 'citation-support gap'). The goal is to make sure AI actually *cites* you, not just *mentions* your brand.",
+      "Finally, we tied it all together by seeing that a lot of tech buyers (like, 56%!) are already using AI to find companies *before* they even visit a website. So, it's super important to know what AI is saying about you! Instead of trying to track every single question people ask AI, we learned to focus on smart ones, especially those 'unbranded prompts' where people are just looking for solutions without naming any company. By watching these, you can see if your company is showing up in AI answers and what content you need to create to grab those new customers."
+    ]
+  },
+  "recapResources": [
+    {
+      "headline": "GEO Is A Distraction: Here’s Where The Real Opportunity Is via @sejournal, @marie_haynes",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/geo-is-a-distraction-heres-where-the-real-opportunity-is/593870/"
+    },
+    {
+      "headline": "How to identify content gaps for AI visibility",
+      "source": "HubSpot Marketing",
+      "url": "https://blog.hubspot.com/marketing/ai-content-gaps"
+    },
+    {
+      "headline": "Which AI prompts should you track? A practical guide",
+      "source": "HubSpot Marketing",
+      "url": "https://blog.hubspot.com/marketing/which-prompts-to-track"
+    }
+  ],
+  "topic": "Revenue Orchestration and Go-to-Market Strategy",
+  "dayLabel": "Day 1 of 3 — Intro",
+  "headline": "The Salesforce Full-Court Press On Revenue Orchestration Platforms",
+  "source": "Forrester Blog",
+  "url": "https://www.forrester.com/blogs/the-salesforce-full-court-press-on-revenue-orchestration-platforms/",
+  "keyNotes": [
+    "Salesforce, a major company known for managing customer information, is making a big push to become the central hub for how businesses organize all their selling activities, from finding new customers to closing deals. This means they want to offer all the tools needed for this process themselves, rather than relying on other specialized companies.",
+    "For a long time, other companies like Gong and Salesloft were better at specific selling tasks, even though Salesforce held the main customer records. Now, Salesforce is investing heavily and buying other companies to offer these specialized tools directly, creating more competition for those smaller players.",
+    "Salesforce is changing its approach by connecting its various tools and even using a new method called 'headless architecture.' This means their software can work in the background, allowing people to access Salesforce information and take action through other apps like Claude or Slack, without ever having to open Salesforce directly.",
+    "This shift by Salesforce is happening because businesses are now looking for more than just tools for individual salespeople; they want systems that can coordinate entire teams, manage how artificial intelligence (AI) works across different tools, and avoid getting stuck with one vendor. Salesforce is trying to meet these broader needs.",
+    "Despite all these new developments, Salesforce hasn't completely perfected how businesses organize their selling efforts. The article points out that their tools still have some issues, like not always providing a perfectly smooth experience for users, which often depends on how they are set up."
+  ],
+  "question": "The article describes how Salesforce is trying to make its tools work together more seamlessly, even allowing people to interact with their data through other applications like Claude or Slack. In your own work, if you could make two or three of your most frequently used tools or systems communicate and share information effortlessly, what specific tasks would become much easier, and what new possibilities might that open up for you?"
+}
