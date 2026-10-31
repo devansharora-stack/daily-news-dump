@@ -1,110 +1,6 @@
 {
   "sent": [
     {
-      "key": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says",
-      "date": "2026-10-17"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company",
-      "date": "2026-10-17"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity",
-      "date": "2026-10-17"
-    },
-    {
-      "key": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-      "date": "2026-10-17"
-    },
-    {
-      "key": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-      "date": "2026-10-17"
-    },
-    {
-      "key": "https://openai.com/index/itau-generative-ai",
-      "date": "2026-10-17"
-    },
-    {
-      "key": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "date": "2026-10-17"
-    },
-    {
-      "key": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet",
-      "date": "2026-10-17"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars",
-      "date": "2026-10-17"
-    },
-    {
-      "key": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds",
-      "date": "2026-10-17"
-    },
-    {
-      "key": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me",
-      "date": "2026-10-17"
-    },
-    {
-      "key": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content",
-      "date": "2026-10-17"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them",
-      "date": "2026-10-17"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever",
-      "date": "2026-10-17"
-    },
-    {
-      "key": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-      "date": "2026-10-17"
-    },
-    {
-      "key": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
-      "date": "2026-10-17"
-    },
-    {
-      "key": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses",
-      "date": "2026-10-17"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.21270",
-      "date": "2026-10-17"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.21411",
-      "date": "2026-10-17"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.21405",
-      "date": "2026-10-17"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.21397",
-      "date": "2026-10-17"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.20780",
-      "date": "2026-10-17"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.21281",
-      "date": "2026-10-17"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.20667",
-      "date": "2026-10-17"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more",
-      "date": "2026-10-17"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.20921",
-      "date": "2026-10-17"
-    },
-    {
       "key": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns",
       "date": "2026-10-18"
     },
@@ -1395,6 +1291,118 @@
     {
       "key": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant",
       "date": "2026-10-30"
+    },
+    {
+      "key": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+      "date": "2026-10-31"
+    },
+    {
+      "key": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
+      "date": "2026-10-31"
+    },
+    {
+      "key": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom",
+      "date": "2026-10-31"
+    },
+    {
+      "key": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
+      "date": "2026-10-31"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+      "date": "2026-10-31"
+    },
+    {
+      "key": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
+      "date": "2026-10-31"
+    },
+    {
+      "key": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake",
+      "date": "2026-10-31"
+    },
+    {
+      "key": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews",
+      "date": "2026-10-31"
+    },
+    {
+      "key": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "date": "2026-10-31"
+    },
+    {
+      "key": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs",
+      "date": "2026-10-31"
+    },
+    {
+      "key": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work",
+      "date": "2026-10-31"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "date": "2026-10-31"
+    },
+    {
+      "key": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents",
+      "date": "2026-10-31"
+    },
+    {
+      "key": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon",
+      "date": "2026-10-31"
+    },
+    {
+      "key": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people",
+      "date": "2026-10-31"
+    },
+    {
+      "key": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "date": "2026-10-31"
+    },
+    {
+      "key": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "date": "2026-10-31"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "date": "2026-10-31"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+      "date": "2026-10-31"
+    },
+    {
+      "key": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "date": "2026-10-31"
+    },
+    {
+      "key": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity",
+      "date": "2026-10-31"
+    },
+    {
+      "key": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out",
+      "date": "2026-10-31"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+      "date": "2026-10-31"
+    },
+    {
+      "key": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "date": "2026-10-31"
+    },
+    {
+      "key": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis",
+      "date": "2026-10-31"
+    },
+    {
+      "key": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry",
+      "date": "2026-10-31"
+    },
+    {
+      "key": "https://arxiv.org/abs/2610.38215",
+      "date": "2026-10-31"
+    },
+    {
+      "key": "https://news.ycombinator.com/item",
+      "date": "2026-10-31"
     }
   ]
 }
