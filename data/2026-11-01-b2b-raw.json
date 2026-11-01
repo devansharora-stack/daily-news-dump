@@ -1,0 +1,386 @@
+[
+  {
+    "title": "AI Search Is Growing Faster Than Its Business Model",
+    "url": "https://www.forrester.com/blogs/ai-search-is-growing-faster-than-its-business-model/",
+    "source": "Forrester Blog",
+    "publishedAt": "Fri, 30 Oct 2026 19:34:06 +0000",
+    "snippet": "Big Tech earnings this week put a spotlight on the monetization dilemma at the heart of AI-integrated search. The growth of Google’s AI Mode is proving to be a double-edged sword: Investments in conversational search are fueling Google’s fastest year-over-year search query growth in five years, but the company’s advertising revenue growth slowed to 12%, […]",
+    "tier": 1
+  },
+  {
+    "title": "Your Customers’ AI Agents Will Never Give Up",
+    "url": "https://www.forrester.com/blogs/your-customers-ai-agents-will-never-give-up/",
+    "source": "Forrester Blog",
+    "publishedAt": "Fri, 30 Oct 2026 18:25:06 +0000",
+    "snippet": "Personal AI agents will increase service volume — and will expose unresolved demand that customer effort used to keep out of sight. Use that unresolved demand to find problems now that customers shouldn’t need to chase you about in the first place.",
+    "tier": 1
+  },
+  {
+    "title": "Predictions 2027: AI Turns Up The Heat On Software Development",
+    "url": "https://www.forrester.com/blogs/predictions-2027-software-development/",
+    "source": "Forrester Blog",
+    "publishedAt": "Fri, 30 Oct 2026 18:22:44 +0000",
+    "snippet": "As AI accelerates software development, teams will need to rethink everything from developer roles to testing and quality. Forrester’s 2027 predictions explore what happens as AI becomes more deeply embedded in how software gets built.",
+    "tier": 1
+  },
+  {
+    "title": "DoorDash + Instacart: A Good Idea But Not For The Reasons They Say",
+    "url": "https://www.forrester.com/blogs/doordash-instacart-a-good-idea-but-not-for-the-reasons-they-say/",
+    "source": "Forrester Blog",
+    "publishedAt": "Fri, 30 Oct 2026 18:06:41 +0000",
+    "snippet": "DoorDash announced on October 29 that it will buy Instacart for about $17 billion. Read our analysis.",
+    "tier": 1
+  },
+  {
+    "title": "Google Public Sector Summit 2026: AI Moves From Possibility To Mission",
+    "url": "https://www.forrester.com/blogs/google-public-sector-summit-2026-ai-moves-from-possibility-to-mission/",
+    "source": "Forrester Blog",
+    "publishedAt": "Fri, 30 Oct 2026 17:55:48 +0000",
+    "snippet": "When Forrester wrote about the creation of Google Public Sector in 2022, the question was whether Google could build the industry credentials to compete more seriously for government business. Four years later, the conversation has changed. At the Google Public Sector Summit 2026 on October 20 in Washington, DC, there wasn’t one major announcement that […]",
+    "tier": 1
+  },
+  {
+    "title": "AI In Procurement: Experiment Like A Teenager",
+    "url": "https://www.forrester.com/blogs/ai-in-procurement-experiment-like-a-teenager/",
+    "source": "Forrester Blog",
+    "publishedAt": "Fri, 30 Oct 2026 15:03:36 +0000",
+    "snippet": "Teenagers are remarkably good at experimenting. They try new things, question established rules, and quickly abandon what doesn’t work. Sourcing and procurement leaders could use some of that attitude toward AI, provided they combine experimentation with clear boundaries. When it comes to AI in procurement, think like a teenager: Experiment and question the rules, but […]",
+    "tier": 1
+  },
+  {
+    "title": "US Midterms: On Tuesday, Your Social Media Strategy Falls Apart",
+    "url": "https://www.forrester.com/blogs/us-midterms-on-tuesday-your-social-media-strategy-falls-apart/",
+    "source": "Forrester Blog",
+    "publishedAt": "Fri, 30 Oct 2026 14:00:56 +0000",
+    "snippet": "Picture this: On Tuesday, November 3, it’s Election Day. Your brand’s social media channels have been humming along, crushing engagement and creating conversation. And then seemingly out of nowhere — BOOM. Reach drops, views crater, and your team is left wondering: What did we do wrong? Social media content doesn’t exist in a vacuum. Current […]",
+    "tier": 1
+  },
+  {
+    "title": "The Humane Agentic Enterprise: How To Thrive with AI at Work",
+    "url": "https://www.salesforce.com/blog/the-humane-agentic-enterprise/",
+    "source": "Salesforce Blog",
+    "publishedAt": "Fri, 30 Oct 2026 18:47:40 +0000",
+    "snippet": "Agentic AI is helping us do things we couldn’t do before. But could it also be weakening the skills we already have? To explore this tension, Salesforce researchers are studying how knowledge workers…",
+    "tier": 1
+  },
+  {
+    "title": "Data 360 × Snowflake: Powering the Agentic Enterprise with Zero Copy",
+    "url": "https://www.salesforce.com/blog/data360-snowflake/",
+    "source": "Salesforce Blog",
+    "publishedAt": "Fri, 30 Oct 2026 17:54:54 +0000",
+    "snippet": "The AI model itself is no longer the differentiator it once was. Enterprises increasingly have access to the same powerful foundation models. What will separate the leaders is something far more valuable: the…",
+    "tier": 1
+  },
+  {
+    "title": "Google, Microsoft & OpenAI Plan To Honor Shared AI Training Opt-Out via @sejournal, @MattGSouthern",
+    "url": "https://www.searchenginejournal.com/google-microsoft-openai-shared-ai-training-opt-out/595387/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Sun, 01 Nov 2026 08:00:00 +0000",
+    "snippet": "A shared robots.txt line could let sites opt out of AI training with several providers at once, but companies involved are handling it differently. \nThe post Google, Microsoft & OpenAI Plan To Honor Shared AI Training Opt-Out appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "Hackers Hijacked DebugBear’s DNS To Serve Malicious JavaScript via @sejournal, @vahandev",
+    "url": "https://www.searchenginejournal.com/debugbear-rum-attack-seo-site-owner-actions/595412/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Sat, 31 Oct 2026 21:11:41 +0000",
+    "snippet": "DebugBear told customers to remove its Core Web Vitals monitoring script. Site owners should also check exposed accounts and unauthorized changes.\nThe post Hackers Hijacked DebugBear’s DNS To Serve Malicious JavaScript appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "Spam Guide Update, Restaurant Controls & AI Mode Revenue – SEO Pulse via @sejournal, @MattGSouthern",
+    "url": "https://www.searchenginejournal.com/seo-pulse-spam-guide-restaurant-controls-ai-mode-revenue/595031/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Sat, 31 Oct 2026 12:00:00 +0000",
+    "snippet": "Google's spam guide adds indexing advice for pages made for sharing. Other updates cover restaurant ordering controls, report dates and AI Mode revenue.\nThe post Spam Guide Update, Restaurant Controls & AI Mode Revenue – SEO Pulse appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "Shopify CEO: Peer Ratings On AI Use ‘Didn’t Matter’ via @sejournal, @MattGSouthern",
+    "url": "https://www.searchenginejournal.com/shopify-ceo-ai-peer-review-ratings/595379/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Sat, 31 Oct 2026 09:00:00 +0000",
+    "snippet": "Shopify's performance reviews asked how staff used AI. Its CEO says the answers didn't matter, and the question can give a company a reputation.\nThe post Shopify CEO: Peer Ratings On AI Use ‘Didn’t Matter’ appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "Big Brands Dominate AI Search But Leave Openings For Smaller Sites via @sejournal, @martinibuster",
+    "url": "https://www.searchenginejournal.com/big-brands-dominate-ai-search-but-leave-openings-for-smaller-sites/595397/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Sat, 31 Oct 2026 08:15:08 +0000",
+    "snippet": "New research identifies a potential weakness in big-brand visibility that smaller publishers may be able to exploit.\nThe post Big Brands Dominate AI Search But Leave Openings For Smaller Sites appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "Google Opens Connected Apps Preview For AI Mode & Gemini via @sejournal, @MattGSouthern",
+    "url": "https://www.searchenginejournal.com/google-connected-apps-preview-ai-mode-gemini/595268/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Sat, 31 Oct 2026 07:00:00 +0000",
+    "snippet": "Developers can apply to bring apps into AI Mode and the Gemini app, and Google's policy bars misleading descriptions meant to get an app picked.\nThe post Google Opens Connected Apps Preview For AI Mode & Gemini appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "Reddit CEO Ties Search Referral Drop To Google AI Mode via @sejournal, @MattGSouthern",
+    "url": "https://www.searchenginejournal.com/reddit-to-test-login-only-mode-as-google-search-traffic-drops/595270/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Fri, 30 Oct 2026 19:47:37 +0000",
+    "snippet": "Reddit says search referrals are falling and its CEO points to Google's AI Overviews and AI Mode. Here's what its login test means.\nThe post Reddit CEO Ties Search Referral Drop To Google AI Mode appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "AI Knows Your Brand – It Rarely Puts You On The Shortlist via @sejournal, @gregjarboe",
+    "url": "https://www.searchenginejournal.com/the-ai-search-measurement-gap-brands-must-close-in-2027-and-beyond/593881/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Fri, 30 Oct 2026 19:00:00 +0000",
+    "snippet": "Measure whether AI recommends your brand to buyers, fix outdated sources, and turn shortlist visibility into customer relationships your CFO can value.\nThe post AI Knows Your Brand – It Rarely Puts You On The Shortlist appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "Discord Member Messages May Start Showing Up In Google In December via @sejournal, @MattGSouthern",
+    "url": "https://www.searchenginejournal.com/discord-public-server-chats-search-engines/595224/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Fri, 30 Oct 2026 16:38:30 +0000",
+    "snippet": "Discord's most public servers will each have a web page that may carry AI summaries and some messages search engines can show.\nThe post Discord Member Messages May Start Showing Up In Google In December appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "Shopify Now Lets Stores Pay The Company Behind Your AI Shopping Agent via @sejournal, @slobodanmanic",
+    "url": "https://www.searchenginejournal.com/shopify-now-lets-stores-pay-the-company-behind-your-ai-shopping-agent/594544/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Fri, 30 Oct 2026 15:30:24 +0000",
+    "snippet": "Shopify’s catalog returns a commission next to each promoted product’s price and reviews. What an AI agent does with that number depends on its developer.\nThe post Shopify Now Lets Stores Pay The Company Behind Your AI Shopping Agent appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "The Link Building Graveyard: What To Bury & What Still Wins via @sejournal, @hethr_campbell",
+    "url": "https://www.searchenginejournal.com/the-link-building-graveyard-what-to-bury-what-still-wins-recap/593932/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Fri, 30 Oct 2026 15:11:43 +0000",
+    "snippet": "Resolve's Michael Johnson outlined a keep-or-cut approach to link building, from qualifying publishers and earning roundup placements to creating linkable assets and a 90-day execution plan.\nThe post The Link Building Graveyard: What To Bury & What Still Wins appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "ChatGPT Ads Turns On Automatic Ad Changes By Default via @sejournal, @MattGSouthern",
+    "url": "https://www.searchenginejournal.com/chatgpt-ads-turns-on-automatic-ad-changes-by-default/595117/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Fri, 30 Oct 2026 14:17:57 +0000",
+    "snippet": "Creative enhancements are now on by default in ChatGPT Ads. Here's what they can change, how to opt out, and the tracking questions still open.\nThe post ChatGPT Ads Turns On Automatic Ad Changes By Default appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "Selena Gomez and Tate McRae Bring the Magic to Ulta Beauty’s Holiday Campaign",
+    "url": "https://www.adweek.com/creativity/selena-gomez-and-tate-mcrae-bring-the-magic-to-ulta-beautys-holiday-campaign/",
+    "source": "Adweek",
+    "publishedAt": "Sat, 31 Oct 2026 11:00:00 +0000",
+    "snippet": "Ulta Beauty’s holiday campaign features Selena Gomez and Tate McRae, whose brands are both sold at the retailer.",
+    "tier": 1
+  },
+  {
+    "title": "Ticker: Paula Reid Joins MS NOW as Chief White House Reporter",
+    "url": "https://www.adweek.com/tvnewser/ticker-paula-reid-joins-ms-now-as-chief-white-house-reporter/",
+    "source": "Adweek",
+    "publishedAt": "Fri, 30 Oct 2026 20:20:30 +0000",
+    "snippet": "The fight for White House access continues with CNN, MS NOW, and Politico amending their initial lawsuit.",
+    "tier": 1
+  },
+  {
+    "title": "How Brands Like Wendy&#8217;s and Planet Fitness Wove Into the Fabric of Bravo Fan Fest",
+    "url": "https://www.adweek.com/brand-marketing/how-brands-like-wendys-and-planet-fitness-wove-into-the-fabric-of-bravo-fan-fest/",
+    "source": "Adweek",
+    "publishedAt": "Fri, 30 Oct 2026 17:18:17 +0000",
+    "snippet": "Brands and fans connected over a shared love of the hit networks’ shows in Charleston",
+    "tier": 1
+  },
+  {
+    "title": "DoorDash Buying Instacart Challenges Uber&#8217;s $2 Billion Ad Business",
+    "url": "https://www.adweek.com/commerce/doordash-buying-instacart-challenges-ubers-2-billion-ad-business/",
+    "source": "Adweek",
+    "publishedAt": "Fri, 30 Oct 2026 16:22:42 +0000",
+    "snippet": "The companies' joint resources would be hard for brands to ignore, ad buyers say.",
+    "tier": 1
+  },
+  {
+    "title": "How News Networks are Covering the 2026 Midterm Elections",
+    "url": "https://www.adweek.com/tvnewser/how-news-networks-are-covering-the-2026-midterm-elections/",
+    "source": "Adweek",
+    "publishedAt": "Fri, 30 Oct 2026 16:21:50 +0000",
+    "snippet": "The various networks are also offering non-linear election night coverage options.",
+    "tier": 1
+  },
+  {
+    "title": "13 Recent Marketer Moves to Know: Liquid I.V., MrBeast, NYT, and More",
+    "url": "https://www.adweek.com/brand-marketing/13-recent-marketer-moves-to-know-liquid-iv-mrbeast-nyt-and-more/",
+    "source": "Adweek",
+    "publishedAt": "Fri, 30 Oct 2026 14:47:30 +0000",
+    "snippet": "A roundup of this week's biggest marketing leadership moves",
+    "tier": 1
+  },
+  {
+    "title": "Content Marketing Institute Team",
+    "url": "https://contentmarketinginstitute.com/author/content-marketing-institute-team",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-11-01T14:00:53.213Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Social Media Content",
+    "url": "https://contentmarketinginstitute.com/content-creation-distribution/social-media-content",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-11-01T14:00:53.219Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "AI Content Creation & Tools",
+    "url": "https://contentmarketinginstitute.com/content-creation-distribution/ai-content-creation-tools",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-11-01T14:00:53.219Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Content Marketing University",
+    "url": "https://www.contentmarketinguniversity.com/?utm_medium=referral&utm_source=cmi&utm_campaign=navigation",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-11-01T14:00:53.219Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Content Marketing Certification",
+    "url": "https://contentmarketinguniversity.com/content-marketing-certification/?utm_medium=referral&utm_source=cmi&utm_campaign=navigation",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-11-01T14:00:53.219Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Digital Assets",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51WUxYdHZMQ1ZzTlpDd0Z1ZG9jQ0ZzdUxYOXN5SkVPMC1CeEY2ZVptdDY4Y2hnXzJkNmVjZ3I5U1preXZQTE53enB1Qy1zMkZod1h0VHRRUXRLQVpwdk9rekl3MkZHRHlXY3hrSjRoVWdBV3o3Y2Yw?oc=5",
+    "source": "Boston Consulting Group",
+    "publishedAt": "Sun, 01 Nov 2026 03:11:17 GMT",
+    "snippet": "Digital Assets&nbsp;&nbsp;Boston Consulting Group",
+    "tier": 3
+  },
+  {
+    "title": "MassTer Platform Reviews & Ratings 2026",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KX3ZFZlRYYURmTW82Mk5rQjYySUlzZ25UWV9MQl96MjZ0MVlLR0lKZFNEMGZEaXJNbW9WaEM2cksyNnNHVWlWc2xmWkREUm55VVZCQUM1V2pnenJYbEhPTk9MSjRmOXM?oc=5",
+    "source": "Gartner",
+    "publishedAt": "Sun, 01 Nov 2026 04:44:26 GMT",
+    "snippet": "MassTer Platform Reviews & Ratings 2026&nbsp;&nbsp;Gartner",
+    "tier": 3
+  },
+  {
+    "title": "Client Executive, GTS in Remote, Washington, United States of America",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Ed0djdkVhNzhXNkRmMDNTZWd3U0tVLVlXdzI1T3JUYjdYUXV6T2pmTExObGkxRFVORm1GaW8yMmkyRkc4dDBuSF9Da0RXaHktSmhfZU9Ec0N3SGRJa0VCLXIyeFQyNWgzZ3hlRjFqUQ?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Sat, 31 Oct 2026 15:44:54 GMT",
+    "snippet": "Client Executive, GTS in Remote, Washington, United States of America&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "Recruiter in Irving, Texas, United States of America",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50VVd3QWY3Ty1ZOG1FOTFkN3NvT3dfTzk0eUtVRW1PdE9vMGZoalhkSFI4RXpFTnNOekM3czU5MjJRSTVqdURraHVoaWRJaXZOVTN6bjhDWTNudHFzNWRuZg?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Sat, 31 Oct 2026 15:44:54 GMT",
+    "snippet": "Recruiter in Irving, Texas, United States of America&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "Senior Account Executive, GTS in Remote, New York, United States of America",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtcVRpS090U0M1V3pMRlkzZnlDUnpXbXMyWU1ESFlqZ2M2NzJjQnQtdE5YX1loWm12LU5xV0JmYkRSaWJCRGVqUlNZNkM2UWRTcEEwZy1VOGVrTGVvVkg1bmVPX09KS19xT2toQUtNeDVZeTNwS09VSnZn?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Sat, 31 Oct 2026 15:44:55 GMT",
+    "snippet": "Senior Account Executive, GTS in Remote, New York, United States of America&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "Prospekt’s Brand-to-Growth Model Leads 2026 Agency Ranking",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbkhrSTJjZFRIMDBqMGxBblRJR1M4dG1iel9EQVgzSHAzclpuWjlaN3h5VkI0MFZzMEV6MU0wTkczbU13YVIyT1ItN1RXYnhfZ09hei1xaHh6VjRkS2pHb0VCcEd0NG4zMEg3ZnFIeVNudmF3N25EV0hocUhmY0NrMTlsTExFV0tRdXZHMUNLdG5WSHlBanZna3VOVHEtR2RjbHI0Rm4xZnlYNmNYVmhES244VmczVTZpSzJIQTB0X25ZaDV1djlTbk5pLVJOOERMNEt4UmVrQ2JDZ01meTl5OWxQOWZMME8wbURYdjA1NnZjbWVh?oc=5",
+    "source": "mykxlg.com",
+    "publishedAt": "Sun, 01 Nov 2026 00:25:02 GMT",
+    "snippet": "Prospekt’s Brand-to-Growth Model Leads 2026 Agency Ranking&nbsp;&nbsp;mykxlg.com",
+    "tier": 3
+  },
+  {
+    "title": "Surrey review finds indoor plants clean better with air drawn through them",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRkFOcEpRSF9fUnliaEZPdUY2Tmw2TjJWSHNwLXdDaUJoUjFNdHVFM3JKY004MDlOOHFyS3FoSGRmdWE5RU1EMnk1M2JOOXNJam1uYzYwQk5tYmNPamp0SlFZaTJ0R3BwblVoRUZkamtkN1J3d21LYzE2ZzRPa2E1X0l2Z3owWG5zbzJyZ18wYWx1ZnNaWkYwOG1LUUhMR0YwbDlPRHBqWWRXVkZaeEZqbVlvSGVuMlZNV2RoTDNNNGhld3hISGtzR0ltM1dhQQ?oc=5",
+    "source": "MarketScale",
+    "publishedAt": "Sat, 31 Oct 2026 13:49:00 GMT",
+    "snippet": "Surrey review finds indoor plants clean better with air drawn through them&nbsp;&nbsp;MarketScale",
+    "tier": 3
+  },
+  {
+    "title": "FedEx (FDX) Q4 2026 Earnings Call Transcript",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nS3JuWWE0LXFpUVEtVFExWHB1OW5vem9sOW9ZV21VVDlwbWdKa1Y5T2JoMXpFYlA1bWRFT2VkUWhWZklvc0lDcV9UaWRfcmFuQ3E1U1VFVDZUajNBZ2xXZw?oc=5",
+    "source": "Fortune",
+    "publishedAt": "Sun, 01 Nov 2026 10:29:51 GMT",
+    "snippet": "FedEx (FDX) Q4 2026 Earnings Call Transcript&nbsp;&nbsp;Fortune",
+    "tier": 3
+  },
+  {
+    "title": "Top B2B Content Marketing Trends You Need to Add to Your Strategy for 2026",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtWMl6mMYH7pXszGY1DQuqhacv04MQH1PyOZ4VEaNowHfzNGuiBFUL_FR_JQxVHjspKgKgKD7hZR9L9MfpH9S4k8ml8aYmjrYu1JMYqEIAJuT-eIq9LSu8MKgsQJKEoy-VlBCIccje3YX4dNzz0_nIPr6d_rMO52zAPw==",
+    "source": "uSERP",
+    "snippet": "This article provides an expert analysis of B2B content marketing trends for 2026, emphasizing original research and the impact of AI on content strategy.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "B2B Prospecting Case Studies: Four Early SalesOne Customers",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWkJRFqyr6WHM5Op2uAZmn0smk3Ssx0zrSX7jVskOhyXHeX6qP51g9CFfKWSBs4g8aEilcZIuoqE7v8FtAK34fIKeZdNDjnmSK-625qAtjyYY7wWH8WUUuJ4BA9zlUJGpg0YVV8mcPzTmevURDacf55Zo==",
+    "source": "SalesOne",
+    "snippet": "This case study details prospecting results from four early SalesOne customers, including data on reply rates and new client acquisition.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "Six B2B Marketing Trends Shaping 2026",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzrNm3prmN_O8ddn6xIZGf3tpJOAxR_yCafBLaztAMdSffl4Sx_m3n2IMR0cEyRDCM3Xdb0QyhOxnoVy4rxn-4M-6pjAuCG61EZCrlrZrcLoniG44vNP5dTFs_Brhs_uhp0nTRngylOeHHGavdem0XNuepnI3a",
+    "source": "Branded Agency",
+    "snippet": "An expert analysis explores six key B2B marketing trends for 2026, covering AI, buyer behavior, data, and sales alignment with supporting data.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "Top 12 B2B Marketing Trends Defining 2026 Demand Generation",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc_HqEcHX-AXWhi4czn_PwhSsR9vWDXBG1ckGGeeJ4_BfIjES-gmHsE7MsAsnSAL9vnfswqJY8KFrixhqibT61G5ESx2bFUwPfbq0MWsRD2J5cMsruHzmi_z56efl0bUAfgYm2KDrSe9OJFfowQGP5mTiBgTT0B67w",
+    "source": "The Small Business Expo",
+    "snippet": "This article provides an in-depth look at 12 B2B marketing trends for 2026, focusing on demand generation, data governance, and AI, supported by industry data.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "7 B2B Marketing Shifts That Will Define 2027",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJrm-A3V9DEmCWs2Q16QWIkFGMYznjfTNhbXP5B1UfxGAHR4y-DeTkBXQs2EgcNhDXiZ2QpKefI8i1QjKMr9qnpA3BfLIxf-TqCtJOCgQ4b-eiBAVjDUIh761lXxhVDQk9QWbgiALgPI-A3l7TCstHCyDqEE7ayeER5uM=",
+    "source": "MarTech",
+    "snippet": "This analysis outlines seven significant shifts in B2B marketing for 2027, highlighting the move from MQLs to revenue impact and brand trust.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "Real-World ABM Campaign Examples: Case Studies and Best Practices",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnE7ioo0SGGXI__q1QFQObwwvhGORgW2pNQ4go-rbbPoucJBvVhSFcnokzd5igXWfP1xpz9exPWFzNquq8-QUY4IcYYq4FXjignh1C8lIBeQoeaaWCD519peArTviAHX0d3deKHUzlDaFl9qWaasGEinSKCHZ54PpxRjMTra_f",
+    "source": "SalesIntel",
+    "snippet": "A collection of ABM case studies showcases real-world campaigns from companies like Snowflake and Adobe, detailing measurable results and best practices.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "HubSpot's Fall 2026 Spotlight points toward a more connected operating system",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGERnj4M1iUaNs2Wq8qDKoMeeCpTE2vc06ES7koTP70NWd5E2E0ULetWUHLTBGc-xJKVouA3XIAxakLpQcSvYMhG5icL8hpUuKddwe28dNlICPSHylkeF9MzktVIi_qK3IC1jQXztaN0FOjMQlfVC4DJilyTPGQDSQ4yqJqzjmH7mqSgV8n0b8bFx6uFTTqlgCRJ6utyU7lJhTOdEUl",
+    "source": "The Gist Inbound",
+    "snippet": "This article offers a deep dive into HubSpot's Fall 2026 updates, analyzing their strategic implications for B2B teams and the concept of 'Growth Context'.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "B2B Lead Scoring in HubSpot",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZWlim4KBRSHn8peW6grJ7JxaGfm8P0UAQbWipZ6OtgtNmVCesVpRkMXaY64LQzB4iCm55V0ivbcik8ggZng1GNeiqajOP2QLvWB8dA7Zo4GJh32lay9IRFnSmZ4moiDOjykQqcw==",
+    "source": "GTM.Quest",
+    "snippet": "A strategy deep-dive provides practical examples and frameworks for B2B lead scoring and Account-Based Marketing (ABM) workflows within HubSpot.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  }
+]
