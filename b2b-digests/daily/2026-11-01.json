@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-01",
+  "type": "recap-week",
+  "topicA": "AI Visibility and Answer Engine Optimization for B2B Brands",
+  "topicB": "Revenue Orchestration and Go-to-Market Strategy",
+  "recap": {
+    "intro": "This week you explored two areas of B2B marketing that are rapidly changing: how AI impacts your brand's visibility and how to strategically organize your revenue and go-to-market efforts.",
+    "bullets": [
+      "Even though AI tools like ChatGPT are popular, Google's AI-powered search still drives nearly all B2B sales and conversions.",
+      "It's vital to ensure your brand's content is visible to AI assistants, as many tech buyers now use them to discover new companies.",
+      "Strategic adjustments to online ads and website testing can significantly boost qualified leads and revenue for B2B businesses.",
+      "While AI isn't causing widespread job losses, it is quietly reducing entry-level opportunities, which could impact future talent pipelines."
+    ],
+    "closing": "This week you learned that staying competitive in B2B marketing means understanding both the evolving role of AI in customer discovery and the strategic orchestration of your entire revenue generation process."
+  },
+  "resources": [
+    {
+      "headline": "GEO Is A Distraction: Here’s Where The Real Opportunity Is via @sejournal, @marie_haynes",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/geo-is-a-distraction-heres-where-the-real-opportunity-is/593870/",
+      "topic": "AI Visibility and Answer Engine Optimization for B2B Brands"
+    },
+    {
+      "headline": "How to identify content gaps for AI visibility",
+      "source": "HubSpot Marketing",
+      "url": "https://blog.hubspot.com/marketing/ai-content-gaps",
+      "topic": "AI Visibility and Answer Engine Optimization for B2B Brands"
+    },
+    {
+      "headline": "Which AI prompts should you track? A practical guide",
+      "source": "HubSpot Marketing",
+      "url": "https://blog.hubspot.com/marketing/which-prompts-to-track",
+      "topic": "AI Visibility and Answer Engine Optimization for B2B Brands"
+    },
+    {
+      "headline": "The Salesforce Full-Court Press On Revenue Orchestration Platforms",
+      "source": "Forrester Blog",
+      "url": "https://www.forrester.com/blogs/the-salesforce-full-court-press-on-revenue-orchestration-platforms/",
+      "topic": "Revenue Orchestration and Go-to-Market Strategy"
+    },
+    {
+      "headline": "B2B SaaS and Professional Services Case Studies",
+      "source": "kraftvertising.com",
+      "url": "https://kraftvertising.com/case-studies/",
+      "topic": "Revenue Orchestration and Go-to-Market Strategy"
+    },
+    {
+      "headline": "The Junior Hiring Gap Your 2027 Marketing Budget Should Name via @sejournal, @gregjarboe",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/the-junior-hiring-gap-your-2027-marketing-budget-should-name/592944/",
+      "topic": "Revenue Orchestration and Go-to-Market Strategy"
+    }
+  ]
+}
