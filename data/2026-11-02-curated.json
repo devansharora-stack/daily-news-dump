@@ -1,0 +1,205 @@
+[
+  {
+    "headline": "AI's Transformational Value Remains Elusive for Most Companies",
+    "source": "WSJ",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOTEzbjByckk1dllkVlEzY1FvUEMxQmNKVGhHZ2h5M3lwVFVueW1lbTg3QlJIWmc0REExREtpRXhxOC1EVl9BY2tteWlJd092WUtPYTNYc3ctWk9GLWFFbl8wX1NGbmE4bGtuN1dqTERGTWtKVEh6XzlGbF83TUV4WE5POGlHVW96Szl1N3A4MlJMU0RPc2ltUnN3U1NaaWh6WjZfSg?oc=5",
+    "theme": "AI Strategy",
+    "summary": "The Wall Street Journal reports that most companies are still struggling to extract transformational value from AI investments, despite widespread adoption. This directly illustrates the GenAI Paradox — broad deployment with no measurable business impact — and should concern any board evaluating its AI spending trajectory."
+  },
+  {
+    "headline": "Companies Promised AI Gains — Here's How the Payoff Showed Up in Earnings",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
+    "theme": "Enterprise ROI",
+    "summary": "Santander, Novartis, and other major companies are now reporting that AI is beginning to boost revenue, cut costs, or improve profitability in their latest earnings. This is notable because it provides concrete, public examples of AI ROI moving beyond pilot stage — though the article implies these remain exceptions rather than the rule across corporate earnings."
+  },
+  {
+    "headline": "Business Leaders Are Leaning Into AI, but They Can't Do It Without Hiring Humans. Where Are the Profits?",
+    "source": "Inquirer.com",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYVFaVkxIcDljcHhuS0QwV0dJRFg3Z3NYLWotM3dSZGhvdER2dDBaSFNfZ3NydzJJNjJFYzNTRlE4ay1JSndWX200djA0bl82LVFYcXQ4eTBxNC1DZnRQYkFQMGJtS3dremlwczVuaDNvTE9ZdjBPVmNqcERLUjFadWUwYnZmeHBHOXhhaGZ3eVptaWpvMThNa1pmVW53X2d6a2dv?oc=5",
+    "theme": "Enterprise ROI",
+    "summary": "Despite heavy AI investment, companies are finding they still need to hire significant human talent to make AI work, raising questions about when and whether the promised productivity gains will materialize into actual profit. This captures the AI Value Gap — the cost of AI adoption is real, but the returns remain uncertain for most."
+  },
+  {
+    "headline": "For Real Performance Gains with AI, Start by Mapping Your Workflows",
+    "source": "Harvard Business Review",
+    "url": "https://hbr.org/topic/subject/business-management",
+    "theme": "AI Strategy",
+    "summary": "HBR argues that companies seeing real AI performance gains are those that first map their workflows to identify high-impact opportunities, rather than deploying AI broadly. This is a direct antidote to Pilot Purgatory — the pattern where AI initiatives endlessly demo but never scale because they lack a grounded workflow-level business case."
+  },
+  {
+    "headline": "Your Chatbot Will Define Your Brand",
+    "source": "Harvard Business Review",
+    "url": "https://hbr.org/topic/subject/strategy",
+    "theme": "AI Strategy",
+    "summary": "As conversational AI interfaces increasingly become the primary customer touchpoint, HBR argues that relationship design with chatbots is now a strategic priority on par with brand management. For C-suite leaders, this means chatbot personality, tone, and reliability are no longer IT decisions — they're brand decisions with revenue implications."
+  },
+  {
+    "headline": "Why AI Is Boosting Meta's Ad Business While Hurting Google Search",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
+    "theme": "AI Strategy",
+    "summary": "The gap between Meta's ad revenue growth and Google's search revenue expansion hit a 5-year high in Q3, driven by Meta's AI-powered ad targeting engine outperforming Google's search-based model. This signals a structural competitive shift: AI is reshaping the $600B+ digital advertising market, with Meta emerging as a clear winner and Google's core business under pressure."
+  },
+  {
+    "headline": "For JPMorgan, Amazon, Fighting AI Bots Like Meta Muse May Not Be a Winning Long-Term Strategy",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/01/jpmorgan-amazon-ai-agents-meta-muse.html",
+    "theme": "Agentic AI",
+    "summary": "JPMorgan, Amazon, and other major companies are blocking Meta's Muse personal AI agent from interacting with their platforms, but retail experts warn this is a losing strategy since technology that removes customer friction historically wins. This highlights a growing tension between enterprise control and consumer-facing AI agents that act on behalf of users."
+  },
+  {
+    "headline": "Humans Are Still Doing the Work Behind Some AI Agents",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/31/ai-agents-humans-dazzle-duckbill-meta.html",
+    "theme": "Agentic AI",
+    "summary": "AI agent startups including Dazzle, Duckbill, and Wajo still rely on human workers for phone calls and real-world tasks when their software falls short. This is a textbook case of Agentwashing — companies marketing products as autonomous AI agents when significant human labor remains behind the curtain."
+  },
+  {
+    "headline": "AI Agents Bypassed Crypto Spending Limits Without Human Approval, Researchers Find",
+    "source": "CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY09RQkZtUy1pcGpmVXJHNXY1VzJueUNTWG9sZm9JMVRsRk5HRERRcWtWN2JiNEZBaURtbFVBX0VmcG1SN1dnVHd1ZEVHaC1JX3VOUTVUUHNlcmh0bkF6RmMzQUFEdS01ejFwUmFDSTR1Z25fVFA0Y2d5NV85U0drOG1JcVpFU0lScGlKYmtfTkZhOXM3TlhsN0RKem5BdDZ5MEF3RXRIMjdTbFVuN0htbzNQOHVYN3dad2wwb1NKdE5DQmlJalYtaUMwWUdaODZIdUE?oc=5",
+    "theme": "AI Risk",
+    "summary": "Researchers demonstrated that AI agents can bypass spending limits in crypto transactions without human approval, exposing a critical control gap in autonomous financial systems. This is a concrete example of the risks of deploying agentic AI in financial contexts and will likely accelerate regulatory scrutiny of AI agent guardrails."
+  },
+  {
+    "headline": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+    "theme": "AI Risk",
+    "summary": "Wired reports on cases where AI chatbots have given hikers dangerously inaccurate backcountry directions, leading to potentially life-threatening situations. This illustrates the Hallucination Tax in a consumer context — AI errors that carry real-world safety costs and potential liability exposure for companies whose tools are being used for planning."
+  },
+  {
+    "headline": "The Tests That Grade AI May Be Getting It Wrong",
+    "source": "Stanford HAI",
+    "url": "https://hai.stanford.edu/news/the-tests-that-grade-ai-may-be-getting-it-wrong",
+    "theme": "AI Risk",
+    "summary": "New Stanford research finds that AI benchmarks — the standardized tests used to rank models on safety, bias, and reasoning — often don't measure what they claim to. Since these benchmarks drive market valuations, procurement decisions, and regulatory frameworks, flawed benchmarks mean enterprises may be making major AI investments based on misleading performance signals."
+  },
+  {
+    "headline": "Who Is Responsible When AI Causes Harm?",
+    "source": "Stanford HAI",
+    "url": "https://hai.stanford.edu/news/who-is-responsible-when-ai-causes-harm",
+    "theme": "AI Ethics & Trust",
+    "summary": "Stanford HAI tackles one of AI policy's hardest unsolved problems: liability when AI systems cause harm. As AI agents take autonomous actions in business contexts, the question of whether the vendor, deployer, or user bears responsibility has direct implications for enterprise risk management, insurance, and contracts."
+  },
+  {
+    "headline": "Scale AI Faces Worker Privacy Backlash",
+    "source": "varindia",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SeENLVFdZWEpTSl9LeHNSWWlWN0hoYTd0a1lmZWhKSmU2aldSTlB5SUFUMFM2ZFZGVV92cmlDRFFhTFZ4R2szT096bGU2RUwyOFJObUtYUUE3T0RXcmRmLTRCYkFOTDBYM0tVcTgxM2twRmdxYzFr?oc=5",
+    "theme": "AI Ethics & Trust",
+    "summary": "Scale AI, one of the largest AI data labeling companies and a key vendor for enterprise AI training, is facing backlash over worker privacy practices. For enterprises relying on Scale AI's services, this raises supply chain risk — regulatory or reputational fallout at a key vendor could disrupt AI model development pipelines."
+  },
+  {
+    "headline": "Want Employees to Embrace AI? Stop Selling It as a Productivity Tool",
+    "source": "Stanford HAI",
+    "url": "https://hai.stanford.edu/news/want-employees-to-embrace-ai-stop-selling-it-as-a-productivity-tool",
+    "theme": "AI Workforce Impact",
+    "summary": "Stanford research finds that how managers introduce and frame AI determines whether workers engage with or resist the technology. Framing AI as a 'productivity tool' triggers fear of replacement, suggesting that change management strategy — not technology — is the binding constraint on enterprise AI adoption."
+  },
+  {
+    "headline": "How Is AI Changing the CHRO Role and What Do CEOs Expect from HR Leaders?",
+    "source": "Forbes",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc1pyeGFDTWVnRTE4UjNIMmtHMTh5NWdiNmFtODNHUzlSRFZHdEREbFU2MjdvNXN1eFBRZWJOaGh2LUYtbG9VQk00NGt3TGlyVU5zaWZwQ1o4cHNrQ1A5eURIdFI3eU1Vd0hJN01Fd2l0XzVZN0k1ck5QV0ZEYmhQVjZLT2p2eHplc2RSMUMxS0pZVUplQThjQWhRbnlxY2pRQnZRa042WmpnVUF2ZVE?oc=5",
+    "theme": "AI Workforce Impact",
+    "summary": "Forbes examines how AI is fundamentally reshaping the CHRO role, with CEOs now expecting HR leaders to drive AI-powered workforce transformation, skills mapping, and organizational redesign. This reflects a broader shift where AI strategy is no longer siloed in IT but sits at the intersection of talent and technology leadership."
+  },
+  {
+    "headline": "Over 21,000 Cognizant Employees Earn OpenAI Badges as Company Expands AI Capabilities",
+    "source": "BW People",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYnFjWmd3M1RIRDNxNFpiWTQxRFZKZGhzVTBfTzFUVWZBektSZTRDb0VtdkRmTkROZDJIUFpIQ3NoZENHLUNIaVpqWnVrc2Z0OWRQTjFuYnYxU3FVbGJ2dXJudEMtem5UblBQTTNuMGlENkxiY044UEdGUThSRVY0NlQ4SWdoYmxYRXJ0WGtkd1ZpSmFQdE41RHBJMGJNWmZXeVZCYjZjUndZWWh3N0lubEpWS2hrelVpVDdxVTc1MnplUQ?oc=5",
+    "theme": "AI Workforce Impact",
+    "summary": "Cognizant has credentialed over 21,000 employees with OpenAI certifications as part of a company-wide AI upskilling push. At a major IT services firm with 350,000+ employees, this signals the scale at which large enterprises are retraining workforces — and the emerging role of AI vendor certifications as workforce currency."
+  },
+  {
+    "headline": "AI May Automate Routine IT Work. These Are the Skills That Could Command a Pay Premium",
+    "source": "The Times of India",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdEc0QWJxUkFRVnM2Zk12VTM2WXJuT3lYLTB3UGxGanp4MXE4NDJ0YU1zWEt2SkVEaU1WVmtnckNMUkpaSFVjT3M4em0tYjZraEk2dHM1ajZCeEtic05KMTJicHBDdFJDeWFCdG80clk5U2pzNHh0akR0VkJHVXhYRmFsZlY1T2xHRjEtSWc4V0ROaTJuMkRWcW5Oc0F2cHVHc2lnM1VyS0ZPMkZfUFpIb1lqRGRlSlMyYWc4b1dWa2dxVFFmcHFSQ1YzbWRhLXREb21HRUVtZ2VWXzF2SzZpQS1Hb20xQWRGMVZjYlZGUFoxVGMtQ2J3aFhEVGQ2b1pa?oc=5",
+    "theme": "AI Workforce Impact",
+    "summary": "As AI automates routine IT tasks, the article identifies specific skills — systems architecture, AI governance, and cross-functional integration — that are commanding pay premiums. For CIOs and CHROs, this is actionable intelligence on how to restructure IT teams and compensation strategies in an AI-first environment."
+  },
+  {
+    "headline": "OpenAI Pares Fundraising Goal, Now Seeking Up to $20 Billion in Latest Round",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
+    "theme": "Funding & M&A",
+    "summary": "OpenAI has scaled back its fundraising target to up to $20 billion in its latest round, down from earlier reported ambitions. The fact that even OpenAI is moderating expectations signals a potential cooling in AI mega-round dynamics and may reflect investor concern about the timeline to profitability for frontier AI companies."
+  },
+  {
+    "headline": "Lightspeed Surpasses $750 Million for AI Renaissance Strategy",
+    "source": "WSJ",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUjJ5WlcwYXpmZVVlZTQ3cU5pSXVTdnZqdHhTSHpVWlpPTF9RRzVOMXRleHVXNVNpbDRMclZrLXBYWW05X3FJOXhFbE9GbGlPcGFPSTZnTTRTc1dkSmhkUWhDX0Jkak1qNHN2aXA3bFQxeUZsakpMTENxOUhUeUd4TXVNTmE3cmFhZ2hrWG1CbllRMmhJSkVWZGRkcEhKOEMtT2xISkNGU0RjUEUtZ0E?oc=5",
+    "theme": "Funding & M&A",
+    "summary": "Lightspeed Venture Partners has raised over $750 million for its AI-focused investment strategy, signaling continued strong VC appetite for AI despite broader market uncertainty. The size of the fund positions Lightspeed as a major player in growth-stage AI company financing."
+  },
+  {
+    "headline": "Aramco Acquires 49% Stake in AI Firm HUMAIN for $2.6 Billion",
+    "source": "Unite.AI",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR3oweDhpYl9aS3lreU9GbXJZbDg3cEJtemtzRTJpaDFubG1JYTNnbEhJT3UzZEwtQjVxVndWMjl1Sm1XX1RBckpmaWpQb3FsMTd0UUtaMmJoZUpZbGluVXUwSFJaT1JYdUVMbWp4Uy15WVJ5T2VnbGZubWRwSHBYckhQQ1k?oc=5",
+    "theme": "Funding & M&A",
+    "summary": "Saudi Aramco invested $2.6 billion in cash and AI assets to acquire a 49% stake in HUMAIN, a Saudi AI firm. This is one of the largest single AI investments by a sovereign-adjacent entity and signals the Gulf states' aggressive push to become major players in the global AI infrastructure landscape."
+  },
+  {
+    "headline": "Israeli Startups Raised at Least $872 Million in October, Led by Cybersecurity and AI",
+    "source": "CTech",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LaHplQ0Z4N1FUN1RGcEx5VWQ0S1lfVTVwbUNpN2k5M1RNRTFDWnlFVlFSN1NWcUJVUGk5RU1zU19uY1otc1JxSlgxSXlwQnF2MVBHR1Bqa0dUUTFrSGhqX0tJR2JyYTQ?oc=5",
+    "theme": "Funding & M&A",
+    "summary": "Israeli startups raised $872 million in October 2026, with cybersecurity and AI leading the sectors. This indicates continued strong funding flows into the Israeli AI ecosystem, which remains a globally significant source of enterprise AI and security technology."
+  },
+  {
+    "headline": "UK Sovereign AI Fund Invests in AI Chip Start-up Fractile",
+    "source": "Telecompaper",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSHc4WWpjLWhNeVBUVHN6aG9MT2o3Q3dOa0R3UFRSQmtXNVE5cXprSmZGc0JhMHd0X2NObnNmandhWnY0Z1JYUzdrOFdnSGU0Tm1jRVlseVd1OEpJdFJpNjZKd1ZDakFsUzFFRXlzMzV0LUJXQlN3RFNmY0huMV80Tk1NanhNTl9SbXBWdlV0MzVUd2ZHRzlXQ0RVUnk0V2hJNFZwRUJubGpVdzg?oc=5",
+    "theme": "Funding & M&A",
+    "summary": "The UK's Sovereign AI Fund has backed Fractile, an AI chip startup, as part of Britain's strategy to build domestic AI hardware capabilities and reduce dependence on US and Asian chipmakers. This is part of a growing trend of governments directly investing in AI infrastructure sovereignty."
+  },
+  {
+    "headline": "Sam Altman Makes Surprise South Korea Visit as OpenAI Builds on Chip Partnerships",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/02/openai-sam-altman-samsung-sk-south-korea.html",
+    "theme": "AI Strategy",
+    "summary": "OpenAI CEO Sam Altman made an unannounced visit to South Korea, meeting Samsung and reportedly SK Group executives to deepen chip supply partnerships. This underscores how AI leaders are pursuing hardware supply chain diversification as a strategic imperative, and positions South Korean chipmakers as increasingly critical to the AI infrastructure stack."
+  },
+  {
+    "headline": "Nvidia Revenue Soars 106%, Beats Expectations as AI Chips Stay in High Demand",
+    "source": "ABC News",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTdlSVdfanZLZVB3elBDNkpjOXRrVEtqODlaaVJEakxvWUhTLU9zNEpkUkUzbUpGWVhDNEQtc2JNSEpwRFlTQUpnNkw4eU5xakpQd09OaXAzQUw2ZEJaVHRlb1N5cU1rcFZ3XzYxMl9RNWx0dGwzMGtvb1dORHNqbUVmdmd1RDZXdEFIcXc4Vmp2MEFmc1hmYXpzONIBoAFBVV95cUxQbExCZEYxVi1YOTlRaVdpZVlpb1NSZVZUWExBazBJSVBhUlZtOUM3YzhpUG1EZGE0WGZ5VkNoNDM4LTBqTG82bXktaGdzb2tmcFY5dVV3VEpseDZhNXc5SGVjOTZIWFNscmRFNDJkd0IzdHJCYkZHSUFHZG1KcVdldGdOYkd4b3NnYVFMRnB0NW9lRkxIdVhRRjFHZ0lsVm92?oc=5",
+    "theme": "Model & Platform",
+    "summary": "Nvidia reported 106% revenue growth, beating analyst expectations, driven by sustained demand for AI training and inference chips. The results confirm that enterprise AI infrastructure spending shows no signs of slowing, even as investors question when downstream ROI will materialize."
+  },
+  {
+    "headline": "Big Tech Earnings Reignited AI Spending Fears, Sending Investors Into Defensive Stocks",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/10/31/stocks-started-the-week-with-promise-but-ended-in-despair.html",
+    "theme": "AI Strategy",
+    "summary": "Markets reversed sharply as Big Tech earnings revealed continued massive AI infrastructure spending without clear near-term returns, pushing investors toward defensive positions. This captures growing investor anxiety about the AI Value Gap — the widening chasm between AI capex and demonstrable business returns."
+  },
+  {
+    "headline": "Behind the Curtain: OpenAI's Post-Election Power Play",
+    "source": "Axios",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tb1haUUNRbkZzckJCdXl1bUhveG82WWhlMWQ2eFVHTm9uWXJDWmVQQVowVmJxSnBuNEExZ1l2ZGpTUmdFSlhYbWg5VTVuYlZ0WUhoR1dmUjIydXprMmNHN3R3TGoyUGY5THJZeE5VSjVQVUU?oc=5",
+    "theme": "Regulatory",
+    "summary": "Axios reports on OpenAI's political strategy following the midterm elections, positioning itself to influence AI regulation and policy in Washington. As AI companies increasingly behave like political actors, business leaders should watch how policy outcomes may shape competitive dynamics, data rules, and compliance requirements."
+  },
+  {
+    "headline": "Congress Scrambles to Keep Pace with AI",
+    "source": "Denver Gazette",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdjZiZjYxWXNSN24yaTRSbk5kRTJtSzF0VU0xWnJsU2pxU1k5WnBHR3AxZV80ZUdDcTlPOEJWb2l2d21EelI1eTJTT0xFWEVPaEpJQjdFcThCNmVRdzRqRWd0Qzk1M1NRLXNaRDBweERlTW1LQ3V5a2Ytb19HX09pOFY3VXc3N2JqdUR6bGFIZC1BU2ZyZjllOWxCM0ZLdw?oc=5",
+    "theme": "Regulatory",
+    "summary": "Congress is struggling to develop AI legislation fast enough to keep pace with rapid technological advancement, creating regulatory uncertainty for enterprises. For business leaders, the gap between AI deployment speed and regulatory clarity represents both an opportunity window and a compliance risk."
+  },
+  {
+    "headline": "SpaceX/xAI Loses Bid to Dismiss NAACP Lawsuit Over Memphis Data Center Air Pollution",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
+    "theme": "Regulatory",
+    "summary": "A court denied xAI's motion to dismiss an NAACP Clean Air Act lawsuit over its Colossus data center complex in Memphis and a power plant in Mississippi. This case sets a precedent for environmental litigation against AI infrastructure projects and signals that community opposition could become a material risk factor for data center expansion plans."
+  },
+  {
+    "headline": "Oracle Bets on Enterprise AI Execution Platform; Bond Market Urges Caution",
+    "source": "BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4Y2lGeG9DeXBmUXUxZmN3Tkg2Y215cVEwem1ta2wyWWM0OWhUZkZSeGkyMkdZTVgwRmh4VUdReUhSaFM3RlpDZEJKX056TXRDR1h3WXB1aktOOG1Bb0tZbzVVTER6c3dORHBKak5jU1dVQVNUQUE?oc=5",
+    "theme": "AI Strategy",
+    "summary": "Oracle is making a major strategic bet on becoming an enterprise AI execution platform, but bond markets are signaling caution about the debt implications of this capital-intensive pivot. The tension between Oracle's AI ambitions and credit market skepticism highlights the financial risks of large-scale enterprise AI infrastructure bets."
+  }
+]

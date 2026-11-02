@@ -1,122 +1,6 @@
 {
   "sent": [
     {
-      "key": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce",
-      "date": "2026-10-19"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund",
-      "date": "2026-10-19"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeGR1Q09aVFd3bDNOMjNHVGc3RW43c1UxQVppX0F3NTVsMjZVbGFXVnhfN1BsVnNTazlGUHg1b1ZtdVFQcVhHTVFMc1hJMnpBWXpLWTRmeUZJSFVjU2xjXzBfaDZNVVhOQTlPdjF6NXVnVVJrQ0NER09jem8ybmU0YTNXS29fN2doaXZnbnRILXV3NG5mREdRckFQbE1iRk9hay15Q01BeDZwY2ZtdWdBcHlvcEdjbGQzMV9VMg",
-      "date": "2026-10-19"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVNjVEeGFwdmtNQzc2aDljc0tuY1JVR3Jhc3JPby1ReGRWaXhJMVF5M1dJTERzVXdIZmN2ZTZwOE1LX0RCaElEcm1GNTU1Vk5SY1p5dmJRSmVoSnU5ZUdQV2Y3UkRLYmNNcmJlVTM5NmR4R0hueHctRXl3",
-      "date": "2026-10-19"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX2c0bUZpVTFBRDRoX1A1c0hUYnkybXYwQ1JOSWNjMVhNYjR6T0tUcS03TmhBLXpEeDFCYTYwOHpIWlowNm9aX3pid1VjcV9qMmRxbzI0LWV3aGliSDNtMUlETExqRkNuRllkMmE4VVRCaW83RFhjTno2WVM1dDhTTE9SZ2NOMnFqdWE1MXJUTWpnT24zUVdUVVE0STJlanVtUy1MUE1sSDBCTjN6djZxUWcxZjU3UjZ3STFYa3oyZw",
-      "date": "2026-10-19"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdk5mM0h2azJvUGI2enY3bmJsV3BtODJjX2pMRnZEMXM0d1M0QzJhUlJRa1JqYVNlRUZ6X1h2bU5BMjVHSUl2cmk5WUM3Vm1aZWg4VnhnNW4zb1hBajg4WUhpOXNyMVVxMnBQR1RhMDVpWDMwckVUNDJIMzItbFE1NE5DaGlRXzlDdExwZFBTQmhqV25KNFEyUVAwWlhmNHlWR3Jwaw",
-      "date": "2026-10-19"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdGRrWUV1VmE4Ujd3UzYyOTdLam85TnZnWUpiQU9fcm1GTkV2bTNPQk4yZU1hZGhkZ3pGZEdNRTVNYkwwVXlkS2ZDdlBkTk1xcHhuV1NIWG13TlQ0N2x6NlNqY3NwVGxCclpQS1JSWGdmMEVtNC1URVBuVk03Z1Y0RkxFdkdadHVtTG9zeERTaWRDVFYydkljdmhB",
-      "date": "2026-10-19"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOalhCdGpQZi1SOHFuTVYxVW1NUjZtejBjSUMteXdfYkpveHJYaVBUWmNMMmg0d2E3VzYxdjBSYnJRdWlEdHMzek1MQ0xQZTRmTXhHNnltZWFla1B3SUJDSTR3dDVtSWNqMWhqWXVqZWhmRWVDcHZEUzNTODM5WnJPX1lNYWxhY2lyR2tFUmRSMzJSc3JKWjJ4THQ2bTR6SFE",
-      "date": "2026-10-19"
-    },
-    {
-      "key": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html",
-      "date": "2026-10-19"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONGIxUFBMejhCckMxZzd5QlUxRy1qUmZhN2RBVmNZSG5XOTNTR1VtclpMaVYxNEFVVTZYLV9HMDc5cFlNV3ZZaFlNZ29vUVM3a3NLX0RYNDNkbUFMTUp2cF9kb0l3NFZhd3BWRDRSVjhkZVJqUURJWEtwWmVWSDl6VThjVGVKTVFoTkR2QlVlQWhlcENRNV9SMzJuY08yeXUtZGs0",
-      "date": "2026-10-19"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV0ItRFFncEt0MmdCMkNKU3NTS2tFUHJIWktWeEtyMGI4a1hsZzRQbWM5SjJIaFQ5Rm1CQUQ3Yk00aHlfRGZJUG9uUF9HdnVZQzh3azZreDBjX2FydmhxcjQxMW9YbUlwTVZiOVM0ZXFKXzY4bmtnc2FuQXBqRXpYajR4NUxldkRpemNPTkpUZ2I1dlVVcDJnT2R3M1hhZFg0VlFSWTd0dTN2cEdsSnp0VmszS2hQMEc4YVZLUlVFVDEyZw",
-      "date": "2026-10-19"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON19jbWN6aHV1bHFRVXp5cEZsQS05bXczLWhZSWU5MkJjUGx1NG1talF2S05JSHFzQ0NpNUN4U1J4amkwVmpHaERhV04zc3hvUzFzUGM3amhOVzZ2d3pUTWc4WDFNYjdndHByX3JTVzQ0ZUF5OEFVOFdRN2VQS3JyV2JSNWdrWkl5VXJLQUE0SUItNEM3c2tDbUFKR3hMeFQ0VHZZaktDTWIzMjlTTjZqZFFRblM",
-      "date": "2026-10-19"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaUJ0NFdST1Z3Y1RUNG1TVmdndFZkWF9EclI1aW1tNFZNYUhtanBWS3ljME15bklJYThKQTIxMUExUzNNaTdtZk9FZmVwVHhMQ0FpWHhRSjNvQ2c1cUJrbFIzLS0yMW83OEp5VF9DZFVnenhaZDc2NnhjbWVlRWl2a1hCRzhXWjB5YTBmelUzX1lvMHM1Mmd3RXBWU1dfRjN0alRIVkJSM1FRNHlfYVItak5n",
-      "date": "2026-10-19"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON0RUaXZnVDFuX3ZFRjBIdXFHTDgwVndIaHkwTkk0b3NLOTJxNWpMSmRabkNUX2ZqUllxMkUyLU5QQ2xiajNXZW5BQk1DN1FKYnZRWS1IXzhxQk9JdzVsWGtvUkMxODM3N3EtZVYtZGktNnhJNzNKandzX0FzdWN3SVRVYjBKY2M",
-      "date": "2026-10-19"
-    },
-    {
-      "key": "https://www.cnbc.com/investingclub/2026/10/17/ai-stocks-plunge-inflation-heats-up-where-were-still-finding-opportunities.html",
-      "date": "2026-10-19"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWNMMV8yaUwyb3BRQXl4QTNwa3lYaUZwd1pzdG14Ynptbm15YXFSRG8wcHBzOW9Yb0ZBYWtiODVjN1lxYkQ5eFVpYlBsRGdsRmJ0c3Jscm54ako2MjBCTFZ3V1hCWmVmdjNhUnRqU3FCbFZkZ1JUYUhtSmNzajg2eVk4YjFWcEpJeGpfcC1kTUt3MjdCTVBJVg",
-      "date": "2026-10-19"
-    },
-    {
-      "key": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
-      "date": "2026-10-19"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVkltVVNsVnV6MUtMVmdfR29FX1pYTHZmUmlVT3E3OGJLOXFUUUZTZ3VMV3ROSW9tZ2s5VW9lWWtFNlJPSmJQNDZObnhSTlppMWdkUExUc0lJeWx2MkJVYWhNTUQ4Z0NVbV82eFJTRXdKY1doSTRsRGNpRlg1bUN6alpTR1dYdUU5bVp1dWpPem8zQnlXc0c0QVR3Z2k",
-      "date": "2026-10-19"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ2FObVJpUkdUaW42UXZKUUlPeUJDdmRlcW0xeV95aF9fUDg5NHdSNUtuY0EtTlg4aVNYbmtILWVnbU4yYTJ3LWlROUFsN0FfcUQ5dkpZR21IdktFbWpfWjBfQjRZeEZWb3pVVS1lWFQzSnZIamxnYTJpREtyQWtRTWxVU1NtNEd0WGNraFJEZG9ZOHRQUWc",
-      "date": "2026-10-19"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xX1hYVWNxajVTMjFYVGZSMm1DbzREbXU0WGxkaUFlY1lXUGtUNDdWVHdnSXVmcUpHel9oNGFIQ3R5Szc4NUxyMHRtbFhNbXpPVWlucmp6SnM",
-      "date": "2026-10-19"
-    },
-    {
-      "key": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
-      "date": "2026-10-19"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdFlhNkhNdnFtck9PRnRaaHdNdVJuLWtfQ3V2Qk55UVBKbGZ5QnpfNXNvamVOLWxBQ0tENjZTUEE1OS0tRUEtV2x4MnJRc2IwdVl3bE9WQVFGWFlzVkx5QmJwM1pFczhGZy1SNTJqVWRLNDdtS0hXOVFFYkVvNlBxNWNLWmNjQll3elh5X2FPaFhXb21LVlE",
-      "date": "2026-10-19"
-    },
-    {
-      "key": "https://hai.stanford.edu/news/the-tests-that-grade-ai-may-be-getting-it-wrong",
-      "date": "2026-10-19"
-    },
-    {
-      "key": "https://hai.stanford.edu/news/want-employees-to-embrace-ai-stop-selling-it-as-a-productivity-tool",
-      "date": "2026-10-19"
-    },
-    {
-      "key": "https://hbr.org/topic/subject/strategy",
-      "date": "2026-10-19"
-    },
-    {
-      "key": "https://hbr.org/topic/subject/business-management",
-      "date": "2026-10-19"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZWczVElZd0N5YnJSdGJXc1hmQy13bDB2U1NodGNXM2o5aE9sZGh3RHJkUFByU2dpdzFZT0I3WjhzUjFySDUzNjhLdFVuODVCUTFaMUVHeHl4ei1ETk9IaVY0YTJ4eklVZzNwZ0JWR1pJZGh6TVFrV2cwX2xpR0w4MEl2amw0aHRWRkx2VFk1eHNEMXBpa083RDRGc2doYXg2bEE",
-      "date": "2026-10-19"
-    },
-    {
-      "key": "https://hai.stanford.edu/news/who-is-responsible-when-ai-causes-harm",
-      "date": "2026-10-19"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-      "date": "2026-10-19"
-    },
-    {
       "key": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
       "date": "2026-10-20"
     },
@@ -1411,6 +1295,102 @@
     {
       "key": "https://arxiv.org/abs/2610.37989",
       "date": "2026-11-01"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOTEzbjByckk1dllkVlEzY1FvUEMxQmNKVGhHZ2h5M3lwVFVueW1lbTg3QlJIWmc0REExREtpRXhxOC1EVl9BY2tteWlJd092WUtPYTNYc3ctWk9GLWFFbl8wX1NGbmE4bGtuN1dqTERGTWtKVEh6XzlGbF83TUV4WE5POGlHVW96Szl1N3A4MlJMU0RPc2ltUnN3U1NaaWh6WjZfSg",
+      "date": "2026-11-02"
+    },
+    {
+      "key": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
+      "date": "2026-11-02"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYVFaVkxIcDljcHhuS0QwV0dJRFg3Z3NYLWotM3dSZGhvdER2dDBaSFNfZ3NydzJJNjJFYzNTRlE4ay1JSndWX200djA0bl82LVFYcXQ4eTBxNC1DZnRQYkFQMGJtS3dremlwczVuaDNvTE9ZdjBPVmNqcERLUjFadWUwYnZmeHBHOXhhaGZ3eVptaWpvMThNa1pmVW53X2d6a2dv",
+      "date": "2026-11-02"
+    },
+    {
+      "key": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
+      "date": "2026-11-02"
+    },
+    {
+      "key": "https://www.cnbc.com/2026/11/01/jpmorgan-amazon-ai-agents-meta-muse.html",
+      "date": "2026-11-02"
+    },
+    {
+      "key": "https://www.cnbc.com/2026/10/31/ai-agents-humans-dazzle-duckbill-meta.html",
+      "date": "2026-11-02"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY09RQkZtUy1pcGpmVXJHNXY1VzJueUNTWG9sZm9JMVRsRk5HRERRcWtWN2JiNEZBaURtbFVBX0VmcG1SN1dnVHd1ZEVHaC1JX3VOUTVUUHNlcmh0bkF6RmMzQUFEdS01ejFwUmFDSTR1Z25fVFA0Y2d5NV85U0drOG1JcVpFU0lScGlKYmtfTkZhOXM3TlhsN0RKem5BdDZ5MEF3RXRIMjdTbFVuN0htbzNQOHVYN3dad2wwb1NKdE5DQmlJalYtaUMwWUdaODZIdUE",
+      "date": "2026-11-02"
+    },
+    {
+      "key": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences",
+      "date": "2026-11-02"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SeENLVFdZWEpTSl9LeHNSWWlWN0hoYTd0a1lmZWhKSmU2aldSTlB5SUFUMFM2ZFZGVV92cmlDRFFhTFZ4R2szT096bGU2RUwyOFJObUtYUUE3T0RXcmRmLTRCYkFOTDBYM0tVcTgxM2twRmdxYzFr",
+      "date": "2026-11-02"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc1pyeGFDTWVnRTE4UjNIMmtHMTh5NWdiNmFtODNHUzlSRFZHdEREbFU2MjdvNXN1eFBRZWJOaGh2LUYtbG9VQk00NGt3TGlyVU5zaWZwQ1o4cHNrQ1A5eURIdFI3eU1Vd0hJN01Fd2l0XzVZN0k1ck5QV0ZEYmhQVjZLT2p2eHplc2RSMUMxS0pZVUplQThjQWhRbnlxY2pRQnZRa042WmpnVUF2ZVE",
+      "date": "2026-11-02"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYnFjWmd3M1RIRDNxNFpiWTQxRFZKZGhzVTBfTzFUVWZBektSZTRDb0VtdkRmTkROZDJIUFpIQ3NoZENHLUNIaVpqWnVrc2Z0OWRQTjFuYnYxU3FVbGJ2dXJudEMtem5UblBQTTNuMGlENkxiY044UEdGUThSRVY0NlQ4SWdoYmxYRXJ0WGtkd1ZpSmFQdE41RHBJMGJNWmZXeVZCYjZjUndZWWh3N0lubEpWS2hrelVpVDdxVTc1MnplUQ",
+      "date": "2026-11-02"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdEc0QWJxUkFRVnM2Zk12VTM2WXJuT3lYLTB3UGxGanp4MXE4NDJ0YU1zWEt2SkVEaU1WVmtnckNMUkpaSFVjT3M4em0tYjZraEk2dHM1ajZCeEtic05KMTJicHBDdFJDeWFCdG80clk5U2pzNHh0akR0VkJHVXhYRmFsZlY1T2xHRjEtSWc4V0ROaTJuMkRWcW5Oc0F2cHVHc2lnM1VyS0ZPMkZfUFpIb1lqRGRlSlMyYWc4b1dWa2dxVFFmcHFSQ1YzbWRhLXREb21HRUVtZ2VWXzF2SzZpQS1Hb20xQWRGMVZjYlZGUFoxVGMtQ2J3aFhEVGQ2b1pa",
+      "date": "2026-11-02"
+    },
+    {
+      "key": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
+      "date": "2026-11-02"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUjJ5WlcwYXpmZVVlZTQ3cU5pSXVTdnZqdHhTSHpVWlpPTF9RRzVOMXRleHVXNVNpbDRMclZrLXBYWW05X3FJOXhFbE9GbGlPcGFPSTZnTTRTc1dkSmhkUWhDX0Jkak1qNHN2aXA3bFQxeUZsakpMTENxOUhUeUd4TXVNTmE3cmFhZ2hrWG1CbllRMmhJSkVWZGRkcEhKOEMtT2xISkNGU0RjUEUtZ0E",
+      "date": "2026-11-02"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR3oweDhpYl9aS3lreU9GbXJZbDg3cEJtemtzRTJpaDFubG1JYTNnbEhJT3UzZEwtQjVxVndWMjl1Sm1XX1RBckpmaWpQb3FsMTd0UUtaMmJoZUpZbGluVXUwSFJaT1JYdUVMbWp4Uy15WVJ5T2VnbGZubWRwSHBYckhQQ1k",
+      "date": "2026-11-02"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LaHplQ0Z4N1FUN1RGcEx5VWQ0S1lfVTVwbUNpN2k5M1RNRTFDWnlFVlFSN1NWcUJVUGk5RU1zU19uY1otc1JxSlgxSXlwQnF2MVBHR1Bqa0dUUTFrSGhqX0tJR2JyYTQ",
+      "date": "2026-11-02"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSHc4WWpjLWhNeVBUVHN6aG9MT2o3Q3dOa0R3UFRSQmtXNVE5cXprSmZGc0JhMHd0X2NObnNmandhWnY0Z1JYUzdrOFdnSGU0Tm1jRVlseVd1OEpJdFJpNjZKd1ZDakFsUzFFRXlzMzV0LUJXQlN3RFNmY0huMV80Tk1NanhNTl9SbXBWdlV0MzVUd2ZHRzlXQ0RVUnk0V2hJNFZwRUJubGpVdzg",
+      "date": "2026-11-02"
+    },
+    {
+      "key": "https://www.cnbc.com/2026/11/02/openai-sam-altman-samsung-sk-south-korea.html",
+      "date": "2026-11-02"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTdlSVdfanZLZVB3elBDNkpjOXRrVEtqODlaaVJEakxvWUhTLU9zNEpkUkUzbUpGWVhDNEQtc2JNSEpwRFlTQUpnNkw4eU5xakpQd09OaXAzQUw2ZEJaVHRlb1N5cU1rcFZ3XzYxMl9RNWx0dGwzMGtvb1dORHNqbUVmdmd1RDZXdEFIcXc4Vmp2MEFmc1hmYXpzONIBoAFBVV95cUxQbExCZEYxVi1YOTlRaVdpZVlpb1NSZVZUWExBazBJSVBhUlZtOUM3YzhpUG1EZGE0WGZ5VkNoNDM4LTBqTG82bXktaGdzb2tmcFY5dVV3VEpseDZhNXc5SGVjOTZIWFNscmRFNDJkd0IzdHJCYkZHSUFHZG1KcVdldGdOYkd4b3NnYVFMRnB0NW9lRkxIdVhRRjFHZ0lsVm92",
+      "date": "2026-11-02"
+    },
+    {
+      "key": "https://www.cnbc.com/investingclub/2026/10/31/stocks-started-the-week-with-promise-but-ended-in-despair.html",
+      "date": "2026-11-02"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tb1haUUNRbkZzckJCdXl1bUhveG82WWhlMWQ2eFVHTm9uWXJDWmVQQVowVmJxSnBuNEExZ1l2ZGpTUmdFSlhYbWg5VTVuYlZ0WUhoR1dmUjIydXprMmNHN3R3TGoyUGY5THJZeE5VSjVQVUU",
+      "date": "2026-11-02"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdjZiZjYxWXNSN24yaTRSbk5kRTJtSzF0VU0xWnJsU2pxU1k5WnBHR3AxZV80ZUdDcTlPOEJWb2l2d21EelI1eTJTT0xFWEVPaEpJQjdFcThCNmVRdzRqRWd0Qzk1M1NRLXNaRDBweERlTW1LQ3V5a2Ytb19HX09pOFY3VXc3N2JqdUR6bGFIZC1BU2ZyZjllOWxCM0ZLdw",
+      "date": "2026-11-02"
+    },
+    {
+      "key": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
+      "date": "2026-11-02"
+    },
+    {
+      "key": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4Y2lGeG9DeXBmUXUxZmN3Tkg2Y215cVEwem1ta2wyWWM0OWhUZkZSeGkyMkdZTVgwRmh4VUdReUhSaFM3RlpDZEJKX056TXRDR1h3WXB1aktOOG1Bb0tZbzVVTER6c3dORHBKak5jU1dVQVNUQUE",
+      "date": "2026-11-02"
     }
   ]
 }
