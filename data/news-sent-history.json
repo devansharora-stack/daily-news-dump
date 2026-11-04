@@ -1,110 +1,6 @@
 {
   "sent": [
     {
-      "key": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed",
-      "date": "2026-10-21"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems",
-      "date": "2026-10-21"
-    },
-    {
-      "key": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests",
-      "date": "2026-10-21"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
-      "date": "2026-10-21"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations",
-      "date": "2026-10-21"
-    },
-    {
-      "key": "https://openai.com/index/ted-taylor-restaurant",
-      "date": "2026-10-21"
-    },
-    {
-      "key": "https://openai.com/index/terminal-x",
-      "date": "2026-10-21"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business",
-      "date": "2026-10-21"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool",
-      "date": "2026-10-21"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving",
-      "date": "2026-10-21"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei",
-      "date": "2026-10-21"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers",
-      "date": "2026-10-21"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps",
-      "date": "2026-10-21"
-    },
-    {
-      "key": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
-      "date": "2026-10-21"
-    },
-    {
-      "key": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot",
-      "date": "2026-10-21"
-    },
-    {
-      "key": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
-      "date": "2026-10-21"
-    },
-    {
-      "key": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding",
-      "date": "2026-10-21"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.23921",
-      "date": "2026-10-21"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.24649",
-      "date": "2026-10-21"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.24264",
-      "date": "2026-10-21"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says",
-      "date": "2026-10-21"
-    },
-    {
-      "key": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-      "date": "2026-10-21"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.24006",
-      "date": "2026-10-21"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.24268",
-      "date": "2026-10-21"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.24161",
-      "date": "2026-10-21"
-    },
-    {
-      "key": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
-      "date": "2026-10-21"
-    },
-    {
       "key": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
       "date": "2026-10-22"
     },
@@ -1375,6 +1271,110 @@
     {
       "key": "https://arxiv.org/abs/2610.41486",
       "date": "2026-11-03"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "date": "2026-11-04"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal",
+      "date": "2026-11-04"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute",
+      "date": "2026-11-04"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges",
+      "date": "2026-11-04"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom",
+      "date": "2026-11-04"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows",
+      "date": "2026-11-04"
+    },
+    {
+      "key": "https://openai.com/index/grid-protectors-program",
+      "date": "2026-11-04"
+    },
+    {
+      "key": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+      "date": "2026-11-04"
+    },
+    {
+      "key": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "date": "2026-11-04"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity",
+      "date": "2026-11-04"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up",
+      "date": "2026-11-04"
+    },
+    {
+      "key": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test",
+      "date": "2026-11-04"
+    },
+    {
+      "key": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani",
+      "date": "2026-11-04"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+      "date": "2026-11-04"
+    },
+    {
+      "key": "https://openai.com/index/cisco-cyber",
+      "date": "2026-11-04"
+    },
+    {
+      "key": "https://openai.com/index/heimstaden",
+      "date": "2026-11-04"
+    },
+    {
+      "key": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "date": "2026-11-04"
+    },
+    {
+      "key": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment",
+      "date": "2026-11-04"
+    },
+    {
+      "key": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths",
+      "date": "2026-11-04"
+    },
+    {
+      "key": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
+      "date": "2026-11-04"
+    },
+    {
+      "key": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+      "date": "2026-11-04"
+    },
+    {
+      "key": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "date": "2026-11-04"
+    },
+    {
+      "key": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote",
+      "date": "2026-11-04"
+    },
+    {
+      "key": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
+      "date": "2026-11-04"
+    },
+    {
+      "key": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+      "date": "2026-11-04"
+    },
+    {
+      "key": "https://openai.com/index/lifeval",
+      "date": "2026-11-04"
     }
   ]
 }
