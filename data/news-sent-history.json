@@ -1,114 +1,6 @@
 {
   "sent": [
     {
-      "key": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
-      "date": "2026-10-22"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c",
-      "date": "2026-10-22"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown",
-      "date": "2026-10-22"
-    },
-    {
-      "key": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer",
-      "date": "2026-10-22"
-    },
-    {
-      "key": "https://openai.com/index/openai-models-google-cloud",
-      "date": "2026-10-22"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat",
-      "date": "2026-10-22"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-      "date": "2026-10-22"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-      "date": "2026-10-22"
-    },
-    {
-      "key": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse",
-      "date": "2026-10-22"
-    },
-    {
-      "key": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers",
-      "date": "2026-10-22"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey",
-      "date": "2026-10-22"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity",
-      "date": "2026-10-22"
-    },
-    {
-      "key": "https://openai.com/index/att-legal",
-      "date": "2026-10-22"
-    },
-    {
-      "key": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "date": "2026-10-22"
-    },
-    {
-      "key": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers",
-      "date": "2026-10-22"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
-      "date": "2026-10-22"
-    },
-    {
-      "key": "https://www.wired.com/story/europe-data-centers-climate-change",
-      "date": "2026-10-22"
-    },
-    {
-      "key": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure",
-      "date": "2026-10-22"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
-      "date": "2026-10-22"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai",
-      "date": "2026-10-22"
-    },
-    {
-      "key": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "date": "2026-10-22"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.27296",
-      "date": "2026-10-22"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.27483",
-      "date": "2026-10-22"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.27518",
-      "date": "2026-10-22"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.27406",
-      "date": "2026-10-22"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.27488",
-      "date": "2026-10-22"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.27234",
-      "date": "2026-10-22"
-    },
-    {
       "key": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo",
       "date": "2026-10-23"
     },
@@ -1375,6 +1267,106 @@
     {
       "key": "https://openai.com/index/lifeval",
       "date": "2026-11-04"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage",
+      "date": "2026-11-05"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+      "date": "2026-11-05"
+    },
+    {
+      "key": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+      "date": "2026-11-05"
+    },
+    {
+      "key": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+      "date": "2026-11-05"
+    },
+    {
+      "key": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput",
+      "date": "2026-11-05"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming",
+      "date": "2026-11-05"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared",
+      "date": "2026-11-05"
+    },
+    {
+      "key": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms",
+      "date": "2026-11-05"
+    },
+    {
+      "key": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google",
+      "date": "2026-11-05"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai",
+      "date": "2026-11-05"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor",
+      "date": "2026-11-05"
+    },
+    {
+      "key": "https://openai.com/index/openai-to-acquire-pierre",
+      "date": "2026-11-05"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+      "date": "2026-11-05"
+    },
+    {
+      "key": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "date": "2026-11-05"
+    },
+    {
+      "key": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "date": "2026-11-05"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election",
+      "date": "2026-11-05"
+    },
+    {
+      "key": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage",
+      "date": "2026-11-05"
+    },
+    {
+      "key": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits",
+      "date": "2026-11-05"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.03946",
+      "date": "2026-11-05"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.03853",
+      "date": "2026-11-05"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.04032",
+      "date": "2026-11-05"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.03650",
+      "date": "2026-11-05"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.04142",
+      "date": "2026-11-05"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.04321",
+      "date": "2026-11-05"
+    },
+    {
+      "key": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space",
+      "date": "2026-11-05"
     }
   ]
 }
