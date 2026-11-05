@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-05",
+  "type": "recap-and-resource",
+  "recapTopic": "AI Search Visibility and Brand Discovery",
+  "recap": {
+    "intro": "Hey everyone! This week, we dove into how AI is totally changing how people find businesses online, and what that means for your brand's visibility.",
+    "bullets": [
+      "First, we saw that even if AI knows your brand, it doesn't always put you on the shortlist. Like, one guy found his advisory firm was only recommended once out of 43 times, even though AI knew his whole career! This means it's not enough for AI to just 'know' you; it needs to actually suggest you when 51% of business buyers start their research with AI chatbots.",
+      "Building on that, we learned that big brands like American Airlines and Expedia often dominate AI search results, especially for direct booking questions. But here's the cool part for smaller businesses: there's a huge opportunity in 'inspiration' searches, where people are looking for ideas or personal stories. For example, only 9% of travel searches on Google AI Overviews were about booking; most were about ideas, which is where unique human stories from smaller sites can really shine!",
+      "Finally, we saw the big picture: while AI search is growing super fast, it's actually slowing down how much money Google makes from ads, with ad revenue growth at its slowest in over a year. This is because people are staying within Google's AI answers instead of clicking through to websites – Reddit even reported over 1 million fewer clicks per week! This means we're moving towards 'conversational advertising,' where ads fit naturally into AI chats, and businesses need to start figuring out how to use this new approach now, even if it's still a bit fuzzy."
+    ]
+  },
+  "recapResources": [
+    {
+      "headline": "AI Knows Your Brand – It Rarely Puts You On The Shortlist via @sejournal, @gregjarboe",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/the-ai-search-measurement-gap-brands-must-close-in-2027-and-beyond/593881/"
+    },
+    {
+      "headline": "Big Brands Dominate AI Search But Leave Openings For Smaller Sites via @sejournal, @martinibuster",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/big-brands-dominate-ai-search-but-leave-openings-for-smaller-sites/595397/"
+    },
+    {
+      "headline": "AI Search Is Growing Faster Than Its Business Model",
+      "source": "Forrester Blog",
+      "url": "https://www.forrester.com/blogs/ai-search-is-growing-faster-than-its-business-model/"
+    }
+  ],
+  "topic": "Account-Based Marketing",
+  "dayLabel": "Day 1 of 3 — Intro",
+  "headline": "Six B2B Marketing Trends Shaping 2026",
+  "source": "Branded Agency",
+  "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzrNm3prmN_O8ddn6xIZGf3tpJOAxR_yCafBLaztAMdSffl4Sx_m3n2IMR0cEyRDCM3Xdb0QyhOxnoVy4rxn-4M-6pjAuCG61EZCrlrZrcLoniG44vNP5dTFs_Brhs_uhp0nTRngylOeHHGavdem0XNuepnI3a",
+  "keyNotes": [
+    "Even though nearly half (45%) of B2B marketing teams plan to invest more in AI tools, almost the same amount (49%) are worried that using AI could harm their brand's reputation or unique voice, suggesting a careful balance is needed.",
+    "Today's business buyers often decide what they want long before they ever speak to a salesperson, meaning your company's website and online information are now your most important sales tools, as they expect clear pricing and answers directly from your site.",
+    "Companies are moving away from using \"borrowed audiences\" (customer data from other sources) because of privacy rules, and instead are focusing on collecting their own \"first-party data\" directly from their website, products, and customer interactions to build trust and better understand their actual customers.",
+    "For a business to grow, its marketing and sales teams must work together more closely than ever, sharing goals like how many potential customers they create and how many deals they close, rather than just passing leads back and forth.",
+    "As AI makes it easier to create content, the human element of trust and credibility becomes even more valuable; in fact, 75% of large B2B companies are expected to spend more on working with outside experts and influencers."
+  ],
+  "question": "The article notes a key tension for 2026: businesses are investing heavily in AI tools while also increasing budgets for human-led activities like events and influencer relations, because credibility is becoming more expensive. In your own work or industry, how do you decide where to lean on technology for efficiency versus where to prioritize human connection and expertise to build essential trust?"
+}
