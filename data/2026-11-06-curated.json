@@ -1,0 +1,184 @@
+[
+  {
+    "headline": "Democrats sweep midterms with AI accountability as key theme, threatening industry regulation",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+    "theme": "Regulatory",
+    "summary": "Democrats took control of both the House and Senate in a historic blue wave, with AI accountability a recurring campaign theme. The shift signals imminent legislative action on AI regulation, potentially reshaping compliance requirements and operational constraints for every company deploying AI at scale."
+  },
+  {
+    "headline": "Meta warns election backlash against data centers could make AI expansion harder",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+    "theme": "Regulatory",
+    "summary": "Meta flagged growing political opposition to data center construction as a material risk to future AI investments. Communities are pushing back against massive infrastructure projects, and the midterm results amplify this threat — potentially constraining the compute buildout that underpins AI scaling for all major tech companies."
+  },
+  {
+    "headline": "OpenAI steps back from NDAs for data center projects amid voter backlash",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+    "theme": "Regulatory",
+    "summary": "Following midterm results where voters opposed data center expansion, OpenAI announced it will stop using NDAs with public officials on data center projects. The move signals that AI companies are being forced to adopt transparency measures under political pressure, setting a potential new norm for infrastructure deals."
+  },
+  {
+    "headline": "New bipartisan bill could overhaul US energy infrastructure permitting, boosting AI data center buildout",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+    "theme": "Regulatory",
+    "summary": "The Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA), sweeping legislation to cut red tape on energy infrastructure. For AI companies, faster permitting could be the difference between building data centers on schedule or facing years of delays that constrain compute capacity."
+  },
+  {
+    "headline": "Google forcing AI Overviews in classrooms angers parents and educators",
+    "source": "Wired AI",
+    "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
+    "theme": "AI Ethics & Trust",
+    "summary": "Google is bundling AI Overviews with traditional search in educational settings, frustrating parents and educators who argue machine-generated answers undermine student learning. Schools are actively seeking alternatives, highlighting the reputational and regulatory risk of pushing AI features without opt-out controls into sensitive contexts."
+  },
+  {
+    "headline": "Ads in chatbots have arrived — here's what's working and what's not",
+    "source": "Wired AI",
+    "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
+    "theme": "AI Strategy",
+    "summary": "While Anthropic keeps Claude ad-free, the rest of the AI chatbot industry is racing to monetize through advertising. The article examines early results and user backlash risks, signaling that AI business models are at an inflection point between subscription revenue and ad-supported approaches."
+  },
+  {
+    "headline": "Almost no one uses AI agents to book their Uber, company says",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+    "theme": "Agentic AI",
+    "summary": "During its busiest week last quarter, Uber reported that only four people booked a ride using an AI agent. This is a stark data point exposing the gap between agentic AI hype and actual consumer adoption — a reality check for companies building agent-based interfaces and the 'agentwashing' trend."
+  },
+  {
+    "headline": "Airbnb announces AI travel agent launching first half of 2027",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+    "theme": "Agentic AI",
+    "summary": "Airbnb disclosed in its Q3 2026 earnings that it's building an AI agent to plan trips, compare options, and manage bookings. The company argues travel is more complex than simple tasks like restaurant reservations, positioning its agent as a differentiated product — but the Uber data point raises questions about consumer willingness to delegate to AI agents."
+  },
+  {
+    "headline": "Perplexity launches 'Teammates' — always-on AI agents for the workplace",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+    "theme": "Agentic AI",
+    "summary": "Perplexity is taking on OpenAI and Anthropic with always-on workplace AI agents called 'Teammates' that can take on roles within a workspace, pulling from existing projects and memory. The product integrates with Perplexity Computer for device-level task completion, escalating the competitive battle for enterprise AI agent platforms."
+  },
+  {
+    "headline": "Box taps Nvidia's Nemotron for agent-first content retrieval: 4x faster, 90% fewer tokens",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+    "theme": "Enterprise ROI",
+    "summary": "Box's new content retrieval system using Nvidia's Nemotron model claims to answer queries 4x faster with 20% fewer errors and 90% fewer tokens used. The token reduction is particularly significant for enterprises managing AI costs at scale — a direct response to 'token anxiety' around running AI agents on large document repositories."
+  },
+  {
+    "headline": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+    "theme": "Funding & M&A",
+    "summary": "OpenAI's Greg Brockman indicated the company could go public in 2027, touting enterprise market gains against rival Anthropic. An OpenAI IPO would be a landmark event for the AI industry, providing the first public market valuation benchmark for a frontier AI lab and a signal of whether enterprise AI revenue can sustain public-company economics."
+  },
+  {
+    "headline": "Dropbox acquires Tigris Data for $350M to build AI infrastructure",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+    "theme": "Funding & M&A",
+    "summary": "Dropbox is paying $350M for Tigris Data to build DBX Agent Cloud, a storage platform for developers building AI models and agents. The acquisition signals Dropbox's pivot from legacy file storage to AI infrastructure — and the growing value of storage optimized for AI workloads."
+  },
+  {
+    "headline": "Agility becomes first pure-play humanoid robotics company on the stock market",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+    "theme": "Funding & M&A",
+    "summary": "Agility listed on the Nasdaq as the first publicly traded pure-play humanoid robotics company. This is a milestone for investors tracking the convergence of AI and physical automation — providing a public benchmark for the commercial viability of humanoid robots in warehouses and logistics."
+  },
+  {
+    "headline": "Franklin Templeton deploys OpenAI for investment research workflows",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/franklin-templeton",
+    "theme": "Enterprise ROI",
+    "summary": "Franklin Templeton is building AI workflows starting with equity research, helping portfolio managers compare research views and examine investment risks using OpenAI tools. This represents a concrete use case of AI in financial services — where the stakes of hallucination and accuracy are highest."
+  },
+  {
+    "headline": "OpenAI launches GPT-6 Cyber with improved safety: out-of-bounds incidents drop from 5% to under 1%",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+    "theme": "Model & Platform",
+    "summary": "OpenAI's GPT-6 Cyber is purpose-built for finding vulnerabilities while staying within authorized scope. Out-of-bounds behavior dropped from ~5% to under 1%, a critical improvement after the Hugging Face breach incident. For enterprises using AI for security, the model's alignment with authorized scope is as important as its capability."
+  },
+  {
+    "headline": "OpenAI introduces National Community Compact for responsible AI infrastructure",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+    "theme": "Regulatory",
+    "summary": "OpenAI released a National Community Compact and Compute Campus Policy Blueprint to guide data center development, including commitments around local resources, jobs, and community engagement. The framework is a direct response to political backlash and may become an industry template for gaining community approval for AI infrastructure projects."
+  },
+  {
+    "headline": "Claude AI can now plug directly into your bank account via Plaid",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+    "theme": "AI Strategy",
+    "summary": "Anthropic's Claude can now connect to bank and card accounts via Plaid to analyze spending, track bills, and answer financial questions. This is a significant expansion of AI chatbot capabilities into sensitive financial data — raising both competitive stakes and trust/security questions for the industry."
+  },
+  {
+    "headline": "Texas's fragile AI data center boom may be over",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+    "theme": "AI Strategy",
+    "summary": "Texas, the fastest-growing US data center market and ground zero for Big Tech's AI buildout, faces disruption from political and energy policy shifts following the midterms. Companies with Texas data center plans may need to reassess timelines, costs, and alternative locations — a supply-side constraint on AI scaling."
+  },
+  {
+    "headline": "The hidden supply chain costs of the AI boom",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
+    "theme": "AI Strategy",
+    "summary": "Harvard Business School professor Willy Shih examines the supply chain vulnerabilities underpinning the AI boom, from chips to RAM to rare earth materials. For executives planning AI infrastructure investments, the analysis highlights hidden dependencies and geopolitical risks that could disrupt AI hardware availability and cost."
+  },
+  {
+    "headline": "Potential Sciences bets AI trained on synthetic data can skip lab work in drug discovery",
+    "source": "Wired AI",
+    "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+    "theme": "Research to Business",
+    "summary": "UK government-backed startup Potential Sciences is training AI on computer-generated biochemical data to accelerate drug development, bypassing expensive lab work. If successful, this approach could dramatically compress pharmaceutical R&D timelines and costs — a model that could extend to other industries reliant on physical experimentation."
+  },
+  {
+    "headline": "LLMs can predict which freelance jobs an AI agent will complete successfully",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.05759",
+    "theme": "AI Workforce Impact",
+    "summary": "Researchers built PAYWORTHY, a benchmark of 1,494 real freelance job postings to test whether LLMs can predict which jobs an AI agent will successfully complete before any attempt. The research quantifies which categories of human work are most at risk of agent automation and provides a framework for workforce planning."
+  },
+  {
+    "headline": "Confirmation bias persists in AI agent-as-judge systems despite evidence grounding",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.05662",
+    "theme": "AI Risk",
+    "summary": "Researchers demonstrated that AI agents used as evaluators — even when given tools to verify results against real environments — remain susceptible to confirmation bias from a single misleading note. This has direct implications for enterprises relying on AI judges to evaluate other AI outputs, a growing pattern in automated quality assurance."
+  },
+  {
+    "headline": "Speeding up MoE model serving weakens safety refusals, study finds",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.06147",
+    "theme": "AI Risk",
+    "summary": "Research shows that common serving optimizations for Mixture-of-Experts LLMs — running fewer experts per token for speed — can weaken the model's ability to refuse harmful requests. The finding is a hidden safety tax on cost optimization: enterprises cutting inference costs may inadvertently degrade their AI safety guardrails."
+  },
+  {
+    "headline": "LLM-verified code generation can pass verification while being functionally wrong",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.05590",
+    "theme": "AI Risk",
+    "summary": "Researchers identified three distinct failure surfaces where LLM-generated code passes formal verification yet doesn't actually meet the intended specification. This 'verified but vacuous' problem is a critical warning for enterprises relying on AI-generated code in production — passing verification doesn't mean the code works as intended."
+  },
+  {
+    "headline": "Uncertainty-aware resource orchestration addresses token anxiety in agentic AI systems",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.05392",
+    "theme": "Agentic AI",
+    "summary": "New research formalizes the problem of unpredictable compute and cost in agentic AI pipelines, where resource demands emerge at runtime rather than being known upfront. The framework directly addresses 'token anxiety' — the growing enterprise concern about controlling costs when deploying autonomous AI agents that can spiral in resource consumption."
+  },
+  {
+    "headline": "Autonomous AI agents can now plan electricity systems through iterative optimization",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.05911",
+    "theme": "Agentic AI",
+    "summary": "Researchers demonstrated an autonomous planning framework where AI agents propose investment bounds, storage conditions, and infrastructure interventions for electricity systems, then iterate through numerical evaluation and feedback. This represents a concrete example of agentic AI tackling complex infrastructure planning previously requiring teams of engineers."
+  }
+]
