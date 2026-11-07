@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-07",
+  "type": "resource",
+  "topic": "Account-Based Marketing",
+  "dayLabel": "Day 3 of 3",
+  "headline": "B2B Lead Scoring in HubSpot",
+  "source": "GTM.Quest",
+  "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZWlim4KBRSHn8peW6grJ7JxaGfm8P0UAQbWipZ6OtgtNmVCesVpRkMXaY64LQzB4iCm55V0ivbcik8ggZng1GNeiqajOP2QLvWB8dA7Zo4GJh32lay9IRFnSmZ4moiDOjykQqcw==",
+  "keyNotes": [
+    "Even though over 216,000 companies use HubSpot, many struggle to set it up effectively, showing that even popular tools need careful implementation to work well.",
+    "Businesses use a system called \"lead scoring\" to decide how interested a potential customer is, giving points for specific actions like downloading a case study (15 points) or taking points away if they're not a good fit, like a student job seeker (-20 points).",
+    "HubSpot helps businesses automate entire sequences of actions, like sending a welcome email, waiting three days, then sending a product demo video, all without manual intervention, to nurture potential customers.",
+    "Instead of using many separate tools, HubSpot combines customer management, marketing, and sales functions into one platform, which helps different teams work together more smoothly."
+  ],
+  "question": "The article explains how businesses use 'lead scoring' to decide which potential customers are most valuable, giving points for specific actions like requesting a demo (25 points) or taking points away for things like being a student (-20 points). If you were to create a similar scoring system for your own work, how would you assign points to different types of interactions or characteristics to identify the most promising opportunities or collaborations, and what would be your top positive and negative scoring factors?"
+}
