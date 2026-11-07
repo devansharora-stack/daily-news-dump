@@ -1,0 +1,184 @@
+[
+  {
+    "headline": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+    "theme": "Funding & M&A",
+    "summary": "OpenAI has raised another $11 billion in a round that could grow to $20 billion, valuing the company at $1.25 trillion — up from $852 billion just months ago in March. This makes OpenAI one of the world's most valuable companies and signals continued investor confidence in foundation model leaders despite growing questions about AI revenue sustainability."
+  },
+  {
+    "headline": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+    "theme": "Enterprise ROI",
+    "summary": "Corporate expense data from Ramp shows AI usage continues climbing but actual spending has stalled, driven by aggressive price cuts from providers and smarter cost controls by enterprise buyers. This challenges the AI hypergrowth narrative right as Anthropic approaches its IPO, suggesting the market may be maturing faster than investor models assume."
+  },
+  {
+    "headline": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+    "theme": "Funding & M&A",
+    "summary": "Palo Alto Networks is reportedly in discussions to acquire Clutch, an AI agent security startup, for $500 million — nearly 6x its last valuation of $85 million. The deal underscores the rapidly emerging market for securing autonomous AI agents and suggests cybersecurity incumbents see agent security as a must-have capability."
+  },
+  {
+    "headline": "Crusoe sells troubled Wyoming data center project to Google",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "theme": "AI Strategy",
+    "summary": "Crusoe has sold its troubled Wyoming data center project to Google, highlighting the immense operational and financial challenges of developing massive AI data centers. Even well-funded startups are struggling with the infrastructure buildout, while hyperscalers like Google continue to consolidate physical AI capacity."
+  },
+  {
+    "headline": "Democrats' historic midterm victories could reshape the AI industry for years",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+    "theme": "Regulatory",
+    "summary": "Democrats won historic victories in the 2026 U.S. midterms, and voters approved restrictions on data center development in 40 out of 41 ballot measures. This signals a significant shift in public sentiment against Big Tech's AI infrastructure expansion and sets the stage for potentially two years of increased regulatory scrutiny of the AI industry."
+  },
+  {
+    "headline": "Big Tech lost big in the 2026 election",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+    "theme": "Regulatory",
+    "summary": "American voters overwhelmingly voted against AI-related expansion in the 2026 midterms, with data centers becoming a major bipartisan campaign issue. The results suggest a public backlash against AI infrastructure is now translating into concrete political outcomes that could constrain data center buildouts and increase regulatory pressure on tech companies."
+  },
+  {
+    "headline": "Protesters break into Microsoft data center site in Amsterdam",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+    "theme": "Regulatory",
+    "summary": "Around 100 protesters broke into a Microsoft data center construction site in Amsterdam, scaling cranes to place anti-AI banners. The protest against three planned 85-meter data center towers reflects growing global grassroots opposition to AI infrastructure development that could slow or block expansion plans in key European markets."
+  },
+  {
+    "headline": "China reportedly recruited AI exec to spy on Nvidia CEO Jensen Huang",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+    "theme": "AI Risk",
+    "summary": "China's Ministry of State Security recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang and gather intelligence on American AI chips, according to The New York Times. The case highlights the intensifying geopolitical espionage around AI chip technology and the personal security risks facing leaders of critical AI supply chain companies."
+  },
+  {
+    "headline": "Free Chinese AI models are getting scary good at hacking",
+    "source": "Wired AI",
+    "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+    "theme": "AI Risk",
+    "summary": "Experiments testing AI models on simulated network intrusions showed that free Chinese models like DeepSeek and GLM are approaching the hacking capabilities of OpenAI's most advanced (non-public) cyber model. This democratization of offensive cyber capabilities through open-source AI poses significant risks for enterprise security teams and national infrastructure."
+  },
+  {
+    "headline": "AI companies really, really want to buy your work files and emails",
+    "source": "Wired AI",
+    "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+    "theme": "AI Ethics & Trust",
+    "summary": "Data brokers are actively collecting internal corporate files, emails, and documents to sell as AI training data. This raises serious concerns for enterprises about data sovereignty, intellectual property leakage, and compliance risks — especially for companies that may not realize their internal communications are being commoditized."
+  },
+  {
+    "headline": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+    "theme": "AI Risk",
+    "summary": "Security researchers discovered hundreds of servers hosting the AI-powered penetration testing tool Artex exposed to the open internet with no authentication. This means anyone could access sophisticated AI hacking capabilities, representing a concrete example of how AI security tools can become weapons when deployment controls fail."
+  },
+  {
+    "headline": "GPT-6 Cyber: OpenAI launches cybersecurity model for finding and fixing vulnerabilities",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/introducing-gpt-6-cyber",
+    "theme": "Model & Platform",
+    "summary": "OpenAI introduced GPT-6 Cyber, a specialized model designed to find exploitable vulnerabilities and develop fixes while staying within authorized scope. This represents a significant move by OpenAI into the enterprise cybersecurity market with purpose-built AI, potentially reshaping how organizations approach vulnerability management and defensive security."
+  },
+  {
+    "headline": "Meta introduces Spaces, a new way to collaborate with Muse AI agents",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+    "theme": "Agentic AI",
+    "summary": "Meta launched 'Spaces' for its Muse AI agent, allowing users to create customized app-like experiences that pull data from connected services like Gmail, Google Calendar, and Notion. This represents Meta's aggressive push to make its AI assistant a central hub for daily workflows, competing directly with other AI agent platforms for user attention and data access."
+  },
+  {
+    "headline": "The Two-Ledger Model: Transaction-grain cost accounting for multi-agent AI systems",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.06989",
+    "theme": "Agentic AI",
+    "summary": "New research proposes a framework for tracking what each business transaction (order, claim, case) actually costs in AI when running multi-agent systems across multiple clouds and models. Enterprises currently can't answer this basic question because billing data doesn't map to business transaction boundaries — a critical gap as AI agent costs scale. This is a textbook example of Token Anxiety."
+  },
+  {
+    "headline": "Trust Responsive Runtime Authorization for Agentic AI",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.06996",
+    "theme": "Agentic AI",
+    "summary": "Researchers introduce TRAP (Trust Responsive Authorization Policy), a framework for dynamically granting or restricting operational authority to autonomous AI agents based on real-time trust scores. As enterprises deploy more agentic AI, the question of how to govern what agents are allowed to do — and when to revoke that authority — becomes a critical operational and risk management challenge."
+  },
+  {
+    "headline": "MCPHallu: Benchmarking hallucinations in Model Context Protocol agents",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.07689",
+    "theme": "Agentic AI",
+    "summary": "A new benchmark specifically diagnoses hallucination failures in agents using the Model Context Protocol (MCP) — the standard for tool-using AI agents. Existing MCP benchmarks only measure task completion; MCPHallu reveals that agents frequently hallucinate during reasoning, execution, and memory phases, quantifying the 'Hallucination Tax' enterprises face when deploying tool-using agents."
+  },
+  {
+    "headline": "When bigger becomes brittle: Why compression hurts more as language models scale",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.07891",
+    "theme": "Research to Business",
+    "summary": "Research reveals that quantization and pruning — the standard techniques for reducing AI model deployment costs — cause disproportionately more damage as models get larger. This finding has direct implications for enterprises counting on model compression to manage inference costs: the bigger models they want to deploy may be the hardest to compress without quality loss."
+  },
+  {
+    "headline": "Self-hosted AI at a tech startup: A real-world cost and deployment analysis",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.08116",
+    "theme": "Enterprise ROI",
+    "summary": "A small software company documents its experience self-hosting AI to counter $325/month in Claude/Codex costs across 25.93 billion recorded tokens. The case study provides rare real-world data on the true costs and tradeoffs of self-hosting vs. commercial AI services, relevant for any organization evaluating its AI infrastructure strategy."
+  },
+  {
+    "headline": "Redacting personal data before LLM calls: Speed and accuracy comparison of approaches",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.07633",
+    "theme": "AI Ethics & Trust",
+    "summary": "Research benchmarks different methods for redacting personally identifiable information before sending text to LLMs, measuring latency and accuracy tradeoffs. With enterprise data routinely flowing through LLM prompts into provider systems and logs, this addresses a critical compliance gap that most teams lack quantitative data to manage."
+  },
+  {
+    "headline": "The Intrusion Pathway: How irrelevant context degrades language model performance",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.07778",
+    "theme": "Research to Business",
+    "summary": "Researchers identify a specific mechanism ('Intrusion Pathway') by which irrelevant information in prompts — common in retrieval-augmented and tool-using deployments — corrupts LLM accuracy even when it contains no competing answer. This has direct implications for enterprise RAG implementations where noisy retrieval is the norm, quantifying a hidden source of AI errors at scale."
+  },
+  {
+    "headline": "A behavioral framework for predicting loss of control in frontier AI systems",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.07953",
+    "theme": "AI Risk",
+    "summary": "Researchers propose a prospective framework for assessing when AI systems might act beyond effective human control with irreversible consequences, decomposing the risk into measurable behavioral components. As enterprises deploy agents with longer operational horizons and less human oversight, this framework offers governance teams a structured way to evaluate loss-of-control risk before incidents occur."
+  },
+  {
+    "headline": "Skillware: A modular standard for sovereign, auditable AI agent capabilities",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.07652",
+    "theme": "Agentic AI",
+    "summary": "Researchers argue that current AI agents that dynamically write code and guess API payloads through prompt engineering burn massive context windows, inflate API costs, and fail unpredictably in production. They propose 'Skillware,' an open framework that formally separates agent capabilities from prompts, addressing the Token Anxiety and reliability challenges enterprises face when scaling agentic AI."
+  },
+  {
+    "headline": "I watched a humanoid robot clean my apartment — it felt like the future",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+    "theme": "AI Strategy",
+    "summary": "A humanoid-robot cleaning service is now operating in San Francisco, offering a first-person account of consumer-facing robotics becoming commercially available. This signals that humanoid robots are moving from factory demos to paid consumer services, a milestone for the physical AI industry with implications for labor markets and service businesses."
+  },
+  {
+    "headline": "PharmAgents2: Towards autonomous end-to-end drug discovery",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.07653",
+    "theme": "Agentic AI",
+    "summary": "Researchers introduce PharmAgents2, an autonomous multi-agent system that handles end-to-end drug discovery by extracting scientific decision knowledge from published research and scaling exploration. This represents a concrete application of agentic AI in pharma R&D that could compress drug discovery timelines and reshape how pharmaceutical companies invest in early-stage research."
+  },
+  {
+    "headline": "When imperfect automated fact-checking backfires: Social learning in the presence of misinformation",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.08053",
+    "theme": "AI Ethics & Trust",
+    "summary": "Research demonstrates that imperfect AI fact-checking tools can actually backfire and reduce the probability of correct information cascades on social platforms. This is a cautionary finding for any organization deploying automated content moderation or verification systems — incomplete AI accuracy may be worse than no AI at all in some contexts."
+  },
+  {
+    "headline": "Autonomous AI agents systematically diverge from human preferences in proof formalization",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.06995",
+    "theme": "Research to Business",
+    "summary": "Research reveals that AI agents pursuing proof tasks systematically make different choices than humans, focusing on surface syntax over deeper semantics. This finding generalizes beyond mathematics: as enterprises delegate more complex knowledge work to AI agents, the divergence between how AI and humans approach problems creates hidden risks in any domain requiring nuanced judgment."
+  }
+]
