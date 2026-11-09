@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-09",
+  "type": "resource",
+  "topic": "AI Visibility and Search Optimization for B2B",
+  "dayLabel": "Day 1 of 3",
+  "headline": "4 Datasets On AI Visibility: ChatGPT Sends 0.62% Of Google’s Organic Traffic via @sejournal, @gregjarboe",
+  "source": "Search Engine Journal",
+  "url": "https://www.searchenginejournal.com/ai-visibility-isnt-a-sham-most-ways-of-measuring-it-are/594405/",
+  "keyNotes": [
+    "Surprisingly little traffic comes from AI: Even with all the buzz around AI tools like ChatGPT, they send a tiny fraction of website visitors compared to regular Google searches. For example, ChatGPT only sent 0.62% of the traffic Google organic search did in one study.",
+    "AI visitors might be high quality, but low quantity: While people who come from AI tools might be more likely to buy something (one study showed they converted 4.5 times better), Google still drives 27 times more total sales because it sends so many more people to websites.",
+    "It's hard to prove AI's \"hidden\" influence: The idea that people see a brand in an AI answer and then search for it later is difficult to track. One expert found no clear link, and many direct visits to websites were actually from automated programs (bots), not real customers.",
+    "Many ways of measuring AI impact are flawed: It's easy for data to be misleading, like counting automated programs (bots) as real visitors. This means that many reports on AI's impact might not be accurate unless the data quality is carefully checked.",
+    "Think of AI as a brand builder, not a direct sales tool: Experts suggest that appearing in an AI answer is more like a \"digital billboard\" that builds familiarity with a brand, which is valuable, even if it doesn't immediately lead to a click or sale."
+  ],
+  "question": "The article suggests that AI mentions are more like a \"digital billboard\" for building brand familiarity, rather than directly driving clicks. In your own work, where do you encounter situations where something is clearly valuable, but its direct impact is incredibly difficult to measure or attribute?"
+}
