@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-11",
+  "type": "resource",
+  "topic": "AI Visibility and Search Optimization for B2B",
+  "dayLabel": "Day 3 of 3",
+  "headline": "Obstacles in marketing automation and how to fix them [2026]",
+  "source": "HubSpot Marketing",
+  "url": "https://blog.hubspot.com/marketing/marketing-automation-challenges",
+  "keyNotes": [
+    "Even though most marketing teams (86.4%) now use artificial intelligence (AI) in their work, their biggest challenge, for 33% of them, is proving if their automated efforts actually lead to more money.",
+    "When automated marketing tools don't work well, it's rarely the tool's fault; the real problems are usually a missing plan, bad customer information, different tools not sharing data, or teams not working together effectively.",
+    "A major reason automated marketing fails is a lack of clear strategy, meaning businesses often send more messages but don't get more sales because they haven't defined their goals or who they're trying to reach.",
+    "Automated marketing is only as effective as the customer information it uses; bad or incomplete data will cause the automation to make mistakes, like sending the wrong message, but much faster and at a larger scale."
+  ],
+  "question": "The article emphasizes that a clear strategy, including deciding what AI should do versus what a human should handle, is crucial for successful automation. In your own work, where do you see opportunities to automate tasks, and more importantly, what critical decisions or interactions do you believe should *always* remain in human hands, and why?"
+}
