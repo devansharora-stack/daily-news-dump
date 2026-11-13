@@ -70,7 +70,14 @@
         "source": "CXL",
         "url": "https://cxl.com/blog/b2b-content-marketing-conversion/",
         "fullText": "A strategy deep-dive on making B2B content convert by mapping it to real buyer pain points and aligning cross-functional teams.",
-        "day": "friday"
+        "day": "friday",
+        "keyNotes": [
+          "The main goal of information created for businesses (called \"B2B content\") is to make it \"convert,\" meaning it should actually lead to new customers or sales.",
+          "A key way to make this content work is by understanding and directly addressing the specific problems or challenges that potential business customers are experiencing.",
+          "For content to be truly effective, it's important for different departments within a company, like sales and marketing, to work together towards a shared goal.",
+          "The article suggests that a thorough and well-planned approach, or \"strategy deep-dive,\" is necessary to achieve successful content that turns into business results."
+        ],
+        "question": "The article highlights that understanding customer problems and getting different company teams to work together are crucial for success. In your own work, how might you better discover the real challenges your customers face, and what steps could you take to ensure everyone in your organization is united in addressing them?"
       },
       {
         "headline": "AI Is Accelerating Insights — Can Your Business Keep Up?",
