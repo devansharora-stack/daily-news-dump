@@ -1,0 +1,378 @@
+[
+  {
+    "title": "CPaaS Has Changed, And The Next Transformation Is Just Starting",
+    "url": "https://www.forrester.com/blogs/cpaas-has-changed-and-the-next-transformation-is-just-starting/",
+    "source": "Forrester Blog",
+    "publishedAt": "Fri, 13 Nov 2026 19:02:06 +0000",
+    "snippet": "I want to share some exciting news: I’m expanding my research coverage. In addition to my work on enterprise networking and telecommunications, I’m now covering communications-platform-as-a-service (CPaaS) providers. For me, this is a natural evolution. I’ve spent much of my career around communications, connectivity, and the technologies that bring businesses and their customers together, and […]",
+    "tier": 1
+  },
+  {
+    "title": "Plain Language Is A Total Experience Imperative",
+    "url": "https://www.forrester.com/blogs/plain-language-is-a-total-experience-imperative/",
+    "source": "Forrester Blog",
+    "publishedAt": "Fri, 13 Nov 2026 17:31:28 +0000",
+    "snippet": "Have you ever read a communication three times and still had no idea what it was trying to tell you? Maybe it was an explanation of benefits from your health insurer, a letter from your bank about a fee change, an order update from a retailer, or a notice from a government agency. When this […]",
+    "tier": 1
+  },
+  {
+    "title": "The Microsoft Outage Demands An End To Vendor Concentration Risk And A Commitment To Resilience",
+    "url": "https://www.forrester.com/blogs/the-microsoft-outage-demands-an-end-to-vendor-concentration-risk-and-a-commitment-to-resilience/",
+    "source": "Forrester Blog",
+    "publishedAt": "Fri, 13 Nov 2026 17:07:35 +0000",
+    "snippet": "Sometime around 1 p.m. ET yesterday, Microsoft services supporting Outlook, Teams, and many other services went offline. Attempts to apply patches or revert to a prior state didn’t immediately work because servers were quickly overwhelmed by a backlog of traffic as they came online. Microsoft had to shed load and throttle downstream traffic, likely explaining […]",
+    "tier": 1
+  },
+  {
+    "title": "Define Your Business’s Operational Technology Before Attackers Do It For You",
+    "url": "https://www.forrester.com/blogs/define-your-businesss-operational-technology-before-attackers-do-it-for-you/",
+    "source": "Forrester Blog",
+    "publishedAt": "Fri, 13 Nov 2026 15:32:01 +0000",
+    "snippet": "Attackers increasingly know which connected systems can disrupt a business, even when defenders don’t. Security leaders must identify and protect critical operational assets before their exposure becomes the next costly disruption.",
+    "tier": 1
+  },
+  {
+    "title": "Tokenomics Needs A Taxonomy",
+    "url": "https://www.forrester.com/blogs/tokenomics-needs-a-taxonomy/",
+    "source": "Forrester Blog",
+    "publishedAt": "Fri, 13 Nov 2026 14:01:55 +0000",
+    "snippet": "The turquoise killifish reaches maturity in two weeks, faster than any other animal. The Tokenomics Foundation is growing up almost as fast. After launching less than five months ago with the mission of creating a shared discipline for managing AI and related token costs, it’s quickly evolved into something much more ambitious: a methodology to […]",
+    "tier": 1
+  },
+  {
+    "title": "The Guide to Salesforce Agent, Application, and Headless Development",
+    "url": "https://www.salesforce.com/blog/salesforce-agent-application-development/",
+    "source": "Salesforce Blog",
+    "publishedAt": "Fri, 13 Nov 2026 18:20:34 +0000",
+    "snippet": "Deploy robust, secure AI solutions with Salesforce’s development approach, designed to fit the size and skillset of your team and business priorities.",
+    "tier": 1
+  },
+  {
+    "title": "Meet your new teammate: Building marketing workflows around AI agents",
+    "url": "https://martech.org/meet-your-new-teammate-building-marketing-workflows-around-ai-agents/",
+    "source": "Martech.org",
+    "publishedAt": "Fri, 13 Nov 2026 14:24:28 +0000",
+    "snippet": "AI agents are changing how marketing works. At the November MarTech Conference, we discussed how to build workflows that combine AI efficiency with human judgment, quality control, and governance.\nThe post Meet your new teammate: Building marketing workflows around AI agents appeared first on MarTech.",
+    "tier": 1
+  },
+  {
+    "title": "Same B2B Google Ads Keywords Cost About 21% More, Agency Data Shows via @sejournal, @MattGSouthern",
+    "url": "https://www.searchenginejournal.com/b2b-google-ads-keywords-cost-more-agency-data/597426/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Sun, 15 Nov 2026 11:30:33 +0000",
+    "snippet": "One agency's data on 14 B2B advertisers finds the same non-brand Google Ads keywords cost more per click, even after controlling for their own spending.\nThe post Same B2B Google Ads Keywords Cost About 21% More, Agency Data Shows appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "YouTube’s Clips Tool Turns Podcast Episodes Into Shorts via @sejournal, @MattGSouthern",
+    "url": "https://www.searchenginejournal.com/youtube-studio-clips-podcast-episodes-shorts/597408/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Sun, 15 Nov 2026 10:00:48 +0000",
+    "snippet": "YouTube expanded its Studio video clips tool to Shorts, letting creators turn segments of long-form videos, like podcast episodes, into vertical Shorts.\nThe post YouTube’s Clips Tool Turns Podcast Episodes Into Shorts appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "Core Update, ChatGPT Business Hub & AI Mode’s New Model – SEO Pulse via @sejournal, @MattGSouthern",
+    "url": "https://www.searchenginejournal.com/seo-pulse-core-update-chatgpt-business-hub-ai-modes-new-model/597135/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Sat, 14 Nov 2026 13:00:00 +0000",
+    "snippet": "A core update rolls out, AI search gets a new default model, ChatGPT shares mention and click counts, and sites plan for less search traffic.\nThe post Core Update, ChatGPT Business Hub & AI Mode’s New Model – SEO Pulse appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "United Lets Search Engines Index Its Site, Makes AI Agents Ask First via @sejournal, @MattGSouthern",
+    "url": "https://www.searchenginejournal.com/united-ai-agents-permission-search-indexing/597418/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Sat, 14 Nov 2026 10:00:14 +0000",
+    "snippet": "An airline's updated terms let search engines index public pages but require written permission for AI agents and bar AI grounding on its data.\nThe post United Lets Search Engines Index Its Site, Makes AI Agents Ask First appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "Meta & OpenAI Agents Made Nearly 90% Of Agent Requests In Bot Data via @sejournal, @MattGSouthern",
+    "url": "https://www.searchenginejournal.com/meta-muse-ai-agent-requests-human-security/597388/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Sat, 14 Nov 2026 08:00:52 +0000",
+    "snippet": "Two companies' AI agents made most of the requests observed in one month, and most went to product and search pages rather than checkout.\nThe post Meta & OpenAI Agents Made Nearly 90% Of Agent Requests In Bot Data appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "Google Explains How To Find Search Traffic In Analytics & Logs via @sejournal, @MattGSouthern",
+    "url": "https://www.searchenginejournal.com/google-search-traffic-analytics-logs/597382/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Sat, 14 Nov 2026 00:02:10 +0000",
+    "snippet": "A Google Search help page lists the referrer values Search traffic sends, why some visits arrive with none, and why counts differ from Search Console.\nThe post Google Explains How To Find Search Traffic In Analytics & Logs appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "AI Bot Management: Why SEOs Need More Than Block Lists via @sejournal, @chrisgreenseo",
+    "url": "https://www.searchenginejournal.com/ai-bot-management-why-seos-need-more-than-block-lists/597148/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Fri, 13 Nov 2026 20:00:48 +0000",
+    "snippet": "Blocking an AI training crawler isn’t the same as blocking a retrieval bot. Here’s why SEO needs deliberate bot policies, not block lists.\nThe post AI Bot Management: Why SEOs Need More Than Block Lists appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "Google Lets Target Frequency Pair Non-Skippable Ads With Shorts via @sejournal, @MattGSouthern",
+    "url": "https://www.searchenginejournal.com/google-target-frequency-non-skippable-shorts/597333/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Fri, 13 Nov 2026 18:26:51 +0000",
+    "snippet": "Target frequency campaigns can pair non-skippable ads with Shorts and in-feed ads, an updated help page says. Here's what changed and where the limits are.\nThe post Google Lets Target Frequency Pair Non-Skippable Ads With Shorts appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "72% Of Worker’s Say Their AI Skills Are Untested – Here’s How PPC Managers Prove Theirs via @sejournal, @gregjarboe",
+    "url": "https://www.searchenginejournal.com/72-of-workers-say-their-ai-skills-are-untested-heres-how-ppc-managers-prove-theirs/596205/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Fri, 13 Nov 2026 18:00:02 +0000",
+    "snippet": "Turn Google Ads automation decisions into proof of your AI skills, with a practical record of overrides, checks, and campaign results.\nThe post 72% Of Worker’s Say Their AI Skills Are Untested – Here’s How PPC Managers Prove Theirs appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "Election Advertising Drove 10% of Viewers to Seek Ad-Free Options",
+    "url": "https://www.adweek.com/convergent-tv/election-advertising-drove-10-of-viewers-to-seek-ad-free-options/",
+    "source": "Adweek",
+    "publishedAt": "Fri, 13 Nov 2026 16:58:11 +0000",
+    "snippet": "Survey shows many viewers also muted ads or switched channels.",
+    "tier": 1
+  },
+  {
+    "title": "Lyft Is Testing a Prominent New Ad Placement",
+    "url": "https://www.adweek.com/commerce/lyft-is-testing-a-prominent-new-ad-placement/",
+    "source": "Adweek",
+    "publishedAt": "Fri, 13 Nov 2026 16:18:55 +0000",
+    "snippet": "Brands can now take close to full ownership of the Lyft home screen that people see before booking a ride.",
+    "tier": 1
+  },
+  {
+    "title": "Ticker: Savannah Guthrie to Remain on Today After Contract Extension",
+    "url": "https://www.adweek.com/tvnewser/ticker-savannah-guthrie-to-remain-on-today-after-contract-extension/",
+    "source": "Adweek",
+    "publishedAt": "Fri, 13 Nov 2026 16:16:34 +0000",
+    "snippet": "NBC News has canceled the primetime program Stay Tuned, which aired on NBC News Now.",
+    "tier": 1
+  },
+  {
+    "title": "Monday, Nov. 9 Daily Cable News Ratings: Fox News and MS NOW Battle It Out",
+    "url": "https://www.adweek.com/tvnewser/monday-nov-9-2026-daily-cable-news-ratings/",
+    "source": "Adweek",
+    "publishedAt": "Fri, 13 Nov 2026 15:49:59 +0000",
+    "snippet": "Primetime belonged to MS NOW and CNN programs.",
+    "tier": 1
+  },
+  {
+    "title": "Content Marketing Institute Team",
+    "url": "https://contentmarketinginstitute.com/author/content-marketing-institute-team",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-11-15T14:00:48.358Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Social Media Content",
+    "url": "https://contentmarketinginstitute.com/content-creation-distribution/social-media-content",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-11-15T14:00:48.363Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "AI Content Creation & Tools",
+    "url": "https://contentmarketinginstitute.com/content-creation-distribution/ai-content-creation-tools",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-11-15T14:00:48.363Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Content Marketing University",
+    "url": "https://www.contentmarketinguniversity.com/?utm_medium=referral&utm_source=cmi&utm_campaign=navigation",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-11-15T14:00:48.363Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Content Marketing Certification",
+    "url": "https://contentmarketinguniversity.com/content-marketing-certification/?utm_medium=referral&utm_source=cmi&utm_campaign=navigation",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-11-15T14:00:48.363Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Global management consulting | McKinsey & Company",
+    "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9ueEdNUGF3dEdDT29sQzBBTWJqZFVCRFNRUW00N3VsaExhQmEzbmFkTTBqbVJfbmF6S0dBLUhB?oc=5",
+    "source": "McKinsey & Company",
+    "publishedAt": "Fri, 22 Mar 2013 13:44:24 GMT",
+    "snippet": "Global management consulting | McKinsey & Company&nbsp;&nbsp;McKinsey & Company",
+    "tier": 3
+  },
+  {
+    "title": "AI Experience Designer, United States - BCG X",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYWhndXRYSlR2aWpSV1k4dzhsckpoM0J2b0hhV2l3M29MOFFYWjA1MnJIRGNRUTJvUkctcXJDSTdNQXpRV2tuY1MwZWlHd1Z3cWRWclM2UXl6Q0gwU2JUU3ZqUm9DdE1lRDFUWmZpMHh5THNYS2tPZ1VXMnBDVHhXS19ZMVpLQ1lyR292c01xNA?oc=5",
+    "source": "Boston Consulting Group",
+    "publishedAt": "Sun, 15 Nov 2026 06:46:51 GMT",
+    "snippet": "AI Experience Designer, United States - BCG X&nbsp;&nbsp;Boston Consulting Group",
+    "tier": 3
+  },
+  {
+    "title": "Activating HR's Strategic Value: Lessons Learned from Customer Loyalty Success",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZlpXQlZ5N2ZtLUMySzB6TDhidTJPVVZtRHYzQ1NMZzRsN00xVjZsMnZHaERVaXFGN0haeklCRnB6NTcySzZzYk9aWTFwaURGLWsyNGdOR0EzQU5sSkhCdmFpX2thNXhvTElSUjBQSG5EMjdTejF1bkhFRUhtSWZOWGw0TkZXckNIUTdQMUgwRm10STEzN1BpTDdYdlhZRWpiQi1kRHowNEZhYVRKaEpWcU1fRlpWdHJQWmE0NVdKVEEwWTliU2c?oc=5",
+    "source": "Gartner",
+    "publishedAt": "Sat, 14 Nov 2026 15:54:36 GMT",
+    "snippet": "Activating HR's Strategic Value: Lessons Learned from Customer Loyalty Success&nbsp;&nbsp;Gartner",
+    "tier": 3
+  },
+  {
+    "title": "Ishan Dadhich",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nMGhHcUFQaVFMOUtvUW9qeDVEOGozcGt1T2t6TjNfWFVmUFJKYi00NEVaRUV1ZGJXRjFmRW1HM2NCTDRjZWNFbWROb1gwQmdyVW51SDRZOXJ2ME40UWc?oc=5",
+    "source": "Gartner",
+    "publishedAt": "Sat, 14 Nov 2026 15:54:36 GMT",
+    "snippet": "Ishan Dadhich&nbsp;&nbsp;Gartner",
+    "tier": 3
+  },
+  {
+    "title": "Neil Suthar",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQeExUQ29lQlJrTFdMSl92eFJTQWRsTWtOVHBITDk1N1VrSmRIWTF6dHBDdlF3SXNjYUdrUFJkOTdQbGpjRVRSd2FueUZ2WVBvOFliRDZYUmxwNlE?oc=5",
+    "source": "Gartner",
+    "publishedAt": "Sat, 14 Nov 2026 15:54:37 GMT",
+    "snippet": "Neil Suthar&nbsp;&nbsp;Gartner",
+    "tier": 3
+  },
+  {
+    "title": "Rajesh Kandaswamy",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWWkdIZ0w1Q0picEN2OENrYXNYMF93VEExTDBOa1JYUjRaWDhHTm9FUklwLWRCZTJ0NlFaUnQ4UWcwVDFaTlY2VzVWcDAyTjhBb0NjVA?oc=5",
+    "source": "Gartner",
+    "publishedAt": "Sat, 17 May 2025 22:18:28 GMT",
+    "snippet": "Rajesh Kandaswamy&nbsp;&nbsp;Gartner",
+    "tier": 3
+  },
+  {
+    "title": "Stop AI Tech Debt: The 2026 Guide for CPOs",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZmRVb051S1VhMkI5WnVhWlY4UGJieV95U3o0VTU0WHh0eGsyVVVUQ09LT29UNUI0amdvLWF4cElGYllIQ3F6YUZrLVNaNUtYZlFjZG9sN2ZyeG92MHhobzdaZVMzeGhodlVDa1hTNXpwVjh2ODFlWl9LbEpMd19ndlFjZ1Y3NG5EQlM2RHNIM2Qyby1kV0E?oc=5",
+    "source": "Gartner",
+    "publishedAt": "Sat, 14 Nov 2026 15:54:37 GMT",
+    "snippet": "Stop AI Tech Debt: The 2026 Guide for CPOs&nbsp;&nbsp;Gartner",
+    "tier": 3
+  },
+  {
+    "title": "Joe Stuart",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5VFVHNlRTeDZPQVV3MXViWE1KbzBKaWV5clNDSHJ3MVBTUEZfWUZ6V3cyeDdHdmdEUngwdVYxakpfS0NObzJUdUh0akpHTXl2ZzNlTWtTcGVHUFU?oc=5",
+    "source": "Gartner",
+    "publishedAt": "Sat, 14 Nov 2026 15:54:35 GMT",
+    "snippet": "Joe Stuart&nbsp;&nbsp;Gartner",
+    "tier": 3
+  },
+  {
+    "title": "Christopher Blackburn",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zRW5nU2JseGtKZlExaHNkc3pMYnNQQTNodF9RMDFkMTd0VERwVWlLSVlaTk5uR3JmR1ZSN2dxN2NzcU5XQlB5ZUFyWHhMdkk0ZkV0OExqWWxmWkJnZkxlTXh1QmxuNzF1?oc=5",
+    "source": "Gartner",
+    "publishedAt": "Sat, 14 Nov 2026 15:54:36 GMT",
+    "snippet": "Christopher Blackburn&nbsp;&nbsp;Gartner",
+    "tier": 3
+  },
+  {
+    "title": "DataHub: Discover Metrics That Matter — All in One Place",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iNFU5eC1RTmM4Z3lFbnZiV3Rxd08wOGdWYktmR2hXSFVmWGoyZEpITjJaWWZoUXhsb2RxdGpHV1NTS0RkR2FnbFB3eEFYejBBLWZOeWZ5NU92d3FXd2k3aE5kUVc3WFk?oc=5",
+    "source": "Gartner",
+    "publishedAt": "Sat, 14 Nov 2026 15:54:36 GMT",
+    "snippet": "DataHub: Discover Metrics That Matter — All in One Place&nbsp;&nbsp;Gartner",
+    "tier": 3
+  },
+  {
+    "title": "Scott Morgan",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qTjdyR2lsLVlXenVhRFBPUE5jRTdyLUE3N3F3dVFXT25FVlBOb0pUbWdCZ3ZiRGctRFFiWlVxd3Y0VVBKeXl3cG15X1pOMzdNLXRHZHVQUF8yQUhx?oc=5",
+    "source": "Gartner",
+    "publishedAt": "Sat, 14 Nov 2026 15:54:36 GMT",
+    "snippet": "Scott Morgan&nbsp;&nbsp;Gartner",
+    "tier": 3
+  },
+  {
+    "title": "Sadaf Fatima",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuWDJRRkdISHM5NUdkd25JaFFaeWRhR29Cd1N0RExjWUtGRHBQZzNXU2trTTdxMzBqQlRFaDdQQk5MNG9nMml5UUI4N1I4R1FnRzFjYWdYZ01WM2lp?oc=5",
+    "source": "Gartner",
+    "publishedAt": "Sat, 14 Nov 2026 15:54:35 GMT",
+    "snippet": "Sadaf Fatima&nbsp;&nbsp;Gartner",
+    "tier": 3
+  },
+  {
+    "title": "World Models Shift AI From Generation to Prediction",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yVHg0S19lbTZOYmt5b1Zrak95OU15YkJJODRCcVpPTlB6a29RREpQMGpKSlVEU3MzZnlrZ3lkLUNFbDNEaTBrckFvWXRiQkRCc1FOTXpYTFJ5bkcyQWNfS2QyUHJZYkUyd1NsNk45SQ?oc=5",
+    "source": "Gartner",
+    "publishedAt": "Sat, 14 Nov 2026 15:54:36 GMT",
+    "snippet": "World Models Shift AI From Generation to Prediction&nbsp;&nbsp;Gartner",
+    "tier": 3
+  },
+  {
+    "title": "Managing Partner, Central Government in London, London, United Kingdom",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWFdEaWlvckhIWkdRZFE0VkJsaEVlTjV0OVVwSnIxRmllTWUxOEM1T3BQTnZSZkhZaHprdGx0ZUtuRnZWdi14U3JYNTZiQWg2cHBwUUdXNXZrT1RDLXJwNm5lSW05MTJ0UDhzRWFvdGNobXNQdmpVRlN5YVNSVnVCMnAyYw?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Sun, 15 Nov 2026 11:21:08 GMT",
+    "snippet": "Managing Partner, Central Government in London, London, United Kingdom&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "Director, Global Conferences, Creative Journey & Branding in Irving, Texas, United States of America",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZDRwWVlsbm5rMC1zcHdvZU56cmZsZUtZVXBtbEVucndKUmZRVlpnZWgtdGd3aVRwbmxsTEtNWENxY2d6TFliOXJPZHJlbldLVlRWS3VLUml2NkU3QXdJMFQtVUp1b1BzVjZxM3ROd2FiM04yQU03dzAtZ1pIaEtzSk5XMWs4YVl3WC0yNDVKbWY4a0dlUHF6VUpoNA?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Sat, 14 Nov 2026 15:30:59 GMT",
+    "snippet": "Director, Global Conferences, Creative Journey & Branding in Irving, Texas, United States of America&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "Senior Account Executive, LE/GE, GTS",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVUJhUWViQW81RFBDVUkwV1JPNEpxTk1peHk4RkFyb1FVel9iZzRISm5qMzAxS3ZMOGdXZUFQYnJyeGpaVjhHU3dhUHhzbnhyOWtsandhelRXMkFIN1B1YTE5a0tXeXNzYjNQQnkyWkloSy1ub3FZUlNKSldfVFZPcmdB?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Sat, 14 Nov 2026 16:48:52 GMT",
+    "snippet": "Senior Account Executive, LE/GE, GTS&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "Sr Recruiter- German Speaker in London, London, United Kingdom",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZSUE0bVlWOHFld3d5bHVlamxzQjRjbHZ1SDVXR3ltNkdIZ29rblpnOU1aelhNNzdmeFFyMjJxR0M4cmF2TVpiQ3NaQXdjOWdVV3JlRTF6MmMxVzduaEo0TlMxRkkwU3p3ZWg2VTN3SFRVOGdsQUZ3dQ?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Sat, 14 Nov 2026 15:30:58 GMT",
+    "snippet": "Sr Recruiter- German Speaker in London, London, United Kingdom&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "Signify's Interact update lets lighting networks flag their own faults",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS0kzTU5URnNucWJxRFA4LVNfY0Z1OXhuYmkxUW1zV291YTA5RWt6Rnl6SE9OdHlTelBqcTlRU3JnZFJicDQwQkNPYmxDMUM5N1ZBRTVFS1B1WktSRkFHaGhKTkRSaUlzM2VaalN0WG5xblVyNkhNZUQwMW9OLVZSa3Y2RHpTYVJYZnJBWUFIZXE1RDRTZktfSTl3SVpGeXJnSTNWS1o0SjV3OW4zZ1hrWlJmRkJ5YnhzdjZ3U0dSVGlrdDlTTk80?oc=5",
+    "source": "MarketScale",
+    "publishedAt": "Sun, 15 Nov 2026 02:22:16 GMT",
+    "snippet": "Signify's Interact update lets lighting networks flag their own faults&nbsp;&nbsp;MarketScale",
+    "tier": 3
+  },
+  {
+    "title": "US Elections Impact Asset Managers Beyond Markets",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbHFMaUhXSS01VjJ4Z0dRQlRwbHN5TWc0OWY1T3llZmFFYzFDc0xVUnBLSGNXTUZjNU1kOW1QdUtuTV9mWTlnLTRFRFotcHRrd0tPZG1mT2JGR1U2OE5ZVTBHa0tXcWEwMjdOUHc0T1E1Q2ttZFRtRy1rYXJkVUhmS1l2cnliZURISV9WYWNiSGRobzJLTWUwdEVBaF9nVDRyNDN3MjhPVGtsaEZpSVNQdDkyLVJXREo3bklQYW5OanZXX3BNT2FHZVNLd2Y?oc=5",
+    "source": "Funds Society",
+    "publishedAt": "Sun, 15 Nov 2026 10:00:30 GMT",
+    "snippet": "US Elections Impact Asset Managers Beyond Markets&nbsp;&nbsp;Funds Society",
+    "tier": 3
+  },
+  {
+    "title": "The Consumer Capital 100: India’s Most Influential D2C Investors",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcFVOZnZsTmVPSkFEZzlmZ3pESGZzSjJCWGhCSzYtTnFIOHRBcHY3SmxrX0NNbVdFT1BGU0RYSTJ3eUZ6aXZCa0VuOXpLNmpaUk9iMS0waDhRVUloeVpuZFh5QmdjdUxGem5vQXdHaWFJSExSb1daNERaZDExOHVsVE1qZFZiYWVWb1JTTlJ0bWt1NjJJMDd4WWJfMFI0X1ZhZGRWQ3RPOTJvYXM?oc=5",
+    "source": "Indian Startup Times",
+    "publishedAt": "Sat, 14 Nov 2026 14:12:41 GMT",
+    "snippet": "The Consumer Capital 100: India’s Most Influential D2C Investors&nbsp;&nbsp;Indian Startup Times",
+    "tier": 3
+  },
+  {
+    "title": "Seismic Research Shows Sellers Play A Bigger Role In High-Stakes Decisions",
+    "url": "https://demandgenreport.com/articles/seismic-research-shows-sellers-play-a-bigger-role-in-high-stakes-decisions/",
+    "source": "Demand Gen Report",
+    "snippet": "Seismic's research found that most B2B leaders trust human guidance over AI-generated content, suggesting sellers play a bigger role in high-stakes decisions.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "'Tishman Speyer Account-Based Growth Engine' has won Bronze in Industry - Property at the B2B Awards 2026",
+    "url": "https://www.thedrum.com/creative-works/project/the-drum-tishman-speyer-account-based-growth-engine",
+    "source": "The Drum",
+    "snippet": "This award-winning case study details how Tishman Speyer transformed its go-to-market approach with an account-based engine, achieving significant improvements in reach, conversions, and cost efficiency.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  }
+]
