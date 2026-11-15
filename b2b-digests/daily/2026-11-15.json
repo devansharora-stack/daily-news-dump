@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-15",
+  "type": "recap-week",
+  "topicA": "AI Visibility and Search Optimization for B2B",
+  "topicB": "B2B Content Marketing Strategy",
+  "recap": {
+    "intro": "This week you explored two areas of B2B marketing: understanding how your brand shows up in AI search results and crafting effective content strategies.",
+    "bullets": [
+      "While AI tools like ChatGPT send very little direct traffic, appearing in AI answers can act as a valuable \"digital billboard\" for brand building.",
+      "For B2B content to truly convert, it must directly address the specific problems and challenges that potential business customers are experiencing.",
+      "Despite widespread AI use in marketing, proving the financial return of automated efforts remains a top challenge for many teams.",
+      "Even with AI providing faster insights, companies often struggle to use this information effectively due to a lack of trust or internal collaboration."
+    ],
+    "closing": "This week you learned that a clear strategy and strong internal collaboration are key to making both AI and content marketing truly effective."
+  },
+  "resources": [
+    {
+      "headline": "4 Datasets On AI Visibility: ChatGPT Sends 0.62% Of Google’s Organic Traffic via @sejournal, @gregjarboe",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/ai-visibility-isnt-a-sham-most-ways-of-measuring-it-are/594405/",
+      "topic": "AI Visibility and Search Optimization for B2B"
+    },
+    {
+      "headline": "Scrunch vs. Ahrefs: AI visibility tracking comparison",
+      "source": "HubSpot Marketing",
+      "url": "https://blog.hubspot.com/marketing/scrunch-vs-ahrefs",
+      "topic": "AI Visibility and Search Optimization for B2B"
+    },
+    {
+      "headline": "Obstacles in marketing automation and how to fix them [2026]",
+      "source": "HubSpot Marketing",
+      "url": "https://blog.hubspot.com/marketing/marketing-automation-challenges",
+      "topic": "AI Visibility and Search Optimization for B2B"
+    },
+    {
+      "headline": "Digital marketing strategy for B2B business: the parts, and why they have to work together",
+      "source": "Red Fox Digital",
+      "url": "https://redfox.digital/digital-marketing-strategy-b2b-business/",
+      "topic": "B2B Content Marketing Strategy"
+    },
+    {
+      "headline": "Most B2B content misses. Here's how to make it convert.",
+      "source": "CXL",
+      "url": "https://cxl.com/blog/b2b-content-marketing-conversion/",
+      "topic": "B2B Content Marketing Strategy"
+    },
+    {
+      "headline": "AI Is Accelerating Insights — Can Your Business Keep Up?",
+      "source": "Forrester Blog",
+      "url": "https://www.forrester.com/blogs/ai-is-accelerating-insights-can-your-business-keep-up/",
+      "topic": "B2B Content Marketing Strategy"
+    }
+  ]
+}
