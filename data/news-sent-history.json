@@ -1,966 +1,6 @@
 {
   "sent": [
     {
-      "key": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html",
-      "date": "2026-10-25"
-    },
-    {
-      "key": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
-      "date": "2026-10-25"
-    },
-    {
-      "key": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
-      "date": "2026-10-25"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWFZ1MlA2R2VWbmRYdTRocHRXaFBnVjBPVFhlSVV3X0R0aXF2S0lIM2FTcG50RmpMcHNpMkdxcW9QVWJfSWVSRmFpRFdySFBzNzd5TVhKWFVXaWo3Yk9raUUtQUJrRHRXYk53MVNZeWdZNW5qTG1STWgzdjJ6MVRsNk9NZ2xWSUtBQjB4RW5hdHUzMDFPOEFRSHRHSHNsOWEtb2ZDVllSMkFtOFE",
-      "date": "2026-10-25"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTGI2VG16R0JROWdySVhPRDVvUXNoVVhESV9ic01OVktVS1pLZGpnbS1pcThtRURMZm9wblNrLUJab2xld3BwbEg2RVI5UEZMdkJCUFRCb0FGY2lOWVdmLTdIRk5ZN0FiWjNXTWhiX2t3UHFzMU41MGxocjFwYk9Hc2NBejlObzNCZUxyUjhGS1p2Ym9SRDVNVXc4dm1WQ2RsZFQ1Ug",
-      "date": "2026-10-25"
-    },
-    {
-      "key": "https://www.cnbc.com/investingclub/2026/10/24/ai-funding-fears-rattle-wall-street-heres-how-were-adjusting-our-portfolio.html",
-      "date": "2026-10-25"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks",
-      "date": "2026-10-25"
-    },
-    {
-      "key": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable",
-      "date": "2026-10-25"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcnRMNFJlM3M5czJrbmZfdXZJeFdxb2N2aFFINktzZjk0ZzBKdFFnNUcxRDZXTnptU1RVc3BDSV9LYkpzdWdiUXRtTWFSb015aXhjdW1fWXZSNW1iaU9oZmZHQi1NQ2RuQm1pQ01HOXdkNDd5VWduME5WYzQ2b1ROUnpsOA",
-      "date": "2026-10-25"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQmpfN1owaDh4RUZwRGtkeHYxUTI3Q3BZbXFuWEo1c2pZcGZRVTNvdlhJTTljeUtqWFJPX2JzTWRpdlVDajNUZHNMSDdxUTZpWUxuVmlnekJ6blAxMk5PRV8zdDFtbzdBYjNuZHFyTkhFZi1YTGNvc1BEenB2RE5KdXl6b2x6MkFjdERoaVdNLW1uTUt3U2ZHOUQ0dVBzV1lMVDl5c0hrVXozZDlwSWxrR3UxaFBjbzNSX093d0FWVGhuVnVuNlJ6Uk5rN05WelEzbUVnZmNQOWVjaGZJQXc1VkUxN0FQNENJMHNKSGZ3",
-      "date": "2026-10-25"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "date": "2026-10-25"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcHpyd0dWM0xXTi1Yenc5LWRtYlhZXzUydG5yc1BDaWRiWlZjZk0tYU5hVGRqYl9fNjhXNW5PRHN4T3F3azZmdU1EaWIzdG1BaWFwNzI5S0dDYUdyeFN0cWRMeUw3N2F5dkd5YjUzWFN6NWJOSENUQXNXVi1KY1oxNy1FVDJQbDRCdWfSAY8BQVVfeXFMTlIxSHBHSDdaQXpRdnBiQzdveFFyRWdFSXVnUkhGOFVHdGstSFNaSmhjVnNDNi1OcklJYktNSlNXOVRxbkt0VlNvRjRGeUUxbFNpX1V6VUhrLUVpS1lBRUJtNFducmRWbU5yQ3ptMFByX2xiOUd3SW56cDdCRW84VzVZeDE3dnF0QlFhVmc3MnM",
-      "date": "2026-10-25"
-    },
-    {
-      "key": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-      "date": "2026-10-25"
-    },
-    {
-      "key": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "date": "2026-10-25"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats",
-      "date": "2026-10-25"
-    },
-    {
-      "key": "https://hbr.org/topic/subject/innovation",
-      "date": "2026-10-25"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZGRUa2hEa2NMdjFRVllHNkh3bXExbk9mNm56UWV6dGdaNkQ4SDRab3VKNU9FNnZQSThZM1F3VDVXUEl2Qmdqb0xFS2pLUVI2UWFwV0VHQkJLYTQzdWwyUXFZY3ptN2RCS2piaXAtb3lOZ1lWQ1lLZGo0UHZRTnhhMVJ1LTRMc0MxSXJsS3l5X3dQa0Rw",
-      "date": "2026-10-25"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOXzhWN2NzQVFyalV6V2FpV2JGTm93MHhod1RaX1A4ZC1KTTNPVHBhQ1ROMGY1cU50QlRHWnFVVEdYSjJON21DcHhWUWdnNlBpWUk5VWh4djdNM2otWldPMGw2NEhnXzRPeDE3a05BNXI5RHpCNTFJRTVzcjBjdlhKVGVHcDZrQUM4ZFowQ3l1a0x1RWh5TGEzdThTTW4tR1Yt",
-      "date": "2026-10-25"
-    },
-    {
-      "key": "https://www.cnbc.com/2026/10/24/ai-customer-service-jobs-work.html",
-      "date": "2026-10-25"
-    },
-    {
-      "key": "https://hai.stanford.edu/news/tracking-ais-real-time-footprint-on-the-labor-market",
-      "date": "2026-10-25"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaXNOamFucjdwSG8xRUJGc0RiN3hSVlk2UWRwMEVVa3ZuRF9SQW9sdzFpTzYwZkx2Z0FqcVRHMFdmelI4SDl5b21vWGJSZFNYODhzaklmQnBMd2c0blQ1dWlsTTVzN1YxbXNhdTJERFlmcUxTN2NJdXdka0tFd2RVdG5rMmh1VXc0OWpHVjNzTnYwakZPa3Q4NlplUTVHWHJwb3RyWmUxZ2s0WEVCZDhmYzVYZ0RzTnBZMmfSAbYBQVVfeXFMTWpPWUdERTI3aEdaRVdCaUttZlBUSkdiYk9sUXE1SVcyS1BWRkY4SUtMdmNtZGdERnY4YmZ0Z3BhMHdVTFdhb0lQMGlab1hROHlZMkI0bnhFV0R4M3NEZ2sxUU1Scm9rQkZQaW5QVjRRMlUtN0xEaUFoV1ZNZDVmRnkzM2p6YXg3RGpmMGZKay1FbVFFNTRXVE5DREp6dUdoMURCMlFRQlZaY0VRWElzdGlfV2JVYUE",
-      "date": "2026-10-25"
-    },
-    {
-      "key": "https://www.cnbc.com/2026/10/23/tiktok-us-compute-capacity.html",
-      "date": "2026-10-25"
-    },
-    {
-      "key": "https://www.cnbc.com/investingclub/2026/10/23/ai-agents-could-disrupt-bank-deposits-why-wall-street-may-be-overreacting.html",
-      "date": "2026-10-25"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
-      "date": "2026-10-25"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia",
-      "date": "2026-10-25"
-    },
-    {
-      "key": "https://www.cnbc.com/2026/10/23/nvidia-huang-investment-kazakhstan-.html",
-      "date": "2026-10-25"
-    },
-    {
-      "key": "https://hai.stanford.edu/news/humans-and-ai-engage-in-meaningful-collaborations",
-      "date": "2026-10-25"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
-      "date": "2026-10-26"
-    },
-    {
-      "key": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
-      "date": "2026-10-26"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbGRFTkgtMFRDaE5CTk50V3VDM3pJakt2LU9sbk9OMFp3elUzX2dsTDEwX3NLVEd3YUw2LTMwRmZBc3djR3FPelIzdG5kSjMzN09hVFVRRkF3eWdWYTRyQmxFVzRqRWs0d1RpUzRFbnI2M1g3aG53bDUtWXJFQ1N1cng4U2V5dmI5SzlYVkQ5NWdyZVlYZldFQUJDUkstYWtYUnpVaHcyblFYbFhFTmtjMDV6bVY",
-      "date": "2026-10-26"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5wdW5vOHQtcElMTmVBTWxla09iSFZQRVp6Mmd2eDlCLVBYeTBnZE9Mc1g5SFI1MXRoWGdYYVZKZWJ0cVJJOUIyVmlEaTE3V2loekhJcWEzRlNCaUloTUFocWE0clgta29KbFRMb2xvSVZsOEZuV25uWXR3",
-      "date": "2026-10-26"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTWhiWUJRNTl1aDh3U01FT0pBUFZlUUNrcHVTckN2bXkxbHB4bzVoZkY1RmFCeFQzdnpGX1d5SVJZR0thXzJYcWJVZURXUGF6VnlVa1FWXzl5VUhLVEhETlAtTURaQUxJZ0RZMFlQb0c0Q251QXdXSzJXTTQ1eE1SY3J3c1Ric1FLNkZDVA",
-      "date": "2026-10-26"
-    },
-    {
-      "key": "https://hbr.org/topic/subject/technology-and-analytics",
-      "date": "2026-10-26"
-    },
-    {
-      "key": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-      "date": "2026-10-26"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaWN3TFkwUmc5ZXRCTl9SMV93V3Q2ZzVVZHJtOXZyb3ZDTWEwbUxhS2g5WkN2aU9BX2VrcV80eklRblQ5cFAtSnBqTGZtVDEzQnZzcmt5UTBqdzFTcU9mQjFxcElPYlhVeVNlNGFmWmVBcWhIQ0g3b09OWVE5d0dMbnk1X053azdQeFVSUEx3VUFROE5jQkY0UEExQ09SRGxPVnM3dF9VWlpkVXcybXdEUlBxMjVVQmFDcDd2X0ZfY0NOQ1gxRHBnaElB",
-      "date": "2026-10-26"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMVhkUFVGZkxlUFhvOWM1a3Ywai1teFQ2T21UdHBWWGdYR0pzbEN5V2hWY1MwQk9xT21sb21TTHB3WW5qTVRrYW9lbVpQOG95XzVtQTlkT2R4enpTU1drM0JVNHFLRGphdzNpY1hFVEt3UGxzNWlwNVJ4SWI3UDhlWi1uVlVkLWNKQXB5bGhyQzZrQ3NUZDZTRWJIYkx2TTI4QjdIdXU5Nkc2ZkpfRnItUQ",
-      "date": "2026-10-26"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdnZqZkFYbjc1QnNHS3NMbXBpZmRyYTVHWUl3clViaFQtTV9CMWJGU2pBTl9qMGxaOEpuOWt1U1JENnpPSnZnMDllZm8wRHRGRUpjVmlnNUJaTzBEY3BTNEV3QUJxMUZidXVqSHl2ZkxaV21pbGRnRkVmNkFzY2QyelFfRHY4MDBHX09mNDhtMXBxeENUM1ExUWRKb2JPbWlYY1VJbUU4MzJxcTl3SHBELUgxN1FpRWxISU9YcFdBbFd1SlFUYk9QMVlMZDdQTDZQMll6eS1TUFE1MXFybm9zSGdVdzNkaGpHaTFWRA",
-      "date": "2026-10-26"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYzBacnFXX29yWngzelFsOTd5S3dxTHBQeDJGai1kcTBlSFJ6ZlhPdFg0bFZheHpSUkV1c1BldHhCN0V1VmNKMjZIaEUtUDR5UG1SMGtoZ0l1WkZ2RnF5U0dMdGxqNkU3RVY1YkQ2em41TXB4cm9LLTExQUl4LUQ5YXNyVnpwRVUtVU5paDZIQmphMVVJMGJ6NXJaTEV6bmluWDlaelVRcjBuaXJETDhXV2VRQVIwaXM",
-      "date": "2026-10-26"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcjdsSkxreW5zc0RvY0NfVnY2SXR0YlZjNkM3R0VONFJiS1ZjWXZwNjFGaG1DRUtTVFdUU1ZVTFF3elNYZXV5NzhhUTFoVjhJb0p5LVhWZk1GVFpMcm9sLVVjcHdSV3NvcFJJRGw3WGJtZGNORDQ1UlZyQm9MUGpjN0t0WmVfVXB0Qng5TzRCbWZvZlQwMWItR2ZQc09tNDZuRzQycVNnNXhheVJlSTZOQ2JGYXQzQlo0",
-      "date": "2026-10-26"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYXgybTZOMjh6WVZmTzl3TjRhWDRDT2hWXy1CSEMyX2RPaUs4bkV0amlHMTlaeHNNTEd4ZFhGeG5zcmoxZGdZYmMtVzZya19aOC1tbWlKSGxQWndhMFBUTXNTdmxhLVhvalQwN3R6Zk44c3Q2Zk03NENPNkRvUWE3dE4td2dxelUwWi0xdU8xakpibmR0TENNam9mX2JDMGV0aG9WTG4xazJOaHVlYnN5UlJBX2RDQkxTRUlBRGpkOElRNmlhMU1qM1VuVWFsMXM",
-      "date": "2026-10-26"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPanJXbjJqSmhVTEhXbVZfTVZESnVIcmh0eTZDalpRNmZTSkVCWFJWUm41REs3SHlIRnBlZU9SZ0hKOFRhY1dHdnQ1X1pFWW9MVmNBbUx3SjVpR2t5UWl0S0xFakJlUS04LWFnQ0NZRFlYNEk3dHFydFpseDhQaDBOanF0TlJoVXcyUUptbF9JOUNVQlotY2NYM1NZMG5sV3doajFYZUFfN2twTWx2SnBFdlMwblNINlRzbkxDVWE4WTgxdmFBanpaOTdIZEhaS2pxeU5JbDZlazMxZG5yRjJsbmRtVy1aUGRiT2xvU3VneHpROG9f",
-      "date": "2026-10-26"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT1dGOHRUeUphMmNNQU1UM3A3dEN3dTFzdmtQbXpnYW5pbnVzOHczNDFHVGp3TVB3eGdSVnFkS1F4a0xJRHVFR0tVWUhkUXZpV1YxSW5qRm5oa3p1VHRNRGVURERVMGFWYWRLU3NYTzJJWmUxdkx5WXVRZXdwMVpXMmlVYURqNVlxOXh2anpCWTZlR05VNXlDb0EtUjhhOV8ya0hvblY5LUNMZw",
-      "date": "2026-10-26"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWmhrNmJ6S2p2N1VJTWhESldxZTRWbVg3eWNUMWJLLUtSeG14TnhMbFNLNXBUcV9HY1o0MXN4ZlFKWWNFUldicFpCVGF1djBuazB5bzNpMklxYzNjb1VBdFNNVVhfVjFteHVnTTVBVG50VlE1VFhKOTA1bzB1am1OUTY4b1dXZw",
-      "date": "2026-10-26"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR2FOOGZVX1JSQnZIanlHbmlpQUFmMl9Eb2NqbGJyb1lpWUFkVXNjQndJak5iN002VGxZRjBnc1ZDZEFSNVEwQ2twUEZnR3VZTlF6YlRIX25iMHpuRE1TbUNNWWZIQkJrNlVTTlhBZUNtR18wdzMwQWtPWGVvQUtFaU5hOGtPdlc2V0J6cUF1M0dyY2JBMUp5anJWamdVOFYyLTVNMmNfejhDU1E",
-      "date": "2026-10-26"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNkdrblVia0ZQTUZnRGxRMjQ5YktVb3FRY21zdkJOby1aeUxUQVowRi15azZ0OUltMF9UaVFSRGh0Y0FwRXBQNUZFcTMyOGl4Z0hWZFgyNzZhZFhUMUYwZDQ5NTg0TnJMbEJwZklOV1dKWlFLbm1iR05iSFlYM0NJUTJwTQ",
-      "date": "2026-10-26"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kVzNMOE81NjU0X3ZjazV0bmE1ejRSbUtwQXltVlVhTk5EeXZsYlRFbnNiMzhhWTdGSUgxSW5rSm9iSGYza2ZZRldJTVZJMEtrUkk1Q0xyNFFrOXNpWl9SSzhXVHJnRUJsX0NXTmpCYkwxVGpfc2dV",
-      "date": "2026-10-26"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWUlZbVNEbmd2eXB5cnFKejVjMU5VdXBsTkZjQmdpUzVITG1tdUNCZzFOZmp1bWRlV192Y2ZwLUxPX1ZTdFJPcXUwUlpBUkdOTUthREdQRTBNQkZkMXRBYk1fUWZ3cGdneERKd05PQzlLZXR0OFdvYS1MVTB1dTRZMXNObjkzTHpSRWZVYW84YlZ0Skd5MUZtOW1kT1gwSWswbXc",
-      "date": "2026-10-26"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTa1hxRFJ2UUpfekdrZWFjMDlHV3JjUFdzckk0SmV2MXBjb1o0aTBxWFp0Vk9xZFdmTU1yWGxrOGdKWjFlaUNHal9ITGNzYWlqWkRaTzVncFpyOF96YTZWTmprZw",
-      "date": "2026-10-26"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTjhjQksyclkzMVcxLTdYS3BnMWZidHJ1WXFuc2M1dFQ5bDI2SThvNzN1YUY3Znl0NmtCeDFDMGxYcGxuM1BPSm4tSVJkQXNlTERJcVdvODFkSXNwM3JVSlVHbHpqVE1LWHMzejVEdnNMMEUzdVNkZ2pvV2RFd0dZRVJhd3lES1B2VGNJa01QTzQzQkQtMjVVT0UxRmpZNDJuWEpoNkJ0dW5HRW9BZ0JsZDh0UQ",
-      "date": "2026-10-26"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMk96QWlXWXlleDdULTRxeV9ES1gxNlA4dlpGQXViQTVlTkozVTZ1REsxSmlCYzVCVWFxNFVHSUduQ2padU1iYncwSnlqT0lNX0xNbEYyeEdmTGkzQVp0eEY4b3FUNjdIdGJqa1JSLUZCSGNhejVRTmpPTmRYemMwc2x3MXpLRThVZVJnekpMOUpWOTFYenB1bUtlaHYxMVB6YnlEMWpEWVAxcmFtV2JhQW5aNWQtcWZBWkJr",
-      "date": "2026-10-26"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdk9yYlpaRElfQy1Fb21nVS1HSEFaSUFOT0Q2a0FyTFFmR095aU15MGJ0czhBdWhQQnd6Ykc5d1FpWmJSanNFejFNNElqakpVV05sOWozZ3dMQWtNNVhzak5fcmFjS295UlpEUGt6eVk4UEN0dDI4d29HN3R2M3RmQUhLZ1h4RWptZFNVZzRPUWliaFBHakFKWHpIQQ",
-      "date": "2026-10-26"
-    },
-    {
-      "key": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else",
-      "date": "2026-10-26"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQlhfR2F5aFV1TnBnUHlEZGFVV1h6eWJDRWxkeVJGRjFMalBSLTBDVFNCOXFNNTZpRkxGSWFLTDNxcHBpTTJ1N0x6aXFtNTZackYyd0oyZHdLbzBZZ2JyakU2NDYzSVN0eFQ2ZjZabkVwRjV5ZzNRSzdmN3FKLU12c3UyeXR6a3IyNzE5VGpWQmJRVEJDVTVMQUd3",
-      "date": "2026-10-26"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOb2ljbzR5OURvVmFnVFpLaU9PaXVYLS01VnVLcl9EUFEydkV3Q3FlRVktS0xadUlpd2lxdldzbmgxc1BuMGlmYVFOamN3QkFTYmpHRThWd2d3N1BnTEVBSHEwTlRTMDB3RTN2WlNucEs3SjBIZmdCVmE3OHRSQzA2b1E0TEZCNDhKMkNLdDR0TlFEQnFQU1p0YnhIU3J5QWUwb1EycVUxOWpxZjJHWURhenlvaU1EOTg5aWtkUVpOSTljR3VKa0h1R0ptU1A5czRUbWZhekdjRDl3ajItcVF6Z3QxaGl6R09YaHQ5S2c5NmtadnlxeFE",
-      "date": "2026-10-26"
-    },
-    {
-      "key": "https://hai.stanford.edu/news/how-ai-is-accelerating-scientific-discovery",
-      "date": "2026-10-26"
-    },
-    {
-      "key": "https://hai.stanford.edu/news/can-ai-be-slowed-down-stanford-hai-experts-weigh-the-risks-rules-and-race-ahead",
-      "date": "2026-10-26"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut",
-      "date": "2026-10-27"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked",
-      "date": "2026-10-27"
-    },
-    {
-      "key": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers",
-      "date": "2026-10-27"
-    },
-    {
-      "key": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer",
-      "date": "2026-10-27"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-      "date": "2026-10-27"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-      "date": "2026-10-27"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo",
-      "date": "2026-10-27"
-    },
-    {
-      "key": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
-      "date": "2026-10-27"
-    },
-    {
-      "key": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "date": "2026-10-27"
-    },
-    {
-      "key": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "date": "2026-10-27"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing",
-      "date": "2026-10-27"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant",
-      "date": "2026-10-27"
-    },
-    {
-      "key": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
-      "date": "2026-10-27"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
-      "date": "2026-10-27"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-      "date": "2026-10-27"
-    },
-    {
-      "key": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now",
-      "date": "2026-10-27"
-    },
-    {
-      "key": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "date": "2026-10-27"
-    },
-    {
-      "key": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms",
-      "date": "2026-10-27"
-    },
-    {
-      "key": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners",
-      "date": "2026-10-27"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.31985",
-      "date": "2026-10-27"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.32380",
-      "date": "2026-10-27"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.32110",
-      "date": "2026-10-27"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.32060",
-      "date": "2026-10-27"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.32469",
-      "date": "2026-10-27"
-    },
-    {
-      "key": "https://openai.com/index/greptile-code-review-codex-astra",
-      "date": "2026-10-27"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
-      "date": "2026-10-28"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo",
-      "date": "2026-10-28"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-      "date": "2026-10-28"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies",
-      "date": "2026-10-28"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative",
-      "date": "2026-10-28"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus",
-      "date": "2026-10-28"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
-      "date": "2026-10-28"
-    },
-    {
-      "key": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools",
-      "date": "2026-10-28"
-    },
-    {
-      "key": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day",
-      "date": "2026-10-28"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-      "date": "2026-10-28"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant",
-      "date": "2026-10-28"
-    },
-    {
-      "key": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience",
-      "date": "2026-10-28"
-    },
-    {
-      "key": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one",
-      "date": "2026-10-28"
-    },
-    {
-      "key": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "date": "2026-10-28"
-    },
-    {
-      "key": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
-      "date": "2026-10-28"
-    },
-    {
-      "key": "https://openai.com/index/retell-ai",
-      "date": "2026-10-28"
-    },
-    {
-      "key": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing",
-      "date": "2026-10-28"
-    },
-    {
-      "key": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
-      "date": "2026-10-28"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid",
-      "date": "2026-10-28"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
-      "date": "2026-10-28"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean",
-      "date": "2026-10-28"
-    },
-    {
-      "key": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy",
-      "date": "2026-10-28"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace",
-      "date": "2026-10-28"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.33282",
-      "date": "2026-10-28"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.33375",
-      "date": "2026-10-28"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.33617",
-      "date": "2026-10-28"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion",
-      "date": "2026-10-29"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row",
-      "date": "2026-10-29"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai",
-      "date": "2026-10-29"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows",
-      "date": "2026-10-29"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying",
-      "date": "2026-10-29"
-    },
-    {
-      "key": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-      "date": "2026-10-29"
-    },
-    {
-      "key": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "date": "2026-10-29"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps",
-      "date": "2026-10-29"
-    },
-    {
-      "key": "https://openai.com/index/the-future-of-the-firm",
-      "date": "2026-10-29"
-    },
-    {
-      "key": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed",
-      "date": "2026-10-29"
-    },
-    {
-      "key": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
-      "date": "2026-10-29"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
-      "date": "2026-10-29"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
-      "date": "2026-10-29"
-    },
-    {
-      "key": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication",
-      "date": "2026-10-29"
-    },
-    {
-      "key": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges",
-      "date": "2026-10-29"
-    },
-    {
-      "key": "https://openai.com/index/legora",
-      "date": "2026-10-29"
-    },
-    {
-      "key": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
-      "date": "2026-10-29"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
-      "date": "2026-10-29"
-    },
-    {
-      "key": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context",
-      "date": "2026-10-29"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model",
-      "date": "2026-10-29"
-    },
-    {
-      "key": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills",
-      "date": "2026-10-29"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.36631",
-      "date": "2026-10-29"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks",
-      "date": "2026-10-29"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.35942",
-      "date": "2026-10-29"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms",
-      "date": "2026-10-29"
-    },
-    {
-      "key": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control",
-      "date": "2026-10-29"
-    },
-    {
-      "key": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
-      "date": "2026-10-30"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
-      "date": "2026-10-30"
-    },
-    {
-      "key": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-      "date": "2026-10-30"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
-      "date": "2026-10-30"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt",
-      "date": "2026-10-30"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round",
-      "date": "2026-10-30"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction",
-      "date": "2026-10-30"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure",
-      "date": "2026-10-30"
-    },
-    {
-      "key": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
-      "date": "2026-10-30"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity",
-      "date": "2026-10-30"
-    },
-    {
-      "key": "https://openai.com/index/updated-model-spec",
-      "date": "2026-10-30"
-    },
-    {
-      "key": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system",
-      "date": "2026-10-30"
-    },
-    {
-      "key": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time",
-      "date": "2026-10-30"
-    },
-    {
-      "key": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections",
-      "date": "2026-10-30"
-    },
-    {
-      "key": "https://trakkr.ai/trakkr-research/zombie-stats",
-      "date": "2026-10-30"
-    },
-    {
-      "key": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
-      "date": "2026-10-30"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public",
-      "date": "2026-10-30"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
-      "date": "2026-10-30"
-    },
-    {
-      "key": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
-      "date": "2026-10-30"
-    },
-    {
-      "key": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai",
-      "date": "2026-10-30"
-    },
-    {
-      "key": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316",
-      "date": "2026-10-30"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo",
-      "date": "2026-10-30"
-    },
-    {
-      "key": "https://surgehq.ai/blog/dayjob-tax",
-      "date": "2026-10-30"
-    },
-    {
-      "key": "https://openai.com/index/ropes-gray-ai-diligence",
-      "date": "2026-10-30"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
-      "date": "2026-10-30"
-    },
-    {
-      "key": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "date": "2026-10-30"
-    },
-    {
-      "key": "https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones",
-      "date": "2026-10-30"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant",
-      "date": "2026-10-30"
-    },
-    {
-      "key": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-      "date": "2026-10-31"
-    },
-    {
-      "key": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
-      "date": "2026-10-31"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom",
-      "date": "2026-10-31"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
-      "date": "2026-10-31"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-      "date": "2026-10-31"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
-      "date": "2026-10-31"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake",
-      "date": "2026-10-31"
-    },
-    {
-      "key": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews",
-      "date": "2026-10-31"
-    },
-    {
-      "key": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-      "date": "2026-10-31"
-    },
-    {
-      "key": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs",
-      "date": "2026-10-31"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work",
-      "date": "2026-10-31"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-      "date": "2026-10-31"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents",
-      "date": "2026-10-31"
-    },
-    {
-      "key": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon",
-      "date": "2026-10-31"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people",
-      "date": "2026-10-31"
-    },
-    {
-      "key": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "date": "2026-10-31"
-    },
-    {
-      "key": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-      "date": "2026-10-31"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-      "date": "2026-10-31"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
-      "date": "2026-10-31"
-    },
-    {
-      "key": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-      "date": "2026-10-31"
-    },
-    {
-      "key": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity",
-      "date": "2026-10-31"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out",
-      "date": "2026-10-31"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-      "date": "2026-10-31"
-    },
-    {
-      "key": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "date": "2026-10-31"
-    },
-    {
-      "key": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis",
-      "date": "2026-10-31"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry",
-      "date": "2026-10-31"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.38215",
-      "date": "2026-10-31"
-    },
-    {
-      "key": "https://news.ycombinator.com/item",
-      "date": "2026-10-31"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round",
-      "date": "2026-11-01"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake",
-      "date": "2026-11-01"
-    },
-    {
-      "key": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet",
-      "date": "2026-11-01"
-    },
-    {
-      "key": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward",
-      "date": "2026-11-01"
-    },
-    {
-      "key": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "date": "2026-11-01"
-    },
-    {
-      "key": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-      "date": "2026-11-01"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-      "date": "2026-11-01"
-    },
-    {
-      "key": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse",
-      "date": "2026-11-01"
-    },
-    {
-      "key": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware",
-      "date": "2026-11-01"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.38691",
-      "date": "2026-11-01"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.38392",
-      "date": "2026-11-01"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.37849",
-      "date": "2026-11-01"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.38314",
-      "date": "2026-11-01"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.38532",
-      "date": "2026-11-01"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.38006",
-      "date": "2026-11-01"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.39045",
-      "date": "2026-11-01"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.37875",
-      "date": "2026-11-01"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.37905",
-      "date": "2026-11-01"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.38544",
-      "date": "2026-11-01"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.38398",
-      "date": "2026-11-01"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.38620",
-      "date": "2026-11-01"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.38867",
-      "date": "2026-11-01"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.38924",
-      "date": "2026-11-01"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.38631",
-      "date": "2026-11-01"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.38342",
-      "date": "2026-11-01"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.38869",
-      "date": "2026-11-01"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.37989",
-      "date": "2026-11-01"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOTEzbjByckk1dllkVlEzY1FvUEMxQmNKVGhHZ2h5M3lwVFVueW1lbTg3QlJIWmc0REExREtpRXhxOC1EVl9BY2tteWlJd092WUtPYTNYc3ctWk9GLWFFbl8wX1NGbmE4bGtuN1dqTERGTWtKVEh6XzlGbF83TUV4WE5POGlHVW96Szl1N3A4MlJMU0RPc2ltUnN3U1NaaWh6WjZfSg",
-      "date": "2026-11-02"
-    },
-    {
-      "key": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
-      "date": "2026-11-02"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYVFaVkxIcDljcHhuS0QwV0dJRFg3Z3NYLWotM3dSZGhvdER2dDBaSFNfZ3NydzJJNjJFYzNTRlE4ay1JSndWX200djA0bl82LVFYcXQ4eTBxNC1DZnRQYkFQMGJtS3dremlwczVuaDNvTE9ZdjBPVmNqcERLUjFadWUwYnZmeHBHOXhhaGZ3eVptaWpvMThNa1pmVW53X2d6a2dv",
-      "date": "2026-11-02"
-    },
-    {
-      "key": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
-      "date": "2026-11-02"
-    },
-    {
-      "key": "https://www.cnbc.com/2026/11/01/jpmorgan-amazon-ai-agents-meta-muse.html",
-      "date": "2026-11-02"
-    },
-    {
-      "key": "https://www.cnbc.com/2026/10/31/ai-agents-humans-dazzle-duckbill-meta.html",
-      "date": "2026-11-02"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY09RQkZtUy1pcGpmVXJHNXY1VzJueUNTWG9sZm9JMVRsRk5HRERRcWtWN2JiNEZBaURtbFVBX0VmcG1SN1dnVHd1ZEVHaC1JX3VOUTVUUHNlcmh0bkF6RmMzQUFEdS01ejFwUmFDSTR1Z25fVFA0Y2d5NV85U0drOG1JcVpFU0lScGlKYmtfTkZhOXM3TlhsN0RKem5BdDZ5MEF3RXRIMjdTbFVuN0htbzNQOHVYN3dad2wwb1NKdE5DQmlJalYtaUMwWUdaODZIdUE",
-      "date": "2026-11-02"
-    },
-    {
-      "key": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences",
-      "date": "2026-11-02"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SeENLVFdZWEpTSl9LeHNSWWlWN0hoYTd0a1lmZWhKSmU2aldSTlB5SUFUMFM2ZFZGVV92cmlDRFFhTFZ4R2szT096bGU2RUwyOFJObUtYUUE3T0RXcmRmLTRCYkFOTDBYM0tVcTgxM2twRmdxYzFr",
-      "date": "2026-11-02"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc1pyeGFDTWVnRTE4UjNIMmtHMTh5NWdiNmFtODNHUzlSRFZHdEREbFU2MjdvNXN1eFBRZWJOaGh2LUYtbG9VQk00NGt3TGlyVU5zaWZwQ1o4cHNrQ1A5eURIdFI3eU1Vd0hJN01Fd2l0XzVZN0k1ck5QV0ZEYmhQVjZLT2p2eHplc2RSMUMxS0pZVUplQThjQWhRbnlxY2pRQnZRa042WmpnVUF2ZVE",
-      "date": "2026-11-02"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYnFjWmd3M1RIRDNxNFpiWTQxRFZKZGhzVTBfTzFUVWZBektSZTRDb0VtdkRmTkROZDJIUFpIQ3NoZENHLUNIaVpqWnVrc2Z0OWRQTjFuYnYxU3FVbGJ2dXJudEMtem5UblBQTTNuMGlENkxiY044UEdGUThSRVY0NlQ4SWdoYmxYRXJ0WGtkd1ZpSmFQdE41RHBJMGJNWmZXeVZCYjZjUndZWWh3N0lubEpWS2hrelVpVDdxVTc1MnplUQ",
-      "date": "2026-11-02"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdEc0QWJxUkFRVnM2Zk12VTM2WXJuT3lYLTB3UGxGanp4MXE4NDJ0YU1zWEt2SkVEaU1WVmtnckNMUkpaSFVjT3M4em0tYjZraEk2dHM1ajZCeEtic05KMTJicHBDdFJDeWFCdG80clk5U2pzNHh0akR0VkJHVXhYRmFsZlY1T2xHRjEtSWc4V0ROaTJuMkRWcW5Oc0F2cHVHc2lnM1VyS0ZPMkZfUFpIb1lqRGRlSlMyYWc4b1dWa2dxVFFmcHFSQ1YzbWRhLXREb21HRUVtZ2VWXzF2SzZpQS1Hb20xQWRGMVZjYlZGUFoxVGMtQ2J3aFhEVGQ2b1pa",
-      "date": "2026-11-02"
-    },
-    {
-      "key": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
-      "date": "2026-11-02"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUjJ5WlcwYXpmZVVlZTQ3cU5pSXVTdnZqdHhTSHpVWlpPTF9RRzVOMXRleHVXNVNpbDRMclZrLXBYWW05X3FJOXhFbE9GbGlPcGFPSTZnTTRTc1dkSmhkUWhDX0Jkak1qNHN2aXA3bFQxeUZsakpMTENxOUhUeUd4TXVNTmE3cmFhZ2hrWG1CbllRMmhJSkVWZGRkcEhKOEMtT2xISkNGU0RjUEUtZ0E",
-      "date": "2026-11-02"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR3oweDhpYl9aS3lreU9GbXJZbDg3cEJtemtzRTJpaDFubG1JYTNnbEhJT3UzZEwtQjVxVndWMjl1Sm1XX1RBckpmaWpQb3FsMTd0UUtaMmJoZUpZbGluVXUwSFJaT1JYdUVMbWp4Uy15WVJ5T2VnbGZubWRwSHBYckhQQ1k",
-      "date": "2026-11-02"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LaHplQ0Z4N1FUN1RGcEx5VWQ0S1lfVTVwbUNpN2k5M1RNRTFDWnlFVlFSN1NWcUJVUGk5RU1zU19uY1otc1JxSlgxSXlwQnF2MVBHR1Bqa0dUUTFrSGhqX0tJR2JyYTQ",
-      "date": "2026-11-02"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSHc4WWpjLWhNeVBUVHN6aG9MT2o3Q3dOa0R3UFRSQmtXNVE5cXprSmZGc0JhMHd0X2NObnNmandhWnY0Z1JYUzdrOFdnSGU0Tm1jRVlseVd1OEpJdFJpNjZKd1ZDakFsUzFFRXlzMzV0LUJXQlN3RFNmY0huMV80Tk1NanhNTl9SbXBWdlV0MzVUd2ZHRzlXQ0RVUnk0V2hJNFZwRUJubGpVdzg",
-      "date": "2026-11-02"
-    },
-    {
-      "key": "https://www.cnbc.com/2026/11/02/openai-sam-altman-samsung-sk-south-korea.html",
-      "date": "2026-11-02"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTdlSVdfanZLZVB3elBDNkpjOXRrVEtqODlaaVJEakxvWUhTLU9zNEpkUkUzbUpGWVhDNEQtc2JNSEpwRFlTQUpnNkw4eU5xakpQd09OaXAzQUw2ZEJaVHRlb1N5cU1rcFZ3XzYxMl9RNWx0dGwzMGtvb1dORHNqbUVmdmd1RDZXdEFIcXc4Vmp2MEFmc1hmYXpzONIBoAFBVV95cUxQbExCZEYxVi1YOTlRaVdpZVlpb1NSZVZUWExBazBJSVBhUlZtOUM3YzhpUG1EZGE0WGZ5VkNoNDM4LTBqTG82bXktaGdzb2tmcFY5dVV3VEpseDZhNXc5SGVjOTZIWFNscmRFNDJkd0IzdHJCYkZHSUFHZG1KcVdldGdOYkd4b3NnYVFMRnB0NW9lRkxIdVhRRjFHZ0lsVm92",
-      "date": "2026-11-02"
-    },
-    {
-      "key": "https://www.cnbc.com/investingclub/2026/10/31/stocks-started-the-week-with-promise-but-ended-in-despair.html",
-      "date": "2026-11-02"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tb1haUUNRbkZzckJCdXl1bUhveG82WWhlMWQ2eFVHTm9uWXJDWmVQQVowVmJxSnBuNEExZ1l2ZGpTUmdFSlhYbWg5VTVuYlZ0WUhoR1dmUjIydXprMmNHN3R3TGoyUGY5THJZeE5VSjVQVUU",
-      "date": "2026-11-02"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdjZiZjYxWXNSN24yaTRSbk5kRTJtSzF0VU0xWnJsU2pxU1k5WnBHR3AxZV80ZUdDcTlPOEJWb2l2d21EelI1eTJTT0xFWEVPaEpJQjdFcThCNmVRdzRqRWd0Qzk1M1NRLXNaRDBweERlTW1LQ3V5a2Ytb19HX09pOFY3VXc3N2JqdUR6bGFIZC1BU2ZyZjllOWxCM0ZLdw",
-      "date": "2026-11-02"
-    },
-    {
-      "key": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
-      "date": "2026-11-02"
-    },
-    {
-      "key": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4Y2lGeG9DeXBmUXUxZmN3Tkg2Y215cVEwem1ta2wyWWM0OWhUZkZSeGkyMkdZTVgwRmh4VUdReUhSaFM3RlpDZEJKX056TXRDR1h3WXB1aktOOG1Bb0tZbzVVTER6c3dORHBKak5jU1dVQVNUQUE",
-      "date": "2026-11-02"
-    },
-    {
       "key": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees",
       "date": "2026-11-03"
     },
@@ -1471,6 +511,110 @@
     {
       "key": "https://arxiv.org/abs/2611.06995",
       "date": "2026-11-07"
+    },
+    {
+      "key": "https://www.hntrends.com/2026/november.html",
+      "date": "2026-11-16"
+    },
+    {
+      "key": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
+      "date": "2026-11-16"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry",
+      "date": "2026-11-16"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team",
+      "date": "2026-11-16"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit",
+      "date": "2026-11-16"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang",
+      "date": "2026-11-16"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+      "date": "2026-11-16"
+    },
+    {
+      "key": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals",
+      "date": "2026-11-16"
+    },
+    {
+      "key": "https://openai.com/index/lvmh-media-division-partnership",
+      "date": "2026-11-16"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health",
+      "date": "2026-11-16"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market",
+      "date": "2026-11-16"
+    },
+    {
+      "key": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom",
+      "date": "2026-11-16"
+    },
+    {
+      "key": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong",
+      "date": "2026-11-16"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.17938",
+      "date": "2026-11-16"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.17696",
+      "date": "2026-11-16"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.17820",
+      "date": "2026-11-16"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.17880",
+      "date": "2026-11-16"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.17515",
+      "date": "2026-11-16"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.17338",
+      "date": "2026-11-16"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.17796",
+      "date": "2026-11-16"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.18395",
+      "date": "2026-11-16"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.17610",
+      "date": "2026-11-16"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.18392",
+      "date": "2026-11-16"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.17814",
+      "date": "2026-11-16"
+    },
+    {
+      "key": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
+      "date": "2026-11-16"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.17339",
+      "date": "2026-11-16"
     }
   ]
 }
