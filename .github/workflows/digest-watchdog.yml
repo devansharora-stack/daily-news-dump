@@ -1,0 +1,25 @@
+name: Digest Watchdog
+
+on:
+  schedule:
+    - cron: "30 5 * * *" # 2h after the 03:30 UTC digest dispatch
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - name: Alert if today's digest is missing
+        env:
+          GOOGLE_CHAT_WEBHOOK_URL: ${{ secrets.GOOGLE_CHAT_WEBHOOK_URL }}
+        run: |
+          DATE=$(date -u +%Y-%m-%d)
+          CODE=$(curl -s -o /dev/null -w '%{http_code}' -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            "https://api.github.com/repos/${{ github.repository }}/contents/digests/${DATE}.json?ref=main")
+          echo "digests/${DATE}.json -> HTTP ${CODE}"
+          [ "$CODE" = "200" ] && exit 0
+          [ -z "$GOOGLE_CHAT_WEBHOOK_URL" ] && exit 1
+          curl -sS -X POST -H 'Content-Type: application/json' "$GOOGLE_CHAT_WEBHOOK_URL" \
+            -d "{\"text\": \"⚠️ No Daily AI Digest committed for ${DATE}. Scheduler, workflow or pipeline may be down: ${{ github.server_url }}/${{ github.repository }}/actions\"}"
+          exit 1
