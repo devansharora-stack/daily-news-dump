@@ -1,106 +1,6 @@
 {
   "sent": [
     {
-      "key": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees",
-      "date": "2026-11-03"
-    },
-    {
-      "key": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai",
-      "date": "2026-11-03"
-    },
-    {
-      "key": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens",
-      "date": "2026-11-03"
-    },
-    {
-      "key": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs",
-      "date": "2026-11-03"
-    },
-    {
-      "key": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping",
-      "date": "2026-11-03"
-    },
-    {
-      "key": "https://openai.com/index/dan-driscoll-joins-openai",
-      "date": "2026-11-03"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-      "date": "2026-11-03"
-    },
-    {
-      "key": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps",
-      "date": "2026-11-03"
-    },
-    {
-      "key": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts",
-      "date": "2026-11-03"
-    },
-    {
-      "key": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior",
-      "date": "2026-11-03"
-    },
-    {
-      "key": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition",
-      "date": "2026-11-03"
-    },
-    {
-      "key": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features",
-      "date": "2026-11-03"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-      "date": "2026-11-03"
-    },
-    {
-      "key": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships",
-      "date": "2026-11-03"
-    },
-    {
-      "key": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics",
-      "date": "2026-11-03"
-    },
-    {
-      "key": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here",
-      "date": "2026-11-03"
-    },
-    {
-      "key": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs",
-      "date": "2026-11-03"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.40890",
-      "date": "2026-11-03"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.40946",
-      "date": "2026-11-03"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.41604",
-      "date": "2026-11-03"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.41124",
-      "date": "2026-11-03"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.41129",
-      "date": "2026-11-03"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.41072",
-      "date": "2026-11-03"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.41090",
-      "date": "2026-11-03"
-    },
-    {
-      "key": "https://arxiv.org/abs/2610.41486",
-      "date": "2026-11-03"
-    },
-    {
       "key": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
       "date": "2026-11-04"
     },
@@ -615,6 +515,106 @@
     {
       "key": "https://arxiv.org/abs/2611.17339",
       "date": "2026-11-16"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents",
+      "date": "2026-11-17"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely",
+      "date": "2026-11-17"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
+      "date": "2026-11-17"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion",
+      "date": "2026-11-17"
+    },
+    {
+      "key": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it",
+      "date": "2026-11-17"
+    },
+    {
+      "key": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+      "date": "2026-11-17"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont",
+      "date": "2026-11-17"
+    },
+    {
+      "key": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess",
+      "date": "2026-11-17"
+    },
+    {
+      "key": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "date": "2026-11-17"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine",
+      "date": "2026-11-17"
+    },
+    {
+      "key": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise",
+      "date": "2026-11-17"
+    },
+    {
+      "key": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "date": "2026-11-17"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months",
+      "date": "2026-11-17"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm",
+      "date": "2026-11-17"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+      "date": "2026-11-17"
+    },
+    {
+      "key": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+      "date": "2026-11-17"
+    },
+    {
+      "key": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+      "date": "2026-11-17"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security",
+      "date": "2026-11-17"
+    },
+    {
+      "key": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back",
+      "date": "2026-11-17"
+    },
+    {
+      "key": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "date": "2026-11-17"
+    },
+    {
+      "key": "https://openai.com/business/customer-stories/holiday-extras-dots",
+      "date": "2026-11-17"
+    },
+    {
+      "key": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "date": "2026-11-17"
+    },
+    {
+      "key": "https://openai.com/index/the-kings-trust-and-openai",
+      "date": "2026-11-17"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.18098",
+      "date": "2026-11-17"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.17620",
+      "date": "2026-11-17"
     }
   ]
 }
