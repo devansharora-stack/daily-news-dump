@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-18",
+  "type": "resource",
+  "topic": "B2B Paid Search and Rising Ad Costs",
+  "dayLabel": "Day 3 of 3",
+  "headline": "AI Bot Management: Why SEOs Need More Than Block Lists via @sejournal, @chrisgreenseo",
+  "source": "Search Engine Journal",
+  "url": "https://www.searchenginejournal.com/ai-bot-management-why-seos-need-more-than-block-lists/597148/",
+  "keyNotes": [
+    "It turns out that simply blocking or allowing website visitors, which used to be enough, is no longer effective because new AI technologies mean many different types of automated programs (called \"bots\") are visiting your site for various reasons.",
+    "Blocking an automated program (a \"bot\") that's gathering information to train an AI model has a completely different impact than blocking one that's trying to find content for a search answer, and making the wrong choice could mean your content disappears from search results.",
+    "Even if you tell automated programs (bots) what they can and cannot do on your website using a standard file, other security systems might secretly override those instructions without your team ever knowing.",
+    "Some advanced AI programs, called \"agents,\" can browse websites just like a human user, making it very hard to tell them apart from real visitors and potentially causing you to lose visibility if you block them.",
+    "Instead of just having a list of automated programs (bots) to block, businesses now need a detailed plan that considers who is visiting their site, why, and what happens if they are allowed or blocked, requiring different teams to work together."
+  ],
+  "question": "The article suggests that managing who accesses your website now requires \"deliberate bot policies\" involving many different departments like engineering, security, and legal. If you think about your own company's website, who would need to be involved in deciding which automated programs (bots) are allowed to visit and why?"
+}
