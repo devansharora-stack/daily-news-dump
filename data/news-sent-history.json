@@ -1,106 +1,6 @@
 {
   "sent": [
     {
-      "key": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage",
-      "date": "2026-11-05"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-      "date": "2026-11-05"
-    },
-    {
-      "key": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
-      "date": "2026-11-05"
-    },
-    {
-      "key": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
-      "date": "2026-11-05"
-    },
-    {
-      "key": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput",
-      "date": "2026-11-05"
-    },
-    {
-      "key": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming",
-      "date": "2026-11-05"
-    },
-    {
-      "key": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared",
-      "date": "2026-11-05"
-    },
-    {
-      "key": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms",
-      "date": "2026-11-05"
-    },
-    {
-      "key": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google",
-      "date": "2026-11-05"
-    },
-    {
-      "key": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai",
-      "date": "2026-11-05"
-    },
-    {
-      "key": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor",
-      "date": "2026-11-05"
-    },
-    {
-      "key": "https://openai.com/index/openai-to-acquire-pierre",
-      "date": "2026-11-05"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-      "date": "2026-11-05"
-    },
-    {
-      "key": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "date": "2026-11-05"
-    },
-    {
-      "key": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "date": "2026-11-05"
-    },
-    {
-      "key": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election",
-      "date": "2026-11-05"
-    },
-    {
-      "key": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage",
-      "date": "2026-11-05"
-    },
-    {
-      "key": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits",
-      "date": "2026-11-05"
-    },
-    {
-      "key": "https://arxiv.org/abs/2611.03946",
-      "date": "2026-11-05"
-    },
-    {
-      "key": "https://arxiv.org/abs/2611.03853",
-      "date": "2026-11-05"
-    },
-    {
-      "key": "https://arxiv.org/abs/2611.04032",
-      "date": "2026-11-05"
-    },
-    {
-      "key": "https://arxiv.org/abs/2611.03650",
-      "date": "2026-11-05"
-    },
-    {
-      "key": "https://arxiv.org/abs/2611.04142",
-      "date": "2026-11-05"
-    },
-    {
-      "key": "https://arxiv.org/abs/2611.04321",
-      "date": "2026-11-05"
-    },
-    {
-      "key": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space",
-      "date": "2026-11-05"
-    },
-    {
       "key": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
       "date": "2026-11-06"
     },
@@ -623,6 +523,114 @@
     {
       "key": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
       "date": "2026-11-18"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range",
+      "date": "2026-11-19"
+    },
+    {
+      "key": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
+      "date": "2026-11-19"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit",
+      "date": "2026-11-19"
+    },
+    {
+      "key": "https://revscope.co/blog/search-seo-geo-2026",
+      "date": "2026-11-19"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web",
+      "date": "2026-11-19"
+    },
+    {
+      "key": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg",
+      "date": "2026-11-19"
+    },
+    {
+      "key": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review",
+      "date": "2026-11-19"
+    },
+    {
+      "key": "https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages",
+      "date": "2026-11-19"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked",
+      "date": "2026-11-19"
+    },
+    {
+      "key": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
+      "date": "2026-11-19"
+    },
+    {
+      "key": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+      "date": "2026-11-19"
+    },
+    {
+      "key": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo",
+      "date": "2026-11-19"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team",
+      "date": "2026-11-19"
+    },
+    {
+      "key": "https://nicolasbouliane.com/blog/death-by-ai",
+      "date": "2026-11-19"
+    },
+    {
+      "key": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+      "date": "2026-11-19"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "date": "2026-11-19"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+      "date": "2026-11-19"
+    },
+    {
+      "key": "https://www.wired.com/story/artex-ai-hacking-tools",
+      "date": "2026-11-19"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running",
+      "date": "2026-11-19"
+    },
+    {
+      "key": "https://deepmind.google/blog/introducing-gemini-4-neon",
+      "date": "2026-11-19"
+    },
+    {
+      "key": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "date": "2026-11-19"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds",
+      "date": "2026-11-19"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.22033",
+      "date": "2026-11-19"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.21832",
+      "date": "2026-11-19"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.21885",
+      "date": "2026-11-19"
+    },
+    {
+      "key": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship",
+      "date": "2026-11-19"
+    },
+    {
+      "key": "https://colossus.com/article/ai-will-not-make-you-rich",
+      "date": "2026-11-19"
     }
   ]
 }
