@@ -58,7 +58,14 @@
         "source": "Demand Gen Report",
         "url": "https://demandgenreport.com/articles/seismic-research-shows-sellers-play-a-bigger-role-in-high-stakes-decisions/",
         "fullText": "Seismic's research found that most B2B leaders trust human guidance over AI-generated content, suggesting sellers play a bigger role in high-stakes decisions.",
-        "day": "thursday"
+        "day": "thursday",
+        "keyNotes": [
+          "Surprisingly, a study by Seismic found that most business leaders (the people making big decisions for companies) trust advice from real people more than information created by artificial intelligence.",
+          "This means that when businesses are making really important choices, the person selling a product or service (often called a \"seller\") has a much bigger and more influential role than you might expect.",
+          "The research specifically pointed out that \"B2B leaders\" value human guidance most for \"high-stakes decisions,\" which are critical choices with significant consequences for a business.",
+          "So, even in today's tech-driven world, the human connection and personal advice from a salesperson are still considered more trustworthy for crucial business decisions than anything an AI can generate."
+        ],
+        "question": "The research highlights that business leaders trust human advice more than AI for \"high-stakes decisions.\" Thinking about your own work or personal life, how do you determine when a decision is \"high-stakes,\" and what kind of human guidance do you seek out versus relying on automated information for those critical moments?"
       },
       {
         "headline": "'Tishman Speyer Account-Based Growth Engine' has won Bronze in Industry - Property at the B2B Awards 2026",

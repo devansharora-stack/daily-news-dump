@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-19",
+  "type": "recap-and-resource",
+  "recapTopic": "B2B Paid Search and Rising Ad Costs",
+  "recap": {
+    "intro": "Hey everyone! This week, we dove into something super important for businesses: why it's getting more expensive to advertise online and what that means for us.",
+    "bullets": [
+      "First, we saw that the price businesses pay for Google ads is getting way more expensive. For example, a study found that for the same ad clicks, companies are paying about 21% more than last year! It's not just the market; sometimes, when a company spends a lot more, like one advertiser who nearly quadrupled their ad spending, their cost for each click can shoot up by a massive 132% because the ad systems start bidding higher.",
+      "Building on that, we learned that even though AI is super important for managing these expensive ads, most people's AI skills aren't even checked. Like, 72% of workers say their AI abilities have never been officially tested, even if their boss thinks AI skills are a big deal. This means companies might be trusting people to handle big ad budgets with AI without really knowing if they're good at it, which could make those rising costs even worse if mistakes are made with client money.",
+      "Finally, the big picture is that with AI everywhere, it's getting super complex to even tell who's visiting your website. It's not as simple as just blocking bad automated programs (bots) anymore, because some AI bots are just gathering info to train AI, while others are trying to find your content for search results. If you block the wrong kind, your stuff might disappear from search, making it harder for your ads to work well. So, with ad costs going up, we need a smart plan for managing AI, from the people running ads to how we handle AI visitors on our sites, so we don't just throw money away."
+    ]
+  },
+  "recapResources": [
+    {
+      "headline": "Same B2B Google Ads Keywords Cost About 21% More, Agency Data Shows via @sejournal, @MattGSouthern",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/b2b-google-ads-keywords-cost-more-agency-data/597426/"
+    },
+    {
+      "headline": "72% Of Worker’s Say Their AI Skills Are Untested – Here’s How PPC Managers Prove Theirs via @sejournal, @gregjarboe",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/72-of-workers-say-their-ai-skills-are-untested-heres-how-ppc-managers-prove-theirs/596205/"
+    },
+    {
+      "headline": "AI Bot Management: Why SEOs Need More Than Block Lists via @sejournal, @chrisgreenseo",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/ai-bot-management-why-seos-need-more-than-block-lists/597148/"
+    }
+  ],
+  "topic": "Account-Based Marketing and B2B Sales Enablement",
+  "dayLabel": "Day 1 of 3 — Intro",
+  "headline": "Seismic Research Shows Sellers Play A Bigger Role In High-Stakes Decisions",
+  "source": "Demand Gen Report",
+  "url": "https://demandgenreport.com/articles/seismic-research-shows-sellers-play-a-bigger-role-in-high-stakes-decisions/",
+  "keyNotes": [
+    "Surprisingly, a study by Seismic found that most business leaders (the people making big decisions for companies) trust advice from real people more than information created by artificial intelligence.",
+    "This means that when businesses are making really important choices, the person selling a product or service (often called a \"seller\") has a much bigger and more influential role than you might expect.",
+    "The research specifically pointed out that \"B2B leaders\" value human guidance most for \"high-stakes decisions,\" which are critical choices with significant consequences for a business.",
+    "So, even in today's tech-driven world, the human connection and personal advice from a salesperson are still considered more trustworthy for crucial business decisions than anything an AI can generate."
+  ],
+  "question": "The research highlights that business leaders trust human advice more than AI for \"high-stakes decisions.\" Thinking about your own work or personal life, how do you determine when a decision is \"high-stakes,\" and what kind of human guidance do you seek out versus relying on automated information for those critical moments?"
+}
