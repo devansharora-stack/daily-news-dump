@@ -1,110 +1,6 @@
 {
   "sent": [
     {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
-      "date": "2026-11-06"
-    },
-    {
-      "key": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
-      "date": "2026-11-06"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-      "date": "2026-11-06"
-    },
-    {
-      "key": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform",
-      "date": "2026-11-06"
-    },
-    {
-      "key": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out",
-      "date": "2026-11-06"
-    },
-    {
-      "key": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not",
-      "date": "2026-11-06"
-    },
-    {
-      "key": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says",
-      "date": "2026-11-06"
-    },
-    {
-      "key": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027",
-      "date": "2026-11-06"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-      "date": "2026-11-06"
-    },
-    {
-      "key": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system",
-      "date": "2026-11-06"
-    },
-    {
-      "key": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027",
-      "date": "2026-11-06"
-    },
-    {
-      "key": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure",
-      "date": "2026-11-06"
-    },
-    {
-      "key": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying",
-      "date": "2026-11-06"
-    },
-    {
-      "key": "https://openai.com/index/franklin-templeton",
-      "date": "2026-11-06"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
-      "date": "2026-11-06"
-    },
-    {
-      "key": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-      "date": "2026-11-06"
-    },
-    {
-      "key": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
-      "date": "2026-11-06"
-    },
-    {
-      "key": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy",
-      "date": "2026-11-06"
-    },
-    {
-      "key": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
-      "date": "2026-11-06"
-    },
-    {
-      "key": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work",
-      "date": "2026-11-06"
-    },
-    {
-      "key": "https://arxiv.org/abs/2611.05759",
-      "date": "2026-11-06"
-    },
-    {
-      "key": "https://arxiv.org/abs/2611.05662",
-      "date": "2026-11-06"
-    },
-    {
-      "key": "https://arxiv.org/abs/2611.06147",
-      "date": "2026-11-06"
-    },
-    {
-      "key": "https://arxiv.org/abs/2611.05590",
-      "date": "2026-11-06"
-    },
-    {
-      "key": "https://arxiv.org/abs/2611.05392",
-      "date": "2026-11-06"
-    },
-    {
-      "key": "https://arxiv.org/abs/2611.05911",
-      "date": "2026-11-06"
-    },
-    {
       "key": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation",
       "date": "2026-11-07"
     },
@@ -631,6 +527,118 @@
     {
       "key": "https://colossus.com/article/ai-will-not-make-you-rich",
       "date": "2026-11-19"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
+      "date": "2026-11-20"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo",
+      "date": "2026-11-20"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test",
+      "date": "2026-11-20"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+      "date": "2026-11-20"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity",
+      "date": "2026-11-20"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+      "date": "2026-11-20"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "date": "2026-11-20"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit",
+      "date": "2026-11-20"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report",
+      "date": "2026-11-20"
+    },
+    {
+      "key": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit",
+      "date": "2026-11-20"
+    },
+    {
+      "key": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair",
+      "date": "2026-11-20"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style",
+      "date": "2026-11-20"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
+      "date": "2026-11-20"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable",
+      "date": "2026-11-20"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac",
+      "date": "2026-11-20"
+    },
+    {
+      "key": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "date": "2026-11-20"
+    },
+    {
+      "key": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents",
+      "date": "2026-11-20"
+    },
+    {
+      "key": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+      "date": "2026-11-20"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+      "date": "2026-11-20"
+    },
+    {
+      "key": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere",
+      "date": "2026-11-20"
+    },
+    {
+      "key": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself",
+      "date": "2026-11-20"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development",
+      "date": "2026-11-20"
+    },
+    {
+      "key": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "date": "2026-11-20"
+    },
+    {
+      "key": "https://openai.com/business/customer-stories/sumitomo-life",
+      "date": "2026-11-20"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.24039",
+      "date": "2026-11-20"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.23322",
+      "date": "2026-11-20"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.23910",
+      "date": "2026-11-20"
+    },
+    {
+      "key": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+      "date": "2026-11-20"
     }
   ]
 }
