@@ -1,110 +1,6 @@
 {
   "sent": [
     {
-      "key": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation",
-      "date": "2026-11-07"
-    },
-    {
-      "key": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo",
-      "date": "2026-11-07"
-    },
-    {
-      "key": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m",
-      "date": "2026-11-07"
-    },
-    {
-      "key": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google",
-      "date": "2026-11-07"
-    },
-    {
-      "key": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry",
-      "date": "2026-11-07"
-    },
-    {
-      "key": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
-      "date": "2026-11-07"
-    },
-    {
-      "key": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
-      "date": "2026-11-07"
-    },
-    {
-      "key": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-      "date": "2026-11-07"
-    },
-    {
-      "key": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking",
-      "date": "2026-11-07"
-    },
-    {
-      "key": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails",
-      "date": "2026-11-07"
-    },
-    {
-      "key": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web",
-      "date": "2026-11-07"
-    },
-    {
-      "key": "https://openai.com/index/introducing-gpt-6-cyber",
-      "date": "2026-11-07"
-    },
-    {
-      "key": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent",
-      "date": "2026-11-07"
-    },
-    {
-      "key": "https://arxiv.org/abs/2611.06989",
-      "date": "2026-11-07"
-    },
-    {
-      "key": "https://arxiv.org/abs/2611.06996",
-      "date": "2026-11-07"
-    },
-    {
-      "key": "https://arxiv.org/abs/2611.07689",
-      "date": "2026-11-07"
-    },
-    {
-      "key": "https://arxiv.org/abs/2611.07891",
-      "date": "2026-11-07"
-    },
-    {
-      "key": "https://arxiv.org/abs/2611.08116",
-      "date": "2026-11-07"
-    },
-    {
-      "key": "https://arxiv.org/abs/2611.07633",
-      "date": "2026-11-07"
-    },
-    {
-      "key": "https://arxiv.org/abs/2611.07778",
-      "date": "2026-11-07"
-    },
-    {
-      "key": "https://arxiv.org/abs/2611.07953",
-      "date": "2026-11-07"
-    },
-    {
-      "key": "https://arxiv.org/abs/2611.07652",
-      "date": "2026-11-07"
-    },
-    {
-      "key": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future",
-      "date": "2026-11-07"
-    },
-    {
-      "key": "https://arxiv.org/abs/2611.07653",
-      "date": "2026-11-07"
-    },
-    {
-      "key": "https://arxiv.org/abs/2611.08053",
-      "date": "2026-11-07"
-    },
-    {
-      "key": "https://arxiv.org/abs/2611.06995",
-      "date": "2026-11-07"
-    },
-    {
       "key": "https://www.hntrends.com/2026/november.html",
       "date": "2026-11-16"
     },
@@ -639,6 +535,110 @@
     {
       "key": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
       "date": "2026-11-20"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+      "date": "2026-11-21"
+    },
+    {
+      "key": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues",
+      "date": "2026-11-21"
+    },
+    {
+      "key": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation",
+      "date": "2026-11-21"
+    },
+    {
+      "key": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "date": "2026-11-21"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "date": "2026-11-21"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you",
+      "date": "2026-11-21"
+    },
+    {
+      "key": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "date": "2026-11-21"
+    },
+    {
+      "key": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "date": "2026-11-21"
+    },
+    {
+      "key": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update",
+      "date": "2026-11-21"
+    },
+    {
+      "key": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+      "date": "2026-11-21"
+    },
+    {
+      "key": "https://openai.com/business/customer-stories/hebbia",
+      "date": "2026-11-21"
+    },
+    {
+      "key": "https://openai.com/index/introducing-medchembench",
+      "date": "2026-11-21"
+    },
+    {
+      "key": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "date": "2026-11-21"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300",
+      "date": "2026-11-21"
+    },
+    {
+      "key": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare",
+      "date": "2026-11-21"
+    },
+    {
+      "key": "https://openai.com/index/combatting-adversarial-distillation",
+      "date": "2026-11-21"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.25325",
+      "date": "2026-11-21"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.25839",
+      "date": "2026-11-21"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.25841",
+      "date": "2026-11-21"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.25184",
+      "date": "2026-11-21"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.25905",
+      "date": "2026-11-21"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.25590",
+      "date": "2026-11-21"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.25492",
+      "date": "2026-11-21"
+    },
+    {
+      "key": "https://arxiv.org/abs/2611.25109",
+      "date": "2026-11-21"
+    },
+    {
+      "key": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building",
+      "date": "2026-11-21"
+    },
+    {
+      "key": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram",
+      "date": "2026-11-21"
     }
   ]
 }
