@@ -1,0 +1,362 @@
+[
+  {
+    "title": "Two-Tier ERP Is Back, And Sage Has A Role To Play",
+    "url": "https://www.forrester.com/blogs/two-tier-erp-is-back-and-sage-has-a-role-to-play/",
+    "source": "Forrester Blog",
+    "publishedAt": "Sat, 21 Nov 2026 13:07:10 +0000",
+    "snippet": "Our ERP strategy on a page template describes the decades-old enterprise yearning for ERP standardization. The logic is compelling: common processes, common data, common controls and fewer applications to support. The reality of the multinational enterprise is considerably messier. A billion-dollar company running SAP or Oracle at headquarters may comprise scores, or hundreds, of much […]",
+    "tier": 1
+  },
+  {
+    "title": "Optimizely-ing For Trouble: When A Marketing Tool Becomes A Software Supply Chain Attack",
+    "url": "https://www.forrester.com/blogs/optimizely-ing-for-trouble-when-a-marketing-tool-becomes-a-software-supply-chain-attack/",
+    "source": "Forrester Blog",
+    "publishedAt": "Fri, 20 Nov 2026 21:11:33 +0000",
+    "snippet": "Marketing wanted to improve the customer journey. Attackers found a way to join in for their own A/B test. The Optimizely incident turned a website experimentation tool into a delivery channel for malicious JavaScript, exposing a gap between the experience companies intended to publish and the code their customers actually received. On November 16, attackers […]",
+    "tier": 1
+  },
+  {
+    "title": "Amazon Business Reshape 2026: The Quiet Procurement Powerhouse Is Getting Smarter",
+    "url": "https://www.forrester.com/blogs/amazon-business-reshape-2026-the-quiet-procurement-powerhouse-is-getting-smarter/",
+    "source": "Forrester Blog",
+    "publishedAt": "Fri, 20 Nov 2026 18:15:13 +0000",
+    "snippet": "Eleven years after launch, Amazon Business now serves 11 million organizations across 11 markets. Learn more about Forrester’s key takeaways from the Amazon Business Reshape event in October.",
+    "tier": 1
+  },
+  {
+    "title": "Your Cloud Operations Aren’t Ready For AI",
+    "url": "https://www.forrester.com/blogs/your-cloud-operations-arent-ready-for-ai/",
+    "source": "Forrester Blog",
+    "publishedAt": "Fri, 20 Nov 2026 16:46:03 +0000",
+    "snippet": "An AI service can be running perfectly while delivering unreliable results and escalating costs. Learn why traditional cloud operations must evolve to address AI’s unique challenges.",
+    "tier": 1
+  },
+  {
+    "title": "Poppy 1.0 Is Here: What Customer Service Leaders Need To Know",
+    "url": "https://www.forrester.com/blogs/poppy-1-0-is-here-what-customer-service-leaders-need-to-know/",
+    "source": "Forrester Blog",
+    "publishedAt": "Fri, 20 Nov 2026 14:45:33 +0000",
+    "snippet": "Personal Agent Protocol (PAP), aka Poppy 1.0, is here. Poppy was initially developed by Sierra and Meta and has since attracted more than 100 design partners, including major B2C companies such as Bank of America, Cigna, SiriusXM, Target, and United Airlines. The continued partner involvement is beginning to translate into implementation: Shopify has enabled Poppy […]",
+    "tier": 1
+  },
+  {
+    "title": "AI Raises The Bar For B2B Personalization, Again",
+    "url": "https://www.forrester.com/blogs/ai-raises-the-bar-for-b2b-personalization-again/",
+    "source": "Forrester Blog",
+    "publishedAt": "Fri, 20 Nov 2026 14:34:55 +0000",
+    "snippet": "As B2B buyer expectations evolve, traditional personalization tactics are no longer enough. AI gives marketers new opportunities to move beyond isolated, channel-specific efforts and deliver connected experiences that respond to buyer needs and intent. Explore how AI can help marketers improve personalization across the customer journey, influence purchasing decisions, and drive long-term customer value.",
+    "tier": 1
+  },
+  {
+    "title": "25 Practical Jobs Organizations are Giving Agentforce Coworker to Complete Right Now",
+    "url": "https://www.salesforce.com/blog/agentforce-coworker-practical-jobs/",
+    "source": "Salesforce Blog",
+    "publishedAt": "Fri, 20 Nov 2026 23:10:49 +0000",
+    "snippet": "You know those tasks that somehow eat up half your day? Digging through 14 tabs before a customer call. Writing the same weekly update for the 47th time. Hunting down one record that…",
+    "tier": 1
+  },
+  {
+    "title": "We Won’t Pick Your Favorite Partner, But We’ll Show You How to Pick Yours",
+    "url": "https://www.salesforce.com/blog/pick-a-partner/",
+    "source": "Salesforce Blog",
+    "publishedAt": "Fri, 20 Nov 2026 19:00:30 +0000",
+    "snippet": "You’ve picked the platform. Now comes a choice that shapes your results as much as the technology: who will help you get the most value from it? We know that real value comes…",
+    "tier": 1
+  },
+  {
+    "title": "Want Your AI Agents to Give the Right Answers? Fix Your Knowledge Articles First",
+    "url": "https://www.salesforce.com/blog/how-to-write-knowledge-articles/",
+    "source": "Salesforce Blog",
+    "publishedAt": "Fri, 20 Nov 2026 18:45:06 +0000",
+    "snippet": "Here’s how to structure Salesforce Knowledge so AI agents retrieve the right slice of data and deliver the right answers.",
+    "tier": 1
+  },
+  {
+    "title": "Deploying Agents with Tableau MCP: Best Practices to Optimize for Accuracy, Efficiency, and Trust",
+    "url": "https://www.salesforce.com/blog/deploying-agents-tableau-mcp-best-practices/",
+    "source": "Salesforce Blog",
+    "publishedAt": "Fri, 20 Nov 2026 18:44:23 +0000",
+    "snippet": "Discover best practices for building custom agents with Tableau MCP, balancing enterprise data flexibility with trust and governance.",
+    "tier": 1
+  },
+  {
+    "title": "Always Learning, Always Improving: The Era of Self-Evolving AI Systems",
+    "url": "https://www.salesforce.com/blog/self-evolving-systems/",
+    "source": "Salesforce Blog",
+    "publishedAt": "Fri, 20 Nov 2026 18:28:15 +0000",
+    "snippet": "What toddlers can teach us about recursive self-improvement Anyone who has watched a toddler build with wooden blocks has seen a hard research problem solved on a living room floor. I have spent…",
+    "tier": 1
+  },
+  {
+    "title": "WordPress Random Redirects, Branded API Data & CDN Advice – SEO Pulse via @sejournal, @MattGSouthern",
+    "url": "https://www.searchenginejournal.com/seo-pulse-wordpress-random-redirects-branded-api-data-cdn-advice/598173/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Sat, 21 Nov 2026 13:00:00 +0000",
+    "snippet": "This week's SEO Pulse covers WordPress's random redirect, branded data in Search Console API, Google's CDN guidance, and who controls access for bots and agents.\nThe post WordPress Random Redirects, Branded API Data & CDN Advice – SEO Pulse appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "Salesforce CEO Says ‘Goodbye SEO.’ Salesforce’s SEO Guide Disagrees via @sejournal, @MattGSouthern",
+    "url": "https://www.searchenginejournal.com/salesforce-ceo-goodbye-seo-salesforce-seo-guide/598343/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Fri, 20 Nov 2026 20:20:52 +0000",
+    "snippet": "Marc Benioff promoted Palmata by saying goodbye to SEO, while Salesforce’s own guide says SEO remains the foundation.\nThe post Salesforce CEO Says ‘Goodbye SEO.’ Salesforce’s SEO Guide Disagrees appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "Why Building Trust Through Real People Stands The Test Of Time In SEO & AI Search via @sejournal, @lilyraynyc",
+    "url": "https://www.searchenginejournal.com/why-building-trust-through-real-people-stands-the-test-of-time-in-seo-ai-search/598110/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Fri, 20 Nov 2026 20:00:34 +0000",
+    "snippet": "Scaled AI content, fake authors, and self-promotional listicles work until they don’t. Here’s why putting real human experts first keeps paying off in search.\nThe post Why Building Trust Through Real People Stands The Test Of Time In SEO & AI Search appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "Google’s ‘Top 10’ Line For CMOs Points At Generic Tips Posts via @sejournal, @MattGSouthern",
+    "url": "https://www.searchenginejournal.com/google-told-cmos-to-stop-top-10-listicles/598310/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Fri, 20 Nov 2026 16:17:43 +0000",
+    "snippet": "Google's marketing account told CMOs to replace generic tips posts with content grounded in first-hand expertise.\nThe post Google’s ‘Top 10’ Line For CMOs Points At Generic Tips Posts appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "A Charity Rescue Dog Outscored Amazon’s Christmas Ad – PPC Accounts Need A Story Before Cyber Week via @sejournal, @gregjarboe",
+    "url": "https://www.searchenginejournal.com/a-charity-rescue-dog-outscored-amazons-christmas-ad-ppc-accounts-need-a-story-before-cyber-week/597789/",
+    "source": "Search Engine Journal",
+    "publishedAt": "Fri, 20 Nov 2026 15:00:09 +0000",
+    "snippet": "Give holiday Google Ads a stronger story, using DAIVID's ranking of 75 Christmas ads where Dogs Trust outscored Amazon.\nThe post A Charity Rescue Dog Outscored Amazon’s Christmas Ad – PPC Accounts Need A Story Before Cyber Week appeared first on Search Engine Journal.",
+    "tier": 1
+  },
+  {
+    "title": "The Media RFP Is Quietly Becoming Obsolete ft. Bruce Williams",
+    "url": "https://www.adweek.com/brand-marketing/the-media-rfp-is-quietly-becoming-obsolete-ft-bruce-williams/",
+    "source": "Adweek",
+    "publishedAt": "Fri, 20 Nov 2026 17:12:02 +0000",
+    "snippet": "Plus, why fragmentation is getting in the way of better consumer experiences.",
+    "tier": 1
+  },
+  {
+    "title": "The Art, Science and Theater of Modern Marketing ft. Thomas Ranese",
+    "url": "https://www.adweek.com/brand-marketing/the-art-science-and-theater-of-modern-marketing-ft-thomas-ranese/",
+    "source": "Adweek",
+    "publishedAt": "Fri, 20 Nov 2026 16:56:01 +0000",
+    "snippet": "The Intuit CMO on why the C-suite still needs to get their hands dirty.",
+    "tier": 1
+  },
+  {
+    "title": "AI Is off the Festive Dinner Menu In Coke&#8217;s 2026 Holiday Ad",
+    "url": "https://www.adweek.com/creativity/ai-is-off-the-festive-dinner-menu-in-cokes-2026-holiday-ad/",
+    "source": "Adweek",
+    "publishedAt": "Fri, 20 Nov 2026 15:56:32 +0000",
+    "snippet": "After two years of AI-generated trucks and creatures, the soda brand that's synonymous with Christmas is putting humans back in the spotlight",
+    "tier": 1
+  },
+  {
+    "title": "Ticker: Willie Geist to Depart MS NOW, Committing to NBC News Full-time",
+    "url": "https://www.adweek.com/tvnewser/ticker-willie-geist-to-depart-ms-now-committing-to-nbc-news-full-time/",
+    "source": "Adweek",
+    "publishedAt": "Fri, 20 Nov 2026 15:08:03 +0000",
+    "snippet": "Skydance CEO David Ellison says CBS News and CNN will continue operating as separate units.",
+    "tier": 1
+  },
+  {
+    "title": "Skydance’s Rebecca Mall Announces New Marketing Leadership Team",
+    "url": "https://www.adweek.com/media/skydances-rebecca-mall-announces-new-marketing-leadership-team/",
+    "source": "Adweek",
+    "publishedAt": "Fri, 20 Nov 2026 14:41:37 +0000",
+    "snippet": "The new team of leaders comprises many coming from the Paramount Skydance side.",
+    "tier": 1
+  },
+  {
+    "title": "When It Comes to GTA 6, Every Brand Suddenly Wants to Break the Rules",
+    "url": "https://www.adweek.com/brand-marketing/when-it-comes-to-gta-6-every-brand-suddenly-wants-to-break-the-rules/",
+    "source": "Adweek",
+    "publishedAt": "Fri, 20 Nov 2026 14:31:54 +0000",
+    "snippet": "What the biggest gaming launch in history reveals about brand safety and irrelevance.",
+    "tier": 1
+  },
+  {
+    "title": "How Taco Bell Turned a Golf Tournament Into Its Latest Entertainment Play",
+    "url": "https://www.adweek.com/brand-marketing/how-taco-bell-turned-a-golf-tournament-into-its-latest-entertainment-play/",
+    "source": "Adweek",
+    "publishedAt": "Fri, 20 Nov 2026 14:23:00 +0000",
+    "snippet": "With Kevin Hart, an on-course drive-thru, and a Peacock premiere, Taco Bell is testing how far its Live Más entertainment platform can go",
+    "tier": 1
+  },
+  {
+    "title": "The most misunderstood graph in AI just got a major update",
+    "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+    "source": "MIT Technology Review",
+    "publishedAt": "Fri, 20 Nov 2026 18:15:15 +0000",
+    "snippet": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.  The report is an update to the organization’s time horizon plot, which was widely…",
+    "tier": 1
+  },
+  {
+    "title": "Social Media Content",
+    "url": "https://contentmarketinginstitute.com/content-creation-distribution/social-media-content",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-11-22T14:00:50.354Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "AI Content Creation & Tools",
+    "url": "https://contentmarketinginstitute.com/content-creation-distribution/ai-content-creation-tools",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-11-22T14:00:50.354Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Content Marketing University",
+    "url": "https://www.contentmarketinguniversity.com/?utm_medium=referral&utm_source=cmi&utm_campaign=navigation",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-11-22T14:00:50.355Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Content Marketing Certification",
+    "url": "https://contentmarketinguniversity.com/content-marketing-certification/?utm_medium=referral&utm_source=cmi&utm_campaign=navigation",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-11-22T14:00:50.355Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Marketing Training & Guidance",
+    "url": "https://news.contentinstitute.com/consulting",
+    "source": "Content Marketing Institute",
+    "publishedAt": "2026-11-22T14:00:50.355Z",
+    "snippet": "",
+    "tier": 2
+  },
+  {
+    "title": "Laura Dermody - BCG Expert | BCG",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pZG1INXhLUlJkLXpOaE9yTVRBU1AtNmpwNkJKa294QktuZ3Fjckk1MVVsckowb0luQV8xRm5URW80eXlXN0tvMWFRRFpFSXR3UndUMlg5YU90S01aaTB2eDctZDk?oc=5",
+    "source": "Boston Consulting Group",
+    "publishedAt": "Sun, 22 Nov 2026 13:57:06 GMT",
+    "snippet": "Laura Dermody - BCG Expert | BCG&nbsp;&nbsp;Boston Consulting Group",
+    "tier": 3
+  },
+  {
+    "title": "AI Product Development",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdXNZX092YnUzeHpVZzVTWXhDb1JRemx4UHlvb1FVS1NUWWt6MzNBNDZsdURGV25vclRLSkNFRC1xMURJRklEUUYwb1ZiaWNnQlFGWXkwM0VuaDE2bUxrcndzWXNMZ3dFaVBJbkFGckY5M3ZQYWRTc2FwV24xazBISkE3cHJoZk5uRTVac2ZZOFR2MFFr?oc=5",
+    "source": "Boston Consulting Group",
+    "publishedAt": "Sun, 22 Nov 2026 13:57:07 GMT",
+    "snippet": "AI Product Development&nbsp;&nbsp;Boston Consulting Group",
+    "tier": 3
+  },
+  {
+    "title": "Lynne Mayers",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84eXlscWx0S2tMMXN0R3FrLUppNHRpdjdsbHo3MFJHZzRlWUNJWmsxUVhLSnFHeml2Qm56QUVoSGplaldIMHNDc0JSWTNtVEhvN1RCV2gweHdMOXNw?oc=5",
+    "source": "Gartner",
+    "publishedAt": "Sat, 21 Nov 2026 21:57:30 GMT",
+    "snippet": "Lynne Mayers&nbsp;&nbsp;Gartner",
+    "tier": 3
+  },
+  {
+    "title": "Data Analyst in Gurgaon, Haryāna, India",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52VW01aHQ5cVlHOTNyQzA3Y0xSZnYwWVF4NXpfNkxadURBTFVSRnpZX1dWeGVnejNiQkY3Q29ZY2pMeldoYlVnWjVVNF8tMlBiMGYzTWVCVjF0TDBPOFdIRmhLREg?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Sat, 21 Nov 2026 15:19:04 GMT",
+    "snippet": "Data Analyst in Gurgaon, Haryāna, India&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "Senior Account Executive, HTI in Remote, Washington, United States of America",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WaTJJNUEzcExkS18zeVF4Z09FWDVib0xULVd4bC1SWS1vNzBzU0I5bnVMQ0k0NDcxYy1LNV9uTVhLNXQwWWN3OGdWTGxQR0N2cVNUUmFWX0lxVzZubjhWdWU3M2JRNHZxeEYyWndqOGNTUG4zOTRuSFF3?oc=5",
+    "source": "Gartner Careers",
+    "publishedAt": "Sat, 21 Nov 2026 15:19:04 GMT",
+    "snippet": "Senior Account Executive, HTI in Remote, Washington, United States of America&nbsp;&nbsp;Gartner Careers",
+    "tier": 3
+  },
+  {
+    "title": "Ecolab ties Siemens power and Dassault design tools to its liquid cooling system",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNamQ2NHdrUkFvTmh2eVVSSmxET0hkR0h4d25xWDhIY21yNDlaVENfa3RaV2ZtRzNVYUFKTnEyN09mNFEzYlpEQVoxZngzNTFlbnpTUXE4OVJibzRVaktiWXBuSVV4TV9UdjZySm9LcGl4enpKV3NLMzU2MHVnckFNVDh1OVhiLXFUb0k3ZzdlRzkxampTRkdNWE5YWHFzOVItNmxrZVJHSThmeFFybU9KYlpIVWIzdXIxaWYxdHJIYlRxd1Ff?oc=5",
+    "source": "MarketScale",
+    "publishedAt": "Sun, 22 Nov 2026 12:11:00 GMT",
+    "snippet": "Ecolab ties Siemens power and Dassault design tools to its liquid cooling system&nbsp;&nbsp;MarketScale",
+    "tier": 3
+  },
+  {
+    "title": "Real Estate PR Firms: 7 Ranked, NYC to Miami (2026)",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VT2w0ZV9wbktXVnVtVjdrTlVRYzJrZnNwakdtUGhPYWltOHRvNjV6dm85b3RoUGtrQlVpRkItMktzOFJFQUpWTFU5TEViZjlFajBXYWNhWjRtdw?oc=5",
+    "source": "Everything-PR",
+    "publishedAt": "Sun, 22 Nov 2026 08:31:00 GMT",
+    "snippet": "Real Estate PR Firms: 7 Ranked, NYC to Miami (2026)&nbsp;&nbsp;Everything-PR",
+    "tier": 3
+  },
+  {
+    "title": "How a simple spill separates autonomous buildings from automated ones",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbXI0ZXZNRVhzbUxOQ0xHalgzOWtqb2ZVaVBlcnV6UXQ2ZnpMSE5tSWpMVWE3OTQzaENYeEJnbDJkeld1bEs5Vmk2MkoxQkFycDF5YXU2NzNKSktYbG9GTHcwd2tRbTZfSkNqbFVSWmFQUExqY1hNak5FNkQ4cjBKdGdNVFR0dUc4ZUVaYVRRTGpKS2NHeU1mWjBYOEs1YV9rQzJXSTBfWElGSENITWlFblFZRnN3MXRsMzNmSjJnYncxdnhHdFo4?oc=5",
+    "source": "MarketScale",
+    "publishedAt": "Sat, 21 Nov 2026 20:41:00 GMT",
+    "snippet": "How a simple spill separates autonomous buildings from automated ones&nbsp;&nbsp;MarketScale",
+    "tier": 3
+  },
+  {
+    "title": "Most “ABM examples” articles retell the same handful of stories",
+    "url": "https://pipelinepostdaily.com/abm-examples/",
+    "source": "Pipeline Post Daily",
+    "snippet": "This article provides a deep dive into several Account-Based Marketing case studies, detailing strategies and reported results from companies like Quantexa, Amplitude, and Winningtemp.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "B2B Marketing Case Studies and Results | In Motion",
+    "url": "https://inmotionmktg.com/results/",
+    "source": "In Motion Marketing",
+    "snippet": "This page showcases various B2B SaaS case studies, highlighting specific outcomes such as improved Google rankings and increased Google Ads return on ad spend for companies like incentX, Orbx, and Variabl.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "Find out how Trelleborg and Stein IAS scored the award for 'Best sales enablement initiative'",
+    "url": "https://www.b2bmarketing.net/case-studies/trelleborg-stein-ias-best-sales-enablement-initiative",
+    "source": "B2B Marketing",
+    "snippet": "This case study details how Stein IAS helped Trelleborg achieve significant engagement and results, including 5,216 unique opens and a 2.54% unique clickthrough rate, for their sales enablement campaign.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "The 10 Best B2B Marketing Campaigns and What Your Company Can Borrow",
+    "url": "https://influentialb2b.com/best-b2b-marketing-campaigns/",
+    "source": "Influential B2B",
+    "snippet": "This expert analysis reviews ten impactful B2B marketing campaigns from companies like Volvo Trucks, Workday, Spotify Advertising, and Gong, extracting key lessons and documented results.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "Customer proof gets more persuasive when readers can recognize their own challenges in it.",
+    "url": "https://2a.consulting/case-studies/",
+    "source": "2A Consulting",
+    "snippet": "This article discusses the art of creating compelling B2B case studies, featuring examples such as AWS and Devoteam's work with Save the Children Spain, and Salesforce AppExchange with Verifiable and Humana Dental.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "The Best B2B Marketing Case Studies",
+    "url": "https://columnfivemedia.com/best-b2b-marketing-case-studies/",
+    "source": "Column Five Media",
+    "snippet": "This collection analyzes top B2B marketing case studies, including Blend's 183% increase in site traffic and HackerOne's brand repositioning, demonstrating strategic problem-solving with real data.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "Demand Generation for B2B Founders | PlanConversion",
+    "url": "https://planconversion.com/demand-generation-for-b2b-founders/",
+    "source": "PlanConversion",
+    "snippet": "This deep-dive into demand generation for B2B founders includes case studies like KNIME, which achieved a 51% lower cost per lead, and an enterprise software company that saw a 42% lift in qualified pipeline.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  },
+  {
+    "title": "BirdEye: 43% Lower Cost per Lead on a $6.4M SEM Program",
+    "url": "https://zabiniazi.com/case-studies/",
+    "source": "Zabiniazi.com",
+    "snippet": "This page presents several B2B marketing case studies, including BirdEye's 43% lower cost per lead, iBaby Labs' 34% more traffic, and Arm's 18% shorter sales cycle through enterprise ABM.",
+    "tier": 3,
+    "fetchedVia": "gemini-grounding"
+  }
+]
