@@ -1,0 +1,191 @@
+[
+  {
+    "headline": "Anthropic raises $93.5 billion total as underwriters scoop up 'greenshoe' overallotment",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html",
+    "theme": "Funding & M&A",
+    "summary": "Anthropic sold 1.127 billion shares at $83 per share in the largest IPO on record, raising $93.5 billion including the greenshoe overallotment. The scale of the offering dwarfs any previous tech IPO and signals unprecedented investor appetite for frontier AI companies despite broader market turbulence."
+  },
+  {
+    "headline": "Anthropic's record IPO collides with tech's worst week on Wall Street since 2020",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+    "theme": "Funding & M&A",
+    "summary": "Anthropic's historic Nasdaq debut landed just before Nvidia closed its longest weekly losing streak since 2008. The IPO opened at $111.50 but fell nearly 9% on its second day to $97.17, still 17% above the IPO price — highlighting both massive AI demand and growing market fragility."
+  },
+  {
+    "headline": "Can Anthropic afford to put safety first?",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+    "theme": "AI Strategy",
+    "summary": "Now public and among the most valuable companies on the planet, Anthropic faces the central tension of its business: whether its commitment to AI safety can survive the growth demands of public shareholders. The outcome will set a precedent for whether safety-first AI companies can compete at scale against less constrained rivals."
+  },
+  {
+    "headline": "SoftBank suffers worst day in over two years as AI sell-off hits Asian tech stocks",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
+    "theme": "Funding & M&A",
+    "summary": "SoftBank posted its worst single-day decline in over two years as an AI-driven tech sell-off rippled from Wall Street to Asia. The Nasdaq Composite fell more than 2% following Anthropic's debut, dragging down major AI-exposed stocks globally and raising questions about AI sector valuations."
+  },
+  {
+    "headline": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+    "theme": "AI Strategy",
+    "summary": "Nvidia's 7-week losing streak — its longest since the 2008 crisis — has dropped it to fourth most valuable company behind Apple, Microsoft, and Alphabet. The decline reflects compounding pressures from the Jensen Huang scandal, geopolitical tensions over chip exports, and broader questions about AI infrastructure spending sustainability."
+  },
+  {
+    "headline": "A tale of two Nvidias",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+    "theme": "AI Strategy",
+    "summary": "Nvidia presents a split narrative: its latest earnings report tells one story while tech executives publicly call for ousted CEO Jensen Huang's return. The tension underscores how leadership instability at the company supplying most of the world's AI compute could ripple across the entire AI ecosystem."
+  },
+  {
+    "headline": "Jensen Huang to testify publicly before Senate banking panel",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/11/20/jensen-huang-nvidia-senate-testimony.html",
+    "theme": "Regulatory",
+    "summary": "Former Nvidia CEO Jensen Huang will testify before the Senate banking panel amid intensifying scrutiny over his alleged involvement with a suspected Chinese spy. The hearings could reshape the regulatory landscape around chip export controls and executive accountability at critical AI infrastructure companies."
+  },
+  {
+    "headline": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
+    "theme": "Regulatory",
+    "summary": "Following a trilateral summit with Xi Jinping and Putin, Trump threatened a 'tremendous tax' on U.S. companies building data centers overseas. This could force major AI players like Microsoft, Google, and Amazon to restructure their global infrastructure strategies and significantly increase domestic compute costs."
+  },
+  {
+    "headline": "Trump says he discussed Jensen Huang with Xi; Bessent says Nvidia chip export policy unchanged",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
+    "theme": "Regulatory",
+    "summary": "Trump confirmed discussing ousted Nvidia CEO Jensen Huang with China's Xi Jinping, though Treasury Secretary Bessent said chip export policy remains unchanged. The fact that a former tech CEO is now a topic of head-of-state diplomacy underscores the geopolitical centrality of AI chip supply chains."
+  },
+  {
+    "headline": "Senate passes BAAJA permitting reform bill backed by AI and energy sectors",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
+    "theme": "Regulatory",
+    "summary": "The Senate passed permitting reform legislation backed by AI and energy companies, streamlining approvals for data centers and power infrastructure. If the House follows suit, this could significantly accelerate the buildout of AI compute capacity that is currently bottlenecked by slow permitting processes."
+  },
+  {
+    "headline": "The UN fails to agree on rules regulating 'killer robots'",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+    "theme": "Regulatory",
+    "summary": "UN diplomats in Geneva failed to reach agreement on autonomous weapons regulation, agreeing only to 'start discussing options.' The International Committee of the Red Cross had urged legally binding rules, but the stalemate means autonomous weapons development will continue in a governance vacuum — a risk for defense contractors and their enterprise customers."
+  },
+  {
+    "headline": "Lagarde says EU funds should take first losses on chip plants, data centers",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/11/20/lagarde-eu-data-center-funding.html",
+    "theme": "Regulatory",
+    "summary": "ECB President Christine Lagarde proposed that EU public funds absorb early-stage losses on chip fabrication and data center investments, signaling a major shift in European industrial policy toward de-risking AI infrastructure. This could accelerate European AI capacity buildout and create new opportunities for infrastructure providers."
+  },
+  {
+    "headline": "SpaceX's subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+    "theme": "AI Strategy",
+    "summary": "Cursor, now a SpaceX subsidiary, is considering removing Chinese-developed open-weight AI models from its popular coding tool due to geopolitical risk, according to a House report. This signals a potential broader decoupling of the AI model ecosystem along geopolitical lines, forcing enterprises to audit their AI supply chains."
+  },
+  {
+    "headline": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
+    "theme": "Funding & M&A",
+    "summary": "CrowdStrike is reportedly in acquisition talks with Zscaler, sending Zscaler's stock up 18%. The potential deal reflects the accelerating M&A activity in cybersecurity as companies race to build AI-powered security platforms that can defend against increasingly sophisticated AI-enabled threats."
+  },
+  {
+    "headline": "Researcher plants 2 million canaries into the AI supply chain. A privacy disaster surfaced.",
+    "source": "Ars Technica AI",
+    "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+    "theme": "AI Risk",
+    "summary": "A researcher embedded 2 million unique trackable secrets into AI training pipelines and proved that supposedly private user data is leaking through the AI supply chain at alarming rates. This is a concrete demonstration of systemic privacy risk that could expose enterprises to regulatory penalties and reputational damage from data they feed into AI systems."
+  },
+  {
+    "headline": "AI Might Be Flooding State Court Houses, but Proving It Is Another Matter",
+    "source": "Stanford HAI",
+    "url": "https://hai.stanford.edu/news/ai-might-be-flooding-state-court-houses-but-proving-it-is-another-matter",
+    "theme": "AI Risk",
+    "summary": "Stanford researchers built a novel benchmark using documented hallucination cases to track AI-generated filings across four U.S. state courts. The research quantifies the growing 'hallucination tax' in legal settings and highlights how AI-generated errors are creating real institutional costs and liability risks."
+  },
+  {
+    "headline": "The Outages Are Just Getting Started",
+    "source": "Wired AI",
+    "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+    "theme": "AI Risk",
+    "summary": "AI is forcing companies to accelerate patching cycles as attackers exploit newly discovered vulnerabilities faster than ever, creating a surge of system outages. For CIOs and CTOs, this means increased operational risk and the need to rethink resilience strategies as AI-driven attack speeds outpace traditional IT management."
+  },
+  {
+    "headline": "Signal restricts mobile screenshots as it confronts 'existential threat' of AI surveillance",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+    "theme": "AI Ethics & Trust",
+    "summary": "Signal is restricting screenshot capabilities on both Android and iOS to counter AI-powered surveillance tools that can analyze screen content. The move highlights a growing tension for enterprises using secure communications: AI surveillance capabilities are eroding traditional privacy protections, forcing defensive product changes."
+  },
+  {
+    "headline": "The Hidden Costs of Delegating to AI",
+    "source": "Harvard Business Review AI",
+    "url": "https://hbr.org/topic/subject/strategy",
+    "theme": "Enterprise ROI",
+    "summary": "New research from accounting firms reveals that faster AI-enabled execution doesn't automatically improve organizational performance. The findings are a direct challenge to the assumption that AI automation equals ROI — illustrating the GenAI Paradox where broad adoption fails to deliver measurable business impact."
+  },
+  {
+    "headline": "We're Seeing the Costs of Moving Fast",
+    "source": "Harvard Business Review AI",
+    "url": "https://hbr.org/topic/subject/technology-and-analytics",
+    "theme": "AI Risk",
+    "summary": "Recent technology breakdowns suggest organizations aren't spending adequate time stress-testing AI-enabled operations before deployment. HBR argues the rush to implement AI is creating systemic operational risks — a warning for executives facing pressure to accelerate AI rollouts without proper validation."
+  },
+  {
+    "headline": "The Jagged Edge of the AI Boom",
+    "source": "Stanford HAI",
+    "url": "https://hai.stanford.edu/news/the-jagged-edge-of-the-ai-boom",
+    "theme": "AI Workforce Impact",
+    "summary": "New Stanford AI Index data reveals a far more uneven picture of AI's impact than headlines suggest: while AI investment has surpassed $1 trillion, labor market outcomes and public sentiment vary dramatically across sectors and demographics. This exemplifies the AI Value Gap — the widening chasm between AI winners and everyone else."
+  },
+  {
+    "headline": "Tracking AI's Real-Time Footprint on the Labor Market",
+    "source": "Stanford HAI",
+    "url": "https://hai.stanford.edu/news/tracking-ais-real-time-footprint-on-the-labor-market",
+    "theme": "AI Workforce Impact",
+    "summary": "Stanford HAI's Digital Economy Lab has launched dashboards measuring how AI adoption is altering employment trends and job growth in real time. The data provides executives with evidence-based insight into which roles and industries are most affected, moving beyond speculation to measurable workforce transformation signals."
+  },
+  {
+    "headline": "AI is changing software engineering — and some developers miss the struggle",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/11/20/ai-coding-tools-software-engineers.html",
+    "theme": "AI Workforce Impact",
+    "summary": "AI coding tools are making software engineers faster but developers report the work has lost its 'sense of joy and fun,' raising concerns about talent retention and skill atrophy. For CTOs, this is a leading indicator of potential quality and innovation risks as AI transforms how their core technical workforce operates."
+  },
+  {
+    "headline": "The World Has Changed: Insights From The New AI100 Report",
+    "source": "Stanford HAI",
+    "url": "https://hai.stanford.edu/news/the-world-has-changed-insights-from-the-new-ai100-report",
+    "theme": "AI Strategy",
+    "summary": "Stanford's third AI100 report finds that AI has outrun both expectations and governance, with applications ranging from battlefield targeting to synthetic media. The report concludes that the technology's capability growth has fundamentally outpaced institutional capacity to manage it — a strategic risk for boards and policymakers alike."
+  },
+  {
+    "headline": "Who is Responsible When AI Causes Harm?",
+    "source": "Stanford HAI",
+    "url": "https://hai.stanford.edu/news/who-is-responsible-when-ai-causes-harm",
+    "theme": "AI Ethics & Trust",
+    "summary": "Stanford HAI is tackling one of AI policy's hardest unsolved problems: liability when AI systems cause harm. For enterprises deploying AI at scale, unresolved liability frameworks create material legal and financial exposure that boards need to address before regulators impose answers."
+  },
+  {
+    "headline": "Anthropic's compute access challenge is the big uncertainty hanging over its business",
+    "source": "CNBC Technology",
+    "url": "https://www.cnbc.com/2026/11/20/tech-download-anthropic-compute-access.html",
+    "theme": "AI Strategy",
+    "summary": "Despite its record IPO, Anthropic faces a fundamental challenge: securing enough compute to continue developing and deploying frontier models. This constraint — a form of Token Anxiety — could limit growth and highlights how compute access is becoming a strategic bottleneck even for the best-funded AI companies."
+  },
+  {
+    "headline": "Chips can survive the space environment — can their financing?",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+    "theme": "Funding & M&A",
+    "summary": "Space data centers face a novel financing obstacle: lenders are reluctant to accept collateral that could be launched into orbit. The challenge illustrates how unconventional AI infrastructure approaches are running into traditional financial structures, potentially slowing frontier compute expansion."
+  }
+]
