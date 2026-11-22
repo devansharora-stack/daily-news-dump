@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-22",
+  "type": "recap-week",
+  "topicA": "B2B Paid Search and Rising Ad Costs",
+  "topicB": "Account-Based Marketing and B2B Sales Enablement",
+  "recap": {
+    "intro": "What a fantastic week of learning we've had exploring two crucial areas of B2B marketing: navigating the world of paid advertising and building stronger, more targeted customer relationships.",
+    "bullets": [
+      "The cost for businesses to advertise on Google using specific keywords has gone up significantly, with some seeing a 21% increase.",
+      "Many companies value AI skills but a large majority of workers say their AI abilities have never been officially tested.",
+      "Business leaders trust advice from real people more than AI-generated information when making high-stakes decisions.",
+      "Using plain, simple language is essential for companies to create a good customer experience and build loyalty."
+    ],
+    "closing": "This week you learned that while the B2B marketing landscape evolves with technology and costs, the human element of trust and clear communication remains paramount."
+  },
+  "resources": [
+    {
+      "headline": "Same B2B Google Ads Keywords Cost About 21% More, Agency Data Shows via @sejournal, @MattGSouthern",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/b2b-google-ads-keywords-cost-more-agency-data/597426/",
+      "topic": "B2B Paid Search and Rising Ad Costs"
+    },
+    {
+      "headline": "72% Of Worker’s Say Their AI Skills Are Untested – Here’s How PPC Managers Prove Theirs via @sejournal, @gregjarboe",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/72-of-workers-say-their-ai-skills-are-untested-heres-how-ppc-managers-prove-theirs/596205/",
+      "topic": "B2B Paid Search and Rising Ad Costs"
+    },
+    {
+      "headline": "AI Bot Management: Why SEOs Need More Than Block Lists via @sejournal, @chrisgreenseo",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/ai-bot-management-why-seos-need-more-than-block-lists/597148/",
+      "topic": "B2B Paid Search and Rising Ad Costs"
+    },
+    {
+      "headline": "Seismic Research Shows Sellers Play A Bigger Role In High-Stakes Decisions",
+      "source": "Demand Gen Report",
+      "url": "https://demandgenreport.com/articles/seismic-research-shows-sellers-play-a-bigger-role-in-high-stakes-decisions/",
+      "topic": "Account-Based Marketing and B2B Sales Enablement"
+    },
+    {
+      "headline": "'Tishman Speyer Account-Based Growth Engine' has won Bronze in Industry - Property at the B2B Awards 2026",
+      "source": "The Drum",
+      "url": "https://www.thedrum.com/creative-works/project/the-drum-tishman-speyer-account-based-growth-engine",
+      "topic": "Account-Based Marketing and B2B Sales Enablement"
+    },
+    {
+      "headline": "Plain Language Is A Total Experience Imperative",
+      "source": "Forrester Blog",
+      "url": "https://www.forrester.com/blogs/plain-language-is-a-total-experience-imperative/",
+      "topic": "Account-Based Marketing and B2B Sales Enablement"
+    }
+  ]
+}
