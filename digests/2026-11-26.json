@@ -1,0 +1,177 @@
+[
+  {
+    "headline": "S&P considers Nvidia credit downgrade over governance and 'key man' risks",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+    "theme": "AI Risk",
+    "summary": "S&P is considering lowering Nvidia's credit rating to AA- citing governance failures and key-man dependency on Jensen Huang. For the world's most valuable AI chipmaker, a downgrade could increase borrowing costs at a time when the company is funding massive capex expansion — a signal that even AI's biggest winners face institutional risk."
+  },
+  {
+    "headline": "Jensen Huang apologizes to Nvidia staff in first all-hands since his return, says he's in therapy",
+    "source": "TechCrunch / Wired",
+    "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+    "theme": "AI Risk",
+    "summary": "Nvidia CEO Jensen Huang held his first all-hands since returning to the company, apologizing to employees, acknowledging his management style hurt staff, and pushing back on claims Trump orchestrated his reinstatement. The Megaspeed chip diversion scandal and Huang's personal conduct have created real governance risk at the company sitting at the center of the entire AI hardware ecosystem."
+  },
+  {
+    "headline": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+    "theme": "AI Risk",
+    "summary": "Investigators are probing what Nvidia knew about where Megaspeed was routing its chips and whether Huang's personal relationship with a Megaspeed executive compromised due diligence. The unfolding scandal raises supply chain integrity questions for every enterprise customer relying on Nvidia's chip allocation pipeline."
+  },
+  {
+    "headline": "Jensen Huang broke Nvidia's code of conduct, and his employees may not forget it",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+    "theme": "AI Risk",
+    "summary": "Nvidia's internal code of conduct violations by its founder-CEO are creating cultural fractures within the company. For boards and investors, this is a case study in how governance failures at a systemically important AI company can cascade into talent retention risk and institutional credibility damage."
+  },
+  {
+    "headline": "Character.AI's plan to auction off users' private chats challenged by state AGs",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+    "theme": "Regulatory",
+    "summary": "State attorneys general are fighting Character.AI's proposed bankruptcy sale that would include sensitive personal data from 21 million U.S. accounts, including 2.1 million minors. The case sets a precedent for whether user data from AI products can be treated as a liquidation asset — a question every AI company handling personal data should be watching."
+  },
+  {
+    "headline": "New York bans AI chatbot toys for children for five years",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+    "theme": "Regulatory",
+    "summary": "New York has enacted a five-year ban on AI chatbot toys for children after Common Sense Media research revealed safety failures including exposure to inappropriate content. This is among the most aggressive AI product bans in the U.S. and signals that state-level regulation is moving faster than federal policy, creating compliance complexity for consumer AI companies."
+  },
+  {
+    "headline": "FCC signs off on SpaceX's plan to put up to 1 million data center satellites into space",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+    "theme": "Regulatory",
+    "summary": "The FCC authorized SpaceX to deploy up to 1 million AI chip-equipped satellites under its 'Starmind' initiative, the first full constellation approval for space-based AI data centers. Google and Blue Origin are pursuing similar concepts. This could reshape the long-term geography of AI compute infrastructure and the competitive dynamics of cloud providers."
+  },
+  {
+    "headline": "AI is straining America's open records systems",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+    "theme": "Regulatory",
+    "summary": "Venture-backed startups have raised upwards of $100 million to scrape public records using AI, overwhelming small-town clerks and municipal systems never designed for bulk automated requests. The story highlights an emerging regulatory gap where AI-driven data harvesting is exploiting government transparency infrastructure at scale."
+  },
+  {
+    "headline": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+    "source": "TechCrunch / The Verge",
+    "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+    "theme": "Agentic AI",
+    "summary": "Amazon is negotiating to allow Meta's Muse AI agent to shop on its marketplace after a two-month blockade, with discussions centering on product recommendations and advertising revenue impact. This is a defining battle in agentic commerce — if AI agents bypass ads and directly recommend products, it threatens the $50B+ retail media advertising model Amazon has built."
+  },
+  {
+    "headline": "LLM agents work for their parent companies, not for you",
+    "source": "Hacker News",
+    "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+    "theme": "Agentic AI",
+    "summary": "This essay, which gained over 1,000 points on Hacker News, argues that AI agents are structurally incentivized to serve their creators' business models rather than users' interests. For enterprise leaders deploying third-party AI agents, this raises fundamental questions about vendor lock-in, data exploitation, and whose objectives the agent is actually optimizing."
+  },
+  {
+    "headline": "Anthropic's Dario Amodei calls accusations of surrendering human control to AI 'absurd'",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+    "theme": "AI Ethics & Trust",
+    "summary": "Anthropic CEO Dario Amodei pushed back against rival AI companies' claims that he favors surrendering human agency to AI, even as leading labs increasingly automate their own research and model development. The inter-company debate signals a real strategic fault line: how much autonomy to grant AI systems is becoming a competitive differentiator and a governance flashpoint."
+  },
+  {
+    "headline": "Tidal bans and removes millions of AI-generated music tracks",
+    "source": "Variety / TechCrunch",
+    "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+    "theme": "AI Ethics & Trust",
+    "summary": "Tidal will ban fully AI-generated music while still accepting AI-assisted tracks, addressing the flood of AI 'slop' inundating streaming platforms. This is the first major streaming platform to draw a hard line, potentially reshaping economics for artists and raising questions about how other platforms like Spotify will respond to the content authenticity crisis."
+  },
+  {
+    "headline": "Jensen Huang deepfakes are the hot new AI slop",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+    "theme": "AI Ethics & Trust",
+    "summary": "Viral deepfake videos of Jensen Huang — including one with nearly 6 million Instagram views — are proliferating in the wake of the Nvidia scandal. The episode demonstrates how AI-generated disinformation can compound reputational crises for real executives, a risk every public company leader should now factor into crisis communications planning."
+  },
+  {
+    "headline": "Anthropic publishes new research on working productively with AI",
+    "source": "Hacker News / Anthropic",
+    "url": "https://www.anthropic.com/research/working-with-ai",
+    "theme": "AI Strategy",
+    "summary": "Anthropic released research on effective human-AI collaboration patterns, drawing significant discussion among practitioners. For enterprises trying to move past pilot purgatory, the findings offer frameworks for where AI augmentation delivers measurable results versus where it creates false productivity gains."
+  },
+  {
+    "headline": "Jevons Paradox in AI: Cheaper tokens won't pay for capex",
+    "source": "Hacker News",
+    "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
+    "theme": "AI Strategy",
+    "summary": "This analysis argues that falling AI inference costs won't generate enough incremental revenue to justify massive capital expenditures, challenging the core bull case for AI infrastructure investment. The piece directly addresses the Token Anxiety phenomenon — even as per-token costs drop, total compute spend may not translate into proportional business value."
+  },
+  {
+    "headline": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+    "theme": "AI Strategy",
+    "summary": "Nvidia won't backstop an AI data center until it's nearly ready to operate, coinciding with construction delays and rising debt costs for neocloud providers. The message is clear: land, power, and a finished building now matter more than a pitch deck — a reality check for the dozens of startups that raised billions on AI infrastructure promises."
+  },
+  {
+    "headline": "How data centers are driving a US natural-gas boom",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+    "theme": "AI Strategy",
+    "summary": "AI data center demand is now directly driving new natural gas power plant construction across the U.S., confirming predictions from just 18 months ago. For companies with net-zero commitments, the growing fossil fuel dependency of AI infrastructure creates an ESG tension that boards and sustainability officers need to address."
+  },
+  {
+    "headline": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+    "theme": "Model & Platform",
+    "summary": "OpenAI is merging ChatGPT's personal and enterprise Work experiences into a single usage meter, meaning power users may hit rate limits faster. For enterprise customers, this signals potential cost and access unpredictability — a practical example of Token Anxiety as organizations scale AI usage across workforces."
+  },
+  {
+    "headline": "Stranded Compute in AI Inference: Capital recovery is 87% of cost, electricity just 3.7%",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2611.31654",
+    "theme": "Research to Business",
+    "summary": "New research shows that in AI inference deployments, capital recovery represents 87.3% of total cost per token while electricity is just 3.7%, and actual GPU utilization reaches only 59.6% of capacity. This reframes the AI infrastructure debate from energy costs to capital efficiency — idle GPUs destroy value faster than electricity bills, with direct implications for cloud pricing and data center ROI."
+  },
+  {
+    "headline": "Vibe coding is forcing music gear companies to go open source",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+    "theme": "AI Strategy",
+    "summary": "AI coding agents like Claude combined with tools like 'Reverse Engineer Anything' have made proprietary music gear firmware trivially easy to crack, forcing companies including several major manufacturers to preemptively open-source their devices. This is an early example of how AI-powered reverse engineering threatens IP protection across any hardware industry with embedded software."
+  },
+  {
+    "headline": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+    "theme": "Funding & M&A",
+    "summary": "Startup Maple raised $5.3M for encrypted AI architecture that prevents even the company itself from accessing users' private data. As enterprise AI adoption accelerates and Shadow AI proliferates, privacy-preserving AI infrastructure is becoming a competitive differentiator for vendors selling to regulated industries."
+  },
+  {
+    "headline": "Google patents AI-generated personalized video feeds system called 'My Channel'",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+    "theme": "AI Strategy",
+    "summary": "Google filed a patent for 'My Channel,' a system to create feeds of personalized AI-generated videos and ads based on user data. Though initially rejected, the patent reveals Google's strategic direction toward replacing human-created content with algorithmically generated media — a potential paradigm shift for digital advertising and the creator economy."
+  },
+  {
+    "headline": "David Fincher's new film dragged for suspected AI-generated visuals",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+    "theme": "AI Ethics & Trust",
+    "summary": "Early screenings of David Fincher's Netflix sequel have sparked backlash over suspected use of generative AI, with audiences flagging uncanny and inconsistent visuals. This signals a growing consumer authenticity backlash that could affect brand perception for any company — entertainment or otherwise — perceived as substituting AI for human craft."
+  },
+  {
+    "headline": "Marketing-Bench: Evaluating frontier models on real-world marketing capabilities",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2611.32012",
+    "theme": "Enterprise ROI",
+    "summary": "Researchers created a benchmark to evaluate how well frontier AI models perform actual marketing tasks — from website copy to product discovery by consumer AI agents. The findings matter because marketing is emerging as one of AI's largest enterprise applications, yet there has been no rigorous way to compare model performance on real business outcomes versus synthetic benchmarks."
+  },
+  {
+    "headline": "Agent Recovery Gone Wrong: Measuring harm from AI agent error recovery in production",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2611.31554",
+    "theme": "Agentic AI",
+    "summary": "Research measuring what happens when AI coding agents fail mid-execution and attempt recovery found that recovery actions frequently corrupt external state — a form of Hallucination Tax that compounds when agents operate autonomously at scale. For enterprises deploying agentic AI in production, this quantifies a hidden risk that standard testing may miss."
+  }
+]
