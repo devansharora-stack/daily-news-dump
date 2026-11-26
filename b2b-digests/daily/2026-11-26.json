@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-26",
+  "type": "recap-and-resource",
+  "recapTopic": "B2B Personalization and the AI-Driven Buyer Journey",
+  "recap": {
+    "intro": "Hey everyone! This week, we dove into how companies are making their marketing super personal for businesses, especially with all the cool new AI tools out there.",
+    "bullets": [
+      "First, we saw that business buyers today expect companies to really get them – like, understand their specific goals and situation, not just send a generic email. Even though a large majority (71%) of B2B marketers use AI to create content, only 23% are actually using AI to build dynamic, real-time experiences that change based on what a buyer is doing right now, which is actually the most effective way to personalize!",
+      "Then we learned that while AI can help personalize, we have to be super careful with how we use it. Trying to trick search engines with tons of automated content, even AI-made stuff, often backfires and makes websites lose traffic. Google has been saying for over 20 years (since 2003!) that content should be for real people, made by real experts, not just machines. So, real human expertise is still key for building trust online.",
+      "Finally, we wrapped it up by seeing that even with all this powerful AI making things efficient, human experts are still super important for building trust, showing empathy, and giving customers confidence, especially for big decisions like managing finances. The best marketing isn't just about what a product does; it's about understanding what customers *really* want to achieve, like a small business owner using a tool to pursue a passion or build a family legacy. So, AI helps us personalize, but real human connection and understanding are still the heart of great marketing!"
+    ]
+  },
+  "recapResources": [
+    {
+      "headline": "AI Raises The Bar For B2B Personalization, Again",
+      "source": "Forrester Blog",
+      "url": "https://www.forrester.com/blogs/ai-raises-the-bar-for-b2b-personalization-again/"
+    },
+    {
+      "headline": "Why Building Trust Through Real People Stands The Test Of Time In SEO & AI Search via @sejournal, @lilyraynyc",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/why-building-trust-through-real-people-stands-the-test-of-time-in-seo-ai-search/598110/"
+    },
+    {
+      "headline": "The Art, Science and Theater of Modern Marketing ft. Thomas Ranese",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/the-art-science-and-theater-of-modern-marketing-ft-thomas-ranese/"
+    }
+  ],
+  "topic": "B2B SEO, Content Strategy, and AI Search Visibility",
+  "dayLabel": "Day 1 of 3 — Intro",
+  "headline": "Salesforce CEO Says ‘Goodbye SEO.’ Salesforce’s SEO Guide Disagrees via @sejournal, @MattGSouthern",
+  "source": "Search Engine Journal",
+  "url": "https://www.searchenginejournal.com/salesforce-ceo-goodbye-seo-salesforce-seo-guide/598343/",
+  "keyNotes": [
+    "The head of a major tech company, Salesforce CEO Marc Benioff, recently declared that making your website easy for people to find through search engines (which marketers call SEO) is obsolete because customers are now asking AI assistants like ChatGPT for recommendations instead.",
+    "Surprisingly, a guide published by Salesforce itself, written by their SEO Senior Director, says the exact opposite, stating that making your website easy to find (SEO) \"is still the foundation\" for businesses.",
+    "The CEO believes that when people get answers from AI, there's \"No click. No referral. Nothing in your analytics,\" meaning companies won't be able to track how customers found them through traditional methods.",
+    "To address this new way customers find information, Salesforce is promoting a tool called Palmata, which helps companies monitor what AI assistants say about them and suggests ways to improve their visibility in AI answers.",
+    "Despite the CEO's strong statement, Salesforce's own guide advises businesses to track both traditional website traffic (how many people visit their site) and how often AI assistants mention them, suggesting both are important."
+  ],
+  "question": "The article shows a big company's CEO saying one way customers find products (like through search engines) is \"goodbye,\" while his own company's experts say it's \"still the foundation.\" In your own work, how do you decide when to completely abandon an old, established method for a new technology, especially when there's conflicting advice?"
+}
