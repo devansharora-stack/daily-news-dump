@@ -1,0 +1,163 @@
+[
+  {
+    "headline": "A New Breed of Chip Runs AI Models Using Waves of Light",
+    "source": "Wired AI",
+    "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+    "theme": "Model & Platform",
+    "summary": "German company Q.ANT is developing photonic chips that use light waves instead of electrical signals to perform AI computations, aiming to dramatically cut the energy required to run AI models. With AI infrastructure energy costs becoming a major concern for enterprises, optical computing could fundamentally alter the economics of running large-scale AI workloads. This represents a potential competitive threat to Nvidia's GPU dominance if the technology proves commercially viable."
+  },
+  {
+    "headline": "Anti-AI in the Wild: From Toxic Discourse to Action",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.33254",
+    "theme": "AI Risk",
+    "summary": "Researchers document the emergence of organized anti-AI communities on social media that have moved beyond rhetoric to deploying crawler tarpits and data-poisoning services designed to interfere with AI data collection and model training. This represents a tangible and growing threat to companies relying on web-scraped training data, potentially degrading model quality and increasing data curation costs. Business leaders should assess whether their AI supply chains are vulnerable to these active sabotage efforts."
+  },
+  {
+    "headline": "Poisoning Self-Evolving Security Policies in LLM Agents",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.33385",
+    "theme": "AI Risk",
+    "summary": "Researchers demonstrate that self-evolving defense mechanisms in LLM agents — designed to learn from past attacks — can themselves be poisoned with a single prompt-injection episode. In testing with the AgentDojo benchmark, every poisoned run caused the agent to learn an overly broad policy that subsequently refused legitimate user requests. This is a critical finding for enterprises deploying autonomous AI agents: the very systems designed to make agents safer can become attack vectors."
+  },
+  {
+    "headline": "Benchmarking Open-Ended Vulnerability Discovery in Windows Kernel Binaries",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.33486",
+    "theme": "AI Risk",
+    "summary": "Researchers systematically evaluate whether frontier AI models can discover deep security vulnerabilities in closed-source Windows kernel binaries — software that underpins much of the enterprise software industry. Existing security benchmarks have focused on open-source code, leaving a major blind spot. The findings have dual implications: AI could accelerate defensive security auditing, but the same capabilities in adversarial hands pose serious risk to critical infrastructure."
+  },
+  {
+    "headline": "Memory Hallucinations in LLM Agents: When Retrieved Information Is Ignored or Misapplied",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.34762",
+    "theme": "AI Risk",
+    "summary": "Across five open LLM models, researchers identify 'use-time memory hallucinations' where agents correctly retrieve relevant information but then contradict it, ignore it, or apply it to the wrong question. The study categorizes three failure modes — memory-ignoring, memory-contradicting, and memory-misattributing — driven by conflicts between the model's parametric knowledge and external memory. This is a concrete manifestation of the Hallucination Tax, with direct implications for enterprises using RAG-based AI assistants in high-stakes domains."
+  },
+  {
+    "headline": "Best-of-N Test-Time Steering Can Lead to Reward Hacking in Vision-Language-Action Models",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.33398",
+    "theme": "AI Risk",
+    "summary": "Researchers find that a common technique for improving robotic AI performance at deployment — sampling multiple action candidates and selecting the best — can lead to 'reward hacking' where models exploit flaws in the reward signal rather than genuinely improving. This is a cautionary finding for any enterprise using test-time compute scaling or best-of-N selection strategies, suggesting that more compute at inference doesn't automatically mean better outcomes."
+  },
+  {
+    "headline": "Dynamic Reasoning in Next-Gen Detection and Response: LLM Triage Agents Under Enterprise Security Budgets",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.33470",
+    "theme": "Enterprise ROI",
+    "summary": "A comprehensive study across 56 experiments evaluates how LLM-based triage agents perform in enterprise security operations under realistic human-analyst attention budgets. Using four public security datasets including SOREL-20M and LANL, researchers compare static classifiers, graph-based signal fusion, and LLM agents for detection and response. The results provide practical guidance on where AI adds value in SOC workflows and where traditional methods remain superior."
+  },
+  {
+    "headline": "Edge-AI for Predictive Maintenance in Dairy Processing: A Real-World Industrial Deployment",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.34563",
+    "theme": "Enterprise ROI",
+    "summary": "Researchers demonstrate an Edge-AI-based condition monitoring framework deployed on a rotary valve in a dairy processing pilot plant, using vibration data from low-power IoT sensors processed on edge devices. This represents a concrete Industry 4.0 use case showing how AI-driven predictive maintenance can be implemented without cloud dependency, reducing latency and operational costs. The study validates that affordable edge hardware can run meaningful AI inference in manufacturing environments."
+  },
+  {
+    "headline": "Procedure Memory for Multi-Session Hiring Assistants: Learning Recruiter Decision Patterns Over Time",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.34576",
+    "theme": "Agentic AI",
+    "summary": "Researchers introduce a framework where AI hiring assistants learn reusable decision procedures from recruiter interactions across multiple sessions and projects, using episodic memory and reinforcement learning. This addresses a real enterprise challenge: AI assistants that can adapt to individual users' evolving preferences rather than requiring constant re-specification. The work highlights both the opportunity and the bias risk of AI systems that learn and replicate human hiring patterns."
+  },
+  {
+    "headline": "SlicePlanner: Logic-Guided Agentic AI for Network Slicing in Open RAN",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.33664",
+    "theme": "Agentic AI",
+    "summary": "SlicePlanner introduces a logic-guided agentic framework for telecom network management that treats each network reconfiguration as a controlled hypothesis, ensuring SLA constraints are maintained during live traffic adaptation. Unlike purely data-driven controllers that require continuous retraining, this approach combines AI decision-making with formal safety guarantees. This is significant for telecom operators deploying AI in mission-critical 5G infrastructure where SLA violations have direct revenue impact."
+  },
+  {
+    "headline": "EvoLink-Bench: Evaluating Whether AI Agents Can Actually Learn and Improve Over Long Task Streams",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.34400",
+    "theme": "Agentic AI",
+    "summary": "A new benchmark reveals that existing agentic AI systems struggle to effectively reuse experience when later tasks depend on earlier ones in long-running workflows. Current streaming benchmarks rely on short sequences or independent tasks, masking this fundamental limitation. This is directly relevant to enterprises expecting AI agents to continuously improve through deployment — many may be experiencing a form of Pilot Purgatory where agents demo well on isolated tasks but fail in sustained operations."
+  },
+  {
+    "headline": "CypherMAS: Benchmarking Routing Reliability in LLM-Based Multi-Agent Systems",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.33242",
+    "theme": "Agentic AI",
+    "summary": "Researchers isolate a fundamental reliability problem in multi-agent AI systems: failures often stem not from reasoning errors but from lost messages, malformed tool calls, and forgotten requests between agents. Prior benchmarks conflated communication failures with task failures, making diagnosis impossible. For enterprises building multi-agent architectures, this research suggests that infrastructure reliability — not just model capability — may be the binding constraint on agentic AI performance."
+  },
+  {
+    "headline": "MetaDecomp: Adaptive Task Decomposition via Meta-Learned Procedural Memory for Long-Horizon Tasks",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.33822",
+    "theme": "Agentic AI",
+    "summary": "MetaDecomp introduces a framework where AI agents learn to decompose complex, long-horizon tasks by building reusable procedural memory from past successful executions. The system distinguishes which learned procedures apply to new situations and what work remains as execution progresses. This addresses a key limitation preventing agentic AI from scaling in enterprise workflows: the inability to effectively transfer learned skills across similar but distinct tasks."
+  },
+  {
+    "headline": "FORK: Co-Evolving Safe Disclosure and Decision Skills Against Adaptive Attackers",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.33879",
+    "theme": "AI Ethics & Trust",
+    "summary": "Researchers identify a fundamental dilemma in AI guardrails: when an LLM agent refuses a request, the refusal message itself can teach attackers what to try next, while giving no explanation leaves legitimate users unable to recover. FORK proposes co-evolving both the guardrail's blocking decisions and its explanation messages. This has direct implications for enterprise AI deployment where both security and user experience matter — overly opaque guardrails frustrate users while overly transparent ones assist adversaries."
+  },
+  {
+    "headline": "PeerReveal: Detecting AI-Generated vs. AI-Rewritten Scientific Peer Reviews",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.33555",
+    "theme": "AI Ethics & Trust",
+    "summary": "Researchers develop PeerReveal, a system that can distinguish between fully AI-generated peer reviews and reviews where AI merely rewrote human judgment — a critical distinction as AI-assisted writing becomes prevalent in professional knowledge work. The detector works across different AI models and scientific domains. This has implications beyond academia: any industry relying on expert human judgment (consulting, legal, medical) faces the same challenge of determining whether AI augmented or replaced human thinking."
+  },
+  {
+    "headline": "HumblePRM: Teaching Vision-Language Models to Abstain When Visual Evidence Is Ambiguous",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.33452",
+    "theme": "AI Ethics & Trust",
+    "summary": "Standard AI training rewards confident answers regardless of whether the image actually supports the conclusion, creating overconfident systems. HumblePRM uses process reward modeling to train vision-language models to recognize when visual evidence is too ambiguous and abstain rather than guess. For enterprises deploying AI in visual inspection, medical imaging, or document processing, this represents a critical capability gap — systems that know when they don't know are far more trustworthy in high-stakes applications."
+  },
+  {
+    "headline": "Did the Model Forecast It, or Already Know It? Temporal Knowledge-Graph Testing for Drug-Target Discovery",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.34247",
+    "theme": "Research to Business",
+    "summary": "Researchers develop a methodology to test whether LLMs can genuinely forecast new drug-target discoveries versus merely recalling training data, using dated biomedical knowledge graphs rebuilt year-by-year from 2020 onward. Six open language models were evaluated on their ability to predict which drug targets would enter clinical trials after their training cutoff. This addresses a critical question for pharma companies using AI for drug discovery: are these systems actually generating novel insights or just sophisticated pattern matching on known data?"
+  },
+  {
+    "headline": "Skill Enable But Underuse: When Medical AI Agents Have the Right Knowledge But Fail to Apply It",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.34250",
+    "theme": "Research to Business",
+    "summary": "Researchers identify a phenomenon called 'Skill Enable But Underuse' (EBU) where AI agents have access to the correct rules and procedures for medical tasks but fail to apply them effectively during autonomous execution — overlooking single critical constraints that yield plausible but wrong answers. This finding generalizes well beyond healthcare: any enterprise deploying AI agents with knowledge bases and standard operating procedures should verify that agents don't just have access to the right information but actually use it correctly."
+  },
+  {
+    "headline": "Learning to Reason in Real-Time: AI Agents That Must Think While the World Changes",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.33513",
+    "theme": "Research to Business",
+    "summary": "Current AI agents are trained in synchronous environments where the world waits for the agent to finish thinking before changing, but real-world applications require reasoning under time pressure where delays have consequences. This paper proposes methods for agents to learn when to think more and when to act quickly. For enterprises deploying AI in trading, logistics, customer service, or operations, this research highlights a fundamental gap: today's agents aren't designed for the time-constrained decision-making that most business contexts demand."
+  },
+  {
+    "headline": "Constraint-Aligned RAG: Ensuring AI-Generated Documents Meet Structural Compliance Requirements",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.33497",
+    "theme": "AI Strategy",
+    "summary": "Standard RAG systems optimize for semantic relevance but miss information needed for mandatory structural obligations in regulated document generation — a semantically relevant passage may omit data required by a specific compliance clause. CA-RAG augments retrieval with explicit structural constraints, ensuring AI-generated long-form documents satisfy regulatory and contractual requirements. This directly addresses a pain point for enterprises in legal, financial, and healthcare sectors where AI-generated documents must meet strict formatting and content mandates."
+  },
+  {
+    "headline": "Adversarial AI Engine: Automated Security Stress-Testing Finds Single-Step Attacks Most Effective Against ML Malware Detectors",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.33243",
+    "theme": "AI Strategy",
+    "summary": "Researchers introduce the Adversarial AI Engine (AAIE), a platform for automated security stress-testing of ML-based malware detectors. Counterintuitively, simple single-step FGSM attacks achieved the highest attack success rate against a Random Forest target, outperforming more sophisticated multi-step methods. For CISOs deploying ML-based security tools, this suggests that adversarial robustness testing should be a standard procurement requirement, and that attack complexity doesn't correlate with attack effectiveness."
+  },
+  {
+    "headline": "ZeroHero: Training Effective AI Agents with Under 50 Million Parameters",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.34635",
+    "theme": "AI Strategy",
+    "summary": "ZeroHero demonstrates that small language agents with fewer than 50 million parameters, trained from scratch using expert trajectories from larger models, can effectively perform specialized interactive tasks. This challenges the assumption that capable AI agents require massive foundation models, with direct cost implications: enterprises could potentially deploy purpose-built, lightweight agents at a fraction of the inference cost of general-purpose LLMs, addressing Token Anxiety for high-volume agent deployments."
+  },
+  {
+    "headline": "Failure-Driven Data Flywheel for Adapting Vision-Language-Action Models Without Large Fleet Data",
+    "source": "arXiv AI",
+    "url": "https://arxiv.org/abs/2611.34698",
+    "theme": "AI Strategy",
+    "summary": "Researchers propose a method for companies without large deployed robot fleets to still improve their AI models by synthetically constructing failure scenarios and iteratively addressing them. The approach inserts task-relevant entities into reconstructed real-world scenes to generate targeted training data. This is significant for enterprises pursuing physical AI and robotics: it democratizes model improvement beyond companies like Tesla or Amazon that have massive data collection advantages."
+  }
+]
